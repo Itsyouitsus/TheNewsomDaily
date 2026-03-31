@@ -806,7 +806,7 @@ def fetch_social_posts():
                         try:
                             dt = datetime.strptime(created, "%a %b %d %H:%M:%S %z %Y")
                             age_days = (datetime.now(timezone.utc) - dt).days
-                            if age_days > 30:
+                            if age_days > 365:
                                 continue
                             date_display = dt.strftime("%b %d, %Y - %I:%M %p")
                         except:
