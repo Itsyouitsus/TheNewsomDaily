@@ -2304,6 +2304,22 @@
     "region": "US"
   },
   {
+    "id": "5e458bde10d8",
+    "title": "Newsom, California mayors clash over homelessness funding and housing law",
+    "source": "ABC10",
+    "source_url": "https://www.abc10.com",
+    "source_domain": "www.abc10.com",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQ3JwRHEyN1JSY0g1Sk54a2NsY2dVb1c5czN0dnpTdzdIdVJoaVh1eFBRS0pXUnE4ZGN2dDdKS05EUzlDVlY5SWtMeEZJXzBBSlVyVkNEcWFScHp3bkpoeFdIRG02c2lGaldwX2NJVEsyZWRTVXBCT0FBYmJCUG1hNTZnYjBUNndHVUlwbjJpZ3cySndHTTdrLUNGRjlHVFlNaW5QYW1OOEN4T2wxMTNiOVU0dU1SRloxVXg2ZXBBZjhydmJQcXhhZ1U5ZVF3bDlsT1o4V0FqUEtidThhd0ZaMzRORzg0ZHhNWDZZMkV3?oc=5",
+    "published": "2026-03-26T02:17:00+00:00",
+    "published_display": "Mar 26, 2026",
+    "query": "Newsom California",
+    "image": "https://media.abc10.com/assets/KXTV/images/6f0750b8-e1dc-45c1-a8a1-9b1beef67159/20260326T002721/6f0750b8-e1dc-45c1-a8a1-9b1beef67159_1140x641.jpg",
+    "real_url": "https://www.abc10.com/article/news/politics/newsom-california-mayors-clash-over-homelessness-funding-and-housing-law/103-13da5cb7-8200-4ada-82eb-5abb082a73db",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "3795150b51fb",
     "title": "Governor Newsom convenes leaders to confront crisis facing boys and men",
     "source": "California State Portal",
@@ -3709,6 +3725,22 @@
     "real_url": "https://www.politico.com/news/2026/02/28/newsom-blasts-trump-over-iran-strikes-weakness-masquerading-as-strength-00806178",
     "bias": "LL",
     "topic": "Iran",
+    "region": "US"
+  },
+  {
+    "id": "ed5bb431f1f9",
+    "title": "First Partner Jennifer Siebel Newsom launches California Love, California Strong to fight loneliness across the state",
+    "source": "California State Portal",
+    "source_url": "https://www.gov.ca.gov",
+    "source_domain": "www.gov.ca.gov",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTy0tNURiZDRLQXVXZzVVREhDTmtBaWhzaHZVck91eGtZb3V3bnM5UmpPaWV4aUNkdE1WMkk3RVpZbXpMRVgxWEZGRU9UZFFaSzZOZGtzaTRIX3JlNUV1aG9EeXd1T2VQNXduWk1vRVNCSzhybk9wUGFpenRQaUlCaEFuQlBxYkJHOVJLWDZYSjdkLXVyVm00ZUVkbWZvNTlUNHRvUVU3M2daSEhSd0h3RXNvWGtfeHY5N3pxS2NTTlV4UE9RY2VUdXkxRHM2SmR0NEMzMWhKd0pRTUhhVEdVZ1YzejREZw?oc=5",
+    "published": "2026-02-27T08:00:00+00:00",
+    "published_display": "Feb 27, 2026",
+    "query": "Newsom California",
+    "image": "https://www.gov.ca.gov/wp-content/uploads/2026/02/IMG_2004-scaled.jpeg",
+    "real_url": "https://www.gov.ca.gov/2026/02/27/first-partner-jennifer-siebel-newsom-launches-california-love-california-strong-to-fight-loneliness-across-the-state/",
+    "bias": "?",
+    "topic": "General",
     "region": "US"
   },
   {
@@ -8784,6 +8816,22 @@
     "region": "US"
   },
   {
+    "id": "6bd0b54491e7",
+    "title": "California will revoke 17,000 commercial drivers licences given to immigrants",
+    "source": "BBC",
+    "source_url": "https://www.bbc.com",
+    "source_domain": "www.bbc.com",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16Z1VQbXR1WVNyU1Z3LTB3ajhKYzQ1anJJRG44X3JZV1NNZ1pyRjVmNkJoV3B2OWJjR3RRaDhEMkxHblM3YVlZa3ZaZWlVcEd6WWs4c1BJNllMUQ?oc=5",
+    "published": "2025-11-13T08:00:00+00:00",
+    "published_display": "Nov 13, 2025",
+    "query": "Newsom immigration",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/440e/live/a7e52030-c0b5-11f0-8a6c-bdcd4bb2f081.jpg",
+    "real_url": "https://www.bbc.com/news/articles/cgql5gk38wno",
+    "bias": "C",
+    "topic": "Immigration",
+    "region": "Europe"
+  },
+  {
     "id": "94199df97ff1",
     "title": "Newsom leans into shutdown fight as he cements 2028 front-runner status",
     "source": "The Hill",
@@ -9019,6 +9067,22 @@
     "query": "Newsom economy",
     "image": "https://business.ca.gov/wp-content/uploads/RESIZED_quantum-1.jpg",
     "real_url": "https://business.ca.gov/governor-newsom-announces-quantum-california-strengthening-the-golden-states-leadership-in-next-generation-technology/",
+    "bias": "?",
+    "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "2809674d5c9e",
+    "title": "Gov. Newsom Pardons Detained Immigrant Fresno Restaurant Manager",
+    "source": "Gvwire.com",
+    "source_url": "https://gvwire.com",
+    "source_domain": "gvwire.com",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdjNVYkpRT0J4RENlSjEyUjkzc3phX1MyWTBuY2IwUmkwekQ1MTdKcjZQNmh1SFRZV2FwbUQxWXVjc3AwbVl2WkRMT0EwcnZsNTBWTEV4Y1c1TUFvcV82LWpvQ2dRekxpRnZVRTVITmpiMmhzT05NeVdpWTV4RnJFTkZpT2pZdmpFRWxiaFk1bnQzQWxJQjVyUG5B?oc=5",
+    "published": "2025-11-07T08:00:00+00:00",
+    "published_display": "Nov 07, 2025",
+    "query": "Newsom immigration",
+    "image": "https://gvwire.com/wp-content/uploads/2025/09/Psalm-Behpoor-being-held-in-ICE-detention_1280X720.jpg",
+    "real_url": "https://gvwire.com/2025/11/07/gov-newsom-pardons-detained-immigrant-fresno-restaurant-manager/",
     "bias": "?",
     "topic": "Immigration",
     "region": "US"
@@ -9562,6 +9626,22 @@
     "query": "Newsom policy",
     "image": "https://cdn.abcotvs.com/dip/images/18056843_102225-kgo-newsom-national-guard-foodbank-split-img.jpg?w=1600",
     "real_url": "https://abc7news.com/post/governor-gavin-newsom-deploying-california-national-guard-support-food-banks-statewide/18056638/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "4d390ef2c493",
+    "title": "Can Trump send the National Guard to S.F.? What California\u2019s AG says about the legal issues",
+    "source": "CalMatters",
+    "source_url": "https://calmatters.org",
+    "source_domain": "calmatters.org",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKd0dFLXZUdldnUzhZZEZ5cUJDbDlpMDQyMTVlakFyZERxTFEydzJaY2xGMHRjeEZFSktFdWNkWEdzT1ZGQjYwUzBWQU03eHNOSEZUNGo1LUt0ZVVYMXF3bXEyOF9IRmctX1ZHbl9R?oc=5",
+    "published": "2025-10-22T07:00:00+00:00",
+    "published_display": "Oct 22, 2025",
+    "query": "Newsom immigration",
+    "image": "https://i0.wp.com/calmatters.org/wp-content/uploads/2022/06/Bonta-Newsom-Portantino-Gun-Laws-MG-03-CM.jpg?fit=2000%2C1333&ssl=1",
+    "real_url": "https://calmatters.org/politics/2025/10/ice-immigration-news/",
     "bias": "?",
     "topic": "General",
     "region": "US"
@@ -11174,6 +11254,22 @@
     "query": "Newsom policy",
     "image": "https://i0.wp.com/calmatters.org/wp-content/uploads/2022/03/072219-Oakland-Traffic-AW-CM-02.jpg?fit=2000%2C1299&ssl=1",
     "real_url": "https://calmatters.org/politics/2025/06/return-to-office-pecg/",
+    "bias": "?",
+    "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "c90660ace4c2",
+    "title": "CA once supported anti-immigrant measures. What changed?",
+    "source": "CalMatters",
+    "source_url": "https://calmatters.org",
+    "source_domain": "calmatters.org",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeTZjUHBTRUotdWFLd2JjeDhUWTdVcGdJclhGMGhHcTM5OEp0VGw0STZpemV0RFpkWDkzX25xVUJqbkdkOElLb3JfU3ByeXE0elB5SkZxVUI3SG50cGNaSHVqR2g0VzkyaXFUZV9OY2tTRHhkWjlDVzBqa2NITlpSNnNncHlIcVNvLWRtY2hRc0NNWTVKRkZFbQ?oc=5",
+    "published": "2025-06-23T07:00:00+00:00",
+    "published_display": "Jun 23, 2025",
+    "query": "Newsom immigration",
+    "image": "https://calmatters.org/wp-content/uploads/2025/02/020325_Day-Without-Immigrants_JWH_07.jpg",
+    "real_url": "https://calmatters.org/newsletter/california-immigration-public-sentiment-history-newsletter/",
     "bias": "?",
     "topic": "Immigration",
     "region": "US"
