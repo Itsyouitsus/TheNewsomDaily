@@ -999,7 +999,7 @@ def generate_html(articles, build_time, social_posts=None, today=None, daily_dat
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Newsom Daily - Every Gavin Newsom Article, Every Day | News Aggregator</title>
     <meta name="description" content="The most comprehensive Gavin Newsom news aggregator. ''' + total + ''' articles from ''' + str(source_count) + ''' sources, updated hourly. Filter by political bias, topic, channel, or date. Left to Right coverage compared.">
-    <meta name="keywords" content="Gavin Newsom, Vance news, Newsom 2028, Governor Newsom, Democrat news, political news aggregator, media bias, Newsom California, Newsom immigration, Newsom policy">
+    <meta name="keywords" content="Gavin Newsom, Newsom news, Newsom 2028, Governor Newsom, Democrat news, political news aggregator, media bias, Newsom California, Newsom immigration, Newsom policy">
     <meta name="robots" content="index, follow">
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
