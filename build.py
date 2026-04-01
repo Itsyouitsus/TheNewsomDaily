@@ -1725,11 +1725,10 @@ function imgFail(img){
         }
         const e=emailIn.value.trim();
         if(e&&e.includes('@')&&e.includes('.')){
-            const form=new FormData();
-            form.append('email',e);
-            fetch('https://buttondown.com/api/emails/embed-subscribe/thenewsomdaily',{
+            fetch('https://formsubmit.co/ajax/hello@itsyouitsus.com',{
                 method:'POST',
-                body:form
+                headers:{'Content-Type':'application/json','Accept':'application/json'},
+                body:JSON.stringify({email:e,source:'The Newsom Daily - Header',_subject:'New Newsom Daily Subscriber!'})
             }).then(r=>{
                 modalEmail.textContent=e;
                 modal.classList.add('show');
@@ -1750,10 +1749,9 @@ function imgFail(img){
     document.getElementById('subSubmit').addEventListener('click',()=>{
         const email=document.getElementById('subEmail').value.trim();
         if(!email||!email.includes('@')){document.getElementById('subEmail').focus();return}
-        const form=new FormData();
-        form.append('email',email);
-        fetch('https://buttondown.com/api/emails/embed-subscribe/thenewsomdaily',{
-            method:'POST',body:form
+        fetch('https://formsubmit.co/ajax/hello@itsyouitsus.com',{
+            method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},
+            body:JSON.stringify({email:email,source:'The Newsom Daily - Mobile',_subject:'New Newsom Daily Subscriber!'})
         }).then(()=>{}).catch(()=>{});
         document.getElementById('subForm').classList.add('hide');
         document.getElementById('subThanks').classList.add('show');
@@ -2374,7 +2372,7 @@ Keep it under 250 words. Write in a clean, professional tone. Do not use em dash
         <p>Every morning. The stories that matter. No spam.</p>
         <div class="cta-row">
             <input type="email" placeholder="your@email.com" id="dailyEmail">
-            <button onclick="var e=document.getElementById('dailyEmail').value;if(e&&e.includes('@')){{var f=new FormData();f.append('email',e);fetch('https://buttondown.com/api/emails/embed-subscribe/thenewsomdaily',{{method:'POST',body:f}}).then(function(){{alert('Subscribed! The Newsom Daily is on its way.');document.getElementById('dailyEmail').value=''}}).catch(function(){{alert('Subscribed! The Newsom Daily is on its way.');document.getElementById('dailyEmail').value=''}})}}">Subscribe</button>
+            <button onclick="var e=document.getElementById('dailyEmail').value;if(e&&e.includes('@')){{fetch('https://formsubmit.co/ajax/hello@itsyouitsus.com',{{method:'POST',headers:{{'Content-Type':'application/json','Accept':'application/json'}},body:JSON.stringify({{email:e,source:'The Newsom Daily - Briefing',_subject:'New Newsom Daily Subscriber!'}})}}).then(function(){{alert('Subscribed! The Newsom Daily is on its way.');document.getElementById('dailyEmail').value=''}}).catch(function(){{alert('Subscribed! The Newsom Daily is on its way.');document.getElementById('dailyEmail').value=''}})}}">Subscribe</button>
         </div>
     </div>
 
