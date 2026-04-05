@@ -1,5 +1,21 @@
 [
   {
+    "id": "c2c31cd37884",
+    "title": "DOUG SCHOEN: Democratic battle pits moderates vs. progressives for soul of the party",
+    "source": "AOL News",
+    "source_url": "https://www.aol.com",
+    "source_domain": "www.aol.com",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWlllRWtWeEJCRzNUUi1HenowRmN5X1dIMHBXU01VTTJTT0NwcHlQeDFrTlVlWmdzOTFhMGhLS1BBNENWaW1zWm9ZVkhwY3JtUDMtMlNnMmpHSEJIVEtrWWR0X1NyYnZxSGhCSkg3Q3JwT3FWcThwYmR4ZlUzdFpNNnYxZEE?oc=5",
+    "published": "2026-04-05T13:27:48+00:00",
+    "published_display": "Apr 05, 2026",
+    "query": "Newsom Democrat",
+    "image": "https://s.yimg.com/ny/api/res/1.2/yiZRvOano2oxjKpsf7mwOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_news_articles_947/6d4c570b60dc443d205dd2238a2fe2c0",
+    "real_url": "https://www.aol.com/articles/doug-schoen-democratic-battle-pits-090032744.html",
+    "bias": "C",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "1669b7b06c60",
     "title": "Running from trans rights could cost Democrats",
     "source": "Salon",
@@ -461,6 +477,22 @@
     "real_url": "https://calmatters.org/environment/water/2026/04/salmon-shasta-dam-mccloud-newsom/",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "2deb54226111",
+    "title": "Governor Newsom Signs Executive Order to Strengthen AI Protections and Responsible Use",
+    "source": "Contra Costa News",
+    "source_url": "https://contracosta.news",
+    "source_domain": "contracosta.news",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT1hrV1hBUWx6UUFvUktYc1FaYmdfa3ZFMUVlVnZ0dXJrRllrMGFVaHZqclFfYW13c2tBTHNlSk5xamRrVklRM1dFMTVET1NGdTJnTHJuLVJXa3llU3lDT2JacTkxSmFiTkNnWUxPbHJwc3RZOGVsRVBjcUxJR3R6d1BkZDJvYWJvVG9OZGEtaUhJNHNwZ19ZU0wxMFZVbEUxMF90TTRGQmFGQjg3SGFXQy1BbjZybDg1c1VCX2t6eDY?oc=5",
+    "published": "2026-04-04T11:10:40+00:00",
+    "published_display": "Apr 04, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://contracosta.news/wp-content/uploads/2025/03/governor-gavin-newsom.gif",
+    "real_url": "https://contracosta.news/2026/04/04/governor-newsom-signs-executive-order-to-strengthen-ai-protections-and-responsible-use/",
+    "bias": "?",
+    "topic": "Tech & AI",
     "region": "US"
   },
   {
