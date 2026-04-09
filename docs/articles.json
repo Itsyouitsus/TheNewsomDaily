@@ -1,5 +1,21 @@
 [
   {
+    "id": "f521ccebc7e3",
+    "title": "Gov. Newsom Signs Executive Order Putting New Limits on AI",
+    "source": "L.A. Focus Newspaper",
+    "source_url": "https://www.lafocusnews.com",
+    "source_domain": "www.lafocusnews.com",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeXp3WVlyQ19uT2xRVGVJdzBrX2w0cHJXSUNqR0JaM1FPVnJiVGpyWm9VRWxZaVYyb2FFZjRBcnlySmhTSjB4b1Rremx0NkJTZHRubW5QNmE2RnVxbXdaWDg2eGNvN21iUk5vUS1wbUFvUkJtRC1KazllZWxqN2k2c0tqckF0bUJIWm5JUEFlaw?oc=5",
+    "published": "2026-04-09T16:16:52+00:00",
+    "published_display": "Apr 09, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://www.lafocusnews.com/wp-content/uploads/2026/04/Man-on-a-computer.png",
+    "real_url": "https://www.lafocusnews.com/gov-newsom-signs-executive-order-putting-new-limits-on-ai/",
+    "bias": "C",
+    "topic": "Domestic",
+    "region": "US"
+  },
+  {
     "id": "00299066bd28",
     "title": "Newsom Ignores LA County In New Homeless Initiative",
     "source": "Canyon News",
@@ -233,7 +249,7 @@
     "published": "2026-04-09T12:48:26+00:00",
     "published_display": "Apr 09, 2026",
     "query": "Gavin Newsom",
-    "image": "",
+    "image": "https://s.yimg.com/os/en/aol_the_independent_us_877/984955f4499fed903309a68e29b282a6",
     "real_url": "https://www.aol.com/articles/newsom-trolls-trump-over-report-122753465.html",
     "bias": "C",
     "topic": "Domestic",
@@ -925,6 +941,22 @@
     "real_url": "https://noticias.foxnews.com/politics/california-fraud-concerns-ramp-man-pleads-guilty-massive-scheme-using-taxpayers-piggy-bank-",
     "bias": "R",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "d259d16148f0",
+    "title": "California fraud concerns ramp up as man pleads guilty to massive scheme using taxpayers as his &#x27;piggy bank&#x27;",
+    "source": "Fox News",
+    "source_url": "https://www.foxnews.com",
+    "source_domain": "www.foxnews.com",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQklVang2cEVwZVVXVUVQRmd4VlVfeWJ5ZGxYUHBIZFJDRjJKMXVFU29nLWNsOENBbjl4cjJ5LUxIMHkzOE14MVp6ZklDYVI2RlFaRFhnTGYwX1pqVGx4SC1IZHZpSjNSTVhUb0M5ZDBRTmItd0JWVFBIalRiYTBPTFFBclRRTmVvaUxxeTRPcEZsRlQxdWt6U25LNGNpbVJyWTA4VVN3eXRldkk3VVhuMVFTZXhZT092Vm1EMzNqeC1aQdIBxwFBVV95cUxQb1lFMHBraTJ0akZRS0VTOXlQZ2tmM285Mk5pdmVzM1U4Mms2YXhIc2JvdkY2Z0RBdkwtSDUtNjU4bGd0MGtXUEc2T0p4cGx2eUhKY181MDFlR0hFS2Z4Y1Z0MTRHN0FrMk9SV0xuZFN2a3dFVWg3SF80RUJDdVFHNC1IdFBRUzE4T2FETFh6RS1vSENlZ2pEUFpsUHpkMmZURDNqMVhfRk52UVktUXhDUDdEOG1YZHpDVXY4RTljR0N1UU5mMF9R?oc=5",
+    "published": "2026-04-08T17:02:48+00:00",
+    "published_display": "Apr 08, 2026",
+    "query": "Newsom California",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/newsom-faces-backlash-left.jpg",
+    "real_url": "https://www.foxnews.com/politics/california-fraud-concerns-ramp-man-pleads-guilty-massive-scheme-using-taxpayers-piggy-bank-",
+    "bias": "R",
+    "topic": "Economy",
     "region": "US"
   },
   {
@@ -18796,6 +18828,22 @@
     "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/gavin-newsom-1.jpg?fit=2057%2C1200&ssl=1",
     "real_url": "https://www.nationalreview.com/2026/01/gavin-newsom-is-fooling-no-one/",
     "bias": "R",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "d2043f1f529d",
+    "title": "Cracks between Newsom and frustrated lawmakers show in first budget hearings",
+    "source": "Santa Maria Times",
+    "source_url": "https://santamariatimes.com",
+    "source_domain": "santamariatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPUlkzdDgtNHZWdVNCX0JkOGhscFk0MFA5UFJNNnpyZmJaMVZxZndYMzVUVGMyclRyS18zUDcyYXB6Y0VsekE2ZjFhRnVQcEhaejBCWXFxOFlrZGwyMWhhVFB4aWN0NnhsZU5qa3hqbHV5VHpza2ZteTZlZGxHVzc3d3RZXzhTVmFrSEVkN0RNa1llbTZVNXl0bW9HMkRCbjZLcHByUmp1RHd5QTNQYWR2Z1kxVmM5RFJqSkhubkZMNDVDdWx6a0pYZ2RpLVJMU28xY3JqRnpvY3E4VVRrUW5ReHl0UERtc19TWTlrTW5Za1N4U0dNMllTX3h3azZ1MTRramFYbmVNR2R6YmxXU2dnUzhyYTlQS1hFa2VjLXV1Y2xTSmJUMW95OTdwRGkwdw?oc=5",
+    "published": "2026-01-28T08:00:00+00:00",
+    "published_display": "Jan 28, 2026",
+    "query": "Newsom economy",
+    "image": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/b/72/b72406d1-248d-4726-b636-82a6693a386f/6971732d439d2.preview.jpg?crop=1024%2C538%2C0%2C72",
+    "real_url": "https://santamariatimes.com/news/calmatters/commentary/dan-walters/cracks-between-newsom-and-frustrated-lawmakers-show-in-first-budget-hearings-dan-walters/article_b72406d1-248d-4726-b636-82a6693a386f.html",
+    "bias": "LL",
     "topic": "General",
     "region": "US"
   },
