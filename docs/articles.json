@@ -1,5 +1,21 @@
 [
   {
+    "id": "a1f5f33779e8",
+    "title": "California establishes first new state conservancy in 15 years to save shrinking Salton Sea",
+    "source": "Imperial Valley Press Online",
+    "source_url": "https://www.ivpressonline.com",
+    "source_domain": "www.ivpressonline.com",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTHdUQ3Nob2E3aFpfODhKTHFmODNueUw5bURveXZGUDlYQjhETWd3QjAxUkl0ay1aeTd1OVRDLU1OSHNLVDYyM0J1WWlOb1dyWThPenM3MUVjR1k5azlrQ0NyRE83eE9xVGY1b2lhRVJvSXZYZ09rREw0c0V3YzZhMWtWdUduWFhKcHpQNldJcnJXMG9xXzhOa25xam9TMWdZT25oMllPRERHUVpiMFF1Y1NUSWliaFVoQ193NS1SRlJ5emM3MHVwamIzS1czUEZOOFFHU1ZKWFVWd1RfTHl6UUVYM3ctN1V0N1VyM0pvUlNrXzdFYVQ3LVMtamotbDRxNjZRNHllOA?oc=5",
+    "published": "2026-04-11T07:00:00+00:00",
+    "published_display": "Apr 11, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://bloximages.newyork1.vip.townnews.com/ivpressonline.com/content/tncms/assets/v3/editorial/3/da/3dae7252-900b-4810-98d0-d05c445cec95/69d93ac664f16.image.jpg?crop=1080%2C567%2C0%2C76",
+    "real_url": "https://www.ivpressonline.com/news/california-establishes-first-new-state-conservancy-in-15-years-to-save-shrinking-salton-sea/article_738591e7-9401-4dcd-bd72-3cb619b089de.html",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "c716920dcc21",
     "title": "California Launches Salton Sea Conservancy to Speed Restoration Efforts",
     "source": "NBC Palm Springs",
@@ -12,6 +28,22 @@
     "image": "",
     "real_url": "https://www.nbcpalmsprings.com/2026/04/10/california-launches-salton-sea-conservancy-to-speed-restoration-efforts",
     "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "80ea2e2f8e3b",
+    "title": "Dems call on Swalwell to drop out of gov race amid sexual assault allegations",
+    "source": "AOL News",
+    "source_url": "https://www.aol.com",
+    "source_domain": "www.aol.com",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RLSHFkbEZ2Rm1LbEpUN015Zng1ZVpmUElDdTkwRXp2QUNzbUU1XzkxaTlyN3VpNElxT1N0cV9wb09nbG1UQ3FqeDBaV1NGcFR2QW9xbmJzRldUNnBnRU1UbjJ4cXRscDdFNThkRUZVbklHWGR0bVJia1Jjb3lXemdEUTc2QQ?oc=5",
+    "published": "2026-04-11T04:59:56+00:00",
+    "published_display": "Apr 11, 2026",
+    "query": "Newsom Democrat",
+    "image": "https://s.yimg.com/os/en/aol_cbs_news_articles_189/340c959d09e94d936dd4fdc1f523498e",
+    "real_url": "https://www.aol.com/articles/democratic-rep-eric-swalwell-denies-232513138.html",
+    "bias": "C",
     "topic": "General",
     "region": "US"
   },
@@ -172,6 +204,38 @@
     "image": "",
     "real_url": "https://www.sfchronicle.com/politics/article/swalwell-reaction-22200168.php",
     "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "f13d8975ee86",
+    "title": "Nancy Pelosi, top Dems urge Eric Swalwell to exit governor\u2019s race after Chronicle report",
+    "source": "San Francisco Chronicle",
+    "source_url": "https://www.sfchronicle.com",
+    "source_domain": "www.sfchronicle.com",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLXBlNUU4WEV6bU8tUTJnV0Mwbi1wX3dDWTVkcTdCRGVUSkU0YndQeWpKakZ0WmFZTkxXUU1zbkprQzVwSDl2bDBhek5yeFM3UngxVzRvVWxsQ19MT013XzFCUHI2TXBOYW1EcmQ0ejE5bVMzeTFjc3dydWZCdEJaMA?oc=5",
+    "published": "2026-04-11T01:05:47+00:00",
+    "published_display": "Apr 11, 2026",
+    "query": "Governor Newsom",
+    "image": "",
+    "real_url": "https://www.sfchronicle.com/politics/article/swalwell-reaction-22200168.php",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "c27822ad0049",
+    "title": "Swalwell&#x27;s former female staffer drops bombshell allegations of sexual assault, exposing himself: report",
+    "source": "AOL News",
+    "source_url": "https://www.aol.com",
+    "source_domain": "www.aol.com",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjF1MEhDVnFneTkyYVl3TEc4dTZhRW1uUnMtMWx0R0pVdmhGbV9fLU1yVThZOGx6WFh0U3owYXVuLXFYOHppWExLc2oxMkJZbURZbUkydnBibEE0a1haQjJRUnNFYmVLWXlWdW5CNkxtV2pFajYta2t3RTZYZTI1MmNRX195Nnl6?oc=5",
+    "published": "2026-04-11T00:59:50+00:00",
+    "published_display": "Apr 11, 2026",
+    "query": "Newsom Democrat",
+    "image": "https://s.yimg.com/ny/api/res/1.2/N0oqPkIN32Jrr_9Xs4oUtA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_news_text_745/3760eccc351208fc39464138c2a0e8fc",
+    "real_url": "https://www.aol.com/articles/swalwells-former-female-staffer-drops-224633304.html",
+    "bias": "C",
     "topic": "General",
     "region": "US"
   },
@@ -21008,6 +21072,22 @@
     "region": "US"
   },
   {
+    "id": "9ea834d58786",
+    "title": "Letters to the Editor: Newsom might have made an impact in telling world leaders to stand up to Trump",
+    "source": "Los Angeles Times",
+    "source_url": "https://www.latimes.com",
+    "source_domain": "www.latimes.com",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnU0Y0pjM3NHVElwMFlSWGxucTBMMEQ2ZkxadG1xN0xBRXJQSHltTzJVcmVvZmpCUjlpYnlncnkyT2ctV3dxM0p6THg1cnZfaDg2eTY5djJsZ19fcFl1U0taSXNRaVhwR3hSSGtTZmxfSlNXeFpCUFhreG1hTWg5UWt2SkFpZV9XM1l4Z3drQ0NpOUVrTUhqQW1YVmg?oc=5",
+    "published": "2026-01-28T08:00:00+00:00",
+    "published_display": "Jan 28, 2026",
+    "query": "Gavin Newsom speech",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/62f0830/2147483647/strip/true/crop/3176x1667+0+225/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F70%2Faf%2Faeee012545938332b9380233b72a%2F2257413712.jpg",
+    "real_url": "https://www.latimes.com/opinion/letters-to-the-editor/story/2026-01-28/newsom-davos-summit-trump",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "6b217f77a494",
     "title": "Trump left \u2018amazed\u2019 this top rival may run for president in 2028",
     "source": "NJ.com",
@@ -22910,6 +22990,22 @@
     "bias": "?",
     "topic": "Foreign Policy",
     "region": "Asia"
+  },
+  {
+    "id": "5d8387c7fc77",
+    "title": "Sky News Australia. . California Governor Gavin Newsom has ripped into foreign world leaders for &quot;rolling over&quot; for US President Donald Trump.",
+    "source": "Facebook",
+    "source_url": "https://www.facebook.com",
+    "source_domain": "www.facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN25CLVBwV2pwWWptbEhNQmR2X25CZ2gxUDF0UkZYbVdIRXQ4S2FKenQyMlJyakwyQjdHZC1kdTdadXBybEVsN056eXhibVBBb3ZabS1MeWJjQTFNSTBNN0pJZmpjSXlWOWhUWXI1YTJnS1o5N0E1czB1RDV2WWd4Nm8tRUFjRnZ0Y3l4cVgzUTlzLUhuTEd1clFYMUlJN096ZDlTY3ljZ0h6OE1ScTJfNnVpODhzOVR0eGxTX3lLTFlmTm1TWEhxY056cWg3cUxwbTc3c3NtcTVvdnN1VjAw?oc=5",
+    "published": "2026-01-20T08:00:00+00:00",
+    "published_display": "Jan 20, 2026",
+    "query": "Gavin Newsom speech",
+    "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/619606102_1647687489939938_4853147371647876772_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=596eb7&_nc_ohc=P0dui4A_uPYQ7kNvwHH-0Cc&_nc_oc=Ado-NEM-6cRtOndkzC-k-t2FaqschBi8gwcCX6mWz_Ke_xq_ZCDCHjoTwHY-jwEpoDo&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=X03fn_gro5DVBB71yGSvpw&_nc_ss=7a389&oh=00_Af1ww9ctj-pCtYuX2OhPfcAukxIFi7cTI3J_Mz04uTS3Qg&oe=69DFDB4F",
+    "real_url": "https://www.facebook.com/SkyNewsAustralia/videos/gavin-newsom-rips-into-pathetic-foreign-leaders-rolling-over-for-trump-in-davos/2252751095208111/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
   },
   {
     "id": "e4352e61c3fe",
@@ -27184,6 +27280,22 @@
     "region": "US"
   },
   {
+    "id": "4fc69a760e1b",
+    "title": "Governor Newsom cuts red tape to help communities clean up and rebuild faster following the TCU Lightning Complex fires",
+    "source": "California State Portal",
+    "source_url": "https://www.gov.ca.gov",
+    "source_domain": "www.gov.ca.gov",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMWpkQU8yeW51czAzREQyd0dFWW9WZ2FtVW93c3E4X2VVVE82MlItY1VKWkJQLUVBVXdXN1JiZkFlSDhTYUl4eGh4cV8yaEFzNWFCSWtxbEFUdUlrTnhJNjFDMTd2QzFXX0RzZkJLUWs4S2FmVzNOeUFyTUxiSWlVelNRQ2pEMWlOa1ZSXzlqVjhKdkZhSnhiVlFZczI0Q0NCNFRVOXpmandHUXZLeXhNUDV0YTBQQ1ctZGItZ0hyRU1UTGxENnppNThsNkduQ0dfVDlSN0Y0WVFaWTZLQzlkVlh4MEdXa2Z4RVE?oc=5",
+    "published": "2025-11-19T08:00:00+00:00",
+    "published_display": "Nov 19, 2025",
+    "query": "Governor Newsom",
+    "image": "https://www.gov.ca.gov/wp-content/uploads/2025/11/Governor-Newsom-cuts-red-tape-to-help-communities-clean-up-and-rebuild-faster-following-the-TCU-Lightning-Complex-fires-SEO-GFX.png",
+    "real_url": "https://www.gov.ca.gov/2025/11/19/governor-newsom-cuts-red-tape-to-help-communities-clean-up-and-rebuild-faster-following-the-tcu-lightning-complex-fires/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "61905c8a9eaa",
     "title": "Hollister manufacturer to expand with $18M investment under state jobs push",
     "source": "KSBW",
@@ -28269,6 +28381,22 @@
     "bias": "LL",
     "topic": "General",
     "region": "Europe"
+  },
+  {
+    "id": "f5171b4d1744",
+    "title": "California Proposition 50 Gavin Newsom",
+    "source": "Rev",
+    "source_url": "https://www.rev.com",
+    "source_domain": "www.rev.com",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kUG5kNVNwaTdOdi1QWC13Q0xBTUJHMnRDbWNXUUNiS08wM05XSW1EY1VZcVdxTzBkQS1sTzQxS3B3S1JYZHQ5QVZsTTd5UXBRWXV5YUhXUzc2bjRwN04xR0pNOFlia0lpNDJrSkZaYVZWUQ?oc=5",
+    "published": "2025-11-05T08:00:00+00:00",
+    "published_display": "Nov 05, 2025",
+    "query": "Gavin Newsom speech",
+    "image": "https://cdn.prod.website-files.com/65e5ae1fb7482afd48d22155/690b683661d5bbb6f4b49996_Prop%2050.jpg",
+    "real_url": "https://www.rev.com/transcripts/california-proposition-50-passes",
+    "bias": "R",
+    "topic": "General",
+    "region": "International"
   },
   {
     "id": "bc64a40aa003",
