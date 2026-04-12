@@ -1,5 +1,37 @@
 [
   {
+    "id": "fc20c6eadfb4",
+    "title": "Newsom Torches Trump\u2019s \u2018Underwear\u2019 Victory Lap",
+    "source": "The Daily Beast",
+    "source_url": "https://www.thedailybeast.com",
+    "source_domain": "www.thedailybeast.com",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMUJtNDhPYkZlazZ5d2xfSDRhZk12aU5wS25YWUpNMmVLN2ZaRl8wRUhEaG5Ma2l5aDh3S2htTm9KbmI2TkotbXdpXzR4U3VsNGdkYVNZXzltY0R6UE10MDU2ZGFhbkY1OW9MdFFLcDJ5RDZhanB0c2dVWWMwdUZnSVc5Z296QndpOWxOU19VUDk?oc=5",
+    "published": "2026-04-12T00:04:00+00:00",
+    "published_display": "Apr 12, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://www.thedailybeast.com/resizer/v2/XDKWZG5ANBBMJBW2FXGI35E5HA.JPG?smart=true&auth=939d5220ec85533e88c1f77aa0fd37eff637cd9a6d53da3a97de9a5b55ca3118&width=1200&height=630",
+    "real_url": "https://www.thedailybeast.com/gavin-newsom-torches-donald-trumps-underwear-victory-lap/",
+    "bias": "L",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "05ed969e0935",
+    "title": "Gavin Newsom&#x27;s obnoxious wife is the most repulsive woman in America",
+    "source": "Daily Mail",
+    "source_url": "https://www.dailymail.co.uk",
+    "source_domain": "www.dailymail.co.uk",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZXVpUmNtS0lxNXpSSUxMTGRvVW41YlRLNE5hLUVUWVF5OVNBYXh1YXdneW02aGxVaXBMZ2NkR1RRcmNjT1ZvSXFNNXV1elMxM09TQkY3cDB5Tm9tN1JaOFhCUWlDVURmRV8zQ0k1TGFaMGtJZU45aEhLbFlaMmtCZ3dmaWtDOVFpVklyU04xNnpscW9WZEpVa3dNZUNXUzg3?oc=5",
+    "published": "2026-04-11T23:17:07+00:00",
+    "published_display": "Apr 11, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://i.dailymail.co.uk/1s/2026/04/11/16/107805813-0-image-m-24_1775922864421.jpg",
+    "real_url": "https://www.dailymail.co.uk/debate/article-15723229/gavin-newsom-wife-jennifer-exposed-kennedy.html",
+    "bias": "LR",
+    "topic": "General",
+    "region": "Europe"
+  },
+  {
     "id": "3492e77bfd5c",
     "title": "Cali Governor Candidate Eric Swalwell Denies Sexual Misconduct Allegations",
     "source": "Complex",
@@ -240,6 +272,22 @@
     "region": "US"
   },
   {
+    "id": "ec85e9f65b7c",
+    "title": "Governor Gavin Newsom Welcomes NASA\u2019s Artemis II Crew Back to Earth, Touching Down in the Golden State, A Mission Fueled by Golden State Talent",
+    "source": "Sierra Sun Times",
+    "source_url": "https://goldrushcam.com",
+    "source_domain": "goldrushcam.com",
+    "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNdjRYUlZkTE1nbk02VkRHSVpTaDR1WHhudnJXYXcxUjVnREtnVFU5U3gzRVNjUFNUekJSeWItLUhuZ0VocWpvajhoOVRLWWN4Y25wZmpEdHE2VUF6cWtXWGNZVVpyVkRlWi1PejdWWkJORXgwYTM4RDJmTnFtVjdjSS1yQWJHYTlGV0kxcFA1VUFneWNSNVNxc2pKQmI1LW9ORWVUN2gyNEx3WjdmMDg4akZLQ21YZWJSUFVrVFBkS21ZRDhQTUpYcFhXNFRmVDQzOHZEb01vVzNBZkd2Z3ZuQ0tOU1c5YnNrYjloWmhfQlFFMVFFcW9zWVJ6eGpSMkdWczJVQ2hJYzhyZVpYRWJBVVNGcFlhVzBENEVBX1ZlaDhsZjNsbFowLWRGanVTcTNPZjd0b2tmaw?oc=5",
+    "published": "2026-04-11T12:59:18+00:00",
+    "published_display": "Apr 11, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/77130-governor-gavin-newsom-welcomes-nasa-s-artemis-ii-crew-back-to-earth-touching-down-in-the-golden-state-a-mission-fueled-by-golden-state-talent",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "5b1f312d3ccf",
     "title": "Allegations rock California governor\u2019s race as Swalwell resists calls to quit",
     "source": "Scripps News",
@@ -299,6 +347,22 @@
     "query": "Newsom California",
     "image": "",
     "real_url": "https://www.sfchronicle.com/opinion/editorials/article/california-lieutenant-governor-michael-tubbs-21955554.php",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "fa1f13cc564a",
+    "title": "California\u2019s homeless crisis keeps growing - These are the 8 regions getting Newsom\u2019s new funding push",
+    "source": "Diario AS",
+    "source_url": "https://en.as.com",
+    "source_domain": "en.as.com",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMnBRek40ME1JTU5GMDZQdXhzNzFyaFEzSkU3ZEdxejRNR05zYTFxTG1GVEtwcFM0U1dBaG5feGZKR09YczlsMDhmRGlUSklWZ3ZKcGpzcldYNnBUa3R5TzVjU1l6NVlKRmFOcFAzdzNza0V3SlI1SURqS3ZTNmo1cW1GSmJfdWx3RlRkQTNLVDUteHJFRy1zRGtPVWVXN2NocDBhZk5FYVJpY2RydlVKQXRqTXlYQjlmYUlNeEZWNEdFUG95ZFZ0TGk4S1FSRzVwSkY1RkNR0gHqAUFVX3lxTE5jRzI2UmNsTnlWaE9pRkhtbjlGeG5PVjU4N0hSamZnNlE3VnVHckp1YTQxaU1pWEFBdlBReUpwUFZGTGdzMkZtRVdmVHlFVGd0dWlFcUdqWDJMY3dnTzkyamV5cVlkRk1HSF84R2JBbjNUMzdHV3FTYmtSUENvbTVfM01wcEN5aFFIMjF5TndHVjExdzFxQ2Y2a25zU1lvTllpUmVLTEFHUW5QVHNRVkM4STl3ZkFmTGQ4S2tJX21jckw1eF8tcTZIbXdPdU0zUXZaQ1lFelZvOHhNXzVIdkhVMVVsTkhuMTZsdw?oc=5",
+    "published": "2026-04-11T11:00:00+00:00",
+    "published_display": "Apr 11, 2026",
+    "query": "Newsom California",
+    "image": "https://img.asmedia.epimg.net/resizer/v2/WV4PPBSA4ZALFFL2OKXC4JUFTY.jpg?auth=3eaf2d1ae9271623c60661af2d1961ae24c09360ceeb6af993839310a3b420f8&width=1472&height=828&smart=true",
+    "real_url": "https://en.as.com/latest_news/californias-homeless-crisis-keeps-growing-these-are-the-8-regions-getting-newsoms-new-funding-push-f202604-n/",
     "bias": "?",
     "topic": "General",
     "region": "US"
@@ -2893,6 +2957,22 @@
     "real_url": "https://www.sacbee.com/news/politics-government/the-state-worker/article315334641.html",
     "bias": "?",
     "topic": "Domestic",
+    "region": "US"
+  },
+  {
+    "id": "33333d607b42",
+    "title": "Newsom Dumps Another $145 Million in Homelessness Funding as Fraud, Waste, and Empty Shelters Plague His Record",
+    "source": "California Globe",
+    "source_url": "https://californiaglobe.com",
+    "source_domain": "californiaglobe.com",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWktJZkprUFRkb2JBMWxWV1JhRnowY1B1R0VSSndUTVdxZmpUTzUtMElpNjVjQnd6MlBzeFIteHpGVFpQQ3pKWVU4MDI3QkRxaTNqcHR5T2dwZkd6bDFtMUhDZy1qcHZOSW5LSG41ckU3WHlGeU5pYktaQnJVSDA1WGhCak9aSlA3bjA1YUgxbi1mdTZJX0xTQjFCNjZ6X0FsdGh6MThNdkZDOHNERWtyX3F1bllnNUxMS3ZsYlpWNjd3cl9jT0Y5VHZ1dXZIQVIycldabkNxQQ?oc=5",
+    "published": "2026-04-08T22:17:48+00:00",
+    "published_display": "Apr 08, 2026",
+    "query": "Newsom California",
+    "image": "",
+    "real_url": "https://californiaglobe.com/fl/newsom-dumps-another-145-million-in-homelessness-funding-as-fraud-waste-and-empty-shelters-plague-his-record/",
+    "bias": "?",
+    "topic": "General",
     "region": "US"
   },
   {
@@ -17808,6 +17888,22 @@
     "region": "US"
   },
   {
+    "id": "d45bbefebe64",
+    "title": "Commentary: Gavin Newsom and Kamala Harris have traveled parallel paths. Will they collide in 2028?",
+    "source": "Los Angeles Times",
+    "source_url": "https://www.latimes.com",
+    "source_domain": "www.latimes.com",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORDBwVlhYT3NVUzdPdmJJd3l5VG1iVHNsZFl5S3lMOC1oSWlHenZ3bnFITmVaRXpfRnhjOUs5N25hLWMtamxKLTg3dGMwYzVOQkFWN2x4dXNTUVpzaExTazlEbVVIZ2wxMnNvamNYRXVPUkM4cFJHNGd3cnRwRGc3TnMxTW54SHBtdFgtU3RnTXZXczRPMFFfVjBFZjJOenVKUWVPWDNfdzBtd3h4NVFJQjFGZw?oc=5",
+    "published": "2026-02-25T08:00:00+00:00",
+    "published_display": "Feb 25, 2026",
+    "query": "Newsom president 2028",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/5ac06c6/2147483647/strip/true/crop/6285x3300+0+445/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbb%2F72%2F9b361bb34bc48f3bdd50d8e534e3%2Fap23323640323414.jpg",
+    "real_url": "https://www.latimes.com/politics/story/2026-02-25/gavin-newsom-kamala-harris-2028-democrats-presidential-campaign",
+    "bias": "LL",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "62caf7f7cb35",
     "title": "Gavin Newsom&#x27;s presidential dream may become our nightmare",
     "source": "USA Today",
@@ -20224,6 +20320,22 @@
     "region": "US"
   },
   {
+    "id": "52a9693f604b",
+    "title": "Noem says fentanyl flow down 56% and urges Newsom to honor ICE detainers",
+    "source": "WBFF",
+    "source_url": "https://foxbaltimore.com",
+    "source_domain": "foxbaltimore.com",
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPLVA3UEdzTC15R3BBN1AzajRhLUZHSGRtX3ZVY21pQnJMVzZnMk14R0hweU1ZcVZ5VlJFUkZkbkgyNHhVdUQwenRrTlpqQ19pN0VhUk9aQTIwQ2gzS1F5T3daQzhUMEt1UTRTemxQcnpsalRtTmF6cmVmRE81RmlCMjNoY3JlU1FnVzVGdHlCeExfZUVDUGRXSzVUSGc3eUhEQ2JIZDFLZ041ZjYxVXFYRW1PcGFPTkZCVDBjYkpjck5lLXR5b0Z6ejBJRXRnMkhFeXQwdzF1b2pzNjZxdUl3SmUyNkhoSy00YUlMLXJHT25wQnR5U050Ym9mVm5sT0xUanduODJNaWNOdlhNbm1KXw?oc=5",
+    "published": "2026-02-12T08:00:00+00:00",
+    "published_display": "Feb 12, 2026",
+    "query": "Newsom immigration",
+    "image": "https://foxbaltimore.com/resources/media2/16x9/1400/1320/0x67/90/564746b8-1682-4f51-88e8-d416a4c2d69e-Screenshot20260212at5.00.54PM.png",
+    "real_url": "https://foxbaltimore.com/news/nation-world/kristi-noem-visits-california-to-tout-historic-efforts-at-the-southern-border-homeland-security-cbp-illegal-drugs-fentanyl-immigration-trump",
+    "bias": "?",
+    "topic": "Immigration",
+    "region": "US"
+  },
+  {
     "id": "1262432ccad7",
     "title": "Newsom speech taking on Trump encourages Democrats looking for a leader",
     "source": "ABC News",
@@ -21709,6 +21821,22 @@
     "real_url": "https://lamag.com/news-and-politics/newsom-launches-tiktok-investigation-over-reports-of-trump-critical-content-censorship/",
     "bias": "?",
     "topic": "Tech & AI",
+    "region": "US"
+  },
+  {
+    "id": "24ccb7ee3c27",
+    "title": "Weak Trump retreats from Paris Agreement as California leads climate action on the global stage",
+    "source": "California State Portal",
+    "source_url": "https://www.gov.ca.gov",
+    "source_domain": "www.gov.ca.gov",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbHI2dlhFalF5VUZuTjFiTGFoSHVqVGt1M1VLLTN2WkxlRVRMR2NJYzduYWQ3LWJwcWp2Nm9iQ3lRNHBOUThMUG9yeFFGcEVEUXFTbGlBQXRHZUh2eUVFampHQlV4c0EyQUxQZko1VzZsSXJLclVYYlo4eENUdDZ6clh4Vmg3U2F2WldpVDVrVWxVRGJ4QWJROFQ2aXZPYzM3Z0p6QkV5dkI5eUgxM0lKcG5Rb3NvQm1qWGthLWJxSUpKa3hNTDRLNjVB?oc=5",
+    "published": "2026-01-27T08:00:00+00:00",
+    "published_display": "Jan 27, 2026",
+    "query": "Newsom economy",
+    "image": "https://www.gov.ca.gov/wp-content/uploads/2026/01/Weak-Trump-retreats-from-Paris-Agreement-as-California-leads-climate-action-on-the-global-stage-SEO-GFX.png",
+    "real_url": "https://www.gov.ca.gov/2026/01/27/weak-trump-retreats-from-paris-agreement-as-california-leads-climate-action-on-the-global-stage/",
+    "bias": "?",
+    "topic": "General",
     "region": "US"
   },
   {
@@ -24237,6 +24365,22 @@
     "real_url": "https://fortune.com/2026/01/14/california-billionaires-tax-explained-wealthy-tech-executives-gavin-newsom/",
     "bias": "?",
     "topic": "Economy",
+    "region": "US"
+  },
+  {
+    "id": "401b306a3682",
+    "title": "JD Vance\u2019s Chances of Beating Harris, Newsom in 2028 Election: Poll",
+    "source": "Newsweek",
+    "source_url": "https://www.newsweek.com",
+    "source_domain": "www.newsweek.com",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZGlFVGFQR3FzbkVna0V5bm1RZUhiMFh6QS13ckl4OTRjd2ktSjdxeGJnN0N6My1zdEVXV2tKVXhFaGJEVmNjd2dMOUVpa29VVEhWZ0VDVW13ZzIxUWZjTnV2SVA3SUhLM3BTa04wY05pTzlxRm5WSUVudXRSTXlJdWNwbjdQSmFueWtYR2JtS2RTRW9fN1FvcGlocWRJbEU?oc=5",
+    "published": "2026-01-14T08:00:00+00:00",
+    "published_display": "Jan 14, 2026",
+    "query": "Newsom president 2028",
+    "image": "https://assets.newsweek.com/wp-content/uploads/2026/01/GettyImages-2252438478_584b2f.jpg?w=1200crop=1",
+    "real_url": "https://www.newsweek.com/jd-vances-chances-of-beating-harris-newsom-in-2028-election-poll-11362016",
+    "bias": "LL",
+    "topic": "2028 Race",
     "region": "US"
   },
   {
