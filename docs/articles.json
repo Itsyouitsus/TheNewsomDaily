@@ -1,5 +1,21 @@
 [
   {
+    "id": "f3c454eee6d6",
+    "title": "California\u2019s Economy Is Booming",
+    "source": "Bloomberg",
+    "source_url": "https://www.bloomberg.com",
+    "source_domain": "www.bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQazZoM0t2cGQyN0llUDd3TlNhcER2X3hmcW9XVnAxSkRZbVlUWXFFN0Zzc3VjS1ZkcHRWN1ppNVdhM2owVDFibEg5RUp1UWxQTHlWSVpya2pyTVBuYUktV1M5MEtEZGJyVUppbkNaenFKWnJlbXhONWZuVzBFaDdMLXNtQXBLWjZPbjlROU1EZGRjQmVFZkMteHFTSFo3QnptRzRNU0ZkOA?oc=5",
+    "published": "2026-04-12T12:13:18+00:00",
+    "published_display": "Apr 12, 2026",
+    "query": "Newsom California",
+    "image": "",
+    "real_url": "https://www.bloomberg.com/opinion/newsletters/2026-04-12/california-s-economy-is-booming-at-a-high-price",
+    "bias": "LL",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
     "id": "b43a121b6453",
     "title": "Eric Swalwell Endorsements Withdrawn: List Grows as Campaign Collapses",
     "source": "Newsweek",
@@ -14816,6 +14832,22 @@
     "region": "US"
   },
   {
+    "id": "663b538e4097",
+    "title": "Newsom\u2019s wife torches Trump after he mocked dyslexia",
+    "source": "The Independent",
+    "source_url": "https://www.independent.co.uk",
+    "source_domain": "www.independent.co.uk",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFY2dDNLYlRBTjdYOVlpNkJPMTlBVEloSk5rbVlGY0c3M2E4SWF5ak8yWlNmcXY3WlRURURnOWxWU3h4Sno1eWdKRjVwRnhsRGxQMU9FRXRNa0ktRVZtbkZRbjFpOTk1R3RxdUxKekhXODdJeUplV0Q1MzRVM1cwX3JqLU5mcmJkVnlPQjA1eUt5Tk9n?oc=5",
+    "published": "2026-03-19T07:00:00+00:00",
+    "published_display": "Mar 19, 2026",
+    "query": "Gavin Newsom speech",
+    "image": "https://cdn.jwplayer.com/v2/media/eQ62HNvA/poster.jpg?width=720",
+    "real_url": "https://www.independent.co.uk/tv/news/trump-gavin-newsom-wife-dyslexia-video-b2941676.html",
+    "bias": "LL",
+    "topic": "General",
+    "region": "Europe"
+  },
+  {
     "id": "efccfe692b24",
     "title": "Pelosi quietly boosts Newsom for 2028 bid",
     "source": "MSN",
@@ -26587,6 +26619,22 @@
     "query": "Governor Newsom",
     "image": "https://www.gov.ca.gov/wp-content/uploads/2025/12/PRESS-RELEASE-CDBG-and-Emergency-Homelessness-Grants.png",
     "real_url": "https://www.gov.ca.gov/2025/12/19/governor-newsom-provides-communities-52-million-to-build-housing-and-infrastructure-address-homelessness/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "04a6b8cc88be",
+    "title": "Governor Newsom announces $47 million in grants to help prevent substance use among California youth, including supports for struggling young men and boys",
+    "source": "California State Portal",
+    "source_url": "https://www.gov.ca.gov",
+    "source_domain": "www.gov.ca.gov",
+    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNMTRIYVZ2MVVLZE1VaWVxeHYyNExxdENXOHRwRWdwUm5oWEZJcWlLbVVnV2xoRVFwa0U1dm5ybUxWWDVJMjRRc3dTU0Q1ei1jalVrWEhzMjFhcVpYRWl6Q3B2ZHJJT2kwQmkyRW5xbkhwUHVjUWM2T2VUZHNkYUtDMlZMRXBiLWk2NHlZSVRnNHVuR0FmVUQwTXRGb1NZazdITUFxWTYwSmhRa0ExQlpTVlVCZTZoTWE1QVZqTUsxWTBqZmZ3ZXE0WjhLQjlmS2tmb1dPcHFsMW8xejJ2Uk5uY0N5cGxYbGlMYTg4cnI4ZnpwQ3BOaXdmUEtZQWRyWmxhQjFZLWVETkh2Q25jVVRYRU90SXVadw?oc=5",
+    "published": "2025-12-19T08:00:00+00:00",
+    "published_display": "Dec 19, 2025",
+    "query": "Governor Newsom",
+    "image": "https://www.gov.ca.gov/wp-content/uploads/2025/12/Governor-Newsom-announces-47-million-in-grants-to-help-prevent-substance-use-among-California-youth-including-supports-for-struggling-young-men-and-boys-SEO-GFX-v2.jpg",
+    "real_url": "https://www.gov.ca.gov/2025/12/19/governor-newsom-announces-47-million-in-grants-to-help-prevent-substance-use-among-california-youth-including-supports-for-struggling-young-men-and-boys/",
     "bias": "?",
     "topic": "General",
     "region": "US"
