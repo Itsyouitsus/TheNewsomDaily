@@ -1,5 +1,21 @@
 [
   {
+    "id": "398f6e10cb5a",
+    "title": "Governor appoints Judge Bermudez to Court of Appeal",
+    "source": "Imperial Valley Press Online",
+    "source_url": "https://www.ivpressonline.com",
+    "source_domain": "www.ivpressonline.com",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWFJDb29TV2EzM1RPTGlQenV0emFQUlV4SUVKRl80ODFUN2Z3OG1HUVlVb0xSZThSRk43U1dwUXFYOHJlT2tYeDMtdmptRlhWcmtoMGxpeHViQnVCQ2NOMF9QMWd4SHFVUld0ZHNfZ0FBNXlCeEVBVEJtNk1rRDFQUkZ6OW1JTHE0d3VfVVJYLTVkSG14T3dqY3VZYjg0b081OVAzRnJZRkdzM1VNUDJfYno3LXFqRVVvbC1JYXVuWUdlRmtCektFZVVGblJXcTR5aHc?oc=5",
+    "published": "2026-04-18T07:00:00+00:00",
+    "published_display": "Apr 18, 2026",
+    "query": "Governor Newsom",
+    "image": "https://bloximages.newyork1.vip.townnews.com/ivpressonline.com/content/tncms/assets/v3/editorial/e/b5/eb506083-8bb2-4406-87f4-cd0b2ef830f8/69e1801eab252.image.jpg?crop=1200%2C630%2C0%2C435",
+    "real_url": "https://www.ivpressonline.com/news/governor-appoints-judge-bermudez-to-court-of-appeal/article_89db7a09-cb92-474e-a7ca-9a07207577f1.html",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "2d4ab96979b8",
     "title": "California LGBTQ+ organization seeks $25M from state for gender-affirming care for minors",
     "source": "Just The News",
@@ -43,6 +59,22 @@
     "query": "Governor Newsom",
     "image": "",
     "real_url": "https://www.facebook.com/officialbenshapiro/photos/financial-filings-show-that-newsoms-pac-bought-roughly-two-thirds-of-copies-sold/1691242409023723/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "2c187a55d44c",
+    "title": "Newsom Boosts His Book Sales by Buying 67,000 copies of His Own Memoir",
+    "source": "California Globe",
+    "source_url": "https://californiaglobe.com",
+    "source_domain": "californiaglobe.com",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaTY0NC15b3FCOVRFSDZPOHIzX3pGdFREcDZtQ1FRdnBrSWNwZU1tYlRmQVFEWWV3QzNRUlVoUkF2WkQ4RTFrY2N6U0ZBYVVuQU9zQkg1aG1XaWVRX0REejlGa0FKdVBSVVJ3Rzd6MkFMaGYtVjRQVWVsdjgxTGJhWFZBUzU0Y3k5dkpfNURoY09laEI5Z1pDZU1MclludHk0bGpj?oc=5",
+    "published": "2026-04-18T04:44:45+00:00",
+    "published_display": "Apr 18, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://californiaglobe.com/fr/newsom-boosts-his-book-sales-by-buying-67000-copies-of-his-own-memoir/",
     "bias": "?",
     "topic": "General",
     "region": "US"
@@ -32717,6 +32749,22 @@
     "real_url": "https://nypost.com/2026/01/07/us-news/gavin-newsom-will-tread-carefuly-in-last-state-of-the-state-speech/",
     "bias": "LR",
     "topic": "Domestic",
+    "region": "US"
+  },
+  {
+    "id": "d90b8ec5134d",
+    "title": "Commentary: Tim Walz isn&#x27;t the only governor plagued by fraud. Newsom may be targeted next",
+    "source": "Los Angeles Times",
+    "source_url": "https://www.latimes.com",
+    "source_domain": "www.latimes.com",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVXA2WTFBVGZDNHd3ZUt0ZjVuLWhSbGRjQzNmcXE2eU1hcVJNcWJxZjJJcGZSNjQtQTJLNzZBSXpzSVd6TFd4NG9CemZIM0JJeVZKd0loU2JaUDBfYXZHcmNodzg2Q24zckVmZk9EZW5HZGdkNi12N0VueHllTGZRdWFNWi1ndTNzMExjLVpqaDVkWlpGZ0VmMTlmMzhNMWhYLVlxSFFxTmJ0VE9HeGlCOVFuWU5BREo5am1URmtkY1E4Zw?oc=5",
+    "published": "2026-01-07T08:00:00+00:00",
+    "published_display": "Jan 07, 2026",
+    "query": "Newsom immigration",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/5d1924b/2147483647/strip/true/crop/8256x4334+0+585/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4d%2Fb7%2F77271c3141a89bca69f39a069d31%2F2254206530.jpg",
+    "real_url": "https://www.latimes.com/california/story/2026-01-07/tim-walz-isnt-only-governor-plagued-by-fraud-newsom-may-be-targeted-next",
+    "bias": "LL",
+    "topic": "General",
     "region": "US"
   },
   {
