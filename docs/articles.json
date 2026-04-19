@@ -16,6 +16,22 @@
     "region": "US"
   },
   {
+    "id": "4a059e26b829",
+    "title": "Tom Steyer\u2019s Bet on \u2018Billionaire Populism\u2019 Might Pay Off",
+    "source": "Bloomberg",
+    "source_url": "https://www.bloomberg.com",
+    "source_domain": "www.bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOU1HZVJ2WVVKbS1wQW5yRjJScVpkdDZYRnJoQXBrTHBpdVowRWNzeEsyNkM4ZXk3WFJVeWF1LURmOXVKQ1AwSVNMY2pOSUt2RENaMi1rZDRBTWd0RUVRVVlEWEpXUW5DMzZOLTBraFNaQU1qMkFjVWtFbUVvU1dsa3ROcnhIOHV1VVRkYWMzWGVNNmJTVVpQTVdQenRrd2Y2aHVZcDAwMnVSODQ2RmwwaU1wMmRpaXF3VUx3?oc=5",
+    "published": "2026-04-19T12:00:10+00:00",
+    "published_display": "Apr 19, 2026",
+    "query": "Governor Newsom",
+    "image": "",
+    "real_url": "https://www.bloomberg.com/opinion/articles/2026-04-19/steyer-bets-on-billionaire-populism-in-california-governor-s-race",
+    "bias": "LL",
+    "topic": "Domestic",
+    "region": "US"
+  },
+  {
     "id": "689383672de4",
     "title": "Newsom Demands Answers From RFK Jr. Over Resurfaced \u201cReparenting\u201d Remarks",
     "source": "Davis Vanguard",
@@ -28,6 +44,22 @@
     "image": "https://davisvanguard.org/wp-content/uploads/2026/04/RFK-JR.webp",
     "real_url": "https://davisvanguard.org/2026/04/newsom-kennedy-racism-concerns/",
     "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "9513b7294e0a",
+    "title": "California\u2019s Blue Armageddon",
+    "source": "The Atlantic",
+    "source_url": "https://www.theatlantic.com",
+    "source_domain": "www.theatlantic.com",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ293elJoZFlPelR1RnJ0bnhEaEZLM2pDLW5YNmNyc1VObjhnQVNVLWdvWllfN1J0WlJ6d3E4d3FneUcyNXoyUkFELWlGQ3ZVS0dCdGdsRHBRUU84eGpKSk12S3dNZUVkOGs5RzQyQ3k0WVVCSmY3Sm0zY21yMTZzbTFDMEI2cVBGQmY3R1dkaEhLTW8z?oc=5",
+    "published": "2026-04-19T11:00:00+00:00",
+    "published_display": "Apr 19, 2026",
+    "query": "Newsom California",
+    "image": "https://cdn.theatlantic.com/thumbor/2oVLPxBLnnUBSh-Ew_rLRYhbZaI=/0x43:2000x1085/1200x625/media/img/mt/2026/04/2026_04_15_CA_gov_race_horizontal/original.jpg",
+    "real_url": "https://www.theatlantic.com/politics/2026/04/california-governor-campaign-swalwell/686844/",
+    "bias": "L",
     "topic": "General",
     "region": "US"
   },
@@ -20589,6 +20621,22 @@
     "real_url": "https://nypost.com/2026/03/26/us-news/gavin-newsom-floats-idea-of-mandatory-national-service/",
     "bias": "LR",
     "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "349f29e4123d",
+    "title": "&quot;She goes first&quot;: Newsom dances around Kamala rivalry on &quot;The Axios Show&quot;",
+    "source": "Axios",
+    "source_url": "https://www.axios.com",
+    "source_domain": "www.axios.com",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVElEMkhmZktfUG5nVzZodDFOTzA3bWRNSDdyX2ZXdXdyWnpaSzRUM2JZenM0MjFCNG9SUkYxaXlZR0lZZHloWnJMVVAtV182ZF9fSlNST2lGU0MzMXVYOThGbVE0TlpjMnJYU1lzZmZ6cnNqemdac09XdHlxVWs3NA?oc=5",
+    "published": "2026-03-26T07:00:00+00:00",
+    "published_display": "Mar 26, 2026",
+    "query": "Newsom president 2028",
+    "image": "",
+    "real_url": "https://www.axios.com/2026/03/26/gavin-newsom-axios-interview-kamala-harris",
+    "bias": "C",
+    "topic": "General",
     "region": "US"
   },
   {
