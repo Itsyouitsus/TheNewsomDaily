@@ -1,5 +1,21 @@
 [
   {
+    "id": "62991c897a69",
+    "title": "Sean Duffy Pulls $73 Million In NY Funding, Says Budget Cuts For States Issuing Undocumented Drivers &#x27;Illegal&#x27; CDLs Work: &#x27;Just Ask Gavin Newsom&#x27;",
+    "source": "Yahoo",
+    "source_url": "https://www.yahoo.com",
+    "source_domain": "www.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLU9tTEhmNGo2eVVZaXBfNUx1d0FmTmphejFWTlBBZFFpWFRpT3hKSnM5aUhWVnpySnFMUXdDVzFWdmNXU3l2RDlsLXlQN2VhTVRqVURBQmdZS05YVUh6amkwNmhJN1VVTTBSYkhKeG1Yd3Fhd0VDNTFiWnkxUk5iOENVMUM?oc=5",
+    "published": "2026-04-19T12:01:18+00:00",
+    "published_display": "Apr 19, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://s.yimg.com/os/en/Benzinga/c6c23398573e3a34a96b1ec2e4840c80",
+    "real_url": "https://www.yahoo.com/news/articles/sean-duffy-pulls-73-million-120118277.html",
+    "bias": "C",
+    "topic": "Immigration",
+    "region": "US"
+  },
+  {
     "id": "689383672de4",
     "title": "Newsom Demands Answers From RFK Jr. Over Resurfaced \u201cReparenting\u201d Remarks",
     "source": "Davis Vanguard",
@@ -11,6 +27,22 @@
     "query": "Gavin Newsom",
     "image": "https://davisvanguard.org/wp-content/uploads/2026/04/RFK-JR.webp",
     "real_url": "https://davisvanguard.org/2026/04/newsom-kennedy-racism-concerns/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "87d455de2c11",
+    "title": "Newsom proclaims state emergencies to aid storm-hit Santa Cruz, Sonoma, Mendocino",
+    "source": "Local News Matters",
+    "source_url": "https://localnewsmatters.org",
+    "source_domain": "localnewsmatters.org",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRDJaZVQ1MFFzRnE0eWN3RGNTaXFLLThSMDdhUjZxblF1UGNqRU5TelRUQ3oxYzE3Ti1sM0M0YlZYRzJhRHpkQlRjb010S25obmdCU09ONEdBVGtqWDhfZXdsX3NfVHNybll4ZUlXT1RfcklIZlRWUkdUU3dvVnBjREJmZm93d01Gb2NFYWRTVmZ4Zk91b2lJcWN0Tm9Eamw5MVhObVN2d1R4eXVTRFBNYUFOdWFzUWs0VlhCNQ?oc=5",
+    "published": "2026-04-19T10:00:00+00:00",
+    "published_display": "Apr 19, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://i0.wp.com/localnewsmatters.org/wp-content/uploads/2026/04/LNM-20260417-STORMRELIEF-01.jpg?fit=2000%2C1500&ssl=1",
+    "real_url": "https://localnewsmatters.org/2026/04/19/newsom-proclaims-state-emergencies-to-aid-storm-hit-santa-cruz-sonoma-mendocino/",
     "bias": "?",
     "topic": "General",
     "region": "US"
@@ -491,6 +523,22 @@
     "query": "Governor Newsom",
     "image": "https://bloximages.newyork1.vip.townnews.com/ivpressonline.com/content/tncms/assets/v3/editorial/e/b5/eb506083-8bb2-4406-87f4-cd0b2ef830f8/69e1801eab252.image.jpg?crop=1200%2C630%2C0%2C435",
     "real_url": "https://www.ivpressonline.com/news/governor-appoints-judge-bermudez-to-court-of-appeal/article_89db7a09-cb92-474e-a7ca-9a07207577f1.html",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "0ce679d10b5a",
+    "title": "Santa Clara Co.: Newsom Appoints 2 Judges To Santa Clara County Superior Court",
+    "source": "SFGATE",
+    "source_url": "https://www.sfgate.com",
+    "source_domain": "www.sfgate.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR1B3cGRydlNfQjF4dFZRaGhmY3FkbjMzb0k4VnNjZmx0anVadm1ELXZUMlM0MTdMcVpWWG5qOFFyOFVPY3FJLXItcEJMcE4yZnFUUVU1clpxTzhCS2RXeDRhUHV3cXpLN2dadTRxOGczWHAzNHFtQjlQWldMdTExSFNab01KV0NjTkR5QWxISl9HZlNMamRzbHdoV1JQSjU3?oc=5",
+    "published": "2026-04-18T07:00:00+00:00",
+    "published_display": "Apr 18, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.sfgate.com/news/bayarea/article/santa-clara-co-newsom-appoints-2-judges-to-22214453.php",
     "bias": "?",
     "topic": "General",
     "region": "US"
@@ -1837,6 +1885,22 @@
     "real_url": "https://noticias.foxnews.com/politics/illegal-aliens-getting-taxpayer-funded-boob-jobs-sex-change-ops-newsoms-california-watchdog-says",
     "bias": "R",
     "topic": "Economy",
+    "region": "US"
+  },
+  {
+    "id": "a8c76e5416ca",
+    "title": "Seg\u00fan una organizaci\u00f3n de control, en California de Newsom, los inmigrantes ilegales se est\u00e1n haciendo operaciones de aumento de pecho y de cambio de sexo pagadas con dinero de los contribuyentes",
+    "source": "Fox News",
+    "source_url": "https://noticias.foxnews.com",
+    "source_domain": "noticias.foxnews.com",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVEpXYmpCaTlzWV91TGwyTFp5bEFDV3lERm5maGF2X1VxNno2blRaNDFIeTdIOGR4OV9PTndBVDNTOVcxQWhZUlpNejBwWVkwNmdySllMZnRqSEZaYTRxU29wUG1FOUdoM2FFTHBFRjFoeDlUVVZpZkdlY1hsMmZwZmdYVExIV1VJWHI2MEdOcGtWVmh1OVRaSm5Hd3hYTFFRY0ZfeHY1WDlVUjF4NkRybXRSVU9xN1I1YTB0dWE5ZTQ4R1JYRjAxckhVcUlTSzTSAdQBQVVfeXFMUGpOemVZRlZ4YjlVNWJCV1liMmJOYXcycDNBQzJWZzh2cVAwSnNrS0ZLdGJOMGVnd1BLZjhvaFc3VnhhakVfSFdRWXNwTzRPRWkxNUlMLWNWUS0wSXFrU1ZuTzFyNFRFN1o5elBBOXh2M2N2YTMzbmxSUVg4N0pUNlByOFpfcXNNbmxZY3JxTS1vcnFockJpN0NjTUdyQndCeTN0OW81UE1BUWpOcHhOMDU5ZWZ3aVZPaWtnNUpnb2dmTy1WZUtUa19oSmNJa1g5aWJIV3E?oc=5",
+    "published": "2026-04-16T19:27:46+00:00",
+    "published_display": "Apr 16, 2026",
+    "query": "Newsom California",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/gavin-newsom-california-fraud-fox-news.jpg",
+    "real_url": "https://noticias.foxnews.com/politics/illegal-aliens-getting-taxpayer-funded-boob-jobs-sex-change-ops-newsoms-california-watchdog-says",
+    "bias": "R",
+    "topic": "Immigration",
     "region": "US"
   },
   {
@@ -36112,6 +36176,22 @@
     "region": "US"
   },
   {
+    "id": "204ceab8becc",
+    "title": "California&#x27;s $18 Billion Deficit May Prompt Tax Hikes, Spending Cuts",
+    "source": "State Affairs",
+    "source_url": "https://pro.stateaffairs.com",
+    "source_domain": "pro.stateaffairs.com",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRk1HUWhscGR3Z0phVDBONmVmOUoxZHQyZG1vNHBxS3ZLbWpaV0pOU1ItS2J2QWFQTHlQRGFNdjhDNlYwX0xxRWtRcHdObjNfaDJZQ0VnbVFxNVhfVVRrUEcxUWdaMmNxUm1GWlJaUjhDNHFMOVZLMldJVGl6b0QwZkttdG9YRlB5YjByREo4YXFNU3lNRXZPc2ZCTFVFbWdNVTBFZHRaRQ?oc=5",
+    "published": "2025-11-19T08:00:00+00:00",
+    "published_display": "Nov 19, 2025",
+    "query": "Newsom economy",
+    "image": "https://cms.stateaffairs.com/wp-content/uploads/2025/11/AP25006761973837.jpg?w=1024",
+    "real_url": "https://pro.stateaffairs.com/ca/economy-business/calif-faces-18b-budget-hole-despite-rising-tax-revenues",
+    "bias": "?",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
     "id": "61905c8a9eaa",
     "title": "Hollister manufacturer to expand with $18M investment under state jobs push",
     "source": "KSBW",
@@ -36717,6 +36797,22 @@
     "real_url": "https://www.ksbw.com/article/california-revokes-drivers-licenses-immigration/69415780",
     "bias": "?",
     "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "e76729bb6074",
+    "title": "The climate president in waiting",
+    "source": "Politico",
+    "source_url": "https://www.politico.com",
+    "source_domain": "www.politico.com",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU2VpcFBEZk5LTzR1TmN2eVZURm1qcjFNaFpDQ1dvaHh5eEg2WjRBZzZjT3NvX3pfX0JJLTZnaUlBTEV0LVNfTnltdDJXSGZza291N0Vnc3RrbVRWSnBQb1JYT2JpUnBvZlBpYUhuQWxUNWlsc0tQeTNXdlpvVU10VExEY3AzTGcxbUNJcHdWWG9UTEN4TG9HSnJXbFA2RWtLWDlnSTNraXpyM21Vdkhz?oc=5",
+    "published": "2025-11-12T08:00:00+00:00",
+    "published_display": "Nov 12, 2025",
+    "query": "Newsom economy",
+    "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F37%2Ffc%2Feeef39534e199945809df3234032%2Fimg-6589.jpg",
+    "real_url": "https://www.politico.com/news/2025/11/12/were-at-peak-influence-gavin-newsom-struts-on-a-global-stage-00647166",
+    "bias": "LL",
+    "topic": "General",
     "region": "US"
   },
   {
@@ -37836,6 +37932,22 @@
     "real_url": "https://www.foxnews.com/video/6384214649112",
     "bias": "R",
     "topic": "Domestic",
+    "region": "US"
+  },
+  {
+    "id": "34ba14323d1a",
+    "title": "Can America Really Afford a Gavin Newsom Presidency?",
+    "source": "Newgeography.com",
+    "source_url": "https://www.newgeography.com",
+    "source_domain": "www.newgeography.com",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHgzOEJTYWJnVnY5TjVybFY0MzNTUDZ2dENDM1l3X09tZjd5OWk2RkJYV0E5RnFHLVVqekx4bFQ1dmlpVEJIOE5iWkNOSlVuVkNxZ1MwUG9kS2dzSTR3Vjhlc3VyemlOcEttWFdTYlpNQ05sY1AxdFFGWjFJZEx1X1FwVmhXaVUydnBzVlBxcWlkaUdpV0Z0OUZnYw?oc=5",
+    "published": "2025-10-28T07:00:00+00:00",
+    "published_display": "Oct 28, 2025",
+    "query": "Newsom economy",
+    "image": "",
+    "real_url": "https://www.newgeography.com/content/008702-can-america-really-afford-a-gavin-newsom-presidency",
+    "bias": "C",
+    "topic": "General",
     "region": "US"
   },
   {
