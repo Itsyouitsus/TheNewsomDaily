@@ -1,5 +1,37 @@
 [
   {
+    "id": "1504268ceb70",
+    "title": "New Supreme Court ruling won\u2019t change CA maps, but could hurt Dems",
+    "source": "CalMatters",
+    "source_url": "https://calmatters.org",
+    "source_domain": "calmatters.org",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zTktlUVlNbDZ2bnFVYjZWNEM0ODFSXzhnTFIzb2RkaW52eDJOZXRoYTl5SVN1RzFnN0tNbl9NWEpWZGFTeThZOVYwVGk1X01vbWhONWQ5TTQzTEZ4UmtQM1ZnLWZneVB6Qmp5cTBR?oc=5",
+    "published": "2026-04-30T13:00:00+00:00",
+    "published_display": "Apr 30, 2026",
+    "query": "Newsom Democrat",
+    "image": "https://i0.wp.com/calmatters.org/wp-content/uploads/2024/03/030524_OC-Election_LJ_CM_08.jpg?fit=2000%2C1333&ssl=1",
+    "real_url": "https://calmatters.org/newsletter/voting-rights-act-decision/",
+    "bias": "?",
+    "topic": "Domestic",
+    "region": "US"
+  },
+  {
+    "id": "01a3f46aace2",
+    "title": "California&#x27;s lieutenant governor is basically powerless. Meet five who want the job",
+    "source": "CalMatters",
+    "source_url": "https://calmatters.org",
+    "source_domain": "calmatters.org",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeG5vb0xVdHJWS3I1dFU5cXkxQ2ZsZ0hybEdZVG5tTGlYcS1DTkJzbGFxYnRXcHBvaUFndXNBVmxwY25YWTQzNlBTWDQxdjdhYU0zdC1ZcjBNdVIxb0RrVXg5TlhBWms1VVF0bXZuejVjMTY1bW1tVVV6YmhhbEJYQ05R?oc=5",
+    "published": "2026-04-30T12:30:00+00:00",
+    "published_display": "Apr 30, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://i0.wp.com/calmatters.org/wp-content/uploads/2022/02/07102018-Michael-Tubbs-AP-CM-01.jpg?fit=2000%2C1278&ssl=1",
+    "real_url": "https://calmatters.org/politics/2026/04/california-lieutenant-governor-race/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "87ebaa02990e",
     "title": "June primary tees up 3 hot races in Shasta County, governor&#x27;s race",
     "source": "Record Searchlight",
@@ -813,6 +845,22 @@
     "real_url": "https://www.sacbee.com/news/politics-government/capitol-alert/article315572235.html",
     "bias": "?",
     "topic": "Domestic",
+    "region": "US"
+  },
+  {
+    "id": "eb421c7a944a",
+    "title": "Michigan governor&#x27;s claims of free programs is misleading",
+    "source": "AOL News",
+    "source_url": "https://www.aol.com",
+    "source_domain": "www.aol.com",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGpWZy1SWTF5YzRXT1lWMWVHdUt2TTluR3RhbWRCbmxnNXhBVl90dzJZUHhuS1NlZEFBUWIyTHVJVFhMQ00zTS1kOUtTSTU3QnlJS1lsa2p4UlRzUjdzT3NId2c5RlFPU21aSWtkcEgtRG9KWlJibjNKcTNOOTluUkhZbDVkUQ?oc=5",
+    "published": "2026-04-29T16:15:39+00:00",
+    "published_display": "Apr 29, 2026",
+    "query": "Newsom policy",
+    "image": "https://s.yimg.com/lo/mysterio/api/7E6D9E1A19EE5D986C04233010D2296900B1ADE2355C69728A7113A966D72502/subgraphmysterio/resizefill_w1200_h908;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_holland_sentinel_950%2F0d079fce26b4654ecb515dce159e7cd4",
+    "real_url": "https://www.aol.com/news/michigan-governors-claims-free-programs-161238088.html",
+    "bias": "C",
+    "topic": "General",
     "region": "US"
   },
   {
