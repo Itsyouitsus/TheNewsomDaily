@@ -1,5 +1,21 @@
 [
   {
+    "id": "9b0b74ba644f",
+    "title": "Bill Gates Once Called Tesla&#x27;s Semi Truck Impractical, But Gavin Newsom May Need Elon Musk&#x27;s All-Electric",
+    "source": "Benzinga",
+    "source_url": "https://www.benzinga.com",
+    "source_domain": "www.benzinga.com",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYS05X0NfbWpkR0JjUmZkUTduN0pvcmgzdERoSS1ERUhJWXNyZjBMeklESnRMb3c1QWllTzI4NnZFUmlYT0VlTHpiZGhLRkpoMlJvQlJJSUxud2xOOTlyTUlMR2hlZGlPMjdxRDFfamRnV3RDMWpFV1JoUmZ2NEZIZllEQ1dZc3FUNVVZM0toU3JqT0piNjRBaEhSMk1LVjRDYk93aDBvZjNTUFpsc01yYm1JSmtMRFdoMTJyR0VJODZpMnN3dkx6VGZGN3Roenc?oc=5",
+    "published": "2026-05-01T07:02:24+00:00",
+    "published_display": "May 01, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://cdn.benzinga.com/files/images/story/2026/05/01/Bill-Gates.jpeg?width=1200&height=800&fit=crop",
+    "real_url": "https://www.benzinga.com/markets/tech/26/05/52205001/bill-gates-called-tesla-semi-truck-impractical-gavin-newsom-may-need-it-elon-musk",
+    "bias": "?",
+    "topic": "Domestic",
+    "region": "US"
+  },
+  {
     "id": "8a16258e5101",
     "title": "California Governor Gavin Newsom takes on Joe Rogan after podcaster calls him a \u2018cardboard cutout of a person\u2019",
     "source": "The Independent",
@@ -477,6 +493,22 @@
     "real_url": "https://statescoop.com/california-appoints-cio-chris-given/",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "32417a516436",
+    "title": "New plans, new price tag for California\u2019s high-speed rail project",
+    "source": "KTLA",
+    "source_url": "https://ktla.com",
+    "source_domain": "ktla.com",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yLU9idXhMRDQxRjF0TkpHbDc0am9HNmJfUGpDb1NVMU9UOExTRVItYXFwcEFGanNxa2RicDlMUWh3NjdhbmM5VEdDaFRySndIOE5Ia1F4cTRfb2xvSzRzaUNIODREamRpUXFyMTNWZ1Q4bnctR09Qd0NMUVk5WEXSAYQBQVVfeXFMUGpPTm9qQVpCUHdzdW05NXdlRUJMRDRLTTR1Ym5JZF9uVlZrSGQtZVZ2Y09LbmVhbmFyMS1jXzRKYTFNaG51djBOSHlBU2xIQW5CSlNXbnFTSWxxT05GOHNvSzJCQWM1Z09zUVQ3RE5pc0I2S2RZT1Znd1dYWTBzWmpHeHpU?oc=5",
+    "published": "2026-04-30T15:38:45+00:00",
+    "published_display": "Apr 30, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://ktla.com/news/california/california-high-speed-rail-cost-increase/",
+    "bias": "?",
+    "topic": "Immigration",
     "region": "US"
   },
   {
@@ -51099,6 +51131,22 @@
     "image": "https://www.salon.com/app/uploads/2024/12/nancy_pelosi_2185021247.jpg",
     "real_url": "https://www.salon.com/2025/10/23/pelosi-california-cops-may-arrest-ice-agents-if-they-violate-law/",
     "bias": "L",
+    "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "39b7a77d0706",
+    "title": "\u2018You know better\u2019: Newsom warns Californians after Trump pauses Bay Area immigration surge",
+    "source": "KTVU",
+    "source_url": "https://www.ktvu.com",
+    "source_domain": "www.ktvu.com",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDNXWXRnSjlZTXcycHZGWDgyTWpVUHZ5VFFUcXlUd0NnQ2FrZjVpT3NnR2NsbGpoTGVxUTR3ZXcyRFBGLUxRRjRyZHoxTnE0RDF4WTE5ekQ3emlXQ3JfTmZONUxWT2RwRHNGMUI5bDdsRTVJOWRoMzBWOXRRQ0Z4bC1CTEQ?oc=5",
+    "published": "2025-10-23T07:00:00+00:00",
+    "published_display": "Oct 23, 2025",
+    "query": "Newsom immigration",
+    "image": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2025/10/1200/630/gettyimages-2159615518-1-scaled.jpg?ve=1&tl=1",
+    "real_url": "https://www.ktvu.com/news/newsom-trump-san-francisco-federal-immigration-surge",
+    "bias": "?",
     "topic": "Immigration",
     "region": "US"
   },
