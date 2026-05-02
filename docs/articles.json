@@ -1,5 +1,37 @@
 [
   {
+    "id": "e80112fc710d",
+    "title": "Waking Up the Possums",
+    "source": "The Progressive",
+    "source_url": "https://progressive.org",
+    "source_domain": "progressive.org",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IazJEWWVsSUxmQ3VRNkNUc2Y3RnFPTklySjFZREY5RXBGQTRmSndyUHd6TTd3N2plY1A1bVRjaks4cGNCVjN4Z0pPcU5YY1c5OFItN0ZzTHVqUzgtWnNIMnZrY1l1b2hiNk9FM1NpRDBHWnZpOGMw?oc=5",
+    "published": "2026-05-02T10:30:00+00:00",
+    "published_display": "May 02, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://progressive.org/downloads/22815/download/GavinNewsom.jpg?cb=0d18783daeff9be3b84cdfc2bcaccb21&w=1200",
+    "real_url": "https://progressive.org/magazine/waking-up-the-possums-ali-20250501/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "0795f87f2afa",
+    "title": "Steve Hilton&#x27;s Unlikely Surge in California\u2019s Race for Governor",
+    "source": "AsatuNews.co.id",
+    "source_url": "https://www.asatunews.co.id",
+    "source_domain": "www.asatunews.co.id",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGb3NFaTJjb3RCc2N2aVo1SHZXTlppR2Q2YVNCUDBKSENxcTlIdXk4aXZoQ1lnSlc3TkFkc29OQkI2cW9rVTN4WGZHRkNHRHRucnhnUnBSTVlDYUdqMFEyOHYwY1NaNk9rdUVRSG1iNXhtNzVpNWs4?oc=5",
+    "published": "2026-05-02T10:10:19+00:00",
+    "published_display": "May 02, 2026",
+    "query": "Newsom Democrat",
+    "image": "",
+    "real_url": "https://www.asatunews.co.id/en/steve-hilton-california-governor-race",
+    "bias": "?",
+    "topic": "General",
+    "region": "Asia"
+  },
+  {
     "id": "4fcc46bc9e9c",
     "title": "Steve Hilton: could this British former Fox News host be California\u2019s next governor?",
     "source": "The Guardian",
@@ -764,6 +796,22 @@
     "image": "",
     "real_url": "https://www.sfchronicle.com/entertainment/article/newsom-joe-rogan-podcast-22235883.php",
     "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "43165a35bd61",
+    "title": "KFF Health News: California Governor Gavin Newsom, Early Champion of Single-Payer, Moderates in the Face of Fiscal Limits",
+    "source": "Sierra Sun Times",
+    "source_url": "https://goldrushcam.com",
+    "source_domain": "goldrushcam.com",
+    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNX0dIVi1hM1VVYlB3U0xTc3l3VUoxZmk1WVRuc20yWVlhbElVcnN6NTRLTC1ka2tKUm5fblNFcEVheXNBN2VwVExqU2QwQUNEbHhDelJUMVFhMGxLeGxMaXhDVWMtOHMxRDJ5ckZVZWJwNjVCQkV5c0ZQTGR4UElZUDRUNTJMbXVjbjE1bVg1OG9maERTTm8yYTdpWmE4NzBoZ3BCTzduejFtN1dxell4ZXF0bjN0V21aUWxqdDhjX1IyNGQ5VllLUWhsWEhvcV9xN3VZUXZZckZnQ21iX01OeUU2aV9FVUJsZTFNV3ByMWdKS3BxNERkalJtXzUwWnpOUlhzZkhqdm1kRGF3X1diVzV0bzR0MTUt?oc=5",
+    "published": "2026-05-01T13:16:44+00:00",
+    "published_display": "May 01, 2026",
+    "query": "Newsom California",
+    "image": "",
+    "real_url": "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/77708-kff-health-news-california-governor-gavin-newsom-early-champion-of-single-payer-moderates-in-the-face-of-fiscal-limits",
+    "bias": "LL",
     "topic": "General",
     "region": "US"
   },
@@ -1549,6 +1597,22 @@
     "real_url": "https://statescoop.com/california-appoints-cio-chris-given/",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "b8567cbade48",
+    "title": "61 days later, no plan: Trump\u2019s Iran war drives national gas prices to a four-year high, sending prices soaring across the economy",
+    "source": "California State Portal",
+    "source_url": "https://www.gov.ca.gov",
+    "source_domain": "www.gov.ca.gov",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNHhqM3ZyOFFzUWRqNEdaWkVFRmV4bmhRUnkzcmJwVVVsZWNtZHpCQk1tamJYS1NfRzBwRHRzdWRQR2ZWRmVlLUpyQ3otZUx3anJJRVpONnRTejFNVzZ5SHhYUlBEVnhycEdOcE5HZWJISmF2Z09zc0VCcXJwTTJsRU4tZ3ByTEJPR0FqaURVTDBpb0M1OVc2c3IwWXp6elN5ZjFKSC1wU3ZlNERUaDNhWldNX3M1T0RHOW85dzZSUXlXbnI2MEZ3VlZQcGxIcTZRUFRGck5vcVNRN0RuUnZ5b0NBbXlNLXZ5NGhVbTlSYW9pQ0k?oc=5",
+    "published": "2026-04-30T16:57:04+00:00",
+    "published_display": "Apr 30, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://www.gov.ca.gov/wp-content/uploads/2026/04/61-days-later-no-plan_-Trumps-Iran-war-drives-national-gas-to-a-four-year-high-sending-prices-soaring-across-the-economy-SEO-GFX.png",
+    "real_url": "https://www.gov.ca.gov/2026/04/30/61-days-later-no-plan-trumps-iran-war-drives-national-gas-prices-to-a-four-year-high-sending-prices-soaring-across-the-economy/",
+    "bias": "?",
+    "topic": "Iran",
     "region": "US"
   },
   {
@@ -48318,6 +48382,22 @@
     "bias": "C",
     "topic": "2028 Race",
     "region": "US"
+  },
+  {
+    "id": "aca8a6b78d80",
+    "title": "Gavin Newsom pushes back on Trump AI executive order preempting state laws",
+    "source": "The Guardian",
+    "source_url": "https://www.theguardian.com",
+    "source_domain": "www.theguardian.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRnV4WGFuNU9oZThqeGNmTFVCLVBiNUwxR212cWhwd2lWMXlpM3lqMG9va0FhWHZOdHpZOUdhSDB5WTRmc3UydTRkT0otTkVBcjFCM2NaQ3Vpc2VkYWM3NG1TRFNOSUpFUFQxRWtubVRsaE90MDN2WWd2MFl3aFhNUVpyYkxPTkQ2QWhrMnNLZ0pOZzByQXJBZG5xM2kzVW9o?oc=5",
+    "published": "2025-12-13T08:00:00+00:00",
+    "published_display": "Dec 13, 2025",
+    "query": "Newsom policy",
+    "image": "https://i.guim.co.uk/img/media/21af5acb55dd16738e005654de513c074ffea5f1/437_0_4366_3493/master/4366.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d92836eab40d0aa5dca7f4c983146905",
+    "real_url": "https://www.theguardian.com/technology/2025/dec/13/california-ai-executive-order-trump-gavin-newsom",
+    "bias": "LL",
+    "topic": "Tech & AI",
+    "region": "Europe"
   },
   {
     "id": "07573670e730",
