@@ -1,5 +1,53 @@
 [
   {
+    "id": "6b423db0c9d3",
+    "title": "Bill Maher Confronts Gavin Newsom Over \u2018Imitating\u2019 Trump: \u2018Trolling\u2019",
+    "source": "Newsweek",
+    "source_url": "https://www.newsweek.com",
+    "source_domain": "www.newsweek.com",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR0w4eUYtOV96SWtqZ1dRR1Z5aUxDd29NbDc3Tm9oSWp5Z1NRWHJxNFA5ZThHS19CUXFtVjFJQzcwZkFNQkJxXzMzLWV1RzBNa3BEdlBIVmptTUhBZ2dibE9UUjJTZ0RDSlI5SVBiSDVRWFBTUF9mWDZzZFVWeE9hZW5JU0FjOEQ2T053NEZsd05mamxpaDhqdlJ3UDVNdw?oc=5",
+    "published": "2026-05-02T16:45:00+00:00",
+    "published_display": "May 02, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://assets.newsweek.com/wp-content/uploads/2026/05/Copy-of-32-Split-Screen-1.jpg?w=1200crop=1",
+    "real_url": "https://www.newsweek.com/bill-maher-confronts-gavin-newsom-over-imitating-trump-trolling-11906045",
+    "bias": "LL",
+    "topic": "Domestic",
+    "region": "US"
+  },
+  {
+    "id": "d3a3e4072c3f",
+    "title": "Newsom Defends Anti-Theft Efforts Amid $267M Hospice Fraud, Billionaire Tax Battle with Brin",
+    "source": "IndexBox",
+    "source_url": "https://www.indexbox.io",
+    "source_domain": "www.indexbox.io",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzBib0RGX1p3cUlibnZ3VDV0cXA0MEtGQlEtdjAwalNJLTYyb2Jsakc4NUI3aFhrOGNMVWU5MUQzX1FwM0Q0RWVXc1ZhV1U1RFdTOTY5alNJN1lOUElYcF8zSGpKNUdDSDlVUGpZVVp3U3p0Y3preWZLZWFuR1lmVlVUM3FrNnhUYk1pcmE1bWtsWVRHM3VVSEUtLW5zY1V5a1pTUW9yMzhOcWJtc09VOTZFeFQ4ak1fcVE?oc=5",
+    "published": "2026-05-02T16:30:00+00:00",
+    "published_display": "May 02, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://www.indexbox.io/landing/img/blog/telegram-fallback/3523bf21d9ea85e7cf15faf0f6e92211.webp",
+    "real_url": "https://www.indexbox.io/blog/californias-267-million-hospice-fraud-case-and-newsoms-wealth-tax-clash-with-sergey-brin/",
+    "bias": "?",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
+    "id": "07df8a53a596",
+    "title": "California Gov. Newsom calls WHCD shooting \u2018evil,\u2019 blames Trump for political climate",
+    "source": "Washington Times",
+    "source_url": "https://www.washingtontimes.com",
+    "source_domain": "www.washingtontimes.com",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZDYyeTl2X2hqOFVPbnROTzFNYlFJUlJQOTZNNnJzUnZXU0RZazBjUkhrVENLMVU3OXRxRlZzN3J4eHo0QjdUeWt6bFpJbWdoaVZjNnBZVnl6ekNMNzY4Q0hhWXM4RFJKWFpmS3hlQmdiLVJfN3ZiR2FlakdnRmFTNnA4T0lZd19qOS1uSUtiR1hWcTJ1MVJRMWUxRzNuel96QW1CWFg3WlJJY2E4TWEwTzFEcFA1NHIyMVE?oc=5",
+    "published": "2026-05-02T16:21:09+00:00",
+    "published_display": "May 02, 2026",
+    "query": "Newsom California",
+    "image": "",
+    "real_url": "https://www.washingtontimes.com/news/2026/may/2/california-gov-newsom-calls-whcd-shooting-evil-blames-trump-political/",
+    "bias": "LR",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "2c07dc19c571",
     "title": "Bill Maher accuses Gavin Newsom of &#x27;imitating Trump&#x27; in scathing interview",
     "source": "AOL News",
@@ -80,6 +128,22 @@
     "region": "US"
   },
   {
+    "id": "a265e592f5c3",
+    "title": "Bill Maher clashes with Newsom over CA leadership, says other side will ask, \u2018Have you seen the stats?&#x27;",
+    "source": "Fox News",
+    "source_url": "https://noticias.foxnews.com",
+    "source_domain": "noticias.foxnews.com",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdklQbHV4dFdTVzlOX0pXVzQ5bkRkcXlIZTI3Wml6ZTZrR3pmeXhGTGhSRDY1V25iVjNyeDJHRXhXdG0zZzJJbGo5RFExWXhWeVhjcFZQWnJJWTY3T3p2RHVaYkdWNkQ4aTVVSFFRY0NKQXpOS21HTjVtUmYtMUVhS1hlZUptQ3l3S0ZJQTh1bmJyWkpyS3RDZmIwTHFjOGxDbTBPUGtZeGJ0dGw3TDFIT0ZvRU12QjhkQ1RR0gHAAUFVX3lxTE5tV0IzbENqUnZhSi1pZGZjZUUzTHFKUXQ0aXZKanNocTNjR0xaUVdNZXFTMjB5Y2wtaFlzTFAwUUlHWmloX2NLTXNXelBCOGZVZXdhY0EtNHE5VV9mTVhNaVdjZzhfSHRVWWgzTHlqZ2k5QzQyN3NHMFVacmE5a2N6V2ViQ0paZW9NY0pLVjN6dGdITWg0QlR5Ukc0X3hDQThLTlY3UXNfX3B5Yl9hb0tCRVh1UF9saGlBNThuN0RDMg?oc=5",
+    "published": "2026-05-02T14:57:42+00:00",
+    "published_display": "May 02, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/7c0c1394-newsom-maher.png",
+    "real_url": "https://noticias.foxnews.com/media/bill-maher-clashes-newsom-over-ca-leadership-says-other-side-ask-have-you-seen-stats",
+    "bias": "R",
+    "topic": "Domestic",
+    "region": "US"
+  },
+  {
     "id": "0833ef5631fb",
     "title": "Newsom&#x27;s Challenge: His Wife&#x27;s Coastal Contempt Exposed",
     "source": "The Daily Signal",
@@ -125,6 +189,22 @@
     "real_url": "https://pasadenanow.com/main/governor-newsom-visits-pasadena-job-training-program",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "7430668d73ce",
+    "title": "Bill Maher Confronts Gavin Newsom Over &amp;#039;Imitating&amp;#039; Trump: &amp;#039;Trolling&amp;#039;",
+    "source": "Newsweek",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.newsweek.com/bill-maher-confronts-gavin-newsom-over-imitating-trump-trolling-11906045",
+    "published": "2026-05-02T12:45:38-04:00",
+    "published_display": "May 02, 2026",
+    "query": "direct_feed",
+    "image": "https://assets.newsweek.com/wp-content/uploads/2026/05/Copy-of-32-Split-Screen-1.jpg?w=1200crop=1",
+    "real_url": "https://www.newsweek.com/bill-maher-confronts-gavin-newsom-over-imitating-trump-trolling-11906045",
+    "bias": "LL",
+    "topic": "Domestic",
     "region": "US"
   },
   {
@@ -38253,6 +38333,22 @@
     "real_url": "https://www.heraldonline.com/news/politics-government/article314814243.html",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "b4d792e9ef12",
+    "title": "CNN Data Guru Warns Gavin Newsom Is \u2018Flailing,\u2019 2028 Dems a \u2018Clown Car\u2019 With \u2018No Clear Frontrunner\u2019",
+    "source": "Yahoo",
+    "source_url": "https://www.yahoo.com",
+    "source_domain": "www.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUjdmZEo3NHlveEgzNEtXb3YyaHJrbFpJN3JkQnVjaXNZbEhSTS1tWmxHQjBVMzJIeHJrbEpqTXEzVmR0V0RZalUtMkIyMEtVQlN4UTdDdUpfTjBveHhjRW0tRU9uN1c4VkgwMGNXbHlqRnlOMExvM1otQmlucWJDUnl3?oc=5",
+    "published": "2026-02-24T08:00:00+00:00",
+    "published_display": "Feb 24, 2026",
+    "query": "Newsom president 2028",
+    "image": "https://s.yimg.com/ny/api/res/1.2/atvjdTvzSpd4GgdEsebZsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/mediaite_845/285eda3aeee4235259378af6db8187af",
+    "real_url": "https://www.yahoo.com/news/articles/cnn-data-guru-warns-gavin-161014717.html",
+    "bias": "C",
+    "topic": "2028 Race",
     "region": "US"
   },
   {
