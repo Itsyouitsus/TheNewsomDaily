@@ -1,5 +1,21 @@
 [
   {
+    "id": "0833ef5631fb",
+    "title": "Newsom&#x27;s Challenge: His Wife&#x27;s Coastal Contempt Exposed",
+    "source": "The Daily Signal",
+    "source_url": "https://www.dailysignal.com",
+    "source_domain": "www.dailysignal.com",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NLVB5WmtBZ3ctSFpBRlZVS0VBUF9OZzQ5ajA1SEZGa3hKa1hfUm84eWVpbW5zRzlrUERabWs4VlhkcEFhd2VOb1hFOXdhTTFUWjFVNFlQTUpCSXBrbE9KQ2d4S2JWZ25aT29fSkZ4ajg0Ym5CMi1LRW9qOUdKdw?oc=5",
+    "published": "2026-05-02T14:00:00+00:00",
+    "published_display": "May 02, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://static.dailysignalmedia.org/JNewsom-GettyImages-2240036833.jpg",
+    "real_url": "https://www.dailysignal.com/2026/05/02/newsom-flaw-wife-coastal-contempt/",
+    "bias": "R",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "1e3d86dac5eb",
     "title": "Gavin Newsom says he\u2019s \u201cputting a mirror up to Donald Trump\u201d after Bill Maher accuses him of imitation",
     "source": "Decider",
@@ -61,6 +77,22 @@
     "real_url": "https://www.yahoo.com/entertainment/tv/articles/bill-maher-calls-gavin-newsom-121205165.html",
     "bias": "C",
     "topic": "Domestic",
+    "region": "US"
+  },
+  {
+    "id": "7233053f3191",
+    "title": "Newsom: WHCD Shooting &#x27;Evil&#x27;, Trump &#x27;Sets the Tone&#x27; and We&#x27;re Living in &#x27;Sewer&#x27;",
+    "source": "Breitbart News",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.breitbart.com/clips/2026/05/02/newsom-whcd-shooting-evil-trump-sets-the-tone-and-were-living-in-sewer/",
+    "published": "2026-05-02T11:18:24+00:00",
+    "published_display": "May 02, 2026",
+    "query": "direct_feed",
+    "image": "https://media.breitbart.com/media/2026/05/Newsom-51-Thumbnail-640x335.jpg",
+    "real_url": "https://www.breitbart.com/clips/2026/05/02/newsom-whcd-shooting-evil-trump-sets-the-tone-and-were-living-in-sewer/",
+    "bias": "R",
+    "topic": "General",
     "region": "US"
   },
   {
@@ -1085,6 +1117,22 @@
     "real_url": "https://www.benzinga.com/markets/tech/26/05/52205001/bill-gates-called-tesla-semi-truck-impractical-gavin-newsom-may-need-it-elon-musk",
     "bias": "?",
     "topic": "Domestic",
+    "region": "US"
+  },
+  {
+    "id": "211125924818",
+    "title": "Political firm with ties to people accused of stealing from Xavier Becerra is supporting his bid for governor",
+    "source": "KCRA",
+    "source_url": "https://www.kcra.com",
+    "source_domain": "www.kcra.com",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ0FXV2JPTjI3TEtyUEdfUjRNbzdyNng1NEFfOURoMV9ILUEzc2s3TU1NTXdzb1RrZFNTU3VsNnFPZndIUmJXdGMtYUdNT2N4dDlOZU5LbVk4MFl1VG5qUUpnSHk1V24waFptZnJWUTNRc0duaXBjSVZ6MURWZDhRVTEtNEZaSFc1OXlLMDB0NERYNmc?oc=5",
+    "published": "2026-05-01T03:57:00+00:00",
+    "published_display": "May 01, 2026",
+    "query": "Governor Newsom",
+    "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/xavier-becerra-ap-1576810572.jpg?crop=1.00xw:0.811xh;0,0&resize=1200:*",
+    "real_url": "https://www.kcra.com/article/xavier-becerra-bearstar-supporting-bid-for-governor/71181747",
+    "bias": "?",
+    "topic": "General",
     "region": "US"
   },
   {
