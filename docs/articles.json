@@ -1,5 +1,21 @@
 [
   {
+    "id": "bef64b94b44b",
+    "title": "Newsom Announces New Affordable Housing Projects in Los Angeles and San Francisco",
+    "source": "Davis Vanguard",
+    "source_url": "https://davisvanguard.org",
+    "source_domain": "davisvanguard.org",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CVTVhUWtXWEh1UG00Z3NqaUpDMVBOcjIwZlJIbDFCM2ZrazdhWU51WWVUbmRucGJDRjhpQWtoNWR6YXQzTVA3V1pPU1RQTzNCYWtxVWtCdHJZVnZ5ei15eWI2VkpQX3pyUHVmdlR5Z1pEZw?oc=5",
+    "published": "2026-05-03T10:59:00+00:00",
+    "published_display": "May 03, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://davisvanguard.org/wp-content/uploads/2026/05/Affordable-LA.webp",
+    "real_url": "https://davisvanguard.org/2026/05/newsom-opens-affordable-units/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "0170f1a4f9a5",
     "title": "Taxes, program cuts and Newsom\u2019s legacy on the line in budget negotiations",
     "source": "Los Angeles Times",
@@ -51005,6 +51021,22 @@
     "real_url": "https://californiaglobe.com/fr/doj-files-lawsuit-against-california-to-protect-federal-immigration-officers/",
     "bias": "?",
     "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "f4f9b25addef",
+    "title": "Gavin Newsom Announces $100 Million For Thousands Of California Jobs",
+    "source": "Newsweek",
+    "source_url": "https://www.newsweek.com",
+    "source_domain": "www.newsweek.com",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMVhOeTFUV2trT3lyZDZibmFpT1FMTjFCZTlud2d0ZE1RbjloX3ZxNWhfSVc0VE8wMFBwU2JVMHR2cEpZTHJGQ0tlV1lxaHlRek5VcDQ4TGZQVEliZngxOFVmU0poV0NfMldveTh6Y3ZZUUFndXM0SEtjNnRnMzBVb3NuN0w0U0VfMTUyV3Z0LTJhcnpYNkM3ZXcwMEF0OEpYaGxR?oc=5",
+    "published": "2025-11-18T08:00:00+00:00",
+    "published_display": "Nov 18, 2025",
+    "query": "Newsom economy",
+    "image": "https://assets.newsweek.com/wp-content/uploads/2025/11/GettyImages-2245721216_4bf131.jpg?w=1200crop=1",
+    "real_url": "https://www.newsweek.com/gavin-newsom-announces-100-million-for-thousands-of-california-jobs-11065992",
+    "bias": "LL",
+    "topic": "Economy",
     "region": "US"
   },
   {
