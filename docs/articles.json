@@ -1,5 +1,37 @@
 [
   {
+    "id": "5b178359653b",
+    "title": "&quot;I say this as a friend.&quot;",
+    "source": "Facebook",
+    "source_url": "https://www.facebook.com",
+    "source_domain": "www.facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUWxTM1gtUDlKQjJOYkZVb1B0d2NUVTgxbEo2Y0NzRndmTjlGSVA0bXZIWlJqb3hQb190NmdXbndOdGhzSllZSkRlWGRQR0Y5RTlFbmpOYTFJbm0wTG9nT2xtNEE0aVNRcTN0Z1dnZ3hETmo1STJ5VnhaVjdrXzB6MlpVQUVQbXR2TTRWWjhqbVI1X0lK?oc=5",
+    "published": "2026-05-03T20:00:43+00:00",
+    "published_display": "May 03, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1705337084280922",
+    "real_url": "https://www.facebook.com/officialbenshapiro/posts/i-say-this-as-a-friend/1705337114280919/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "ef30f6e73e85",
+    "title": "\u2018It\u2019s never too late\u2019: Why Tony Thurmond says he shouldn\u2019t be counted out of the California governor race",
+    "source": "AOL News",
+    "source_url": "https://www.aol.com",
+    "source_domain": "www.aol.com",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sSE5pYkpQM1Z6V1N3OEt6NUpHLWVfdUpDU2gtSkxMNUdkeUFHSXk0VFRxQkh1RmVGR3lQcDhleXdVMEZoUHRWR21mMllqeDEwRDdIOExRQUpnbnpBSHpLZTh5YWVwRmhfSjJBU3pkMVdzdWcweUE?oc=5",
+    "published": "2026-05-03T19:21:10+00:00",
+    "published_display": "May 03, 2026",
+    "query": "Newsom California",
+    "image": "https://s.yimg.com/lo/mysterio/api/217CC9F7B550F133413F6C45D0D698B89ABDCCAF11D6809B8EC66E8EB62386F0/subgraphmysterio/resizefill_w900_h599;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_ktxl_articles_795%2Fba3df44b0f83fab16d8dc63263c2dff5",
+    "real_url": "https://www.aol.com/news/never-too-why-tony-thurmond-140000991.html",
+    "bias": "C",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "61ae3585943b",
     "title": "Read McClatchy Media\u2019s endorsement for California\u2019s insurance commissioner",
     "source": "AOL News",
