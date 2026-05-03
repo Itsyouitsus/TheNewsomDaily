@@ -1,5 +1,37 @@
 [
   {
+    "id": "7e113be99c6c",
+    "title": "Gavin Newsom\u2019s truth decay",
+    "source": "Yahoo",
+    "source_url": "https://www.yahoo.com",
+    "source_domain": "www.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS1dScHNENG4wMmtxM2VwYWlxTGw0ZndtaVhrUy1sS3ljLTZoMUVYczhIVWY1eExVTDBoQ2g5V0JoYUtRZV9FT1V0aWNpelQ5M0I4bmU3UWxKcXEycEdBc1FxMkxZYWNTS0llVElleUlJVEZqOE9mYTd2LUhSMDVBNA?oc=5",
+    "published": "2026-05-03T23:24:04+00:00",
+    "published_display": "May 03, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://s.yimg.com/ny/api/res/1.2/maBbmaaf1YTFrAwKsnXrIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/california_post_772/bfd567d9ff19e5e4cc634334fe2442c7",
+    "real_url": "https://www.yahoo.com/news/articles/gavin-newsom-truth-decay-232404838.html",
+    "bias": "C",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "4ee8717632c5",
+    "title": "California governor Gavin Newsom&#x27;s truth decay",
+    "source": "New York Post",
+    "source_url": "https://nypost.com",
+    "source_domain": "nypost.com",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeDFNcGFjRDFUNEJGNlV3blpNQmhjcWw4Q1MyQXFJdnRCVlo0cGtacl93UkowQURBQjJKcU56UllJT21QNUI4Qk5mcWhHWmZTdG9HLTN5OVNpSklXb09BeFRPNWRLM1oxWjUwMTRvaE9KN29sckZYbTBNY25nTWlzSFRHNUFxQjNvVlEtbw?oc=5",
+    "published": "2026-05-03T23:24:00+00:00",
+    "published_display": "May 03, 2026",
+    "query": "Newsom California",
+    "image": "",
+    "real_url": "https://nypost.com/2026/05/03/opinion/california-governor-gavin-newsoms-truth-decay/",
+    "bias": "LR",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "5b178359653b",
     "title": "&quot;I say this as a friend.&quot;",
     "source": "Facebook",
@@ -41920,6 +41952,22 @@
     "region": "US"
   },
   {
+    "id": "620c726b1e85",
+    "title": "&#x27;Acts of a dictator&#x27;: Newsom lashes out at Trump after arrest threat",
+    "source": "ABC News",
+    "source_url": "https://abcnews.com",
+    "source_domain": "abcnews.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZjFIbWtRWWQ5MVpYdmREUWZBZkZwNXVUVVR4N1FvRW12UFkyUWFkaTRJTm1WSGxnUW1oLXAyeE5Nd3RHOTlfSVlhT0doS1E2UE9TSzJITzhxZ2pZa1oyZDhQNXBvUDdFcU4xTU9taTMzeGI5LUdrb3lfUmN5QzViR2VUdGh6QkprQ3d4SThYZVhabk5uMzA2RnFnSTdfdm1r0gGmAUFVX3lxTE1LSXlYLTVHYW12NVhCQ1l0ZWRCMmlIUFNXWHJ3M1VEVUJWZU5NVlpZX1dKWkRheDlreDlRNkVWOUtDQ09WM3lXcG1SZWZ2cTdESGkwZ2E5QV81aXNGY0pvQzdQRU0zOWYzQk92Y0VoTVV4WVhPYlpOR3B5ckpkRmI4Tk9wUkM1XzVFeDV4eWY0U0s0cERWUVV0OVRqcERZcnBzdG9iM0E?oc=5",
+    "published": "2026-02-11T11:26:04+00:00",
+    "published_display": "Feb 11, 2026",
+    "query": "Newsom immigration",
+    "image": "https://i.abcnewsfe.com/a/977f7b2c-cde5-4d2a-8ac9-a46cf62b6cfc/trump-newsom-1-rt-gmh-250609_1749492219435_hpMain_16x9.jpg?w=1600",
+    "real_url": "https://abcnews.com/Politics/war-words-trump-newsom-la-protests-escalates-arrest/story?id=122662589",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "323a5bb85d0e",
     "title": "US troops on the ground in LA immigration enforcement operation, DOD says",
     "source": "ABC News",
@@ -51357,6 +51405,22 @@
     "real_url": "https://www.foxnews.com/politics/doj-sues-newsom-over-california-measure-giving-illegal-immigrants-college-tuition-benefits",
     "bias": "R",
     "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "bae336d24e08",
+    "title": "Mayor Bass Welcomes Baywatch and Major Productions Back to Los Angeles",
+    "source": "City of Los Angeles (.gov)",
+    "source_url": "https://mayor.lacity.gov",
+    "source_domain": "mayor.lacity.gov",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeVlXLWtuTjVETjB1NXRpZnVQRDdLbldINTU3OGdqT1ZTX21tYXNTcjNHdW9iWE5JT2lSZmliUUZkWFRvY2h2cE9BWVBWOEVjM2JwWjFnWWV5Mk1TYUdmRUlUanJrbW1FUjJRVlY5UDFINEZrQWo4QUpneTBHN0hmQ3I4Yk9CbElodmltblAtUkxFM0d0SXJhaC1iRXJyZw?oc=5",
+    "published": "2025-11-20T08:00:00+00:00",
+    "published_display": "Nov 20, 2025",
+    "query": "Newsom economy",
+    "image": "https://mayor.lacity.gov/sites/g/files/wph2066/files/2025-05/hollywood.jpg",
+    "real_url": "https://mayor.lacity.gov/news/mayor-bass-welcomes-baywatch-and-major-productions-back-los-angeles",
+    "bias": "?",
+    "topic": "General",
     "region": "US"
   },
   {
