@@ -1,5 +1,21 @@
 [
   {
+    "id": "763595c0e733",
+    "title": "Gavin Newsom Says Trump &#x27;Destroyed&#x27; Spirit Airlines: &#x27;Affordability Is A Hoax&#x27;",
+    "source": "Benzinga",
+    "source_url": "https://www.benzinga.com",
+    "source_domain": "www.benzinga.com",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaE5CTlR1dTZyb0hDaXM1bnFvUDlva2tONTZkRHZhYmhhbG5jNF9qRVpQbGZvU3l4T2YzS2FybktxX1hwNTloVVBIQXdzTGh1QlpVWW9mZ1BKbjlfTGJ5RXplU2tnaXJFaVhCa0RLOFY3TnV3M0h3LVA5anFDNmctQlpjUDZORGI0bEFKSmhUSGRqeUlWclFUckJrSGtyS2ZXdl9sdXFIYk96LVVYQzFwUkxvVDRSYmw3RWNSODNNN21LTlpKZWc?oc=5",
+    "published": "2026-05-05T08:49:31+00:00",
+    "published_display": "May 05, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://cdn.benzinga.com/files/images/story/2026/05/05/President-Donald-trump-gesturing-emphati.jpeg?width=1200&height=800&fit=crop",
+    "real_url": "https://www.benzinga.com/news/politics/26/05/52273127/gavin-newsom-says-trump-destroyed-spirit-airlines-affordability-is-a-hoax",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "f8476278c9a1",
     "title": "COMMENTARY: Answer key questions before changing leadership of California\u2019s Department of Education",
     "source": "EdSource",
@@ -40688,6 +40704,22 @@
     "region": "US"
   },
   {
+    "id": "db5ca9ad1190",
+    "title": "Newsom Taunts Trump Over \u2018Big Speech Day\u2019 in Wild Troll Post",
+    "source": "Yahoo",
+    "source_url": "https://www.yahoo.com",
+    "source_domain": "www.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUy1uNm40THZmQ2NLWnZ2MFBTaUFvV3BmMnZGcFFvM2hBa1BBaDNvSGhGTlEteExjMU1UMmlZVkd0Y2xnY0x6V1B5cjVUNWh4VnE5a1VJd1hwQUc4blh5SEowcjg3QUl5VVR2ZkxvNGt5UWRvOXdYV3ZHRU9xZm9rb1h4RU5XUQ?oc=5",
+    "published": "2026-02-24T08:00:00+00:00",
+    "published_display": "Feb 24, 2026",
+    "query": "Gavin Newsom speech",
+    "image": "https://s.yimg.com/ny/api/res/1.2/.nBZ_ka7eaJrYDU1hwVScw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/thedailybeast.com/3dad2f8eab4679810072774e1cdeee15",
+    "real_url": "https://www.yahoo.com/news/articles/newsom-taunts-trump-over-big-190609882.html",
+    "bias": "C",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "ff61b2dc887d",
     "title": "Newsom Pardons Convicted Attempted Murder Illegal Alien, Shields Him From Deportation",
     "source": "California Globe",
@@ -57642,6 +57674,22 @@
     "image": "https://www.dailynews.com/wp-content/uploads/2025/09/AP25263665344439.jpg?w=1024&h=682",
     "real_url": "https://www.dailynews.com/2025/09/20/newsom-signs-package-of-bills-in-los-angeles-to-restrict-immigration-raids/",
     "bias": "?",
+    "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "431a33de0f14",
+    "title": "Newsom signs bill barring on-duty federal officers from wearing masks in California",
+    "source": "CBS News",
+    "source_url": "https://www.cbsnews.com",
+    "source_domain": "www.cbsnews.com",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWDQxaE9QaDVkVWFhVlhTaWpnRG1nZEJKRXdacU0wMWc1SW14LVd2TXQ3Nmd0TFNhZlFoMFVQZVY4bW50TVEwajVabW9IY2FmMmxUbTFpVTBaVGtYNG1MYkxHN1NkU3ZpRHdMR3hILXYtbE9ua3AtSF9wMjdka1ozaGJOVQ?oc=5",
+    "published": "2025-09-20T07:00:00+00:00",
+    "published_display": "Sep 20, 2025",
+    "query": "Newsom immigration",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/20/407817e4-efae-47bb-bebc-f173389c3e11/thumbnail/1200x630/b5f7ee4ec7aad843ea9874a1edae8a93/screenshot-2025-09-20-123909.png",
+    "real_url": "https://www.cbsnews.com/losangeles/news/newsom-bills-immigration-protections/",
+    "bias": "LL",
     "topic": "Immigration",
     "region": "US"
   },
