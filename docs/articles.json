@@ -1,5 +1,21 @@
 [
   {
+    "id": "4eaf9901f6b2",
+    "title": "Opinion | Gavin Newsom slow-rolled single-payer healthcare, leaving it to a successor",
+    "source": "CalMatters",
+    "source_url": "https://calmatters.org",
+    "source_domain": "calmatters.org",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMDJFVXAxMUNBS0tsUF84QkhaVWFwaWs3VWxlZmV0QTA4cHl1MmZOc0ZpNzNFYjl3MVd2aFBYMGtOTE9oUkhiSEo2TDJjMzJjR29aU0dqTWlqUndtUFVESWFmT25ENUlHbUlfQVBqZUY1RHNMSHJmYVhlb1BzeE1fU0pQcUo3cnB4WUd3NzVn?oc=5",
+    "published": "2026-05-05T12:00:00+00:00",
+    "published_display": "May 05, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://i0.wp.com/calmatters.org/wp-content/uploads/2022/01/010622-JP-SINGLE-PAYER-CM-01.jpg?fit=2000%2C1429&ssl=1",
+    "real_url": "https://calmatters.org/commentary/2026/05/single-payer-healthcare-newsom-calilfornia/",
+    "bias": "?",
+    "topic": "Healthcare",
+    "region": "US"
+  },
+  {
     "id": "763595c0e733",
     "title": "Gavin Newsom Says Trump &#x27;Destroyed&#x27; Spirit Airlines: &#x27;Affordability Is A Hoax&#x27;",
     "source": "Benzinga",
@@ -141,6 +157,22 @@
     "real_url": "https://www.imdb.com/news/ni65826088/?ref_=nmnw_art_perm",
     "bias": "?",
     "topic": "Domestic",
+    "region": "US"
+  },
+  {
+    "id": "cb1d5c726438",
+    "title": "\u2018Can you guys please get out of my shot?\u2019: Katie Porter pokes fun at viral staffer video in new ad",
+    "source": "AOL News",
+    "source_url": "https://www.aol.com",
+    "source_domain": "www.aol.com",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xMGotWjFRRDdwQ2hQN1JPNkQ4Y0FzaVZtZEhZb29LdUdNZVhhcnJjbTZPazNnM3NneW1xSHhMQ2xVaGdxbW54R0t6VHB1RkM0RXBRNkNUMTZyZmwwTHhISzdIcTBMblFLdkk4Mks3VnU2Q3N2Z3FFZQ?oc=5",
+    "published": "2026-05-05T00:12:00+00:00",
+    "published_display": "May 05, 2026",
+    "query": "Newsom Democrat",
+    "image": "https://s.yimg.com/lo/mysterio/api/40CE361A13ED18BCDDD7F84FA4550D7472593B0D0D1AC876EC1ECA49E4AC86B9/subgraphmysterio/resizefill_w900_h505;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_ktxl_articles_795%2F7978a58ed1c2e4024f01a409dd0eb405",
+    "real_url": "https://www.aol.com/news/guys-please-shot-katie-porter-001211202.html",
+    "bias": "C",
+    "topic": "General",
     "region": "US"
   },
   {
