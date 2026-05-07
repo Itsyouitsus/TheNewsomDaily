@@ -1,5 +1,53 @@
 [
   {
+    "id": "5d3d3cbae7cd",
+    "title": "CA&#x27;s Project Homekey",
+    "source": "LAist",
+    "source_url": "https://laist.com",
+    "source_domain": "laist.com",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd21UdkdsNmtwNDF2ZVItdzdHamljcEd6MDRSVU1xUzVWZjUtYXhEdkdnazFGY0lENkVSOG4xODM1Z0p2ajVRQnFrS3dfMmsxcUVlelFRWFBwNW1ycGFYTzlyUXZPMjNvQnZFamd5U2V2ZGV6MVNmcnFhVVJTZXY2ekhkdU1GcHVTWVhRRzNHZXpkc0RyQ25uVXl3?oc=5",
+    "published": "2026-05-07T18:47:05+00:00",
+    "published_display": "May 07, 2026",
+    "query": "Newsom California",
+    "image": "https://scpr.brightspotcdn.com/dims4/default/ccaecd3/2147483647/strip/true/crop/2000x1050+0+192/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2F69%2Fae%2F927e3028479da85ef308d96ab371%2F092626-project-homekey-jlb-cm-34.jpeg",
+    "real_url": "https://laist.com/brief/news/housing-homelessness/did-newsom-hotels-to-housing-program-pay-off",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "3a7c58972040",
+    "title": "Gavin Newsom\u2019s Pick Xavier Becerra Faces Insider Backlash as California Governor Race Heats Up",
+    "source": "The Kenya Times",
+    "source_url": "https://thekenyatimes.com",
+    "source_domain": "thekenyatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pNFVhdDh0cTNKWGtpeVh1aktBUHRiVHBoWGlvRWpZR05fRTBxTURSc3RjbmRkMWdsbTk3RWNCc0laSjRtY29Tel9jd2Q2ZFVWQm1ZWVdfTUNWOVlKQ2x1X3JndWNLQkNE?oc=5",
+    "published": "2026-05-07T17:52:45+00:00",
+    "published_display": "May 07, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://thekenyatimes.com/americas/gavin-newsoms-becerra/",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "765063211b72",
+    "title": "During Wildfire Preparedness Week, Governor Newsom announces $70 million available for wildfire prevention and resilience projects statewide",
+    "source": "California State Portal",
+    "source_url": "https://www.gov.ca.gov",
+    "source_domain": "www.gov.ca.gov",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOLVd6OWUtWFV0QmUxRHpwRzRLRUJBeTV1VjVXTE14dW9adzc1Ym5TV0Y3S1RzblJXVzRxTUtrOXN5TEd2VjRfWE1QR3d4eTJ6VlNWZEg4dWtrX1N4X25zYmtpS1V4dUlEUkVGNEM1S2pMTkt6aFFRYW1vWWc3SFhUZlV2QmxpdGtUZ0ZlTVlIcThuUDViTnJXNjVhb0lPMTBJcjZtenpocnRMLVZfMzJRWmoxMG93RVFISTE1aFlCQ0VQNEpaMDF6VFdlRVZYa19iWEdJcjZqSmlkMmJ3NVZ5dnBxR2VXaWlDeGplVzU1R0U3b1FRREt5REM0VkM5dklBSTNJ?oc=5",
+    "published": "2026-05-07T17:10:27+00:00",
+    "published_display": "May 07, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://www.gov.ca.gov/wp-content/uploads/2026/05/Governor-Newsom-cuts-red-tape-further-suspends-Coastal-Commission-rules-to-help-LA-firestorm-survivors-rebuild-SEO-GFX.png",
+    "real_url": "https://www.gov.ca.gov/2026/05/07/during-wildfire-preparedness-week-governor-newsom-announces-70-million-available-for-wildfire-prevention-and-resilience-projects-statewide/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "1a951e54912a",
     "title": "Gavin Newsom, a candidate fit for dystopia",
     "source": "Prismreports.org",
@@ -125,6 +173,22 @@
     "real_url": "https://www.gov.ca.gov/2026/05/07/governor-newsom-launches-engaged-california-statewide-for-the-first-time-to-give-all-californians-a-stronger-voice-in-ai-policy/",
     "bias": "?",
     "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "1045c06f2074",
+    "title": "Marco Rubio\u2019s Chances of Winning 2028 Presidential Election Hit Record High",
+    "source": "Newsweek",
+    "source_url": "https://www.newsweek.com",
+    "source_domain": "www.newsweek.com",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQlVpS0Y4TFlZYzNSQ3daV0ZmaDVFdFh4U3d0WFU3Sl82NHA2OU5EaEVjTmI0b1B6dkxwWXNCbk9nR0wtVlZiODEwR3JKV19lSkJEQzl4Y2FrdGdkUVR5azRXWHNvNVBIS2kyOENBZHVKU2xkRHR4aU9DM3g5N1RRem1zcjE5eFdDeWxUWVp3?oc=5",
+    "published": "2026-05-07T15:14:00+00:00",
+    "published_display": "May 07, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://assets.newsweek.com/wp-content/uploads/2026/05/Copy-of-32-image-2026-05-07T122845.023.png?w=1200&crop=1",
+    "real_url": "https://www.newsweek.com/marco-rubio-2028-presidential-election-chances-odds-11923119",
+    "bias": "LL",
+    "topic": "2028 Race",
     "region": "US"
   },
   {
@@ -368,6 +432,22 @@
     "region": "US"
   },
   {
+    "id": "45dbeb205cd8",
+    "title": "Sweeping California law on single-use plastic meets with outrage from all sides as it goes live",
+    "source": "Yahoo",
+    "source_url": "https://www.yahoo.com",
+    "source_domain": "www.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUnZzU1VVaEd6anFMY1dzcTV1alcwREw2Z0thZGhBZ0VQcXJQVWY0Y2thYkk0Y2ZEMHppMUc4Smpwd2ZKc0UwWXRzTVhqLTlrZkU4VXlyOGJlWk8tOGgzOHE0Z3ZaZmF4Smc0X0ZSMnItbjNJWWNXV1hSek16MXZLNXB1M2o2MERtMGRBTU5MTXhOdWc?oc=5",
+    "published": "2026-05-07T10:00:00+00:00",
+    "published_display": "May 07, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://s.yimg.com/os/en/la_times_articles_853/0948f2c26911b0104ae7d3036f2b3ba7",
+    "real_url": "https://www.yahoo.com/news/articles/sweeping-california-law-single-plastic-100000146.html",
+    "bias": "C",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "3354bec98233",
     "title": "WILLIAM BENNETT: California&#x27;s welfare state is a fraud machine. It could make all Americans into victims",
     "source": "Fox News",
@@ -496,6 +576,22 @@
     "region": "US"
   },
   {
+    "id": "0b0292719f77",
+    "title": "CA Gov. Gavin Newsom Delivers Remarks on Water Infrastructure",
+    "source": "C-SPAN",
+    "source_url": "https://www.c-span.org",
+    "source_domain": "www.c-span.org",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMHZNdTUtMWl1VVVneHRFVUZiUGZKSl81MlBnSDdsdlFrNVJvQXNaVjlENVIwX2Fra0FlcE5ieGIzY1pkeHRuNmN1U0JVXzJZT1B5NnlvUFZGNzZsRnpNQ2dFejVXSko1aWdtU3JNRkVtV09QdjJfaEQ1N1VTcWVkRUVaVVN6OEZfemwzUlM0QWJibmltV01xcEJCOGZHeUtLQVFUYUZVMHdOV2ZXZlFmSHpwU2I4cjQx?oc=5",
+    "published": "2026-05-07T04:00:00+00:00",
+    "published_display": "May 07, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://ximage.c-spanvideo.org/eyJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJoZWlnaHQiOjYzMCwid2lkdGgiOjEyMDB9fSwiYnVja2V0IjoicGljdHVyZXMuYy1zcGFudmlkZW8ub3JnIiwia2V5IjoiRmlsZXMvNzFjLzE1ODUxNjY3MjEuanBnIn0=",
+    "real_url": "https://www.c-span.org/event/public-affairs-event/ca-gov-gavin-newsom-delivers-remarks-on-water-infrastructure/442908",
+    "bias": "C",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "79b20d82dfc6",
     "title": "California governor\u2019s debate devolves into bickering as primary nears",
     "source": "Yahoo",
@@ -525,6 +621,22 @@
     "real_url": "https://www.aol.com/articles/newsom-slams-republican-effort-fund-030542684.html",
     "bias": "C",
     "topic": "Economy",
+    "region": "US"
+  },
+  {
+    "id": "83c8249d44da",
+    "title": "Trump critics speculate as new photo of president&#x27;s hands takes off online",
+    "source": "Newsweek",
+    "source_url": "https://www.newsweek.com",
+    "source_domain": "www.newsweek.com",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd19kTmZYUnFKUDlVcXh3cFRmNHRZbGdTSVA1VXpiX0pDVGJnTm44Qk56V3V1SHdGN1k1Z3QxOFB6S0FoVjRfYklTc01PNUU0MmhtYnV0SEdRMWRVclQ3WmtiQlZpRlZVV296bnRuY2VjcE1hZzR6aFBoUk5MRDU5VDlEMUY3ODNlRW85MUwzSjlBd3V6YW9kd1ZxdnZpTXZKYzZZNUpNdkRLS1U?oc=5",
+    "published": "2026-05-07T02:51:00+00:00",
+    "published_display": "May 07, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://assets.newsweek.com/wp-content/uploads/2026/05/GettyImages-2274825889.jpg?w=1200&crop=1",
+    "real_url": "https://www.newsweek.com/trump-critics-speculate-as-new-photo-of-presidents-hands-takes-off-online-11921768",
+    "bias": "LL",
+    "topic": "General",
     "region": "US"
   },
   {
