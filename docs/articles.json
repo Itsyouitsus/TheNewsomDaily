@@ -3321,7 +3321,7 @@
     "published": "2026-05-07T01:44:03+00:00",
     "published_display": "May 07, 2026",
     "query": "Gavin Newsom",
-    "image": "",
+    "image": "https://static01.nyt.com/images/2026/05/06/us/06calif-gov-pollspromo/06calif-gov-pollspromo-facebookJumbo.jpg",
     "real_url": "https://www.nytimes.com/2026/05/06/us/politics/california-governor-polls.html",
     "bias": "LL",
     "topic": "2028 Race",
@@ -18253,6 +18253,22 @@
     "real_url": "https://californiaglobe.com/fr/california-gubernatorial-debate-shows-partisan-divide/",
     "bias": "?",
     "topic": "Foreign Policy",
+    "region": "US"
+  },
+  {
+    "id": "b1c90494ccf1",
+    "title": "What Fox News won\u2019t report: California\u2019s fast food minimum wage increase helped 730K workers with ZERO job loss",
+    "source": "California State Portal",
+    "source_url": "https://www.gov.ca.gov",
+    "source_domain": "www.gov.ca.gov",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObTZpMVk5b19kRkEycmNOLXBMXzdWQVZWN1Yxa2dveGZvTnA4THBKaVFjMVUxY3U0ZFlrSmpZcVBZN0czVFJkM3FZdS1fSEtOemxhYUJEM19xNmQ0eDcxMnpjNVpmRmNSS09QM3RHRTBFV1NHQkxEeFc2STZrOTJhWExhMmx3Vjd4eS1KaWstTkQ5ZXhBYXhEOEdPN2JaVXluYlVvZm9JLXpLaDVyQWd3M0VhRUJUUVJ6LXpxZkprejkwc0ViY2VxSXI4M0hncndWdmw0N2g2YU50MkU?oc=5",
+    "published": "2026-04-22T07:00:00+00:00",
+    "published_display": "Apr 22, 2026",
+    "query": "Newsom economy",
+    "image": "https://www.gov.ca.gov/wp-content/uploads/2026/04/What-Fox-News-wont-report-Californias-fast-food-minimum-wage-increase-helped-750K-workers-with-ZERO-job-loss-SEO-GFX.png",
+    "real_url": "https://www.gov.ca.gov/2026/04/22/what-fox-news-wont-report-californias-fast-food-minimum-wage-increase-helped-730k-workers-with-zero-job-loss/",
+    "bias": "?",
+    "topic": "General",
     "region": "US"
   },
   {
