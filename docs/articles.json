@@ -48,6 +48,22 @@
     "region": "US"
   },
   {
+    "id": "b04f50c3da41",
+    "title": "California Gas Prices Surge as Governor Newsom Rejects Tax Suspension Proposal",
+    "source": "GuruFocus",
+    "source_url": "https://www.gurufocus.com",
+    "source_domain": "www.gurufocus.com",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbkswdFpxQ1lITVdVM0xPNU9ia3ZCMFY1Vmgwc2hkc1dPVk1yR2lLdGZnWW5HVU9XYi1zMlJhQmpLZV9iRnZOZUY3cDJ1bUZGeDNfbzhXcmdfSGhnMlpNaEZPSE0wcm5KWnVxb0g2cFpQdFVlVWo3WlBuQ0MxeHFSRnY0SFRqMXZxWmhzM18yc3FRbWZBUHVSYjBqbTY4SFRNdEN6TE5tTEFoUGlFSEVEMXdqdm0yWkJJ?oc=5",
+    "published": "2026-05-09T08:01:13+00:00",
+    "published_display": "May 09, 2026",
+    "query": "Newsom California",
+    "image": "",
+    "real_url": "https://www.gurufocus.com/news/8847640/california-gas-prices-surge-as-governor-newsom-rejects-tax-suspension-proposal",
+    "bias": "?",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
     "id": "326a30f0d08b",
     "title": "How Democrats stole Christmas from San Diego",
     "source": "AOL News",
@@ -1452,6 +1468,22 @@
     "image": "https://public-assets-prod.pubgen.ai/brand_46e09328-46a6-4a3a-8db2-f7c42eecfcbc/asset_6db2a5a4-d224-4b0c-a608-584cdfa4d077.webp?w=1200",
     "real_url": "http://www.sacobserver.com/california/ca-governor-hopefuls-debate-healthcare-immigration-taxes",
     "bias": "?",
+    "topic": "Healthcare",
+    "region": "US"
+  },
+  {
+    "id": "099cff051146",
+    "title": "Dr. Oz defends Trump administration&#x27;s crackdown on Medicare fraud, blasts Gavin Newsom",
+    "source": "AOL News",
+    "source_url": "https://www.aol.com",
+    "source_domain": "www.aol.com",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQkU4TExkaDZiV2ZmQmJzN3Y1Zmx5N0JIWXNpZ1d0RHZlb2I1X210UEl1UlJ6clpUZkNRZkp6VTRVX09saGpOYWV3WEc2cFljMkpqdFBtV2dEdFgxQnk5TUoyM3F6V0piU1RVd0xzLWNsQmh3RnJmc3VpZGF5eTZ3WWNWVTlYUQ?oc=5",
+    "published": "2026-05-08T10:39:53+00:00",
+    "published_display": "May 08, 2026",
+    "query": "Newsom Democrat",
+    "image": "https://s.yimg.com/lo/mysterio/api/689AC45D3C7F2829583FFEB2168F6927E1F2B752B653AD57C7834407F13A73FA/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_fox_aggregated_articles_807%2F8a7d36824e85c026b4875d5f236bff2b",
+    "real_url": "https://www.aol.com/news/mehmet-oz-defends-trump-administrations-052309547.html",
+    "bias": "C",
     "topic": "Healthcare",
     "region": "US"
   },
