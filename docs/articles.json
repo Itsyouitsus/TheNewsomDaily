@@ -496,6 +496,22 @@
     "region": "US"
   },
   {
+    "id": "5d64a960978f",
+    "title": "Gavin Newsom proposes adding sales tax to digital software purchases",
+    "source": "Yahoo",
+    "source_url": "https://www.yahoo.com",
+    "source_domain": "www.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWhyMVhWUWg0LTMwZ003YVVTSmktZ1ZhZE9DUGVKQ0dFQW0zNl9PM2VXeks4S0lFLUJDUEJxT1pMNHIxd0hPWHE0cDZzdm9hNGVDRFdsVDJCRGJTZk1SbmhHLVNUZXQ2cUlfSFh1Ql9uTi1XNjBLNGlfeVRaU2ttUmtFNnVOOXZveGdJ?oc=5",
+    "published": "2026-05-15T19:17:00+00:00",
+    "published_display": "May 15, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://s.yimg.com/lo/mysterio/api/5f8b9f841b700b0ac77d3ec1bab3d2b000e98cceabffc5c3e136522953e5b18b/lightyear_networkapi/resizefill_w720_h406;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fny_post_videos_491%2F013dd70a41e89ca4bc88c7f904238b21",
+    "real_url": "https://www.yahoo.com/news/videos/gavin-newsom-proposes-adding-sales-191700625.html",
+    "bias": "C",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
     "id": "41dae43cc51a",
     "title": "Calif. Budget Omits Cybersecurity Funds for Student Aid Commission",
     "source": "Govtech.com",
@@ -5900,6 +5916,22 @@
     "image": "https://www.thetexasvoice.com/wp-content/uploads/2026/05/image-14.jpg",
     "real_url": "https://www.thetexasvoice.com/harris-county-seeks-90k-no-bid-contract-with-former-newsom-aide/",
     "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "4759abe80070",
+    "title": "What prediction markets say about AOC&#x27;s possible presidential run",
+    "source": "USA Today",
+    "source_url": "https://www.usatoday.com",
+    "source_domain": "www.usatoday.com",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOXdRQzRQb2JNS0xTRTZ2WmZzU1JneEc3VWdHWkh2NDd1aDZRc1ZWNXJDYjYxUXQ0ZkhQSjVUd0txNUVucWJUN1RkcWJOZkRjTmZ3YTBpSWFaWjNqajJ2XzNzLWR2c1VoUG9jME9GeGlhT3EtbExOXzU2Q0NCcTM1SUdicVhWX2tqeFRSN1NnN2RUd3pFQ2toamh4OWd6dHVzbll1b2JtOWo3SHF4Q0pyUFp0QVRuTk5ENlFOdEZmV2FvUQ?oc=5",
+    "published": "2026-05-13T13:21:00+00:00",
+    "published_display": "May 13, 2026",
+    "query": "Newsom president 2028",
+    "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/07/22/USAT/85331338007-20250703-t-183445-z-1633504650-rc-26-ffapbdk-6-rtrmadp-3-usacongresstax.JPG?crop=3935,2215,x0,y204&width=3200&height=1802&format=pjpg&auto=webp",
+    "real_url": "https://www.usatoday.com/story/news/2026/05/13/what-prediction-markets-say-about-aocs-possible-presidential-run/90057839007/",
+    "bias": "C",
     "topic": "General",
     "region": "US"
   },
