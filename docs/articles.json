@@ -1,5 +1,37 @@
 [
   {
+    "id": "3e52ec8e9165",
+    "title": "California Public Employees Complain About Having To Return To In-Office Work 4 Days Per Week",
+    "source": "AOL News",
+    "source_url": "https://www.aol.com",
+    "source_domain": "www.aol.com",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSl9kekdVZ1BQekEzdXUxa2MzY0wxcm1VNXF2Z2FMUldSVmZrZmhJVnJ4VG5oVnd4VzMyYlNqVURJMHdUUlN3QTZMUGI2b0Nwbm14eWtjSVp5eTREM05FMTJKR1BMUHhuNE12YXFRSHdYeUdXWmV0Q04yYVpBU3dWaTFrNEs0cU5jTFBMV05JcUs?oc=5",
+    "published": "2026-05-16T19:07:36+00:00",
+    "published_display": "May 16, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://s.yimg.com/lo/mysterio/api/F498DB4EE02DD30A8AF2521A02F83D7A018272B99FEF91C92AF538B1142C9595/subgraphmysterio/resizefill_w800_h344;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_daily_caller_375%2F5a9676e63eda8fb1ee9e536ba2430a81",
+    "real_url": "https://www.aol.com/articles/california-public-employees-complain-having-183452000.html",
+    "bias": "C",
+    "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "335e74de4b25",
+    "title": "California&#x27;s 7.25% SaaS Tax Would Hit Every Business Running Microsoft, Salesforce, or Workday",
+    "source": "Tech Times",
+    "source_url": "https://www.techtimes.com",
+    "source_domain": "www.techtimes.com",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbHQ0MGFOVmNfS3QtQVlES1djVEc1ZFdYLWJYLVRVbUdJQUpDeUNwR0VxdndXTmJjMTNwZ202a0lFTXVxZGhBQkUtMzJhV3VobGh4RkY0X3AwQ0FkMUs0NGFSZWRDVXFyN3dEZmwybGFxeDlxU2MtSzd4bHJBTXN2M1BZQlJlc3g1dmhIZTItZUJjSWlUY19fNTdUQ1hlR3k3SjQ0c2hTWEVCamxQd1FRRjJXWGNlTUNTLU1uRjcyXy1HRkdRODlrME03cl9XUVVOVl9NUEQzNG4?oc=5",
+    "published": "2026-05-16T17:19:40+00:00",
+    "published_display": "May 16, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://d.techtimes.com/en/full/464948/california-gov-gavin-newsom-february-28-2026-san.jpg",
+    "real_url": "https://www.techtimes.com/articles/316734/20260516/californias-725-saas-tax-would-hit-every-business-running-microsoft-salesforce-workday.htm",
+    "bias": "LL",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
     "id": "a4f8713ace94",
     "title": "Dan Walters: Gavin Newsom\u2019s Tightfisted Final Budget Faces Rough Reception in Legislature",
     "source": "Noozhawk",
@@ -60,6 +92,22 @@
     "image": "https://www.coloradoboulevard.net/wp-content/uploads/2026/02/Sasha-Renee-Perez.jpg",
     "real_url": "https://www.coloradoboulevard.net/sen-perez-praises-education-investments-in-newsoms-revised-budget-proposal/",
     "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "02955d85604b",
+    "title": "You Don&#x27;t Hurt Enough, California \u2014 Gavin Newsom and Democrats LOVE $7/Gallon Gas",
+    "source": "PJ Media",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://pjmedia.com/victoria-taft/2026/05/16/you-dont-hurt-enough-california-democrats-are-raising-gas-prices-again-n4952929",
+    "published": "2026-05-16T13:35:00-04:00",
+    "published_display": "May 16, 2026",
+    "query": "direct_feed",
+    "image": "https://media.townhall.com/cdn/hodl/2026/98/9ffc0192-7612-4bf7-99d8-4d84690ec138.jpg",
+    "real_url": "https://pjmedia.com/victoria-taft/2026/05/16/you-dont-hurt-enough-california-democrats-are-raising-gas-prices-again-n4952929",
+    "bias": "R",
     "topic": "General",
     "region": "US"
   },
@@ -53744,6 +53792,22 @@
     "region": "US"
   },
   {
+    "id": "991f0e4a6801",
+    "title": "The Democratic Party\u2019s Frontrunners for 2028",
+    "source": "Carolina Political Review",
+    "source_url": "https://www.carolinapoliticalreview.org",
+    "source_domain": "www.carolinapoliticalreview.org",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ0hJNjZFQm1KbGNPQVBsMGx3WGlkUENud3doNm1McUFxMnpRMkY0N1VvOUdnQ3FhcVpON1NPYVlBZG8zTjg4QTg4WWhkbVNDVmZvMzF4ZlppZkxldVJWcjlzU05NODJSNG1jSHNhajRfTzlOU2pvV0g3TGNlYW5lMXlPdXJTRlktY0dyUW1aeHdhLV84WnM2VzhSNnhnaG1jS3N4S1pLV1F2NHU3VXlV?oc=5",
+    "published": "2026-03-08T08:00:00+00:00",
+    "published_display": "Mar 08, 2026",
+    "query": "Newsom president 2028",
+    "image": "http://static1.squarespace.com/static/59486b3bbe65945aca816e19/5999921c9f745608b168dd62/69adc7d333170d0ac0dbffc7/1772996863413/Screenshot+2026-03-08+at+3.05.25%E2%80%AFPM.png?format=1500w",
+    "real_url": "https://www.carolinapoliticalreview.org/editorial-content/2026/3/8/the-democratic-partys-frontrunners-for-2028",
+    "bias": "?",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "8278d6e760ea",
     "title": "Gavin Newsom won\u2019t be Democratic nominee for president in 2028: Joe Concha",
     "source": "Washington Examiner",
@@ -73502,6 +73566,22 @@
     "region": "US"
   },
   {
+    "id": "3de5254f63e4",
+    "title": "Newsom signs legislation banning ICE agents from wearing masks in California",
+    "source": "The Hill",
+    "source_url": "https://thehill.com",
+    "source_domain": "thehill.com",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONUsxaDR6cnlWdFo0OXNwdm1CbzBkV3plTUhXa2RmN3FCNHNxTGEtSUs4TjNVSWJNbVRlTXBGckxxLUNlelV5aFRPWnJNa0RVVTBIbXZiM19aTy1fNXJGdE1zeTVCYkFWZTBtQUNYMGF4Rk0yRkVNY0wzQXQzZEk0c0NCcjEzNGhySXphUjN6Y9IBlAFBVV95cUxNUHFqY1ZQc1FfMkFhLXNsaGprZTQyWlR5M3d4WlVmU0phLW5Gd3pIWVRwWGpMeHM3NHJKbzRHb1VoY1k0a2hic2UtTVEyUnV0ZVpNV3VaXzN6UDI1cVVRZTN3UFJvRmhQd3MtSEpweTVKejVQQVVILUlMT1l4emhxM1h2aXJSb01xbGMtUXp1R29BcDd3?oc=5",
+    "published": "2025-09-20T07:00:00+00:00",
+    "published_display": "Sep 20, 2025",
+    "query": "Newsom immigration",
+    "image": "",
+    "real_url": "https://thehill.com/homenews/state-watch/5514097-newsom-pushes-back-trump-immigration/",
+    "bias": "C",
+    "topic": "Immigration",
+    "region": "US"
+  },
+  {
     "id": "7dfa56deb8a3",
     "title": "Governor Newsom signs historic package of bipartisan legislation saving billions on electric bills, stabilizing gas market and cutting pollution",
     "source": "California State Portal",
@@ -74026,6 +74106,22 @@
     "real_url": "https://theconversation.com/the-governor-of-california-is-in-a-high-stakes-battle-with-donald-trump-its-not-yet-clear-who-will-win-263803",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "fdb638bb1401",
+    "title": "Tom Homan: Newsom is an \u2018embarrassment\u2019 for saying ICE is Trump\u2019s \u2018private police force\u2019",
+    "source": "Politico",
+    "source_url": "https://www.politico.com",
+    "source_domain": "www.politico.com",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXZFZXpKZ0lRakVRbEI2aWtnbkc4OHF1d2VFandiVXlfY19aQ2t2U1VYUUc0VVlCNVZPdXI0N2xQVnFReWVMWG9CUUxuelJ5enVUUi1DV21oc1BBNmV5SGNLOTFjLWU0ajdxZjFjRThmMWRTQndiMXZLQm1EUVB2ZWZR?oc=5",
+    "published": "2025-08-28T07:00:00+00:00",
+    "published_display": "Aug 28, 2025",
+    "query": "Newsom immigration",
+    "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fdb%2F0d%2F23b14fbc4c228e751882cf4a5f29%2Funlimiteduse-08-28-2025-white-house-0008.jpg",
+    "real_url": "https://www.politico.com/news/2025/08/28/tom-homan-ice-gavin-newsom-00533624",
+    "bias": "LL",
+    "topic": "Immigration",
     "region": "US"
   },
   {
