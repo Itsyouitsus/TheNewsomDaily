@@ -1,5 +1,21 @@
 [
   {
+    "id": "e7281483ff36",
+    "title": "Billionaire Chris Larsen Commits to Backing Gavin Newsom &quot;Any Way We Can&quot; in 2028 Presidential Election",
+    "source": "AL.com",
+    "source_url": "https://www.foreignpolicyjournal.com",
+    "source_domain": "www.foreignpolicyjournal.com",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOHJLMFFtalJSa01nekM4elVnSlJZZlRpLTVLMTkwVmdoMC0tS3JLMllPTV9fcXpDeXRjajRKRE1Hd1RLaFZld0dFUkV5WDdQcy0xQ19YTWsyVldnZUpyVFV2MmZhc284T0VQMlBuWTVvVklrT0JrNFplXzdaZWtNN0pkRDQ1TFQzTkQwbURRYUY0aTNRTXlQaGJGWmZrNHA2OXVVMVpIbXZlSTNpNjk2MmlEUFoyZGhHSnFqN2FEdmNTakpjVzVNRGpEY0xaSkRVRlVXbWQ5VWRGb3B2T3ZwYkxwbUM?oc=5",
+    "published": "2026-05-16T21:25:00+00:00",
+    "published_display": "May 16, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://www.foreignpolicyjournal.com/wp-content/uploads/2026/04/gavin-newsom-2-862x575.webp",
+    "real_url": "https://www.foreignpolicyjournal.com/2026/05/16/billionaire-chris-larsen-commits-to-backing-gavin-newsom-any-way-we-can-in-2028-presidential-election/",
+    "bias": "?",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "4a745e26ee69",
     "title": "Gavin Newsom Proposes California Sales Tax on Digital Software",
     "source": "AsatuNews.co.id",
@@ -45,6 +61,22 @@
     "real_url": "https://www.techtimes.com/articles/316734/20260516/californias-725-saas-tax-would-hit-every-business-running-microsoft-salesforce-workday.htm",
     "bias": "LL",
     "topic": "Economy",
+    "region": "US"
+  },
+  {
+    "id": "c7000b906369",
+    "title": "Gavin Newsom Is Totally Lying About Balancing California&#x27;s Budget",
+    "source": "PJ Media",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://pjmedia.com/matt-margolis/2026/05/16/gavin-newsom-is-totally-lying-about-balancing-californias-budget-n4952939",
+    "published": "2026-05-16T17:12:00-04:00",
+    "published_display": "May 16, 2026",
+    "query": "direct_feed",
+    "image": "https://media.townhall.com/cdn/hodl/2026/19/8bf33be6-3d1d-4442-9ff6-c7669fbb9394.jpg",
+    "real_url": "https://pjmedia.com/matt-margolis/2026/05/16/gavin-newsom-is-totally-lying-about-balancing-californias-budget-n4952939",
+    "bias": "R",
+    "topic": "General",
     "region": "US"
   },
   {
@@ -1565,6 +1597,22 @@
     "real_url": "https://www.sacbee.com/opinion/op-ed/article315726407.html",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "0fe26af2e148",
+    "title": "California lawmakers rush $25 million to hospitals without knowing who qualifies",
+    "source": "CalMatters",
+    "source_url": "https://calmatters.org",
+    "source_domain": "calmatters.org",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb2NWWDk4ekRicUNmb2d4OXBLcnMtbkFKSkhQbkpyTmxFLXM1d3VHTjgtOGVLajExdjhaZmVKUVdlRmVUdFBYUVd0VE5iTVRhU19xVnlqVm9wbzZKMWZGVldtcWNHZEhBWGJlNzJYLWZsMVdwci1YckprQ1RNb3ByTg?oc=5",
+    "published": "2026-05-15T12:00:00+00:00",
+    "published_display": "May 15, 2026",
+    "query": "Newsom California",
+    "image": "https://i0.wp.com/calmatters.org/wp-content/uploads/2026/05/031825_Madera-Hospital-Opening_LV_CM_10.jpg?fit=2000%2C1333&ssl=1",
+    "real_url": "https://calmatters.org/politics/2026/05/california-grant-hospital-closures/",
+    "bias": "?",
+    "topic": "Healthcare",
     "region": "US"
   },
   {
