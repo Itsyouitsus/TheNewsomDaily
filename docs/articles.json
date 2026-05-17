@@ -1,5 +1,21 @@
 [
   {
+    "id": "53b63a146b3e",
+    "title": "It\u2019s the gas tax, stupid",
+    "source": "New York Post",
+    "source_url": "https://nypost.com",
+    "source_domain": "nypost.com",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc3FMMzc1MnFOUHB4VlVmUDh4VXRvU3VqczZ1ekc2bjV0NThiN2lFX0hZQkl5N2Z5czcwN0U3bGhPZXI4OG9CeGlVbDNLX1NvT2JmU2s0eV9QNHpaS0xtZ2tCUVpuajlUZ0M1Ym9lajYxUVd6ZnFEdUxxbDNid2hGeXk3ZFczZ3AtN2FfWHlBSlZlRy1SeHN5RWN2bE8?oc=5",
+    "published": "2026-05-17T14:38:00+00:00",
+    "published_display": "May 17, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://nypost.com/2026/05/17/opinion/newsom-has-resisted-calls-to-suspend-the-states-gas-taxes/",
+    "bias": "LR",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
     "id": "b88c20c3ae7e",
     "title": "As Los Angeles struggles with a drop in tourism, San Francisco enjoys a renaissance",
     "source": "Los Angeles Times",
@@ -43,6 +59,22 @@
     "query": "Gavin Newsom",
     "image": "https://ca-times.brightspotcdn.com/dims4/default/97fc340/2147483647/strip/true/crop/5481x2878+0+388/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F00%2Fc4%2F009441244e0d97eab473a0a6e648%2Fcalifornia-budget-65362.jpg",
     "real_url": "https://www.latimes.com/opinion/letters-to-the-editor/story/2026-05-17/newsom-budget-special-education",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "b25f8a354aca",
+    "title": "California State Association of Counties (CSAC) Says Governor Newsom\u2019s May Revision Fails Families, Burdens Communities",
+    "source": "Sierra Sun Times",
+    "source_url": "https://goldrushcam.com",
+    "source_domain": "goldrushcam.com",
+    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNY3VBdFg3Nkp6S2doNjllLXdwdkFuXzFvZC1QY0kwdEJRZ2JUc2xMVURsQnNLVm1WUVRCN1FOT0c5amdiNzE1RkEwTWl3a2F2WG5xMGlZSlZ1bWlBLTBhTmJTUXBMSXZGSlZ0cEZ1ZHBzOVA1eVFsZ0ctTmY0V2tXM0x0UXVZbE1Ua2gtd0pUS3JWa0hva3RtQlZNMVJxM2w2U0hJLXlXNFlXblBWNXhnZ3dRTjVUbTBnejN5NUg1S1pVRVZsdWpqVjg1UXE5a0x5OXFUQ1NNeURmRjFyYnBKUkczWE40MWgzMUdyY242d2JOMGQ2NDhNb1VnZnlHcGNPa3Q2SjZpZ1h5Q2c4ajZrVWl6c3Rudw?oc=5",
+    "published": "2026-05-17T12:17:51+00:00",
+    "published_display": "May 17, 2026",
+    "query": "Newsom California",
+    "image": "",
+    "real_url": "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/78172-california-state-association-of-counties-csac-says-governor-newsom-s-may-revision-fails-families-burdens-communities",
     "bias": "LL",
     "topic": "General",
     "region": "US"
