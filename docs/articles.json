@@ -32,6 +32,22 @@
     "region": "US"
   },
   {
+    "id": "14a16df2a0fd",
+    "title": "How Is AI Affecting California? The State Wants You to Share Your Story",
+    "source": "Post News Group",
+    "source_url": "https://www.postnewsgroup.com",
+    "source_domain": "www.postnewsgroup.com",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2Nsc0J2MlNfT2p1Y3pYd3dOUnctSkFma1E4eXR3eDhLMzFyc1ZiRklQcWE2R29PLXpYQ25GX1VIYmVyOXh3N0NyQzZxdVlxWDhERUw0Z0EtODI5djMtbG02WTduX1h1ajdlWEUxYXhJakczRFZUSlpZNVctMk1zZ1I2TzNpSHM1bVNmNnJ5MmdoQ3F4eFAyUXN0bFhJaXJZTHNB?oc=5",
+    "published": "2026-05-17T15:16:11+00:00",
+    "published_display": "May 17, 2026",
+    "query": "Newsom policy",
+    "image": "https://www.postnewsgroup.com/wp-content/uploads/2026/05/AI-affecting-california-featured-web.jpg",
+    "real_url": "https://www.postnewsgroup.com/how-is-ai-affecting-california-the-state-wants-you-to-share-your-story/",
+    "bias": "?",
+    "topic": "Tech & AI",
+    "region": "US"
+  },
+  {
     "id": "5a637ad03034",
     "title": "Gavin Newsom Is Facing a Kamala Harris Problem",
     "source": "The Daily Signal",
@@ -540,6 +556,22 @@
     "image": "https://na.rdcpix.com/e89379aaa1909b525fd93b7c1c8f32a4w-c752814475srd_q80.jpg",
     "real_url": "https://www.realtor.com/news/real-estate-news/california-tiny-home-program-update-la-homelessness/",
     "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "0364bc7370f9",
+    "title": "Gavin Newsom seeks to bypass oversight on $12.5M program tied to wife-linked nonprofit",
+    "source": "New York Post",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://nypost.com/2026/05/16/us-news/baby2baby-lands-no-bid-deal-in-gavin-newsoms-diaper-program/",
+    "published": "2026-05-16T08:00:00-04:00",
+    "published_display": "May 16, 2026",
+    "query": "direct_feed",
+    "image": "",
+    "real_url": "https://nypost.com/2026/05/16/us-news/baby2baby-lands-no-bid-deal-in-gavin-newsoms-diaper-program/",
+    "bias": "LR",
     "topic": "General",
     "region": "US"
   },
@@ -73802,6 +73834,22 @@
     "image": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt8710d7af8fa02fe5/6998c9e4a97fc01bfea74ade/ICE-mask.jpg?branch=production&width=2400&quality=75&auto=webp&crop=16%3A9",
     "real_url": "https://time.com/7319259/california-ice-immigration-agents-mask-ban-secret-police-newsom-law-challenge/",
     "bias": "LL",
+    "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "d944a2078da6",
+    "title": "CA immigration laws",
+    "source": "LAist",
+    "source_url": "https://laist.com",
+    "source_domain": "laist.com",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcGkyMFBuOWJTUldicFZfbldsZEhJNFVCTVhJTkpoODdXZGtldklVV3FMS3FQUmZObzJLMnVIa19hbEJYcGxhN2p3VUprYUFCTWlDNXFaaXl4YXU0Z1lBTjNKZDkwUG5HUDBsQld1a1doWkpRZ1phLUVBWHRoelZvR2RjOHNsVlU5LVgzb1ZaT0d4ZlQtUVkwbzFR?oc=5",
+    "published": "2025-09-21T14:17:13+00:00",
+    "published_display": "Sep 21, 2025",
+    "query": "Newsom immigration",
+    "image": "https://scpr.brightspotcdn.com/dims4/default/f4695da/2147483647/strip/true/crop/3436x1804+0+387/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F3436x2577%20359%200%2Fresize%2F3436x2577%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2F39%2Fced0413e408cb66756f021211839%2Fap24120126400719-1.jpg",
+    "real_url": "https://laist.com/brief/news/newsom-signs-laws-to-resist-trumps-immigration-crackdown-mask-ban",
+    "bias": "?",
     "topic": "Immigration",
     "region": "US"
   },
