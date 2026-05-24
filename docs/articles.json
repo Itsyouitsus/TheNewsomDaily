@@ -1,5 +1,53 @@
 [
   {
+    "id": "46c3c1be80fb",
+    "title": "California Gov. Newsom declares state of emergency for Orange County chemical leak as DA launches probe into its cause",
+    "source": "CBS News",
+    "source_url": "https://www.cbsnews.com",
+    "source_domain": "www.cbsnews.com",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZUZURDEzLUp2dUR0TEFmY0RkdXFyU3lWa0FXZEVPaWRJZVpSU0JZRFVMNVoxT1htRGpnR0RBdmFOQlExYkVhYzBCU3loUGdya2h0dGw1WUZpUTB3c2gwOEJmM3F0dlFwYmZBc2hlRERpclpnREZRMGIxdEZoVUxPbXppQW5IbE9NV21mYUxNa2xuQXRHTE03MkRYNklYZ3RLSl9MR3pxc0NVMUFFVkc0?oc=5",
+    "published": "2026-05-24T04:22:56+00:00",
+    "published_display": "May 24, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/05/23/5ad43b1e-3a8d-4b1d-abe6-da5b98c44064/thumbnail/1200x630/784ab7946ad9552668f5731ac4f5cc63/gettyimages-2277315965.jpg",
+    "real_url": "https://www.cbsnews.com/losangeles/news/garden-grove-chemical-leak-plans-orange-county-california-evacuations/",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "575c7fe9e840",
+    "title": "Chemical tank \u2018on the edge\u2019 of exploding in California as crews try to avert potential disaster",
+    "source": "NBC News",
+    "source_url": "https://www.nbcnews.com",
+    "source_domain": "www.nbcnews.com",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTl8xWGxKVTduT2MxZHU4bV9tOE9Bd2JxWVFkeldOamdqQW1uNVFDR2N1c050ZU9kWlNrZEVBZUtQWEtBeHlCY1pNRXpReVVZX01ONEFvMW1ZSFp6ZEFFZG5SZHhaemt0aF9JLWN1N1ExcTNidVJGSHoyTl9TUWF6VEY0UW5ZNm9qU1U0VzdXWDN2VzVJN0t4WHNjRTdJaUVmUnhWOHJOMHBaUHhkQlNYSTBhZVppWEZmWVE?oc=5",
+    "published": "2026-05-24T02:04:00+00:00",
+    "published_display": "May 24, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260523-garden-grove-calif-ww-1701-fd87dc.jpg",
+    "real_url": "https://www.nbcnews.com/news/us-news/chemical-tank-edge-exploding-california-crews-try-avert-potential-disa-rcna346668",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "7f03e7f0b901",
+    "title": "Angels say game vs. Rangers will proceed as scheduled after Gov. Newsom declares state of emergency over Garden Grove chemical leak",
+    "source": "Yahoo Sports",
+    "source_url": "https://sports.yahoo.com",
+    "source_domain": "sports.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZnZuQ2NTOU5HSTdNSmRHbUZTRVJKcnJ4TXVxM3FFZVpubWxwbFF1UmN5SDNrS3lUbHdySTJDdGFhSzdWUklZaTdpeTI0N191clVtVTRPNzMxQUt6eHdza0VqekpKVEdhcTM4eUZQSWdiSTBKZDA4R3lqelBHOExIWllqZVhaQlVpSzhCdTMtT09zekRTQUJqSmdxWHdTZFVpUzRmdTVoQ1BWVFBfMExJeUo4RjllMTJ6YU1vMU9pYzE3TjRNbFd5Si12S3VRWGE1dXpxRVZLR2VOSi1PTkgyNkNSNjlvTGl6Ty1XRG5tT2t5UkdWdkJRWndlUmxGa1dYQk5CQ1FLZllZYXM3dUE?oc=5",
+    "published": "2026-05-24T00:01:00+00:00",
+    "published_display": "May 24, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://s.yimg.com/ny/api/res/1.2/2TtegI6UXS6hPneCwmWAGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-05/85f5fb38-f998-424d-9234-b2d596403348",
+    "real_url": "https://sports.yahoo.com/mlb/article/angels-say-game-vs-rangers-will-proceed-as-scheduled-after-gov-newsom-declares-state-of-emergency-over-garden-grove-chemical-leak-235422274.html",
+    "bias": "C",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "3443851c1935",
     "title": "California governor declares state of emergency over looming chemical disaster",
     "source": "The Guardian",
@@ -29,6 +77,22 @@
     "real_url": "https://www.latimes.com/california/story/2026-05-23/garden-grove-chemical-crisis-newsom-declares-emergency-as-thousands-flee",
     "bias": "LL",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "8ede4317295c",
+    "title": "After AI layoffs, Newsom faces pressure from labor unions to find ways to ease the pain",
+    "source": "Local News Matters",
+    "source_url": "https://localnewsmatters.org",
+    "source_domain": "localnewsmatters.org",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWkt4SURHN3p5dUozZkI5Q3UzZUpZYnZwa2Y4QnB1VndEQWhGblpvc3FIQ0owdXRfMGVYaUt5WHFaMmFUR0pmUERIdUlhLUhXcURnaF9EeVBNUHZUUDRzRXRDa05XMm12dUNMSVk0ejUwVEtBZFdyMWlIWlFvOFJXdWJXQ3NmQ1djVEtCR0hJX3VBOW1Bb1BZX2dlVTBIMnY5SWsza3JXN1h6ejl4NDd3Njl3dFF6T3ZBblphSHl4a2tiWDlraVE?oc=5",
+    "published": "2026-05-23T23:00:00+00:00",
+    "published_display": "May 23, 2026",
+    "query": "Governor Newsom",
+    "image": "https://i0.wp.com/localnewsmatters.org/wp-content/uploads/2026/05/LNM-20260522-MATTERSLAYOFFS-01.jpg?fit=2000%2C1333&ssl=1",
+    "real_url": "https://localnewsmatters.org/2026/05/23/after-ai-layoffs-newsom-faces-pressure-from-labor-unions-to-find-ways-to-ease-the-pain/",
+    "bias": "?",
+    "topic": "Tech & AI",
     "region": "US"
   },
   {
@@ -61728,6 +61792,22 @@
     "region": "US"
   },
   {
+    "id": "942935e8cc28",
+    "title": "Gavin Newsom\u2019s Closely Curated Vulnerability Isn\u2019t Convincing",
+    "source": "Jacobin",
+    "source_url": "https://jacobin.com",
+    "source_domain": "jacobin.com",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43LWpkVzRiZUhoNVZucnZPeE5yT3NONHJLWlJIdFNlRDFlVGdERklEQVRjYlYyb3NoMDNfRENIWEdhcmExa1ZKZmZfdVM2QU80cEdrQUNhUXRJOXlLMzJDTndtVEJNVEZYS3hGWWZ5VjFGRUU?oc=5",
+    "published": "2026-03-09T07:00:00+00:00",
+    "published_display": "Mar 09, 2026",
+    "query": "Gavin Newsom speech",
+    "image": "https://media.jacobin.com/images/2026/3/217998403065.jpg",
+    "real_url": "https://jacobin.com/2026/03/gavin-newsom-california-memoir-review",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "b5d0d857859a",
     "title": "Obama\u2019s friendly gesture aimed at 2028 Dem presidential hopeful sparks talk of endorsement",
     "source": "Yahoo",
@@ -80671,6 +80751,22 @@
     "region": "US"
   },
   {
+    "id": "efafa2697552",
+    "title": "California governor signs Cal State direct admissions program into law",
+    "source": "Higher Ed Dive",
+    "source_url": "https://www.highereddive.com",
+    "source_domain": "www.highereddive.com",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTEMwUnRoT1NLajExLVdGcGw5d2UxUHlwUzVubXdKVkhHSEpsUWU0T3hSR0FQb0lDbGZoX29uMTFsRVNXSnFGRU5sa1ZsQWhtQTFmMm5Hbnl4YzE1X2NBS2ZUeWhiejlRbkhHb2w2aTY2eTA4dFBReTlNenFZR202SV9vM0xUbVdGTmtXRQ?oc=5",
+    "published": "2025-10-10T07:00:00+00:00",
+    "published_display": "Oct 10, 2025",
+    "query": "Newsom policy",
+    "image": "https://imgproxy.divecdn.com/7Hs-4sf5IYjfO6PILJBmnGhk1IH7g-VyLZDl2fSOMGw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQwMDM4MDk4LmpwZw==.webp",
+    "real_url": "https://www.highereddive.com/news/california-direct-admissions-law-cal-state/802649/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "aab3c46b779e",
     "title": "Governor Newsom signs new laws to help restaurant owners keep California cooking",
     "source": "California State Portal",
@@ -82235,6 +82331,22 @@
     "real_url": "https://www.gov.ca.gov/2025/09/12/california-claims-victory-again-over-huntington-beach-as-appeals-court-rules-against-citys-nimby-violations-of-state-law/",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "3e5ccf01fd99",
+    "title": "Who do Democrats and Republicans want as their 2028 presidential nominees?",
+    "source": "YouGov",
+    "source_url": "https://yougov.com",
+    "source_domain": "yougov.com",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdGwwNWgyT1o1Vm1hS0MwQXROS1V3VGtLWHFscFEtb3lFUktDaUlLdnBwNF9laVhVYkFsTktraGYwdHJ3aUs2VTRQTzZkcWNIeWx4UVBSZWlram9BdjlybmtRbjlaV2ZpRkpDR2NQbWZwSjRUS1M2T210SmwwbHJnRksySkYydjhldWUzVHdrSlFfZVlRWnpPbmVBWDR2S19tZXI3QWRXd3BraE9Xd3hRbEExTQ?oc=5",
+    "published": "2025-09-12T07:00:00+00:00",
+    "published_display": "Sep 12, 2025",
+    "query": "Newsom president 2028",
+    "image": "",
+    "real_url": "https://yougov.com/en-us/articles/52959-who-do-democrats-and-republicans-want-as-their-2028-presidential-nominees",
+    "bias": "?",
+    "topic": "2028 Race",
     "region": "US"
   },
   {
