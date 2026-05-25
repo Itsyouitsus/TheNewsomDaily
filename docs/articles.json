@@ -1,5 +1,21 @@
 [
   {
+    "id": "4399d8d832cf",
+    "title": "News &amp; Commentary: May 25",
+    "source": "OnLabor",
+    "source_url": "https://onlabor.org",
+    "source_domain": "onlabor.org",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBDaHBlb1B6a1hmWDVHaEkzSDJkdC1BOGJRZVlUN2VtT283RWVDOEhCdHNYbHZpTTl1SEJBVWFoM1hSMU9kUWV3?oc=5",
+    "published": "2026-05-25T20:19:12+00:00",
+    "published_display": "May 25, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://onlabor.org/wp-content/uploads/2023/10/Gavin-Newsom-1024x683.jpeg?v=2",
+    "real_url": "https://onlabor.org/may-25-2026/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "d803733d76fd",
     "title": "Trump approves emergency declaration for Orange County amid chemical threat in Garden Grove",
     "source": "KTLA",
@@ -126,6 +142,22 @@
     "bias": "C",
     "topic": "General",
     "region": "US"
+  },
+  {
+    "id": "f29dbdc3e2d9",
+    "title": "Threat of massive chemical tank explosion is &#x27;eliminated&#x27;, California officials say",
+    "source": "BBC",
+    "source_url": "https://www.bbc.com",
+    "source_domain": "www.bbc.com",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkOEdXc19OdXR6TjdyWW5DOXNhcFZTYmdzdlBYeHBWWk9pYWV4Q0N2clhRaTBfMjc1bk9udHk5M3lXWUJCVVp3UXdIRlJyODJMaFBiVkEzSldUUQ?oc=5",
+    "published": "2026-05-25T17:10:42+00:00",
+    "published_display": "May 25, 2026",
+    "query": "Newsom California",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7895/live/fa3b5960-581f-11f1-b682-cf91850925ea.jpg",
+    "real_url": "https://www.bbc.com/news/articles/cx2119er9glo",
+    "bias": "C",
+    "topic": "General",
+    "region": "Europe"
   },
   {
     "id": "7ea7e02745f6",
