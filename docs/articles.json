@@ -1,5 +1,21 @@
 [
   {
+    "id": "a4f1f96c84af",
+    "title": "No front-runner, no certainty: the 2028 presidential race is wide open on both sides",
+    "source": "OregonLive.com",
+    "source_url": "https://www.oregonlive.com",
+    "source_domain": "www.oregonlive.com",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNajdhbDJrdnM4UWFubEJHUm1WTnBGaUdHOEttRzctY09WMUFsN2VvTDE5VjZjTDhpZEthMkRNN21BVmppMVdmSGd6TkszWkhGc3lLSDFsR3VPZTJpNDRBdkY2ZUJiVV9WbkFseVdSTkY3cFJDbGprN1l6OXFvQllVM2htM3o5YWd1U1ZsVmhJbVZfZHZEcnVmMTVtMC1HNGc0U3hPbDRMQjg?oc=5",
+    "published": "2026-05-29T22:01:00+00:00",
+    "published_display": "May 29, 2026",
+    "query": "Newsom president 2028",
+    "image": "",
+    "real_url": "https://www.oregonlive.com/politics/2026/05/new-polls-shake-up-the-2028-democratic-presidential-race.html",
+    "bias": "?",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "6cd8d5786462",
     "title": "Governor Newsom celebrates graduation of emergency response leaders, highlights investments since 2019",
     "source": "California State Portal",
@@ -76,6 +92,22 @@
     "image": "https://www.advocate.com/media-library/pete-buttigieg-holding-a-microphone.jpg?id=66838609&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
     "real_url": "https://www.advocate.com/politics/national/pete-buttigieg-leads-2028-hopefuls",
     "bias": "?",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "73c493d644e0",
+    "title": "New 2028 Poll a Massive Downer for Vance, Newsom, Harris. But Here&#x27;s Who&#x27;s Surging",
+    "source": "Yahoo",
+    "source_url": "https://www.yahoo.com",
+    "source_domain": "www.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRlEtQUc0Q0xZZkM4YlVfOVo2MGJDQVUzR3loSDNVTE1uMHBpdVlwLTIwa3FMLXV6VDdPbTBRSTNQXzkwUEpndy1Jalk4MUxjSHhwMVVFcXlaSnpVOUZQMzdOeWZDRFFrRGFUdTdDY3cxN1RJN09ha0ZUX1JlQjVqNHVPbm1JZw?oc=5",
+    "published": "2026-05-29T19:33:15+00:00",
+    "published_display": "May 29, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://s.yimg.com/lo/mysterio/api/bd9019d22747ad1632c8a9d9ada4fe797f431f9e198197594742f864b321c57c/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fjit%2F6415665815001%2Ff6252208-f49e-49d5-900d-2d0ed9cae7f0%2Fmain%2F1280x720%2F15s592ms%2Fmatch%2Fimage.jpg",
+    "real_url": "https://www.yahoo.com/news/videos/2028-poll-massive-downer-vance-193315494.html",
+    "bias": "C",
     "topic": "2028 Race",
     "region": "US"
   },
@@ -380,6 +412,22 @@
     "image": "",
     "real_url": "https://nypost.com/2026/05/29/opinion/the-california-post-endorses-steve-hilton-for-governor/",
     "bias": "LR",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "73197dd05f72",
+    "title": "Time to bring California\u2019s regulatory regime to heel",
+    "source": "Yahoo",
+    "source_url": "https://www.yahoo.com",
+    "source_domain": "www.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZVp5RWtmMjlFNXhfb29KRTVQaERQOWZwX3ZxenhSUWJBODFTUFRGaDlQMHFQNGFpN1JqVmhEdVJLemozaXNYUDNfMTJCRnNBUk5tSmpvd01hS3ltblNQeTRLUkk2blI3Z0dyaUdwVzd0Ylo1M0REVGx4V2I3YTZxWTNWbGFXZW5RbzkwNjlwQzhya3dzc0dDdlI0cEtuYWZ6?oc=5",
+    "published": "2026-05-29T13:00:00+00:00",
+    "published_display": "May 29, 2026",
+    "query": "Newsom California",
+    "image": "https://s.yimg.com/ny/api/res/1.2/h33pzT4GscaOcLCQmQqGfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/california_post_772/a22a298bec228123d1beaa5be7aaee9f",
+    "real_url": "https://www.yahoo.com/news/politics/articles/time-bring-california-regulatory-regime-130000093.html",
+    "bias": "C",
     "topic": "General",
     "region": "US"
   },
@@ -5725,6 +5773,22 @@
     "real_url": "https://kfgo.com/2026/05/24/potential-crack-in-california-chemical-tank-may-prevent-explosion-fire-official-says/",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "a5b872559584",
+    "title": "Scoop: Dems eyeing 2028 bids court Warren",
+    "source": "Axios",
+    "source_url": "https://www.axios.com",
+    "source_domain": "www.axios.com",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YU1hhQzBsOWxraG1BSHV0SXhqVFh2YmVWenNNc0RQb2w1UVFSakJhb3pBNklKV090LXY3Vi00V0dVcjl2YzVWQm9UYlBlQzBmQWFRMTRQWlY0VUxLb1p0cnFkUE9EWWRheGJBdC1yQmV4NHM?oc=5",
+    "published": "2026-05-24T21:35:33+00:00",
+    "published_display": "May 24, 2026",
+    "query": "Newsom president 2028",
+    "image": "",
+    "real_url": "https://www.axios.com/2026/05/24/democrats-2028-contenders-warren",
+    "bias": "C",
+    "topic": "2028 Race",
     "region": "US"
   },
   {
@@ -76112,6 +76176,22 @@
     "region": "US"
   },
   {
+    "id": "c6217e955f4c",
+    "title": "Sky News host Rowan Dean says California Governor Gavin Newsom \u201cmay well be\u201d the Democratic candidate at the next presidential election.",
+    "source": "Facebook",
+    "source_url": "https://www.facebook.com",
+    "source_domain": "www.facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ0dseDE2ZXBUam5GVzVIY1NvS1JkenVwbGxsRWoweTF2Vl8yWjdkM05xMkdhS0xYZnM2WDAxWXdUTXJuTTR2SVgwTXJoa1cwV01URkVSR21oWXpodjFpbnlIWEJqRVVGUkpYVGNDRTYyVzUtRG5OT0NQZVpNT0RrallvLVphd19wd1lBMktRYjZrYVBlZEZVN093VmNTdG9qdWVueVkzTW1LWDg1dzhqcExac01PYTljMmRxTTJfbHBId3VjOFB0eHYzVmJIVUJ6cFdoem1YTW9HRjZLQWJ3?oc=5",
+    "published": "2026-01-24T08:00:00+00:00",
+    "published_display": "Jan 24, 2026",
+    "query": "Newsom Democrat",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/619344316_1441556314263908_221085891215458250_n.jpg?stp=dst-jpg_s1000x1200_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c26028&_nc_ohc=IxY-5Zrs4ZUQ7kNvwG8Srva&_nc_oc=AdquFVSvi4qnCHLDayPEUz-LlH4MXYL9lYrPjX9gLIPmSTjwdXrwrHsacxczoYdZmfw&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=5QivUpWPnw_mAZB13G65RQ&_nc_ss=7f20f&oh=00_Af6nuIGEzBI8OTJ-WmFmcqYnqoqTpdVw7ixvHOIFEg6QZw&oe=6A1FD910",
+    "real_url": "https://www.facebook.com/SkyNewsAustralia/posts/sky-news-host-rowan-dean-says-california-governor-gavin-newsom-may-well-be-the-d/1331574955666766/",
+    "bias": "?",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "bf6a4b78f3f9",
     "title": "\u2018Brain the size of a walnut\u2019: Bessent goes off on Newsom",
     "source": "Politico",
@@ -79019,6 +79099,22 @@
     "query": "Newsom policy",
     "image": "https://www.rstreet.org/wp-content/uploads/2024/10/AdobeStock_30691356.jpeg",
     "real_url": "https://www.rstreet.org/commentary/housing-trump-and-newsom-are-odd-bedfellows/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "a409fb9cde20",
+    "title": "Newsom rejects Louisiana\u2019s bid to extradite Healdsburg doctor over prescription of abortion medication",
+    "source": "The Press Democrat",
+    "source_url": "https://www.pressdemocrat.com",
+    "source_domain": "www.pressdemocrat.com",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeldSVjF3Rm14Yk9DYXdMejBEODJzdVRwaURGTEVLbTNEYVRvdjB5MGZzRVZuR0VTYW5TdTVCYmhzR2NOTWdKUDNUenFLM2lWVHdtTWY1RU1iU1JJczJUNkRUanNLVE04VVF6SHdPRjVTeDdyZ0dBbjJoYl9hcWpvLXZWaHg4dEFLNXJEay1WMVVTQVZwa0hPZDVaYlVubHI0eFg2Z2E2V0UyNGdRT1RHZWNJVzBaNGJueGJLQktZeDhuR09lMnA1TUZNX3ZRbEZjMkIwektobUczYW8?oc=5",
+    "published": "2026-01-14T08:00:00+00:00",
+    "published_display": "Jan 14, 2026",
+    "query": "Newsom Democrat",
+    "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/01/Abortion_Doctor_Extradition_Louisiana_45570.jpg?w=1024&h=682",
+    "real_url": "https://www.pressdemocrat.com/2026/01/14/newsom-rejects-louisianas-bid-to-extradite-healdsburg-doctor-over-prescription-of-abortion-medication/",
     "bias": "?",
     "topic": "General",
     "region": "US"
