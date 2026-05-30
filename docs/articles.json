@@ -224,6 +224,22 @@
     "region": "US"
   },
   {
+    "id": "dbd17fcc0c5d",
+    "title": "California just handed oil companies billions in free pollution permits",
+    "source": "CalMatters",
+    "source_url": "https://calmatters.org",
+    "source_domain": "calmatters.org",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVzFWZG5fMDY5LWFYRHc3Z0NkaUxSZVNod2dwbHR1ckRjRzBGaTk1VEhBcTV0Z1dRWEZKdlotb04wNHlKNmRqQXpSRzNpT25Dd3JnOHhkaV9nVS1qVWI0cFhhVFZsV2Vtd0RTRlMyWk5GWjl5Nl9Sb2s2WHYwTE5yZUJfQUgwUjUtVHdaUXMyVFBhcWx4Y0UwQ05nd29Tdw?oc=5",
+    "published": "2026-05-30T02:23:06+00:00",
+    "published_display": "May 30, 2026",
+    "query": "Newsom California",
+    "image": "https://calmatters.org/wp-content/uploads/2025/02/050924-Marathon-Refinery-AP-CM-01.jpg",
+    "real_url": "https://calmatters.org/environment/climate-change/2026/05/cap-and-invest-amendment-affordability/",
+    "bias": "?",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "ddb9f1e2ac23",
     "title": "Newsom\u2019s climate rules bend to gas price politics",
     "source": "Politico",
@@ -2745,7 +2761,7 @@
     "published": "2026-05-28T10:00:00+00:00",
     "published_display": "May 28, 2026",
     "query": "direct_feed",
-    "image": "",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/05/AP26100617513645-e1779912207583.jpg?w=1280",
     "real_url": "https://thehill.com/homenews/campaign/5898010-pete-buttigieg-democratic-presidential-primary-poll/",
     "bias": "C",
     "topic": "2028 Race",
@@ -35501,6 +35517,22 @@
     "real_url": "https://www.rstreet.org/commentary/newsom-backtracks-on-ai-rules/",
     "bias": "?",
     "topic": "Tech & AI",
+    "region": "US"
+  },
+  {
+    "id": "6412a25e45f7",
+    "title": "Watchdog report reveals California economy needs fixes beyond AI",
+    "source": "State Affairs",
+    "source_url": "https://pro.stateaffairs.com",
+    "source_domain": "pro.stateaffairs.com",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUk1ZVnJpa0llQ3M3STVPeWo3RF81UUFTWkEtNm5zTnMzWUhTUFhYTjRpSmtwUFFNMnVnbzlhSmdNV0NfeFNuczltalYyS1U4RWlRSk1VR1Y3cVpYZ3RyMm9Cd1NzcTk5bGgyY0FyQkd1REk4OUJMdFNiSy11cDdOMG45QXh6Mmc5QW1HR0dWZG1hZE00dEc5bDEyZHptSGljeVliVXFVU3RGQ3l0S1Y4Tg?oc=5",
+    "published": "2026-04-29T07:00:00+00:00",
+    "published_display": "Apr 29, 2026",
+    "query": "Newsom economy",
+    "image": "https://cms.stateaffairs.com/wp-content/uploads/2026/04/Sacramento-Capitol-Building-California-Credit-Kyle-Jaeger.png?w=1024",
+    "real_url": "https://pro.stateaffairs.com/ca/news/california-economy-structural-deficits-demand-legislative-action-beyond-ai",
+    "bias": "?",
+    "topic": "Economy",
     "region": "US"
   },
   {
@@ -81611,6 +81643,22 @@
     "query": "Newsom Democrat",
     "image": "https://cdn.abcotvs.com/dip/images/18362698_010626-kabc-trump-ca-fraud.jpg?w=1600",
     "real_url": "https://abc7news.com/post/trump-says-california-is-fraud-investigation-newsom-responds/18362682/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "17238ec58d36",
+    "title": "After his unexpected death, what will happen to Rep. Doug LaMalfa\u2019s district?",
+    "source": "Sacramento Bee",
+    "source_url": "https://www.sacbee.com",
+    "source_domain": "www.sacbee.com",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbG9sTUZqLUcxNW1uYW9zX3owXzFQcnBCM1BybXNPcGdEVjI4Y2dHZmtFOVg5R0VJaE9OTEdWUzhKU0duZUdYQ003dDE4SnBRRVJSNkFIZTNoTkx0Z3ZfV3paZlFaTzFFUmxlN19RSWlKempteE1waW1fLVptQV91MWlSS29jYzR6V1Zj0gGLAUFVX3lxTE1LWEN5UTdqTExVdVJFNjMtLU1STmVhSVc2OWdEelMxbDgzdFE5MEdYVDk5SHBvdEFCanE5Q09WZXRFYzdFRnZ2VjVrdzhTOC1yNTZXanRJZ1Ixd3VUcjdIUXFVbFlEUmJUaFNYMHdBeWw3Y3FLRWJHZU10bkpfRzdSQmdLZzl5cHVDdjg?oc=5",
+    "published": "2026-01-06T08:00:00+00:00",
+    "published_display": "Jan 06, 2026",
+    "query": "Newsom Democrat",
+    "image": "",
+    "real_url": "https://www.sacbee.com/news/politics-government/capitol-alert/article314211930.html",
     "bias": "?",
     "topic": "General",
     "region": "US"
