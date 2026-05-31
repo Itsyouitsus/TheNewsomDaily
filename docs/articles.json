@@ -1,5 +1,37 @@
 [
   {
+    "id": "6defc0251a0d",
+    "title": "Newsom Brands Trump a \u2018Loser\u2019 in Blistering Takedown",
+    "source": "The Daily Beast",
+    "source_url": "https://www.thedailybeast.com",
+    "source_domain": "www.thedailybeast.com",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaHFvVktVNG5LMkd6a0JTUGtPTlJnNjZJdER5anVOLXNfOFlRU0dPMjV6LUJJekFwN2x2YmlpZ25pbl9GUHVFeW1tYVY0aHNOV04xUndocDBCVTh1U1FQbGFyZGJCWlZKOWhDNGVvbUp1aGpzUy1TYWw4U296M2FIVTBJN3hGeDUw?oc=5",
+    "published": "2026-05-31T08:08:00+00:00",
+    "published_display": "May 31, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://www.thedailybeast.com/resizer/v2/F4WMYARF7VGWLLJ32F2LDKRE3M.JPG?smart=true&auth=855e049f9571a2456ee7badd55ef3179a0543c08eb780578b40eb6e8e59e995c&width=1200&height=630",
+    "real_url": "https://www.thedailybeast.com/newsom-brands-trump-a-loser-in-blistering-takedown/",
+    "bias": "L",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "66a55e15776f",
+    "title": "Here are the top candidates for California governor in Tuesday&#x27;s primary",
+    "source": "ABC News",
+    "source_url": "https://abcnews.com",
+    "source_domain": "abcnews.com",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdFU4WW5CY19UV1B4RzczVEt1UEVRa19LbTU0VnhEbUxfblFxbGNXeTNwcFluSjgyZU5KU2xDZFdjX2d3dkRJSVg1eXQ1bzh1NXVrVVo2UTB6SUNXUzZRZUVRalNtSnY4cTlZNmRtcHA3YmZUTThwam9xQng1SU5tNEl2dEpKb3VDU0xrcmpGVGRlZF9pMWkybGNn0gGfAUFVX3lxTE9VM1R6Y0lTY2RsSkxkME5KOVdXVGphUVZqNGdlUjVDNEQ5MXN1ZmxYZmpyOFVqc3RvRmU3V0F1R1RIdXh2aHRvdWZBYUVIbmtzNnNMTmYxLWhsQmM0d0FYazlFZTNYRGtRTTkzWlYxV3E1QTc4bm9HeUhwNkpNUTFuWVJyelZqbl9hOUJwZWs2eHFmSG1xVkZpWW1ydWZIdw?oc=5",
+    "published": "2026-05-31T04:20:24+00:00",
+    "published_display": "May 31, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://i.abcnewsfe.com/a/45237977-4b55-426e-8909-2cbd3c567a79/wirestory_7a5ee493ef386593c7e8aef88838aa89_16x9.jpg?w=1600",
+    "real_url": "https://abcnews.com/US/wireStory/top-candidates-california-governor-tuesdays-primary-133460184",
+    "bias": "LL",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "a305bc803bd1",
     "title": "Here Are the Top Candidates for California Governor in Tuesday&#x27;s Primary",
     "source": "U.S. News & World Report",
@@ -12,6 +44,22 @@
     "image": "",
     "real_url": "https://www.usnews.com/news/politics/articles/2026-05-31/here-are-the-top-candidates-for-california-governor-in-tuesdays-primary",
     "bias": "?",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "2956d8a57e8a",
+    "title": "A Reality Check on the Polls in California\u2019s Most Chaotic Race",
+    "source": "Politico",
+    "source_url": "https://www.politico.com",
+    "source_domain": "www.politico.com",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdnU0enVSRm1UajczN2RKMlYxNjFOOGdGUU4wR2hLVXZIVG1PYTdKMl9uTEJScnNFNmJ6OEtaaklaUk80b2l3UUVfUlhlSHd3Q1pFaGJXUl9sT3JOOXZhcDVqWUZNTGdBeG9EaDZzc3ptLWlxeFhKNVhpSWFrUEswcWRWMnpmSF9mZzE4U09aZUxManNBclk4c2ZfLWExN21rX2RLRTFFeVo?oc=5",
+    "published": "2026-05-31T04:01:00+00:00",
+    "published_display": "May 31, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F45%2Fd1%2F381b92714107876c305eccec36b4%2Fmag-california-governor-roundtable.jpg",
+    "real_url": "https://www.politico.com/news/magazine/2026/05/31/california-governor-polls-elections-roundtable-00933722",
+    "bias": "LL",
     "topic": "2028 Race",
     "region": "US"
   },
@@ -29,6 +77,22 @@
     "real_url": "https://www.deseret.com/politics/2026/05/30/california-governors-race-polls-xavier-becerra-steve-hilton-tom-steyer/",
     "bias": "?",
     "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "7d04bbee72b4",
+    "title": "Feds push back on sanctuary policies to keep dangerous illegal immigrants off the streets after jail release",
+    "source": "New York Post",
+    "source_url": "https://nypost.com",
+    "source_domain": "nypost.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMDFaX21qZE5vU3gxRGJYU2F2eTRpeUl2OFNnNExPaU0zSldsQlRYLXUyY3RsbU9Ibk5yZUU5U0x6M2dCci0tU1ZMM3MtcUJqc05qb3U3NDNuVnVuMzNLbFNJY3B5OXNmWHE2V3JjaU4tZEg3bzNsMlVFTl92U2R6d1NBNVpjVnBkd1NGdkRIS3BuSmw0T2J0U1FKeTVBOV9WRHBrc18tc21Xam9xbXpjeTAwV3d2YzRRRGFnS0tnV1A?oc=5",
+    "published": "2026-05-31T00:38:00+00:00",
+    "published_display": "May 31, 2026",
+    "query": "Newsom immigration",
+    "image": "",
+    "real_url": "https://nypost.com/2026/05/30/us-news/feds-push-back-on-sanctuary-policies-to-keep-dangerous-illegal-immigrants-in-custody/",
+    "bias": "LR",
+    "topic": "Immigration",
     "region": "US"
   },
   {
@@ -704,6 +768,22 @@
     "region": "US"
   },
   {
+    "id": "2855fa10ac08",
+    "title": "California Senate advances wave of immigration protection bills",
+    "source": "CaloNews.com",
+    "source_url": "https://www.calonews.com",
+    "source_domain": "www.calonews.com",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQampSODFFSUdtcDBTQzdENVFvZFh2WUNsMUQzYmVKNFpkUktnUGp6dEZqQ3gta2tmNi1WZVhSYXdKTmdDbE9GcXc2TnJBaDdlTDV1blh5dGtlTnRWWGFsaFBmZHhMT2Rad1FBYUdzeU91N2JIVmZSRXQwNVJMY25Wd1VIWjB5X1hnWXdGU3JTeDhLZG90QzNzQ2p0cWJZYzRkbUw2eTJXNXg1clJiNVVudlFGUzFhOHozY3B2cWlrMmJLMWN0OEdsaU1DSm53TEUzVzRJMmZ3cDVDa0VsanVtX3FhWk5RbWJLOEE?oc=5",
+    "published": "2026-05-29T20:40:00+00:00",
+    "published_display": "May 29, 2026",
+    "query": "Newsom immigration",
+    "image": "https://bloximages.chicago2.vip.townnews.com/calonews.com/content/tncms/assets/v3/editorial/4/3b/43b8bcef-c51d-4084-9785-a6c36b9ca2cc/68c8500c7c1d6.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+    "real_url": "https://www.calonews.com/news/california/california-senate-advances-wave-of-immigration-protection-bills/article_b85bf2dd-83de-4900-98f5-7c629b7eb822.html",
+    "bias": "?",
+    "topic": "Immigration",
+    "region": "US"
+  },
+  {
     "id": "6eb254f0e114",
     "title": "Gavin Newsom mercilessly mocks Trump\u2019s MAGA festival failure with famed villains",
     "source": "Irish Star",
@@ -1085,6 +1165,22 @@
     "real_url": "https://www.yahoo.com/news/politics/articles/time-bring-california-regulatory-regime-130000093.html",
     "bias": "C",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "1bdab51cc8a9",
+    "title": "Becerra leads race for governor, Hilton and Steyer in close race for second, poll shows",
+    "source": "NBC Los Angeles",
+    "source_url": "https://www.nbclosangeles.com",
+    "source_domain": "www.nbclosangeles.com",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQkFIcHE3Y292dmNKMEduUWwtNl9TbUxlUUhfc0FLWkV2Y05sSkx3RS1NMEQ4c18wb1VZWFQxWVZkWE1aWmY0X0ozRUFUQmF3cnJrVkUyck93N3ZqY2lFWlFzX1BQMFhZSS1GZVdNeHNCZGV0Q1JTRG5CdVZEejRkbVlRbXNra3Q5WWdjOXBjbVNndUxLUkNKYUdSM2xsYTFFN2lha0Y3REVWWFF4UXBfcHNuQVJaRTDSAb8BQVVfeXFMTmMwSFB5ME9vSVd1QXhrclB3STdIczBhWlJFUDVia3BfQW9ZTzBHUnJTaEJIWE5lQTFUQncyNEQ1dl90empUeVJDSGZpMnZUdUJjeGZiVW0wZTY3SVhEQjF5eEVGVDdzN0FvMER2ZWRhbEs2cElLeGFlVGhRZVZJOEk1OS1pTXZ1VVFJSEgxUC1DZWdIekJBeXp6aVVfZC1QNDFfV1J3VmNINzRKZXM0MVhZdjYxS2VJVGo2MVF2ckk?oc=5",
+    "published": "2026-05-29T12:50:33+00:00",
+    "published_display": "May 29, 2026",
+    "query": "Newsom California",
+    "image": "",
+    "real_url": "https://www.nbclosangeles.com/news/california-news/becerra-hilton-steyer-california-governor-polls-election/3896716/",
+    "bias": "?",
+    "topic": "2028 Race",
     "region": "US"
   },
   {
@@ -27501,6 +27597,22 @@
     "real_url": "https://www.pasadenaweekly.com/news/governor-s-visit-newsom-explores-pasadena-city-college-trades-lab/article_9562cb65-f841-489f-9268-91a45ea80050.html",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "c50680ed96da",
+    "title": "Marco Rubio favored on Kalshi to win presidency in 2028",
+    "source": "Politics",
+    "source_url": "https://floridapolitics.com",
+    "source_domain": "floridapolitics.com",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQk5hTDdpT3FjWHNNZmpEQ3RlVTkwLUtiTHJ6bWFiZHNHWlJkZThqaHlEbEFtMDdxMkFjZTRPTHU5bEItRUVHczZ5ekEydVRZdnJPN3hvSnkzcHZ1UkhQQ0hrNE53ZkU2bU5vY1dTSmZGeEJmcm04cVFzdHNibUk3ZUdWdk10NDhFYkRkSHZMUjZUUF9jWDhUSHJGZnJQQjhrdVE?oc=5",
+    "published": "2026-05-07T07:00:00+00:00",
+    "published_display": "May 07, 2026",
+    "query": "Newsom president 2028",
+    "image": "https://floridapolitics.com/wp-content/uploads/2026/02/RUBIO.webp",
+    "real_url": "https://floridapolitics.com/archives/795189-marco-rubio-favored-on-kalshi-to-win-presidency-in-2028/",
+    "bias": "C",
+    "topic": "2028 Race",
     "region": "US"
   },
   {
