@@ -1,5 +1,37 @@
 [
   {
+    "id": "71b2bf79ffa0",
+    "title": "Trump energy team defends California offshore oil project, blasts Newsom policies for high gas prices",
+    "source": "Fox Business",
+    "source_url": "https://www.foxbusiness.com",
+    "source_domain": "www.foxbusiness.com",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Uam5mbEVRV2MyU21QbmxZV2VDWnNJSVdGanZCQUplU0dYUC1aOVlOeDdtN0FzVjI0SUVfWlpyanJHNnZfeUdhWEFIMW9wS2NLZXM1Sy1HNXFrMU0?oc=5",
+    "published": "2026-06-05T15:53:59+00:00",
+    "published_display": "Jun 05, 2026",
+    "query": "Newsom policy",
+    "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/733bf27e-263a-4d34-b30f-f65703e18e4a/75e80c7f-5527-44ea-a39d-1264da89abed/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+    "real_url": "https://www.foxbusiness.com/video/6397649807112",
+    "bias": "LR",
+    "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "05a03eda8f32",
+    "title": "California Dethroned: Fortune 500 Crown Goes to Texas",
+    "source": "California Globe",
+    "source_url": "https://californiaglobe.com",
+    "source_domain": "californiaglobe.com",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3NfVlhULVZnMUM2cGo0eVY5WTdIVEVrTTBDS2lwX3dFQXR5YW1DR3lFN2RnV2VSTHFac3VzZEZBUmo5akF3emFfNFRQdzhoc19qTmk1Y2dscFphQmoyVHhCdDc1VGIzN3ZPWm5vOHdzaGhNSFpwNVMxU2kwU1lxZkNQY3pMSlVKb1YxOA?oc=5",
+    "published": "2026-06-05T15:00:00+00:00",
+    "published_display": "Jun 05, 2026",
+    "query": "Newsom California",
+    "image": "",
+    "real_url": "https://californiaglobe.com/fr/california-dethroned-fortune-500-crown-goes-to-texas/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "47701fa68cd7",
     "title": "Gavin Newsom Mocks Donald Trump \u2018Sleeping\u2019, Calls Him \u2018Dozy Don\u2019",
     "source": "AOL News",
@@ -109,6 +141,22 @@
     "real_url": "https://freebeacon.com/california/taxpayer-funded-drum-circles-biden-era-policy-gives-native-american-shamans-medicaid-dollars-to-treat-california-drug-addicts-with-rituals-dances/",
     "bias": "?",
     "topic": "Economy",
+    "region": "US"
+  },
+  {
+    "id": "2740cca0f003",
+    "title": "Don\u2019t Overlook The Heat Source Behind California\u2019s Red Wave",
+    "source": "The Daily Wire",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.dailywire.com/news/dont-overlook-the-heat-source-behind-californias-red-wave",
+    "published": "2026-06-05T09:00:57+00:00",
+    "published_display": "Jun 05, 2026",
+    "query": "direct_feed",
+    "image": "https://dw-wp-production.imgix.net/2025/01/GettyImages-2192359049-scaled-e1736793408555.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+    "real_url": "https://www.dailywire.com/news/dont-overlook-the-heat-source-behind-californias-red-wave",
+    "bias": "R",
+    "topic": "General",
     "region": "US"
   },
   {
