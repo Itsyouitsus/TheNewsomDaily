@@ -1,5 +1,37 @@
 [
   {
+    "id": "d94f11c4a53e",
+    "title": "Hilton or Steyer? Pratt or Raman? Here&#x27;s when more results are expected in the California governor, LA mayor races",
+    "source": "CBS News",
+    "source_url": "https://www.cbsnews.com",
+    "source_domain": "www.cbsnews.com",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVWxVQ1Njd3NCeTB0TnkweGRWT21iNWFVWDd6Mk8wZm45QUI1LWRjODJndmMzcWtlVXAxX3lCQTd2WERPREdPN1drbDhfMDFlZkppMi1uQlJqNXpyYm1EWkREZHFYa00zZ3hvOURIckhYSURTRTNnOHVLYUp1YXZ3dHpPY0t5ZTVMbWpseTNCaXhLR1VVRElqaEtvQ2FzWHNRVExqd01R?oc=5",
+    "published": "2026-06-06T15:58:19+00:00",
+    "published_display": "Jun 06, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/06/e73b163d-0a2f-4ff3-b99e-138ddefe880a/thumbnail/1200x630/12ff3cec72a3a48c8230bae9c8f8e072/hilton-steyer-pratt-raman.jpg",
+    "real_url": "https://www.cbsnews.com/losangeles/news/california-governor-la-mayor-results-hilton-steyer-pratt-raman/",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "ab27cb841ac9",
+    "title": "Becerra takes top spot in Calif. primary; feds send election watcher",
+    "source": "UPI",
+    "source_url": "https://www.upi.com",
+    "source_domain": "www.upi.com",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ29RU0lnMEctX2ExVmtPc2dqQmRKd2xhTHBUOTZXRWhWek5sRl8xLV81N1VLblJkMklQcGFvU3d1c2lvZk45dFc2Zjd1TUc1LS02cjRYYnpOcVRNUXRvRG1lc1JHR1pMTjk2RXBJYkVMbUQxVnVYNzh0UVRxVHV6Uml4R3RySFFReklqdWVEb0ZYeDjSAZgBQVVfeXFMTl8wUi04TnBEcWs0Yi1IU2VMa3FiVmFaaEIwYzV6amJHSjVwaWxsNURKQ2duVVJTbGd3d3VjQmx1XzBmRjNQYjJ5WDFKMkVFaHdualhRY0NYLVJZYkx1OFJKWTBJU2xoS1Z4dTBFT2xzUGpNakppMWx1bDI0dWFzTWlsb3M3QkRIUDVEcXRqeWQ1S05mRmVKWUs?oc=5",
+    "published": "2026-06-06T14:59:51+00:00",
+    "published_display": "Jun 06, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://cdnph.upi.com/sv/ph/og/upi/1771780757653/2026/1/dfde795fedab2d67573cbcebf81b39da/v1.5/Becerra-takes-top-spot-in-Calif-primary-feds-send-election-watcher.jpg",
+    "real_url": "https://www.upi.com/Top_News/US/2026/06/06/becerra-wins-california-primary/1771780757653/",
+    "bias": "?",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "380bab94d6b0",
     "title": "Becerra advances in California governor&#x27;s race, Raman closes gap with Pratt in LA mayor&#x27;s election",
     "source": "MSN",
@@ -61,6 +93,22 @@
     "real_url": "https://www.usatoday.com/story/news/politics/2026/06/06/california-governor-primary-election-results-updates/90434579007/",
     "bias": "C",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "5ed914d32754",
+    "title": "California lawmaker aims to protect reparations payments to Blacks from taxation",
+    "source": "Yahoo",
+    "source_url": "https://www.yahoo.com",
+    "source_domain": "www.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnhxakhyYTFsYWpoQkxTWVk1TFdnS0wwTmNNSG45b0VzMGRnSU1qLVllMld0YmluaTE2c1BEem5oWThPTjNPZXhJX0lMcERQTmR3dHdaNDlYUGR5cWhPZ0xjY0RLWWJ5RC04MWhxYWFLSWFzRWE0a05MeUdBZGpBZy1pc0Y5b2VLUE5CaF9OeWdvUVQ2RnNHYUhHUG9WTEowQklxM0NQbw?oc=5",
+    "published": "2026-06-06T13:58:58+00:00",
+    "published_display": "Jun 06, 2026",
+    "query": "Newsom California",
+    "image": "https://s.yimg.com/lo/mysterio/api/4048e3a5d0a3cc35353cbb2cf0d31135139dc7d9f7982ae740043784bfad22af/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F829100dde7ac5754c0649feafc77dd76",
+    "real_url": "https://www.yahoo.com/news/politics/articles/california-lawmaker-aims-protect-reparations-135858069.html",
+    "bias": "C",
+    "topic": "Economy",
     "region": "US"
   },
   {
@@ -653,6 +701,22 @@
     "real_url": "https://www.trillmag.com/news/explain-5/whos-really-losing-the-gerrymandering-battle/",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "77d1ac881e4e",
+    "title": "2026 Election: California gubernatorial Republican candidate Steve Hilton calls for faster vote counting",
+    "source": "ABC7 Bay Area",
+    "source_url": "https://abc7news.com",
+    "source_domain": "abc7news.com",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcEsyRlc1TmpQVHZQT2FzSU9KOTFBQkl3WUpkaXUzN0NtaWtpRW1ZM2xPa19KYS0xeGh4ZnZHRGlILUhnWnZQY2U4eGp6QXAzUjNMbW1DUm1pb2ZrcnZsaWg3X3FBaVZkQlRlLXIyZWVIRWdiYTBNX3FNdzNtelNDVVFmM1dfdnBrUVEtcGVqc0lqY1h6bFIzNEFPT2Q3Ykl6dTdmbHVuT2lWMzlLbW0zRTFuUk1uWG5fODJOS01sMm1VVG9tLVJabHZRMkN4SkEw0gHWAUFVX3lxTFBibnFMenFSX2k5T1MzeE5NZzltek9lbjV5NmN1ODFna3JCYlFSM19EOGxYX3dmekJoakNVN1lLdmFDdlduT0p4WGV3SWZlZHZjM3d4ZEVaMk1iZWJHVVFlM0RfcHNqRldzZE03VDFkaWtxdEdyZXE1bGNfTUdCM1owM1hjV0ZTY1hmaTY0VkF5d01SVU1PMkVzaExqUVZ5c3NNaTNXemJBMzB3V2FxdE5CcFBuN1ZFeVJLNDZPcTNkRHplZmQ0elI0U0ZXZTY1a3hSMFlpY3c?oc=5",
+    "published": "2026-06-05T21:48:47+00:00",
+    "published_display": "Jun 05, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://cdn.abcotvs.com/dip/images/19242175_060526-kgo-hilton-election-count-img.jpg?w=1600",
+    "real_url": "https://abc7news.com/post/2026-election-california-gubernatorial-republican-candidate-steve-hilton-calls-faster-vote-counting/19241685/",
+    "bias": "?",
+    "topic": "Foreign Policy",
     "region": "US"
   },
   {
@@ -81917,6 +81981,22 @@
     "real_url": "https://www.seacoastonline.com/story/news/politics/2026/02/12/gavin-newsom-portsmouth-nh-music-hall-presidential-run/88642528007/",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "cd976d0324a4",
+    "title": "Federal agents clash with protesters during ICE raid at Southern California farm",
+    "source": "ABC News",
+    "source_url": "https://abcnews.com",
+    "source_domain": "abcnews.com",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdElKcUxmREtiZTJoOVdFSWZtQ205QzJvaTRlZ1paRDBWSENKX1FiYm92enZWeUx1YURFaU1YTFFSRjMtb01lVkNfTlNvWERoeGs1cmZqOUhTbTNha053NGJtMEg3WGZ5d2ZDVFdieGJ3UkZ2VVJTUlJ4cUJ0QWNKT0pkQ0FZc1NxZmJFc1NhZWUwZVcxaDhya1M3WHV1UWU4T1VaaNIBqgFBVV95cUxQRDZmRDM3WTJLWXVrM1FpZGVDRGZpTWo0UGNuQ1F0ZzREdVFDbl9nMmp4SU0wMGlUQ3ZZa3RHdnh0bHBRSm1FR2Mwc0ZlREVtRzFnTHh0TnBrVlN3S0R2R3JkeVFzcV9oMHB3YnR1UDBqRHlDMGRZMEVRNmpxTXlIdUdQTlpMRVEtVzlWcmhnNXZBMWhfZ1RLeVpzV1l2dTU5YXRxd3piVW0wQQ?oc=5",
+    "published": "2026-02-11T21:58:35+00:00",
+    "published_display": "Feb 11, 2026",
+    "query": "Newsom immigration",
+    "image": "https://i.abcnewsfe.com/a/f4efe9a4-3255-4806-ab8a-70178f32696e/raid-2-abc-er-250710_1752181357445_hpMain_16x9.jpg?w=1600",
+    "real_url": "https://abcnews.com/US/federal-agents-clash-protesters-ice-raid-southern-california/story?id=123657572",
+    "bias": "LL",
+    "topic": "Immigration",
     "region": "US"
   },
   {
