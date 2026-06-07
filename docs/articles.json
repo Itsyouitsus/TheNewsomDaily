@@ -1,5 +1,53 @@
 [
   {
+    "id": "f0223624fcfd",
+    "title": "Driving People Out of California",
+    "source": "Daily Signal",
+    "source_url": "https://www.dailysignal.com",
+    "source_domain": "www.dailysignal.com",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vOWx3ZUJJRlJ0U1ktQUdxR1JXdzduYnZnYlVQOF9zOWF6MUJsQUw4dGpiOTJ6RU16VkR5ZG1NazZ4VWtsSWw0QW40QXJkQWd2dEFqaUx6a0JEODRPRkFibFNLVWpvT01KWkx0SWxiUEZKTFhjbmhPeDBXRzg?oc=5",
+    "published": "2026-06-07T13:00:00+00:00",
+    "published_display": "Jun 07, 2026",
+    "query": "Newsom Democrat",
+    "image": "https://static.dailysignalmedia.org/260604-Gavin_Newsom-Smoke.jpg",
+    "real_url": "https://www.dailysignal.com/2026/06/07/driving-people-out-of-california/",
+    "bias": "R",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "44fbe1e47684",
+    "title": "Becerra overtakes Hilton as California vote count continues",
+    "source": "MSN",
+    "source_url": "https://www.msn.com",
+    "source_domain": "www.msn.com",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT04zdktzV0N4RzJSWVBsaWVTa3VjTDZ6VW8tODRBcEVXWTRqSVpuQlNyRUNCMGNKR0hRM29WajlMUWJVMlJmQkdGS1hneWhRcWpaLTdRaHlJbm5TelVwdVhHcXM3ZldoRlMyTFRQMWF6NlJlNmZ4cW9GcE9MV3FmWHNBcjRhUGltRlkwU3lHUVV4NmNuTVQyNVJ0WUxsdnd0UF9xTm9VaDBjSnRGdFdZU1I0bzJWNkxSTm04NHZfVW9UeDhHcjBoNFU2a3BJaU5NVk1uQWUtajlSbHVndzJndE5Edy1SZG82VU9Ua2pseUV6UQ?oc=5",
+    "published": "2026-06-07T12:47:22+00:00",
+    "published_display": "Jun 07, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA24ZmtH.img?w=956&h=600&m=4&q=100",
+    "real_url": "https://www.msn.com/en-us/news/politics/becerra-overtakes-hilton-as-california-vote-count-continues/ss-AA24ZfJL?cvid=6a25676d2f7a4e6585a04e30ae1314b3&ocid=hpmsn",
+    "bias": "C",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "e1a4959ce57c",
+    "title": "Sacramento\u2019s return-to-office mandate is a lose-lose-lose situation",
+    "source": "Sacramento Bee",
+    "source_url": "https://www.sacbee.com",
+    "source_domain": "www.sacbee.com",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54TFFxYVJiZzVaZW5uVWR5WmN3Ym1Bel9ZNHMzbEVFdmd6dERvREVEUmNETXAzNXdPWThlbGFUS2lkT1BrSjM2VEpwV0F5c0JSRU9aQzA2V3ctM2lfSzZtRVFhREt0UVliOUtDLUwzdTdKUUNfN2FZdjJzS2dTeEXSAX9BVV95cUxQMEowMUtnejV3Tm1Ocm5KNWlLMTZZTWo1Z3QyaGFMTVpJOEtodWZQdnpCUFpnWnpNa1VfcUpzenlPV05jS1RMdnhVQWE2NzRXaGNiejdYM1Y3ZTFveDdMOVZPNkR5WExybzFwSVU5Rl9LZHZlRk54cHdkSDhiaEs4?oc=5",
+    "published": "2026-06-07T12:00:00+00:00",
+    "published_display": "Jun 07, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.sacbee.com/opinion/letters-to-the-editor/article316010681.html",
+    "bias": "?",
+    "topic": "Immigration",
+    "region": "US"
+  },
+  {
     "id": "27bbde8150e5",
     "title": "Newsom Mocks MAGA Priorities With Savage Epstein Swipe",
     "source": "The Daily Beast",
@@ -1339,6 +1387,22 @@
     "query": "Governor Newsom",
     "image": "https://s.yimg.com/os/en/mandatory_995/9798b0afbc480528333bbe0823f2c375",
     "real_url": "https://www.yahoo.com/news/politics/articles/gavin-newsom-takes-aim-donald-152501737.html",
+    "bias": "C",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "30d8c69a3a33",
+    "title": "Chances of Spencer Pratt and Steve Hilton Advancing Amid Slow Vote Count",
+    "source": "Yahoo",
+    "source_url": "https://www.yahoo.com",
+    "source_domain": "www.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3ZhdzRLdzJCQ1lxMGxyNzFLS0thLTEzWlI1VlhYODRLUVBUcVUyUXRzeVF5OWQwM001Z0h4Wlk1RzZnWWwzbEpxalBSdVVQZEZWd0c3SXI1Y2NxSXN6TFJMbjgyaDh3RW1iRTE4d0t0MHlkRnZDdW9DcHhvVmlKUGVRb2xGUnRILW4walRBT0ZtQU01Yl93Zkp3?oc=5",
+    "published": "2026-06-05T15:09:33+00:00",
+    "published_display": "Jun 05, 2026",
+    "query": "Newsom Democrat",
+    "image": "https://s.yimg.com/lo/mysterio/api/017be75a08026d1b8b1afb8e0454c84425741b381be51fac4658dc10fc4aa1b2/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2F49eebedaccfed75964e14da9804f138e",
+    "real_url": "https://www.yahoo.com/news/politics/articles/chances-spencer-pratt-steve-hilton-150933791.html",
     "bias": "C",
     "topic": "General",
     "region": "US"
@@ -82144,6 +82208,22 @@
     "region": "US"
   },
   {
+    "id": "d9ae4ac3d6dd",
+    "title": "Newsom Says &quot;Trump Is Temporary&quot;, Talks 2028 At European Security Meetup",
+    "source": "Deadline",
+    "source_url": "https://deadline.com",
+    "source_domain": "deadline.com",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdEgzVnoyaGlCQm0zcm1sOXA0NUlHNDl5WE93Tkg0NEUxbVNZMTM5Q3JEOXlDbFV5QVhZUExBbWt1WjNHd3ZuRTJYTDNEZTNFRC1MRTJsNkR6OG9yc3N6cEpVbUVyM0pjOXQwbWo5ZzhEMmhCamFpRUxDVHJiM2x2bkNR?oc=5",
+    "published": "2026-02-13T08:00:00+00:00",
+    "published_display": "Feb 13, 2026",
+    "query": "Newsom president 2028",
+    "image": "",
+    "real_url": "https://deadline.com/2026/02/newsom-trump-european-security-2028-1236719546/",
+    "bias": "?",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "afa1ed8d08eb",
     "title": "Debunking 5 claims about the California wildfires",
     "source": "ABC News",
@@ -90784,6 +90864,22 @@
     "region": "US"
   },
   {
+    "id": "2d7affbc157a",
+    "title": "Sneako endorses Gavin Newsom for 2028 presidential election after Benjamin Netanyahu announces Trump is being awarded the Israel Prize",
+    "source": "Primetimer.com",
+    "source_url": "https://www.primetimer.com",
+    "source_domain": "www.primetimer.com",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQlZQcC1iY1VqQ0tBRWFnVHozbzRGMlFkd2FfZ2Q3dDNGTjAzVGVKdnZsTGZscEdBcmltTlVweV9uMmNJQno3OTNpZzNBd1loZVBHTTg4N3BKZzRyQmdzaUhjamhwYVRjb3g1c1otbXB0SG5TUkJLYm1lRXRNRjhyRk15aUs1Z3hienBfTnE0SWtjZlFJRFVzMzBxbXVFQUNlTW8wRjlGTDBpU1ZGNldTQ0dJOERtQ0FydTJRdzFpNjZzQkdRSU5lNEpOcjRTbGxLZnVaRndfcTF0eHJHbFZKREpqYk1fYndHNldEc0dWWkhWYnVDRDlQUnhB?oc=5",
+    "published": "2025-12-30T08:00:00+00:00",
+    "published_display": "Dec 30, 2025",
+    "query": "Newsom president 2028",
+    "image": "",
+    "real_url": "https://www.primetimer.com/news/sneako-endorses-gavin-newsom-for-2028-presidential-election-after-benjamin-netanyahu-announces-trump-is-being-awarded-the-israel-prize",
+    "bias": "LL",
+    "topic": "Foreign Policy",
+    "region": "US"
+  },
+  {
     "id": "08c5788e7e95",
     "title": "Here\u2019s everything (so far) Governor Newsom got done in the year that would not end",
     "source": "California State Portal",
@@ -91470,6 +91566,22 @@
     "bias": "LL",
     "topic": "General",
     "region": "US"
+  },
+  {
+    "id": "c9263cdb08ce",
+    "title": "Gavin Newsom Leads 2028 Democratic Presidential Race With 37% Win Odds, While Ex-VP Harris Trails at 5%",
+    "source": "International Business Times UK",
+    "source_url": "https://www.ibtimes.co.uk",
+    "source_domain": "www.ibtimes.co.uk",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeGpBVXpWZDQxNmk3Vld0SUI4OFVfdFd2NHpNZWQzb0dHbU9tWGdILTR4VlRWQTEwdVdYd2YzVEFMckJvdkRNbkdkdWFEa0gzeV9fTjhNVFRGOG5JanllYTBTRWFlRHA0NmVnWWFyYWdJTGd3cGdmOUJyQzIydVhEMzBzM21JRWF5ZjMwUTBOQk9vNjV0dWhwNzFQa1A5c0FfRWRMNjBzTXJ2VklBM2Q1dF9lTlRlQTh1SVlkbXJtak5aWHhf?oc=5",
+    "published": "2025-12-16T08:00:00+00:00",
+    "published_display": "Dec 16, 2025",
+    "query": "Newsom president 2028",
+    "image": "",
+    "real_url": "https://www.ibtimes.co.uk/gavin-newsom-leads-2028-democratic-presidential-race-37-win-odds-while-ex-vp-harris-trails-5-1763463",
+    "bias": "LL",
+    "topic": "2028 Race",
+    "region": "Europe"
   },
   {
     "id": "b3390c0babc3",
@@ -95295,6 +95407,22 @@
     "region": "US"
   },
   {
+    "id": "ee2a511f2b03",
+    "title": "Is mega-phony Gavin Newsom the best the Democrats can do?",
+    "source": "New York Post",
+    "source_url": "https://nypost.com",
+    "source_domain": "nypost.com",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNnJqVVpHbGpMODFCMlo1VVZtbklqcnIwNGN3NWNoV01xaTU5U0V1QjJHNWExVWgyQ055YklsRlFndDUyeUxtOWhCc29iODVfTlBIakZTV3phcVZ2R243SlI2WWdGSlE2TmdUX2VOSms1RUxtcURwdGFfcmUxSl9SbmlpNU1VZ25wZXZ1S2JQWks4MFUzR0lqYlhGOA?oc=5",
+    "published": "2025-11-02T07:00:00+00:00",
+    "published_display": "Nov 02, 2025",
+    "query": "Newsom president 2028",
+    "image": "",
+    "real_url": "https://nypost.com/2025/11/02/opinion/is-mega-phony-gavin-newsom-the-best-the-democrats-can-do/",
+    "bias": "LR",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "300977945fee",
     "title": "The money spent on Newsom&#x27;s Proposition 50 was unlike any other California election in one way",
     "source": "CalMatters",
@@ -95775,6 +95903,22 @@
     "region": "US"
   },
   {
+    "id": "346e8d019c00",
+    "title": "Kamala Harris, Gavin Newsom considering 2028 presidential runs",
+    "source": "USA Today",
+    "source_url": "https://www.usatoday.com",
+    "source_domain": "www.usatoday.com",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXJvUTBxQXQ1WmgybWlWR3U1M3ktWk9QbEJzVktscWl3MzhtckR5SExkQTNaM0k3TFBLSV8xd0NZOVNTQW5kOUQ1c180TGh3ZDBOV1FkdlBuTlZTVXA2cnJvUm80WmJ6X3BGUDc5RGxCZUFfT1Y2djluSGI4YzRmMkhzdUdSTWtGaHRva1h2U05PSUx0aDJlbVoydHU3V0ZzYzcySTRUS3RPeUpDUkg1RHlQbkZ3ZU9aRm1N?oc=5",
+    "published": "2025-10-27T07:00:00+00:00",
+    "published_display": "Oct 27, 2025",
+    "query": "Newsom president 2028",
+    "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/10/27/USAT/86929553007-20251026-t-110514-z-1431648937-rc-2-phhav-0-neq-rtrmadp-3-britainusakamala.JPG?crop=2999,1687,x0,y156&width=2999&height=1687&format=pjpg&auto=webp",
+    "real_url": "https://www.usatoday.com/videos/news/2025/10/27/kamala-harris-gavin-newsom-consider-2028-presidential-runs/86929454007/",
+    "bias": "C",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "68c71858e5dd",
     "title": "Highlights from Gavin Newsom&#x27;s &quot;Sunday Morning&quot; interview: Proposition 50, opposing Trump, and 2028",
     "source": "CBS News",
@@ -95916,6 +96060,38 @@
     "real_url": "https://www.cbsnews.com/news/newsom-says-he-will-consider-white-house-run-after-2026-elections/",
     "bias": "LL",
     "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "57ba2c6b86a3",
+    "title": "California Gov. Gavin Newsom to consider 2028 presidential run",
+    "source": "Gephardt Daily News",
+    "source_url": "https://gephardtdaily.com",
+    "source_domain": "gephardtdaily.com",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLVdzQUkzTkZnZzEwWkhIU1o4TUY4anp2RzhsSEdwQWV3TVBVaDVmaEl4cDIzMzdvaWUyVFVwYUJqQXZmVExWdnpTYzh6QW5iS25vc3F1RFAtc1p5RC1yekU0UlZwakk3bGdjMGtsNDhWNW5YdmpzTkFRZDJST0loTEdpb0VyaW12NWc2azg4U3hTU2dRVWwtVVM1bkgxMmdackE?oc=5",
+    "published": "2025-10-26T07:00:00+00:00",
+    "published_display": "Oct 26, 2025",
+    "query": "Newsom president 2028",
+    "image": "",
+    "real_url": "https://gephardtdaily.com/top-stories/california-gov-gavin-newsom-to-consider-2028-presidential-run/",
+    "bias": "?",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "ac0c861091a0",
+    "title": "MAGA&#x27;s Most Hated Troller Gavin Newsom Teases Presidential Run",
+    "source": "The Daily Beast",
+    "source_url": "https://www.thedailybeast.com",
+    "source_domain": "www.thedailybeast.com",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNVl4MW5ZZ01CU08tNDZTdWk1UkQtWGlvNVA0Y3I4M3puOC10b0tOZ3A2alFmSmpDUmxmelowbTVVNmM5Q0lQanNOTGx4Z3ZsME9ZMlBhUUZXRHFvMkNoVGtJXzE1UmNQQi0yeV80NEZCYzhJRm9vWWY2MUtRSm9JZ29BYlRjLWg0Tks4UFNJSDZ2aVI3V0pN?oc=5",
+    "published": "2025-10-26T07:00:00+00:00",
+    "published_display": "Oct 26, 2025",
+    "query": "Newsom president 2028",
+    "image": "https://www.thedailybeast.com/resizer/v2/WM3PZVUCCRGCXNZHM2BRKLKEBQ.png?smart=true&auth=6deabe96797b648d464ee3fee71639d9b0b500f7a92172339af71c56546f85ec&width=1200&height=630",
+    "real_url": "https://www.thedailybeast.com/magas-most-hated-troller-gavin-newsom-teases-presidential-run/",
+    "bias": "L",
+    "topic": "General",
     "region": "US"
   },
   {
@@ -96639,6 +96815,22 @@
     "region": "US"
   },
   {
+    "id": "518ffb44c65e",
+    "title": "Kamala Harris still Democratic favorite for 2028. Poll reveals where Newsom, AOC stand",
+    "source": "KATV",
+    "source_url": "https://katv.com",
+    "source_domain": "katv.com",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZUVBSnVEck1xNnk3cHlUV0swMTBPRHdHTVZqXzNmN0ZmSUZVMHIxV2F2ZFZBRTdDd2tBTk5xcmdMQkJ3RldsYlBvZGtsLV9CSXJfT0FxZVFBX2dpM0kxTGR2N19tOVE4TG5NWFV1cEZfRC1uY0M0clliLVlqZmxFVHRkaFIzUjRQY21OekxQbTFFNmRIN2s4SDdUS3FnSVBqY2lDb1BtX2lmeEpZZ2Jkb0xVZ0pxcFFCQlZNb2YwaHFWcnhjemRLWG9mTExXOS1vQzFtNUFuQjNhcVlKR3g2QndaNmcwSXVJd3lYZ2VCUFJ1b3l0aF9BWFNacUlPbE1aMUdpSm1KNA?oc=5",
+    "published": "2025-10-20T07:00:00+00:00",
+    "published_display": "Oct 20, 2025",
+    "query": "Newsom president 2028",
+    "image": "",
+    "real_url": "https://katv.com/news/nation-world/kamala-harris-still-democratic-favorite-for-2028-poll-reveals-where-gavin-newsom-aoc-alexandria-ocasio-cortez-stands-election-politics-voters",
+    "bias": "?",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "f7fb06b95ef7",
     "title": "California Governor Signs Law Expanding Legal Protections for Immigrant Youth",
     "source": "Davis Vanguard",
@@ -96652,6 +96844,22 @@
     "real_url": "https://davisvanguard.org/2025/10/california-immigrant-youth-protections/",
     "bias": "?",
     "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "83e8901208a7",
+    "title": "Who will succeed Trump in 2028 election? New poll shows...",
+    "source": "Yahoo",
+    "source_url": "https://www.yahoo.com",
+    "source_domain": "www.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONUV5bWQyWmlyUEZzeXdlWjcyWGExYlhVTFhhMFF2dWVENElsTGxPdFlrN0VnaU8yZzFINlhUbVpLbVk1SDFhQ0tFRUhPbjlfX2VlYmpTZEpRbEtPX1pFaWVCQzdNS2dwYXBjN1JHcmlvRVZkczdyZXVfY3dBbFNNN2VBX3NfOHo5ekNJ?oc=5",
+    "published": "2025-10-18T07:00:00+00:00",
+    "published_display": "Oct 18, 2025",
+    "query": "Newsom president 2028",
+    "image": "https://s.yimg.com/lo/mysterio/api/322c30e6161a88a00ef0fbc9205ae8e71fb0b03f53ab6995eda9bc059ac68987/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnj_com_articles_950%2Fc0e43642e8925ae9b73cee7cb6a27712",
+    "real_url": "https://www.yahoo.com/news/articles/succeed-trump-2028-election-poll-100050236.html",
+    "bias": "C",
+    "topic": "2028 Race",
     "region": "US"
   },
   {
@@ -101019,6 +101227,22 @@
     "region": "US"
   },
   {
+    "id": "d95ac16060ca",
+    "title": "Newsom\u2019s stock rises after clash with Trump",
+    "source": "The Hill",
+    "source_url": "https://thehill.com",
+    "source_domain": "thehill.com",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWVQ1TTVMb2F1cEl0T0lJdWs2eURicDc3VXF3UkUwYzNDeGM0alN5aHQwbkU3OEFSRllwU1hpZks1MC1RVmdxVThvUG1kZUdJZFFlcjd1MmgwQjl4VkhQQl9CSklCbEpwV0FhRHlZQzRYYUZDNzhDLUwzaDVGLTRoYkhTdHdWOWhXTEVGQ1h30gGTAUFVX3lxTE51R004cUREcE85eUVfcGNiZ0VTT1hkLVAxeGpiY29WbTNYUXFheHhkaXNEQzZJZGoyQTFxUGpRaGtfUmJLZUZvZm96cmVzY0xsLUZZRVZ1V0F2d3F4eHM4SzBRemtsbGdSaHlmQzh5c2Z4YldxX1BOWG5wMHNUWWFLOTgyTVpaVF82WXYyTkNkc1V6WQ?oc=5",
+    "published": "2025-06-21T07:00:00+00:00",
+    "published_display": "Jun 21, 2025",
+    "query": "Newsom president 2028",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2025/06/Newsom_Mueller_AP-SFChron_SantiagoMejia.jpeg?w=1280",
+    "real_url": "https://thehill.com/homenews/campaign/5361358-gavin-newsom-2028-presidential-chances/",
+    "bias": "C",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
     "id": "22df92cf8334",
     "title": "Californians once supported denying immigrants social services and education",
     "source": "CalMatters",
@@ -101895,6 +102119,22 @@
     "region": "US"
   },
   {
+    "id": "bb06e0b28b69",
+    "title": "Gavin Newsom Escalates His War on the Homeless in Lead-up to 2028",
+    "source": "The New Republic",
+    "source_url": "https://newrepublic.com",
+    "source_domain": "newrepublic.com",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnFjaUhtUkJtcnBPMHVBLTNiSlI5a0R2UFptQnZnWEViYnpBNGYxSDhEY0lEVHRodGhZamZiNzZzRHZMSWIybUlmZWJRa2NpcE92dFdqYXRNRzB1cTkxMnZhWm5FdjJ4dnRHTXlzanl3ak9zYTlWblF3Z3dyZXpMZEpiM2J1bUZMb0ZURg?oc=5",
+    "published": "2025-05-12T07:00:00+00:00",
+    "published_display": "May 12, 2025",
+    "query": "Newsom president 2028",
+    "image": "https://images.newrepublic.com/5beadd4530e0c1dfe3ba6c54876cd5be58e630fe.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+    "real_url": "https://newrepublic.com/post/195135/gavin-newsom-war-homeless-encampments-california",
+    "bias": "L",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "95eaa6262d90",
     "title": "Other states are showing California how to protect its budget without cutting needed services",
     "source": "CalMatters",
@@ -102135,6 +102375,22 @@
     "region": "US"
   },
   {
+    "id": "eba37e5b34f8",
+    "title": "Buttigieg, Walz and Other Democrats Start the 2028 Chatter Early (Published 2025)",
+    "source": "The New York Times",
+    "source_url": "https://www.nytimes.com",
+    "source_domain": "www.nytimes.com",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQjRldXZVV1NicEc2MGRzaGFiX0h2b2lTa1pZc2pJc3MwbEFqVVRtUk1lNW5fZHB6bWdCY3Q3MzJXQjV5QTEyWm5CUVFYM1ZvOERBeTdKSkJNUEFMRWZYRHNOaUlUeTF1VXQ0NFFORVVlMHI1ZXhSYVZKUUk0M1RPc3dzWlZWZnktZXVLQ0paMko3dU96WlViZjUyZ0R1VVE?oc=5",
+    "published": "2025-03-15T07:00:00+00:00",
+    "published_display": "Mar 15, 2025",
+    "query": "Newsom president 2028",
+    "image": "",
+    "real_url": "https://www.nytimes.com/2025/03/15/us/politics/democrats-president-2028-buttigieg-newsom-walz.html",
+    "bias": "LL",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "2b605196b17f",
     "title": "Californians\u2019 Changing Views of Their Governor",
     "source": "Public Policy Institute of California",
@@ -102148,6 +102404,22 @@
     "real_url": "https://www.ppic.org/blog/californians-changing-views-of-their-governor/",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "90f0f66e5cb1",
+    "title": "\u2018I think he\u2019s serious\u2019: Bannon won\u2019t rule out presidential run in 2028",
+    "source": "Politico",
+    "source_url": "https://www.politico.com",
+    "source_domain": "www.politico.com",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVWhveWxjSVVRdUU3aG9wRXFsc0F0blQ4bENlZ1RCSXNTdGt1MUFteHh2N1lObTdaWHp4SnlIM3VwYjRHSWp1VzZqVjV1N0FFRXN5MjYyY1phZENiUlZpMEFJQkZubWp0Y3FYNXhvQUVzRE04SC1ybGQyRFhZT19QdVM3OFBHSGc?oc=5",
+    "published": "2025-03-12T07:00:00+00:00",
+    "published_display": "Mar 12, 2025",
+    "query": "Newsom president 2028",
+    "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F0d%2F48%2F7ebfd5ee41479b102d4c707ff401%2Fcpac-95544.jpg",
+    "real_url": "https://www.politico.com/news/2025/03/12/bannon-2028-presidential-trump-00227220",
+    "bias": "LL",
+    "topic": "2028 Race",
     "region": "US"
   },
   {
