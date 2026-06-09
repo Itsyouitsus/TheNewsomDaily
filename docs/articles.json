@@ -1,5 +1,21 @@
 [
   {
+    "id": "0509e114017b",
+    "title": "Becerra and Hilton spar about electoral integrity as Trump claims California elections are rigged",
+    "source": "Los Angeles Times",
+    "source_url": "https://www.latimes.com",
+    "source_domain": "www.latimes.com",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQWRBd2hvTVhZXy1MUlVRLXRKQmlvY1NWTjVORHdCV1pGOWJUT1JaclNjRy1kNDlYNWN4OGhJQXhRNGlLb3EycHRLWEV0NjNValB5VUV3MDB4TWkwcG1YaEV1S1luRXdUdU1tZG9zakkxMWluVkc0YmNteDNxU1RMd08xeVhPbFZQNlBXOFo2VmlHQ0wtakhEZUVCS3RsZw?oc=5",
+    "published": "2026-06-09T23:01:35+00:00",
+    "published_display": "Jun 09, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/6a91cdd/2147483647/strip/true/crop/3000x1575+0+213/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7b%2Fbe%2F1ca7ff294272bcb90a5321767631%2Fla-me-hilton-becerra-diptych.jpg",
+    "real_url": "https://www.latimes.com/california/story/2026-06-09/becerra-steyer-governor-newsom-trump-election",
+    "bias": "LL",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "7d90501c55e3",
     "title": "Newsom\u2019s $2.3B tax fight",
     "source": "Politico",
@@ -793,7 +809,7 @@
     "published": "2026-06-08T18:43:42+00:00",
     "published_display": "Jun 08, 2026",
     "query": "Gavin Newsom",
-    "image": "",
+    "image": "https://static01.nyt.com/images/2026/06/08/multimedia/08nat-ca-slowcount-tqcv/08nat-ca-slowcount-tqcv-facebookJumbo.jpg",
     "real_url": "https://www.nytimes.com/2026/06/08/us/california-elections-trump-slow-why.html",
     "bias": "LL",
     "topic": "General",
