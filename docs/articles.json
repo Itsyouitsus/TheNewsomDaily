@@ -48,6 +48,22 @@
     "region": "US"
   },
   {
+    "id": "61bcd77b76f4",
+    "title": "Gavin Newsom and Media Outlet Tag Team for Two Wild Takes on Elon Becoming a Trillionaire",
+    "source": "RedState",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://redstate.com/nick-arama/2026/06/13/gavin-newsom-and-globe-and-mail-on-elon-n2203310",
+    "published": "2026-06-13T11:58:00-04:00",
+    "published_display": "Jun 13, 2026",
+    "query": "direct_feed",
+    "image": "https://media.townhall.com/cdn/hodl/2026/19/8bf33be6-3d1d-4442-9ff6-c7669fbb9394.jpg",
+    "real_url": "https://redstate.com/nick-arama/2026/06/13/gavin-newsom-and-globe-and-mail-on-elon-n2203310",
+    "bias": "R",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "3b41ded75523",
     "title": "Just how Catholic is California\u2019s governorship?",
     "source": "Antelope Valley Press",
@@ -77,6 +93,22 @@
     "real_url": "https://www.washingtonexaminer.com/news/justice/4606726/bill-essayli-prosecutor-center-california-election-fight/",
     "bias": "LR",
     "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "09238de899bb",
+    "title": "Hunter Biden Defends Graham Platner With A \u2018Show Me Your Phone\u2019 Challenge",
+    "source": "The Daily Wire",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.dailywire.com/news/hunter-biden-defends-graham-platner-with-a-show-me-your-phone-challenge",
+    "published": "2026-06-13T10:47:53+00:00",
+    "published_display": "Jun 13, 2026",
+    "query": "direct_feed",
+    "image": "https://dw-wp-production.imgix.net/2024/06/GettyImages-2156997374.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+    "real_url": "https://www.dailywire.com/news/hunter-biden-defends-graham-platner-with-a-show-me-your-phone-challenge",
+    "bias": "R",
+    "topic": "General",
     "region": "US"
   },
   {
@@ -93005,6 +93037,22 @@
     "real_url": "https://www.cbsnews.com/losangeles/video/president-trump-california-gov-gavin-newsom-take-international-stage-at-world-economic-forum/",
     "bias": "LL",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "70a91980a4b4",
+    "title": "Good Jobs, Strong States: How Governors Are Building Opportunity in 2026",
+    "source": "National Governors Association",
+    "source_url": "https://www.nga.org",
+    "source_domain": "www.nga.org",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYzE5SGZsaHp3b1FyNkg2XzBlWXh3aE11YmJhSC1ZR0M4STB1SElyenBRczdFNV9peXR1Z2JZVWRDRXJrc1dvbUFJS2ZVbjhjT3M0N0xzZVZiTWEzU09zdDZrd0hCRkp4M3poWGNVcGxOTTlzZTdUMjVSSUJOc1J0a1pUOXJUcnppSXdrYUhVWUVOSXA5Z3VpWlpheDVCSmRldkhvUDFHSTBLNzA?oc=5",
+    "published": "2026-01-20T08:00:00+00:00",
+    "published_display": "Jan 20, 2026",
+    "query": "Newsom policy",
+    "image": "https://www.nga.org/wp-content/uploads/2026/01/econ_work_2026.png",
+    "real_url": "https://www.nga.org/news/commentary/good-jobs-strong-states-how-governors-are-building-opportunity-in-2026/",
+    "bias": "?",
+    "topic": "Economy",
     "region": "US"
   },
   {
