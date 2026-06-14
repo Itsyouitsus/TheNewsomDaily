@@ -14528,6 +14528,22 @@
     "region": "US"
   },
   {
+    "id": "c3903f91f3a8",
+    "title": "Governor Newsom proclaims Foster Care Month",
+    "source": "California State Portal",
+    "source_url": "https://www.gov.ca.gov",
+    "source_domain": "www.gov.ca.gov",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc1ZObHE3N3BDNnpHT0ZxeXdOYlF1VllXRzlCZHg1Z2VhQ045ZWtjdEtqV1JidUdYQnVXdXJaeEQ5Yzk4d1VkM0c3NmczWDRxMWNSX3c0UkphalcybWJRUzEtSDNOYnR6QVRvVENYOE1WQVM4VHQybEZuNVFvdG9aanpWdnU?oc=5",
+    "published": "2026-05-29T07:00:00+00:00",
+    "published_display": "May 29, 2026",
+    "query": "Governor Newsom",
+    "image": "https://www.gov.ca.gov/wp-content/uploads/2019/02/GovernorSeal-Blue.png",
+    "real_url": "https://www.gov.ca.gov/2026/05/29/governor-newsom-proclaims-foster-care-month/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "a3532ccead8e",
     "title": "Becerra leads governor&#x27;s race, with Hilton and Steyer in tight contest for second spot, poll finds",
     "source": "Los Angeles Times",
@@ -33629,6 +33645,22 @@
     "real_url": "https://www.msn.com/en-us/news/insight/poll-shows-newsom-among-least-popular-2028-contenders/gm-GM7A397DAC?gemSnapshotKey=GM7A397DAC-snapshot-1",
     "bias": "C",
     "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "a4c67067088a",
+    "title": "California&#x27;s financial report highlights economic strengths",
+    "source": "State Affairs",
+    "source_url": "https://pro.stateaffairs.com",
+    "source_domain": "pro.stateaffairs.com",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ25kbmFWVVQ1YW8wSWlpdXJmdTU5RTV2V1VHZEpnakIyc0h3SmJScmxBRE5SUl9NQ0NkbGEyZHdiVnN2U2VDWXZxT2pMMTZieU8xX3RBZDJmQ2NVR3k0bjh0U0MwTkhjcWdROG1SbGdCRF9tNHZPVkFpNG9ET3ctTXhiY25zUzNBZ0pSODhhQWdaTnhaRl8yRGdlN2c?oc=5",
+    "published": "2026-05-14T07:00:00+00:00",
+    "published_display": "May 14, 2026",
+    "query": "Newsom economy",
+    "image": "https://cms.stateaffairs.com/wp-content/uploads/2025/12/Gavin_Newsom.png?w=1024",
+    "real_url": "https://pro.stateaffairs.com/ca/budget/california-budget-financial-report?ref=AAAAAAADs_gAAMAoAA",
+    "bias": "?",
+    "topic": "General",
     "region": "US"
   },
   {
