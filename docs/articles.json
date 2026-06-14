@@ -1,5 +1,21 @@
 [
   {
+    "id": "3cbd685dcdae",
+    "title": "Support Broadens Beyond Harris, Newsom In Democratic Primary Poll",
+    "source": "Eurasia Review",
+    "source_url": "https://www.eurasiareview.com",
+    "source_domain": "www.eurasiareview.com",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0s1NjRlSVp4WmVUUkJoY2pDTm9QN25oYWVQZ1hnWjZyYUJWRkdfT1NOR0J5cGZnTWhyRi1RUTlreXR5UlFabGhqT2lUS2IwaUdOazN4cUs4RFFsQVAybVl2bFhXWTJ5aXRXbGtYYnV0UWxUYWtxai11YUM2VHowbnhpSlRHNG5sUFNqUkRzT0x3ZTFRVW9SRk1mclg4d0ZpcUhsOWpKTQ?oc=5",
+    "published": "2026-06-14T23:06:33+00:00",
+    "published_display": "Jun 14, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.eurasiareview.com/15062026-support-broadens-beyond-harris-newsom-in-democratic-primary-poll/",
+    "bias": "?",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "11cc7170b41d",
     "title": "Bombshell new poll for Democratic 2028 presidential candidates released",
     "source": "New York Post",
@@ -745,7 +761,7 @@
     "published": "2026-06-12T21:18:28+00:00",
     "published_display": "Jun 12, 2026",
     "query": "Gavin Newsom",
-    "image": "",
+    "image": "https://static01.nyt.com/images/2026/06/12/us/12pol-newsom-hunter/12pol-newsom-hunter-facebookJumbo.png",
     "real_url": "https://www.nytimes.com/2026/06/12/us/politics/hunter-biden-gavin-newsom-interview.html",
     "bias": "LL",
     "topic": "General",
