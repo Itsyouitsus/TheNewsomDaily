@@ -1,5 +1,37 @@
 [
   {
+    "id": "715a7066d7b5",
+    "title": "Union Behind California Billionaire Tax Offers to Reduce the Rate",
+    "source": "NYT &gt; U.S. News",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.nytimes.com/2026/06/18/us/union-california-billionaire-tax-reduces-rate.html",
+    "published": "2026-06-19T02:32:15+00:00",
+    "published_display": "Jun 19, 2026",
+    "query": "direct_feed",
+    "image": "",
+    "real_url": "https://www.nytimes.com/2026/06/18/us/union-california-billionaire-tax-reduces-rate.html",
+    "bias": "?",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
+    "id": "e4a56a2bc7ed",
+    "title": "California Billionaire Tax Backers Float Lower Rate in Push for Deal",
+    "source": "Bloomberg",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-19/california-billionaire-tax-backers-float-lower-rate-in-push-for-deal",
+    "published": "2026-06-19T00:46:40+00:00",
+    "published_display": "Jun 19, 2026",
+    "query": "direct_feed",
+    "image": "",
+    "real_url": "https://www.bloomberg.com/news/articles/2026-06-19/california-billionaire-tax-backers-float-lower-rate-in-push-for-deal",
+    "bias": "LL",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
     "id": "9b2e7dd558c2",
     "title": "Newsom says he teared up at Obama library opening, rips DOJ investigation",
     "source": "Washington Examiner",
@@ -77,6 +109,22 @@
     "real_url": "https://www.independent.com/2026/06/18/a-tax-on-billionaires-qualified-for-the-november-ballot-five-things-to-know-about-the-measure/",
     "bias": "?",
     "topic": "Economy",
+    "region": "US"
+  },
+  {
+    "id": "e901d51eed00",
+    "title": "Newsom: Many in Trump Administration Are &#x27;Unworthy of Their Positions&#x27;",
+    "source": "Breitbart News",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.breitbart.com/clips/2026/06/18/newsom-many-in-trump-administration-are-unworthy-of-their-positions/",
+    "published": "2026-06-18T22:09:37+00:00",
+    "published_display": "Jun 18, 2026",
+    "query": "direct_feed",
+    "image": "",
+    "real_url": "https://www.breitbart.com/clips/2026/06/18/newsom-many-in-trump-administration-are-unworthy-of-their-positions/",
+    "bias": "R",
+    "topic": "General",
     "region": "US"
   },
   {
@@ -172,6 +220,22 @@
     "image": "",
     "real_url": "https://www.bloomberg.com/news/videos/2026-06-18/newsom-rushes-to-sink-billionaire-tax-before-deadline-video",
     "bias": "LL",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
+    "id": "26e078f70840",
+    "title": "Billionaire tax backers offer to cut proposed  levy against California\u2019s wealthiest",
+    "source": "But Gavin Newsom Isn\u2019T On Board",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://nypost.com/2026/06/18/us-news/billionaire-tax-backers-propose-2-compromise-to-gavin-newsom/",
+    "published": "2026-06-18T20:13:52-04:00",
+    "published_display": "Jun 18, 2026",
+    "query": "direct_feed",
+    "image": "",
+    "real_url": "https://nypost.com/2026/06/18/us-news/billionaire-tax-backers-propose-2-compromise-to-gavin-newsom/",
+    "bias": "?",
     "topic": "Economy",
     "region": "US"
   },
