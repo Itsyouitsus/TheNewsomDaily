@@ -1,5 +1,21 @@
 [
   {
+    "id": "7cecc9e65364",
+    "title": "California employees oppose Newsom\u2019s return-to-office mandate as July 1 deadline nears",
+    "source": "Eciks.org",
+    "source_url": "https://eciks.org",
+    "source_domain": "eciks.org",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZElFQ1p4bUl2NERVcjBBTGRVRUUxd1dZZENNRmxFUVlWWkJqNkU2V1lUaW1TWmlaRkdrX01raFh1WndRbmFReTJWc1lFSWEyY2U2d1RRNWtMX18tLXlXbnluSkczcllDVHJ6TWVxclpiVG9Qa1g0SzAtR0pCSDJYVg?oc=5",
+    "published": "2026-06-20T20:04:14+00:00",
+    "published_display": "Jun 20, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://eciks.org/wp-content/uploads/2026/06/23405-california-employees-oppose-newsom-s-return-to-office-mandate-as-july-1-deadline.jpg-scaled.png",
+    "real_url": "https://eciks.org/9974-66896-california-employees-return-office-newsom-july",
+    "bias": "?",
+    "topic": "Immigration",
+    "region": "US"
+  },
+  {
     "id": "8d041bfb6182",
     "title": "Newsom Promised to Help Californians Build New Careers. Now, the Money is Running Out",
     "source": "KQED",
@@ -845,6 +861,22 @@
     "real_url": "https://www.sfchronicle.com/politics/article/billionaire-tax-deal-offer-22312049.php",
     "bias": "?",
     "topic": "Economy",
+    "region": "US"
+  },
+  {
+    "id": "5b19994b3a3f",
+    "title": "California offers free passes to state parks honoring Juneteenth and America&#x27;s 250 anniversary",
+    "source": "KTVU",
+    "source_url": "https://www.ktvu.com",
+    "source_domain": "www.ktvu.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkZDV1RDZTNyZUlub0VLV1owRmcxZWIwbXJjcWVnaUNKQXdqcG5PR1hPeWpKV1N2QzlRS190RXV5bGQwQ1lVVUZZXzliejZIbVJFSnJBb2RuU0lHY3dkeG96NEt6RHlZX2s4NlUwN1ZqSUhMR2dzcGVrRW9LN1c3YjczcDZhMVRlaHFvbDVpQnRESS01QlFpOTBIMGdhMGxYaGhYS0hDV2hjTDRwb1VEZUx30gG3AUFVX3lxTFB4YzdzcXJzQ1hkeHpvSjEtY3FDRDQ0YVgzSk5VNl9sQ01Iek9lT05jNkhaMWhBSmdiQmhLLVVMNzNxRlB5MDhjNk81SGZ4S2UyMmFGUERKY2J1OGk2UlBybXUxZXBueGVraG1LdlVJeFMtTjlNV1ZBcVRoOVhTbnh6a1NYLUpRcFZkSF9WQlhNRGVqMU92c2VQWDhDSFFWeXdmd1JFMWh2N2pYY3psd2lmMl8yVFJDYw?oc=5",
+    "published": "2026-06-19T02:49:11+00:00",
+    "published_display": "Jun 19, 2026",
+    "query": "Newsom California",
+    "image": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2026/06/1200/630/free-access-to-californias-state-historic-parks.jpg?ve=1&tl=1",
+    "real_url": "https://www.ktvu.com/news/california-offers-free-passes-state-parks-honoring-juneteenth-americas-250-anniversary",
+    "bias": "?",
+    "topic": "General",
     "region": "US"
   },
   {
@@ -2173,6 +2205,22 @@
     "real_url": "https://www.yahoo.com/news/politics/articles/gavin-newsom-says-trump-sending-033030764.html",
     "bias": "C",
     "topic": "Domestic",
+    "region": "US"
+  },
+  {
+    "id": "1f5bad05bac8",
+    "title": "California billionaires tax qualifies for ballot, setting up costly fight",
+    "source": "Politico",
+    "source_url": "https://www.politico.com",
+    "source_domain": "www.politico.com",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRHZDWl84RjFVdDdiQjVfNWg0ZkxYQl9nNy1OZkFaRFZ1RnlQdWR2LW9qcFFlU083cmlteEFheGVqMDIzSGkxcGszNGZGY1BNS1N3U0stTjBxSjZSaC1rUXliRUJSbmZuTW10NVVueDF1RFBOZzVUblFzMF8xZGpCcTBrVjFKSDVsMnBlNzNVY2lEZw?oc=5",
+    "published": "2026-06-18T02:43:31+00:00",
+    "published_display": "Jun 18, 2026",
+    "query": "Newsom California",
+    "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F60%2Ff0%2Faf5911904314ac1806f9a1879703%2Fcalifornia-billionaire-tax-proposal-9422.jpg",
+    "real_url": "https://www.politico.com/news/2026/06/17/california-wealth-tax-qualifies-ballot-00906966",
+    "bias": "LL",
+    "topic": "Economy",
     "region": "US"
   },
   {
