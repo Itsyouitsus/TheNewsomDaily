@@ -1,5 +1,21 @@
 [
   {
+    "id": "8f11521593aa",
+    "title": "Gavin Newsom\u2019s criminal ex-chief of staff haunts him in DOJ investigations",
+    "source": "New York Post",
+    "source_url": "https://nypost.com",
+    "source_domain": "nypost.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV1FIOFdiaGdkYnh4Z2htYVZRanNuaHl0YThQMEtEbm5fOWYyMlVYYWxaeUJFbVhWNjZJOU9tbkluMTUzYlV1WE04Zk9pUEVSWEsybUx6TE1RbUNfM1puS1BjdWlZSW1BR3cwUjEwLTFoNGN1MDE3bFZjZWx5SVhlZm1rZFhqNXVDRkhWc0VIanZTdUNLRDdCZEZTU0ZvcTBBZlY0VFhJT1RWamtDYTRjd2t3?oc=5",
+    "published": "2026-06-20T21:53:00+00:00",
+    "published_display": "Jun 20, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://nypost.com/2026/06/20/us-news/gavin-newsoms-criminal-ex-chief-of-staff-haunts-him-in-doj-investigations/",
+    "bias": "LR",
+    "topic": "Domestic",
+    "region": "US"
+  },
+  {
     "id": "7cecc9e65364",
     "title": "California employees oppose Newsom\u2019s return-to-office mandate as July 1 deadline nears",
     "source": "Eciks.org",
@@ -29,6 +45,22 @@
     "real_url": "https://www.kqed.org/news/12088091/newsom-promised-to-help-californians-build-new-careers-now-the-money-is-running-out",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "4e902a980c5c",
+    "title": "Trump is threatening unemployment funds in California, other states",
+    "source": "Times of San Diego",
+    "source_url": "https://timesofsandiego.com",
+    "source_domain": "timesofsandiego.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaG0xOC11NWtvalpUY0tnNzJrRW53YVlLeW9hQ1VIdElEZ2lYSEhzT1I3RE5LVFA0ZlRPeFA5OWJQamF0Y1g1SVdfa1VTMFF6aktBNDkwcWx0cHk1eTBWYWtaVEJwU0lWZm9aaGt4OVAtajktbGNvT1JFSWF5S3dTYWFXRERZUGUteXQ1bVVDMTVtekJrdVh1OWd3TGV1MFZac3NtRm1lcEN2MjBoTzlmRzlhSGU5QQ?oc=5",
+    "published": "2026-06-20T18:00:00+00:00",
+    "published_display": "Jun 20, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://i0.wp.com/timesofsandiego.com/wp-content/uploads/2026/06/0.meet_.jpg?fit=1220%2C815&ssl=1",
+    "real_url": "https://timesofsandiego.com/politics/2026/06/20/trump-is-threatening-unemployment-funds-in-california-other-states/",
+    "bias": "LL",
+    "topic": "Economy",
     "region": "US"
   },
   {
