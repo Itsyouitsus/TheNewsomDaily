@@ -1,5 +1,21 @@
 [
   {
+    "id": "103c771f483d",
+    "title": "The Gavin Newsom probe is serious, and he knows it",
+    "source": "Yahoo",
+    "source_url": "https://www.yahoo.com",
+    "source_domain": "www.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTHZlMEUtel9sVHo3c2FkTUctMjUzRTFNT242VXhFbFIybXh0RUhNbDQ2ckhuS0pxZzhWSGg5amExQWJYLUZCNU5EY0RsWG9vbHVhQjBSZmo1SFJmTi1Wc0tUQ0tnc1VVY0VPeTg5cjJBQ182MFgycXd3UzF1TkY0M0lyc1hRWklPZkxWUWt5N0QzNkZJRWVN?oc=5",
+    "published": "2026-06-20T22:27:09+00:00",
+    "published_display": "Jun 20, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://s.yimg.com/lo/mysterio/api/293ac478242b8e838f31b51bc85e10f6302cd2d8292278122121b80c66fa689a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2Fc0c2138d62503080403180af325dd26b",
+    "real_url": "https://www.yahoo.com/news/politics/articles/gavin-newsom-probe-serious-knows-222709698.html",
+    "bias": "C",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "8f11521593aa",
     "title": "Gavin Newsom\u2019s criminal ex-chief of staff haunts him in DOJ investigations",
     "source": "New York Post",
@@ -92845,6 +92861,22 @@
     "real_url": "https://www.politico.com/news/2026/03/02/newsom-blames-trump-gas-prices-war-iran-00807264",
     "bias": "LL",
     "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "d481d7d4b540",
+    "title": "Newsom slams Trump&#x27;s focus on ballroom amid military action in Iran",
+    "source": "USA Today",
+    "source_url": "https://www.usatoday.com",
+    "source_domain": "www.usatoday.com",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcDhyNTZJaHpCUVNkbzQ1YnBrYThDLTlyVXFaRXFITWRldGJ0Sk9HMmwyckZOMWkybmV3MGIweGx5U1BCSk5CbWE0cjVMV3RpQjN0Mld0cGpZV0NXLXY3TlZxRVZJWGZMb0NjaHd3d1htOGlycUp1Wi11UzNPZXA0NTExaVo4OGJITDV5SUFDdEtINlRYZlJRNmh4TTdxWFFLWDdMZTk5UlhDekdmTzlvZXh2UlRlckRDaXpYaEZYRE9uMl9EcEhLcDdNTUxNWDB0UUpn?oc=5",
+    "published": "2026-03-02T08:00:00+00:00",
+    "published_display": "Mar 02, 2026",
+    "query": "Gavin Newsom speech",
+    "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/02/04/USAT/88515659007-2259116826.jpg?crop=4376,2463,x0,y227&width=3200&height=1802&format=pjpg&auto=webp",
+    "real_url": "https://www.usatoday.com/story/news/california/2026/03/02/newsom-slams-trumps-focus-on-ballroom-amid-military-action-in-iran/88948556007/",
+    "bias": "C",
+    "topic": "Iran",
     "region": "US"
   },
   {
