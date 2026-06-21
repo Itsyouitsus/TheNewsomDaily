@@ -1,5 +1,37 @@
 [
   {
+    "id": "628fca21e25b",
+    "title": "Resources available for those impacted by Boyle Heights fire",
+    "source": "NBC Los Angeles",
+    "source_url": "https://www.nbclosangeles.com",
+    "source_domain": "www.nbclosangeles.com",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0xnR1diXzJHSklGejNBNUdlWFZXUGVTZzNuTjd6OGluRFF0UmY0NW90WFdVSEU2ZlozeUVsR1RqZjFGWWdYZnlEbEp2MGFqaDNKSzhvZU43cXQ0UFdhMGtXQkR1TEV3cXJ1MDRqei1tVHVJVHYwb3UyU0hxVnBtZmNaSE_SAYwBQVVfeXFMUEc1QndfOGJ3TGFobkpGZEdRQVN4WVVWV29OUWEteW13QVQxYkhLdjJqQ2NUTnVGWmpBLXIwR1VVYnNEenNIX0lMSkVVa3VLeVFoV0xtVjh3U3B3V3d6UDFGZ0xYOXNQMGdWZWhsZ1RadjZIWk5ueC1EMXM1aWJ6ZF9PcUhpSGdLd1BmUm4?oc=5",
+    "published": "2026-06-21T20:07:57+00:00",
+    "published_display": "Jun 21, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.nbclosangeles.com/news/local/resources-boyle-heights-fire/3907238/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "f4bbe7119028",
+    "title": "The union behind California\u2019s billionaire tax is blinking, but Gavin Newsom wants to inflict total defeat",
+    "source": "Fortune",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://fortune.com/2026/06/21/california-billionaire-tax-seiu-newsom-deal-brin/",
+    "published": "2026-06-21T19:46:27+00:00",
+    "published_display": "Jun 21, 2026",
+    "query": "direct_feed",
+    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2276711102.jpg?resize=1200,600",
+    "real_url": "https://fortune.com/2026/06/21/california-billionaire-tax-seiu-newsom-deal-brin/",
+    "bias": "?",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
     "id": "f777ef86b08a",
     "title": "The union behind California&#x27;s billionaire tax is blinking, but Gavin Newsom wants to inflict total defeat",
     "source": "Fortune",
@@ -39549,6 +39581,22 @@
     "real_url": "https://www.news.caloes.ca.gov/governor-newsom-prepositions-firefighting-resources-to-los-angeles-and-santa-barbara-counties-ahead-of-critical-fire-weather-and-moderate-heat/",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "4211230b11fe",
+    "title": "5/15 KVCR Midday News: Immigration raids ramp up in Coachella Valley; Newsom proposes state budget cuts to prep for possible AI bubble burst",
+    "source": "KVCR News",
+    "source_url": "https://www.kvcrnews.org",
+    "source_domain": "www.kvcrnews.org",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxObGZMY2hwdkJsbm15bXZ0QmxlaEdMUnNJZUVFQjBMb09Bb2xnY1dNdVhKU1E4Wk5PWkhURXVmR0VIdjlvcGVkWjdaZkt2azRzY2VPdFY0Y1ZZVlZBd1VGMTJGRVRnSTZtWFo0QzFQa1BOODdTR1h6YWc1V21UejRMRm1VNldhU2doQWw3R2ZzRXpYWmJITThrUUZEa3VzVHp3UGVqXzV6NjFBU0JKSS1DSUhwNVJGeENJYVdxN01iQzUwejBlWXpMZWJxU3IzLTRza2Qya1h4eUVyZmRzSlpxdVlHVlpEZVFRUnlzQTBQcVRzMFVoMm9mVGNqX0RPVEhRb0MtZkVrNHdDUGhXN3pDT0xfYw?oc=5",
+    "published": "2026-05-15T07:00:00+00:00",
+    "published_display": "May 15, 2026",
+    "query": "Newsom immigration",
+    "image": "https://npr.brightspotcdn.com/dims4/default/0eca666/2147483647/strip/true/crop/1080x567+0+58/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8b%2F67%2F953531f449ebb0452318cd01f28c%2Fmidday-news-rubidoux.png",
+    "real_url": "https://www.kvcrnews.org/local-news/2026-05-15/5-15-kvcr-midday-news-immigration-raids-ramp-up-in-coachella-valley-newsom-proposes-state-budget-cuts-to-prep-for-possible-ai-bubble-burst",
+    "bias": "?",
+    "topic": "Immigration",
     "region": "US"
   },
   {
