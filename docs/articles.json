@@ -1,5 +1,37 @@
 [
   {
+    "id": "ade85d75b827",
+    "title": "New California tool tracks AI-related job loss",
+    "source": "Mashable",
+    "source_url": "https://mashable.com",
+    "source_domain": "mashable.com",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1aHRNcUhRRFBaeFE5TV9LNDhTQzJ0eTdRMjJTT2dBellEdnM1Qzd3VzZQcEk5aHBKLXhrTE5sS1I0MUI5VTBka0l1MjRhQmVnNXlqUGdXdWU3ZkpGY18yNjBSNk0zellMU2hqQg?oc=5",
+    "published": "2026-06-25T22:13:31+00:00",
+    "published_display": "Jun 25, 2026",
+    "query": "Newsom California",
+    "image": "https://helios-i.mashable.com/imagery/articles/05k5hyIMJa49znat3m7lLig/hero-image.fill.size_1200x675.v1782421062.jpg",
+    "real_url": "https://mashable.com/tech/ai-unemployment-tracker-california",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "9e82673338e4",
+    "title": "California launches a statewide tracker to monitor AI-related job loss",
+    "source": "Fast Company",
+    "source_url": "https://www.fastcompany.com",
+    "source_domain": "www.fastcompany.com",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbG9WbHJnUzg1ZUVFVGVQV3Azd2M0Ymp4RnNGdUFIanpBRkRqc3pncUd2YzFidDE1LTdidzVfa3kwYjhQRWdYY1diUTlaYThGWHEyelJubVEzN2RpZEVqTXFlczAxdkt3bWtIM3ktY0hMTEtSWERCNjlfdHRtdGdtaHF4RFBvVnZmanFUOTFKUUFERXpTT1h0eHdKS2s2ckNTZE9UdGdoVkJwaFk?oc=5",
+    "published": "2026-06-25T21:03:12+00:00",
+    "published_display": "Jun 25, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.fastcompany.com/91565327/california-launches-a-statewide-tracker-to-monitor-ai-related-job-loss",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "52d839078006",
     "title": "Even a Global Wealth Tax Can&#x27;t Solve This Problem",
     "source": "Reason.com",
@@ -1614,6 +1646,22 @@
     "bias": "?",
     "topic": "Economy",
     "region": "Europe"
+  },
+  {
+    "id": "41a401c752b2",
+    "title": "Taxpayer group says it&#x27;s keeping anti-tax measure on the ballot despite pressure from CA leaders",
+    "source": "KCRA",
+    "source_url": "https://www.kcra.com",
+    "source_domain": "www.kcra.com",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObTBKMXZMT0xRT05QWEFOZUpoR1REdE54dTkwYVVHOTZSbHF2WHhONGxYYnpBcVk2OXZzS1JYZDl5X0h6SDhmVFdrandvdDlnRFBlOUEwa1hnOGIxRkhTN0hPNTJXbXZVRzdwbmc4a2ZHYjFOYi1iNXV3aFF1LWk2TmpBeGFxUXpuQ194X0dnb2dqWF9jVU5aZDFhZw?oc=5",
+    "published": "2026-06-24T01:54:00+00:00",
+    "published_display": "Jun 24, 2026",
+    "query": "Newsom California",
+    "image": "https://kubrick.htvapps.com/vidthumb/da273edd-1234-4b68-b264-f24907df6e72/c07b4306-a37d-4ee6-b615-f5bcac9a3305.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+    "real_url": "https://www.kcra.com/article/taxpayer-group-anti-tax-measure-ballot-california-leaders/71686735",
+    "bias": "?",
+    "topic": "Economy",
+    "region": "US"
   },
   {
     "id": "5531c2f0f433",
@@ -9469,6 +9517,22 @@
     "real_url": "https://www.c-span.org/clip/international-telecasts/fmr-vp-harris-says-shes-not-surprised-by-trump-doj-investigation-of-gavin-newsom/5201629",
     "bias": "C",
     "topic": "Domestic",
+    "region": "US"
+  },
+  {
+    "id": "7de375fe88b0",
+    "title": "Governor Newsom Announces Special Free Pass to California\u2019s State Historic Parks in Honor of Juneteenth and America\u2019s 250th Anniversary",
+    "source": "California State Parks (.gov)",
+    "source_url": "https://www.parks.ca.gov",
+    "source_domain": "www.parks.ca.gov",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhTFRIdUVPZkgybnM1dzlkbFVPMGVvYnQ4cUVwbFhXeFJxN3pJWkFhdWpHaG5CTy1QcUZBNzRuMEF6VUhJdml0YnVJUFBiWXdpYVRJ?oc=5",
+    "published": "2026-06-16T07:00:00+00:00",
+    "published_display": "Jun 16, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://www.parks.ca.gov/img/content/ParksLogo.png",
+    "real_url": "https://www.parks.ca.gov/NewsRelease/1533",
+    "bias": "?",
+    "topic": "General",
     "region": "US"
   },
   {
@@ -29501,6 +29565,22 @@
     "real_url": "https://www.courthousenews.com/rubio-surges-buttigieg-leads-in-2028-presidential-race/",
     "bias": "?",
     "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "ca27378e2d85",
+    "title": "US Treasury Secretary Scott Bessent lays into California Governor Gavin Newsom with a last-minute jab at the end of his White House press briefing.",
+    "source": "Facebook",
+    "source_url": "https://www.facebook.com",
+    "source_domain": "www.facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTVpTMl9BSVA2YlU3UWNqOWVjaXFLdlVBTWZwZXdOMHduZDVMUWtlWi1ZSGhSTmE0eHdlN0ZWRTJiTEh4TzBkdXRtR3BWNkNnQWhQaFFDOElYY1VhLXNYRHZRS3JselNoRnhjRzBSWlNlMWg5VURId21QMm9pMDZlLVZSQ0tOcGwwWEJIWEtLbEgtZHhGaFpNRGEwQzIwTFY5Wms5a1ZJYkRjTkZVbWdJMFNUb1A4YzBBYzZoUGRVMUMzcEc1TWtNOUdBTmV4cVpXS1FVVEN0WWVNRlhiR3RZ?oc=5",
+    "published": "2026-05-28T07:00:00+00:00",
+    "published_display": "May 28, 2026",
+    "query": "Newsom economy",
+    "image": "",
+    "real_url": "https://www.facebook.com/SkyNewsAustralia/posts/us-treasury-secretary-scott-bessent-lays-into-california-governor-gavin-newsom-w/1441953891295538/",
+    "bias": "?",
+    "topic": "Domestic",
     "region": "US"
   },
   {
@@ -118043,6 +118123,22 @@
     "real_url": "https://www.courthousenews.com/california-governor-signs-bills-pushing-back-on-federal-immigration-enforcement/",
     "bias": "?",
     "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "58858f76b540",
+    "title": "Article | In counter to Trump, Newsom signs bills shielding schools and hospitals from ICE agents",
+    "source": "POLITICO Pro",
+    "source_url": "https://subscriber.politicopro.com",
+    "source_domain": "subscriber.politicopro.com",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONHVKbVVLQkh3elFkZUg5OEo1TXZJbk1XQThOTUwyZWlpemhTQ3paVi1sWGFUTnlqREUyNUhGUExfa0luVWVzQklXakpHLUZXdEJBQUljNHl5SWtTQXV5eXkxM1ZHcmtqdUtCMjdCVnRxelRXQTdEcjVtenRkNl9FTmJmREViT3JRRmtDWThUVHd1ekJ5ckducHNtTG9ocGk4d043dExKQXNyYXkwaEFpa0JhV3BIcVZaWDFHeWdESXc0WWR3eXdnazJvQ3VKTTFtdFE?oc=5",
+    "published": "2025-09-20T07:00:00+00:00",
+    "published_display": "Sep 20, 2025",
+    "query": "Newsom immigration",
+    "image": "https://static.politico.com/c1/4d/e2d64e15451e8240aee76c87b713/immigrant-teaching-credentials-32985.jpg",
+    "real_url": "https://subscriber.politicopro.com/article/2025/09/newsom-signs-bills-protecting-schools-hospitals-from-immigration-enforcement-00574347",
+    "bias": "LL",
+    "topic": "Healthcare",
     "region": "US"
   },
   {
