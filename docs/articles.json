@@ -1625,7 +1625,7 @@
     "published": "2026-06-26T12:48:00+00:00",
     "published_display": "Jun 26, 2026",
     "query": "Newsom California",
-    "image": "",
+    "image": "https://images.barrons.com/im-91469843/social",
     "real_url": "https://www.barrons.com/articles/california-billionaire-tax-ballot-newsom-opposition-f1d03b3c",
     "bias": "?",
     "topic": "Economy",
@@ -26704,6 +26704,22 @@
     "region": "US"
   },
   {
+    "id": "8b3d67581e9d",
+    "title": "The mad scramble to find California\u2019s next governor becomes clearer today",
+    "source": "NPR",
+    "source_url": "https://www.npr.org",
+    "source_domain": "www.npr.org",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQai1QU1BQQVB6RWtXREdnZ2FjdUlReXV2RXItQkNWWjkyLVh1NjF2MEpTMk9OTEFaSXJCS3dQaVJ1aWlwMWdTTjNxdEJlUkpiN0dfODY2dDBtaGduVUw2SllLTEkwQ3FBQUFqNkZoazVueXdGRFNSUGVGSm1wNmhuMUViVWVUX2tRNXZ3azJrMDFNZy1VVXNJMmZpY29TdW9RdEttTFRYbU9NZkE4akRuQzVBU1dSWHda?oc=5",
+    "published": "2026-06-02T07:00:00+00:00",
+    "published_display": "Jun 02, 2026",
+    "query": "Newsom Democrat",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+    "real_url": "https://www.npr.org/2026/06/02/nx-s1-5837583/the-mad-scramble-to-find-californias-next-governor-becomes-clearer-today",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "86da39899573",
     "title": "Scandals, Fumbles, And Millions: California\u2019s Wild Primary Ends Today",
     "source": "The Daily Wire",
@@ -34717,6 +34733,22 @@
     "real_url": "https://www.silive.com/politics/2026/05/new-dem-rival-could-be-gearing-up-to-battle-newsom-in-2028-would-easily-raise-100-million-for-white-house-race.html",
     "bias": "?",
     "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "b3f185c8b047",
+    "title": "Governor Newsom Signs Executive Order Requiring New Oversight on AI\u2019s Impact on the Workplace",
+    "source": "JD Supra",
+    "source_url": "https://www.jdsupra.com",
+    "source_domain": "www.jdsupra.com",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmlCRnRtSG1iY2JGSzR5XzZ0YW9RSUxibjhVWjhpeWtGdXRyUml6YUVKRkVjbU9Rd3RDbmIyVndIUFZ3ckhzb3JmYlVYYjBXSldGTnRVOXdQalA2Y09tbldzeXJ2c2d4UjdCbFpoek1fWGkxRlFtLS05a0FMRHpEWm5EaHp2Mzg?oc=5",
+    "published": "2026-05-26T07:00:00+00:00",
+    "published_display": "May 26, 2026",
+    "query": "Newsom economy",
+    "image": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15496_4323.png",
+    "real_url": "https://www.jdsupra.com/legalnews/governor-newsom-signs-executive-order-8492163/",
+    "bias": "?",
+    "topic": "Domestic",
     "region": "US"
   },
   {
