@@ -1,5 +1,21 @@
 [
   {
+    "id": "ad93644d76e6",
+    "title": "Gavin Newsom Is Caught in a Billionaire-Tax Trap",
+    "source": "Bloomberg",
+    "source_url": "https://www.bloomberg.com",
+    "source_domain": "www.bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRTRGakNBYjZhdjRkOXBtT09FVFp0c2FvOTE4Mmp6cHhScm5pbC03eVctNXQzLXBLbE5Sd2p4ZG5oTUt2Sm81TXM1QlBTT2ZBLVNOR2Y5RF94SWZESE9zUlRBbndNRTk4azZzTmNnYmJFQ2dzeFlhQTl5Wi1QNUYxcjlLNlpSV3k4elFHQ3BpLTh5WUVweTd4TmJZOXo2NGllNEVna3h4VjFSSFJqSUltTk13?oc=5",
+    "published": "2026-06-27T12:00:19+00:00",
+    "published_display": "Jun 27, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.bloomberg.com/opinion/articles/2026-06-27/california-billionaire-tax-tests-democrats-populist-future",
+    "bias": "LL",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
     "id": "59ed88701068",
     "title": "Elon Musk Mocks Gavin Newsom&#x27;s Billionaire Tax Plan With Brutal Meme\u2014 The California Governor Retorts &#x27;We",
     "source": "Benzinga",
@@ -173,6 +189,22 @@
     "real_url": "https://www.courthousenews.com/california-governor-top-lawmakers-reach-budget-agreement/",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "b2b2cd2e3f72",
+    "title": "Political correspondent examines Newsom&#x27;s proposed national billionaires&#x27; tax",
+    "source": "NBC Bay Area",
+    "source_url": "https://www.nbcbayarea.com",
+    "source_domain": "www.nbcbayarea.com",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXBJRWpwY0t5WEV1Qk4zQm9MVWFaV1J3bUlRdERUUHpyMFRTMVFxZ2JPYXFhbjVfM0p6UFMwLURuY3lETk1PZnFMWkNwNHZDdExOQUZDc3ZzSWVNOXVGMmplUmxNeUtSRy00VkFHNjBFV09sZFJ5YjQ4WGp5aEhTMUxWSnNPN0t4bE9rMTNua2ZiMUI4QW90b2theXJzamFhcEJPNV9tVHByRHVPV3fSAbYBQVVfeXFMTWhsSUpBT1Nab3dkdFJzd1QwVFAzUnB5QnZZMmY0RVZaZTY5WmlnVGNtZFpUVHNrQ3psVC03RTRFaWpmcllFVGJHc1VkZ2U5bFNCQjMxV2VpTWtOckZXNlI3VkU3YUxBajRmd3V6S0t0a2RkeDMwOVdyQ1IzekNNOUZjdklGNFI5ajJOZWhLNUFyZ041MTFEVTF1am1MeFJPRE1fR1pKWWJlOXZ2N090VTVpdVBmdHc?oc=5",
+    "published": "2026-06-27T02:15:19+00:00",
+    "published_display": "Jun 27, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.nbcbayarea.com/video/local/a-closer-look-gavin-newsom-proposes-national-billionaires-tax/4105286/",
+    "bias": "?",
+    "topic": "Economy",
     "region": "US"
   },
   {
@@ -3260,6 +3292,22 @@
     "image": "https://static.dailysignalmedia.org/260624-Gavin_Newsom.jpg",
     "real_url": "https://www.dailysignal.com/2026/06/24/law-caught-up-gavin-newsom/",
     "bias": "R",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "408b900663e9",
+    "title": "Enough is Enough: Urge Governor Newsom to End the Death Penalty",
+    "source": "League of Women Voters",
+    "source_url": "https://my.lwv.org",
+    "source_domain": "my.lwv.org",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVm1vbjl4WmhsanV2WE4xZ2hQVllTUkUyTmllcjdFZGtDY1ZXME1aZUdEX25qa05BNWVOZ3ZKdGllS08xYnFKQlJ3VXlDTlRNdDdBdVRac09yRmdRdW5STXBoVXJZeDExbG1DX01adk5UeHFSU01ET2ZNTnNNY2hNU29waDZWNWRoS1locXY0bnlFM1hSOEdJal9JZw?oc=5",
+    "published": "2026-06-24T21:57:00+00:00",
+    "published_display": "Jun 24, 2026",
+    "query": "Governor Newsom",
+    "image": "https://my.lwv.org/sites/default/files/leagues/california/aa-cacapitol.png",
+    "real_url": "https://my.lwv.org/california/action-alert/enough-enough-urge-governor-newsom-end-death-penalty",
+    "bias": "?",
     "topic": "General",
     "region": "US"
   },
