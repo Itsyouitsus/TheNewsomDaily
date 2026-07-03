@@ -32,6 +32,22 @@
     "region": "US"
   },
   {
+    "id": "0068baeb0301",
+    "title": "Newsom signs new law boosting oversight of state&#x27;s troubled Next Gen 911 project",
+    "source": "NBC Bay Area",
+    "source_url": "https://www.nbcbayarea.com",
+    "source_domain": "www.nbcbayarea.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeFJiTzVWc2U5bGpGOWVvRUZWMWgzWVNITC11aHZneEZQSkdENGpBYi1ZOTAtMk45TlFlSGZZNTFGa0lIU3lhemFxUjhYNzN3cHlPV0ZDMkN1TzhwNFBTdllXRUtZZWkwTThpNmRQUVdwbzFNUGlENnF6SFhJUlpVaXRTWGYwZHJaMENHNzVEeG11WTVWcUhrOXoxRVUwZ3ln0gGoAUFVX3lxTFBrMkp1UTBhemt1dDhzTG90STRGMFlfbEJ4bjhmUWdZcmZJWlAwZWtETlEzeno0ZkVHanI3WWktaF9ibFRERlo5SmZhcXNpOWktdzItcGxRS3dEbGEyWDlYWHpMQmxyU0dHYnBNU2ZrNXNFQnk4VFliSXdLUFFQTXFub1FfTHFyeXFPYTJGbTVOZDZfT1ZnYmd2QWdmU1VHY0ZuelFDcnpVRg?oc=5",
+    "published": "2026-07-03T03:48:35+00:00",
+    "published_display": "Jul 03, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.nbcbayarea.com/investigations/newsom-signs-bill-oversight-next-gen-911-project/4108162/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "3d00183a98d3",
     "title": "LA to receive millions more from governor&#x27;s $2.5B wildfire relief fund",
     "source": "NBC Los Angeles",
@@ -173,6 +189,22 @@
     "real_url": "https://www.sacbee.com/news/politics-government/capitol-alert/article316329177.html",
     "bias": "?",
     "topic": "Economy",
+    "region": "US"
+  },
+  {
+    "id": "572215ff029d",
+    "title": "California employees rally at Capitol over return-to-office mandate",
+    "source": "Eciks.org",
+    "source_url": "https://eciks.org",
+    "source_domain": "eciks.org",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuTnhUQk9TOGU5UUdtb1VsWmxHUFVoeHI1ZUdMWlFxRHRfM3lzbE0yNGt2cmtYRzFTalFLRVpIYUtzT1dHRE5fWkREWFp6MGh6cUZCY1BJMkZUSDBMYVdOVHhTcUdUYU5QX3hBS3RKZnVYb04wVEIyM1pn?oc=5",
+    "published": "2026-07-02T20:02:24+00:00",
+    "published_display": "Jul 02, 2026",
+    "query": "Governor Newsom",
+    "image": "https://eciks.org/wp-content/uploads/2026/07/24128-california-employees-rally-at-capitol-over-return-to-office-mandate.jpg-scaled.png",
+    "real_url": "https://eciks.org/11649-26100-california-employees-rally-return-office",
+    "bias": "?",
+    "topic": "Immigration",
     "region": "US"
   },
   {
@@ -129128,6 +129160,22 @@
     "real_url": "https://www.latimes.com/california/story/2025-06-30/newsom-pushes-major-housing-reform-through-california-legislature",
     "bias": "LL",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "cf0fc8556275",
+    "title": "State Budget Fails to Protect Access to Medi-Cal for Immigrants with Enrollment Freeze and New Premiums",
+    "source": "California Immigrant Policy Center",
+    "source_url": "https://caimmigrant.org",
+    "source_domain": "caimmigrant.org",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS2tvNVZyX2F3Yi1IQnJ3cnB4bEdkVk5YbnNoYW9CdDN6dDg4T0htY21mTDN1R3BIUlRfWjcwVGJ3YVNOMzg5UHJkYl9OWmVQT1J0WkNlMTZKN2VvbV80NV9ROTJKZ1lXUVVqTzdyLWgxc1JPVXIzbXhqdEtsRnRXd0FGU05kWU5nRGRRREtIVGw3Vk9ZYlJidC1zeHNNNFN6RUZkY3d4cGNJR2RtaGltdWI3MFJ1RGljUFdhNndwRGdLeWl1MU1B?oc=5",
+    "published": "2025-06-30T07:00:00+00:00",
+    "published_display": "Jun 30, 2025",
+    "query": "Newsom immigration",
+    "image": "https://caimmigrant.org/wp-content/uploads/2019/03/db224ef6c0ed5efc384c366876d97cf39712dc7d_health4all-girl-poster-scaled.jpg",
+    "real_url": "https://caimmigrant.org/state-budget-fails-to-protect-access-to-medi-cal-for-immigrants-with-enrollment-freeze-and-new-premiums/",
+    "bias": "?",
+    "topic": "Immigration",
     "region": "US"
   },
   {
