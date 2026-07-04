@@ -1,5 +1,21 @@
 [
   {
+    "id": "02a97716ca04",
+    "title": "California homicide rate hits historic six-decade low as statewide crime rates plunge",
+    "source": "The Pride LA",
+    "source_url": "https://thepridela.com",
+    "source_domain": "thepridela.com",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVTktdjNmcFVlM1pxdHhvWW5LcUdCNWFKVnYxeUp3N2JtOE9KaGdKczZWNHczTmtISk5XelJSY1BCNHhtbTExazREbDZJYmJfd0twWGtlZmJpWDFCYWcyUTBRQThkX3Z5OFAtZnJsQUwyREgyMHdfSEFNTWpzR2EtRVNCV19DYTR1OFVSQkZjWEY1cjl4NWNKdG9xSEIwOXY5ZkdCQ1ZCZXVlMTJPUVhJU0ljQ1loQ294?oc=5",
+    "published": "2026-07-04T06:57:20+00:00",
+    "published_display": "Jul 04, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://thepridela.com/2026/07/california-homicide-rate-hits-historic-six-decade-low-as-statewide-crime-rates-plunge/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "beb537de92bb",
     "title": "ABC10 This Week | California State Workers Rally Against Newsom&#x27;s Return-to-Office Mandate",
     "source": "ABC10",
@@ -28,6 +44,22 @@
     "image": "",
     "real_url": "https://ktla.com/video/bombshell-report-fbi-infiltrated-gavin-newsoms-inner-circle/11941775/",
     "bias": "?",
+    "topic": "Domestic",
+    "region": "US"
+  },
+  {
+    "id": "bea005ee0564",
+    "title": "Bombshell Report: FBI Infiltrated Gavin Newsom&#x27;s Inner Circle",
+    "source": "Yahoo",
+    "source_url": "https://www.yahoo.com",
+    "source_domain": "www.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVHhRNGRZQmRSY2ppZlNDLVZSNGJJRUY5OW9tMUNqRXU4ZXZZSW14NDRNcU9qcnkxaVZJZHBYb01kYlBLZndUQThzN0hhWDRPWm9PN3VoQmNTMm41aFpuc1VhcmQxS080UVN2NFRseG9EaElfZUNfNFhFNEdYY1E2eVFVZk1YTU9IRVoxWE1TeEY?oc=5",
+    "published": "2026-07-04T02:55:00+00:00",
+    "published_display": "Jul 04, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://s.yimg.com/lo/mysterio/api/5c4a18fb557d94b29c5d76fc5f1dd81d1f4fb6b521aadc6d715f96f7a883d99d/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.tribune.ktla.com%2F028c11405a37e7560e3aea578aee2622",
+    "real_url": "https://www.yahoo.com/news/videos/bombshell-report-fbi-infiltrated-gavin-025503223.html",
+    "bias": "C",
     "topic": "Domestic",
     "region": "US"
   },
@@ -158,6 +190,22 @@
     "bias": "LR",
     "topic": "General",
     "region": "US"
+  },
+  {
+    "id": "995718107c03",
+    "title": "FBI &#x27;had mole infiltrate Gavin Newsom&#x27;s inner circle&#x27; before Trump&#x27;s DoJ probe",
+    "source": "Irish Star",
+    "source_url": "https://www.irishstar.com",
+    "source_domain": "www.irishstar.com",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcTZhbUtwYU1PZHZaQ1Njb1ExWVRIR2M1azBZUTBnZlFDQm1kY2hwbkFOUUFKYmdkT0dLNlVVNGdMRkZmZ3ZRTGFqSUJiNW9yLW9scHBKeDZSN2F0NGlOXzVadkNNcmg4b0ZUVWNaelZMUE1ZWmUweW5MZUxSWUVIbzFva9IBiAFBVV95cUxQbE94ejlxVjZkU0tyS2J5Nk5reW1TVURwa1NLcUxVLWUya2Nqd2Z4V2hlaGhhYXJpN01UQmdZZ3FONHZLT3lQdTdiaWF4LWN3Mk5QcExiTVp6VmlPTEV1eTdqUG5ELUlGQlg5OHdXQVEyZnRLR3pkOFViVUxaREgyYTB0LWNjQXEw?oc=5",
+    "published": "2026-07-03T21:02:00+00:00",
+    "published_display": "Jul 03, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://i2-prod.irishstar.com/article37382792.ece/ALTERNATES/s1200d/0_FBI-infiltrated-Gavin-Newsoms-inner-circle-by-convincing-governors-ally-to-wear-a-wire-lawyer.jpg",
+    "real_url": "https://www.irishstar.com/news/us-news/fbi-had-mole-infiltrate-gavin-37382609",
+    "bias": "?",
+    "topic": "Domestic",
+    "region": "Europe"
   },
   {
     "id": "f292554eda22",
@@ -413,6 +461,22 @@
     "real_url": "https://www.dailynews.com/2026/07/03/heres-what-la-county-is-getting-in-state-funding-for-the-new-fiscal-year/",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "8ad0025ec2ac",
+    "title": "FBI mole allegedly infiltrated California Governor Gavin Newsom&#x27;s team ahead of Trump DOJ probe",
+    "source": "The Mirror US",
+    "source_url": "https://www.themirror.com",
+    "source_domain": "www.themirror.com",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOF9VYnZzODFRX2sxaUs0VFh3aEREeXVZLVZVbFFGWE9sZXEycEdBcmd1MTZDcHVvU2lBNXF5TWo5NjFWeWxLckRzMHA3cG5uRVhoNFhOVHlZREJwVVBUN29Bd0NwS3M3NmZUZ0Z4ZzRva1R0Zjc5RXhfZWRFd3J5VHhieWp0QUVkV3hNQXc1SHREZ9IBlwFBVV95cUxQNDYyOG1nT0tTaWNPMThUcGlXajBLcDVmUkV0a1pKV2xvaFRCd2Zya0piMmVpV3Rlazh3alYwWDhqeXl1Q0FGX2d5YXc4UDhLZzdmNElwSzNRUDVZbVRVODBWc3NjUGtuaHJUZTVXNFJHWTFhOHB3Nnl1R1hMenVSUk0wWFpTUkVJdlFNa3pVX2FOeExWT1hn?oc=5",
+    "published": "2026-07-03T12:34:00+00:00",
+    "published_display": "Jul 03, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://i2-prod.themirror.com/article1919028.ece/ALTERNATES/s1200d/0_FBI-infiltrated-Gavin-Newsoms-inner-circle-by-convincing-governors-ally-to-wear-a-wire-lawyer.jpg",
+    "real_url": "https://www.themirror.com/news/us-news/fbi-mole-allegedly-infiltrated-california-1919033",
+    "bias": "?",
+    "topic": "Domestic",
     "region": "US"
   },
   {
