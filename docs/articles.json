@@ -1,5 +1,37 @@
 [
   {
+    "id": "2bf89906713f",
+    "title": "Governor Gavin Newsom marks Fourth of July with a call for a renewed fight to defend democracy",
+    "source": "California State Portal",
+    "source_url": "https://www.gov.ca.gov",
+    "source_domain": "www.gov.ca.gov",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMEVyQmNtNE5iRzM4eGRWWklmWW4tWUNKejI4dU4xbGVDRHJoSkNCWEtkMlZwZmtsQU9MWmdaa2tCVmZ1TDVHN2pSRXRPRkVrZEVXVmVWWmpwWVFuekwxcjRQZEpaQkJra2YxXzgzRURfVDRHaV9pX2ZLNVZpUmRsTjFxMVVZZlg5Qjc3S3BjMHp4WTRSTndiTF9jczJXMUcxZmRWajY4R2RKRUtZcGxzQmMxV1VXOEdYdWJNa1N4VVdrOG1TdzFRUQ?oc=5",
+    "published": "2026-07-04T19:25:19+00:00",
+    "published_display": "Jul 04, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://www.gov.ca.gov/wp-content/uploads/2026/07/SEO-JULY-4-SPEECH.png",
+    "real_url": "https://www.gov.ca.gov/2026/07/04/governor-gavin-newsom-marks-fourth-of-july-with-a-call-for-a-renewed-fight-to-defend-democracy/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "69ec51eda06a",
+    "title": "Gavin Newsom Calls Trump&#x27;s $400 Million Qatari Jet &#x27;Air Fraud One&#x27; as Bernie Sanders, Elizabeth Warren Slam President",
+    "source": "Yahoo",
+    "source_url": "https://www.yahoo.com",
+    "source_domain": "www.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYXZFa3JmdmpJRVdMYVFfZ2t5UUVTUHEtd2doRlBhOC1yeU5JME1nMmNIQUNsQlZ5X3V4U3QySTg1THZOV012NnRRVjdGNjVUQXRZRzlOX2t6Mi1KZU9Ra1llckNCSXFCTzhjRTU1UnUxRzdxLXhRNHd5M2tFb2RtWW9GOWk1NXpnWjktSWlRR3hDYzg?oc=5",
+    "published": "2026-07-04T17:31:05+00:00",
+    "published_display": "Jul 04, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://s.yimg.com/lo/mysterio/api/9f43377ff1bf168e3bb2054188ad1610fe6bb9e1fb9114d91b47bea125f504eb/lightyear_networkapi/resizefill_w1024_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F2701a3158c159b3ee8879e45c5762e1e",
+    "real_url": "https://www.yahoo.com/news/politics/articles/gavin-newsom-calls-trumps-400-173105547.html",
+    "bias": "C",
+    "topic": "Military",
+    "region": "US"
+  },
+  {
     "id": "a50386dcded7",
     "title": "Newsom faces criticism for state&#x27;s stance on trans athletes in girls&#x27; sports after SCOTUS ruling",
     "source": "Fox News",
@@ -253,6 +285,22 @@
     "real_url": "https://nypost.com/2026/07/03/us-news/xavier-becerra-tied-to-ethics-probe-in-gavin-newsoms-wiretap-investigation/",
     "bias": "LR",
     "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "47ee34004498",
+    "title": "California teachers win pregnancy leave after years of legislative push",
+    "source": "KSBW",
+    "source_url": "https://www.ksbw.com",
+    "source_domain": "www.ksbw.com",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPajdPRFo0ZEJCU1dDQUdzbXBqQ3RhQVc1SVdtMFluQjhSTWVodFFyQ0VFaHVodl9DXzlxNHpuQmR3WVIwR3p6WWNOeEdla2JuTWtIRzUxanhLR1VmUkNCLThJclVuMWJkOVhiN0pkNVBzbzFhcHBEUUtvWkxXWUZONXd2Y2txTDFiNlVhLXVBWlZkWDFxNjJyM2N5OTR4WmFObTVUOGJfbUtQdm5YMlE?oc=5",
+    "published": "2026-07-03T22:22:00+00:00",
+    "published_display": "Jul 03, 2026",
+    "query": "Newsom California",
+    "image": "https://kubrick.htvapps.com/htv-prod/images/b946e342-0d3d-42fd-888b-3aaec6b27074.jpg?crop=1.00xw:0.752xh;0,0.231xh&resize=1200:*",
+    "real_url": "https://www.ksbw.com/article/california-teachers-win-pregnancy-leave-after-years-of-legislative-push/71819812",
+    "bias": "?",
+    "topic": "General",
     "region": "US"
   },
   {
