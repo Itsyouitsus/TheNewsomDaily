@@ -112,6 +112,22 @@
     "region": "US"
   },
   {
+    "id": "4d26116d41a4",
+    "title": "Newsom Lawyers Up as Missing Tax Returns Fuel More Questions About Federal Probe",
+    "source": "RedState",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://redstate.com/jenvanlaar/2026/07/10/newsom-hires-attorney-cringey-response-on-tax-returns-n2204189",
+    "published": "2026-07-10T15:52:15-04:00",
+    "published_display": "Jul 10, 2026",
+    "query": "direct_feed",
+    "image": "https://media.townhall.com/cdn/hodl/2023/319/8ac142f2-b446-4051-b8a8-8fabae6be49f.jpg",
+    "real_url": "https://redstate.com/jenvanlaar/2026/07/10/newsom-hires-attorney-cringey-response-on-tax-returns-n2204189",
+    "bias": "R",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
     "id": "13845cddccff",
     "title": "Voters Face Stark Choice on Immigrant Healthcare In California Governor\u2019s Race",
     "source": "India Currents",
@@ -462,6 +478,22 @@
     "bias": "?",
     "topic": "Economy",
     "region": "Asia"
+  },
+  {
+    "id": "04cd9d4b8891",
+    "title": "Inside the Issues: Newsom&#x27;s Nevada trip; fallout from Platner&#x27;s exit",
+    "source": "Spectrum News",
+    "source_url": "https://spectrumnews1.com",
+    "source_domain": "spectrumnews1.com",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYng2WE9HdWVIVWZlZjVIcTB1ckRGOG1iYzRUVmUxVHFUNGRScFNUTFBDamxjRlY0RlJldWFTV1MwcGZFY3ZrSzFzamtwM0NvQkZFRFdNMkpBYkdORXBIQzFwMG1fbndvblNvWG95UWpjLTBWcUVydEdmMks3TU5WR3dJbXlXbWZweWc2REREenk3TmlxRmV3c1lNZ0w2ZFdrdTJTVEhlZXAyVUN6MV9fYTJFQXhpaXhpUVZMWUJKN3VjX0NyR2RVdA?oc=5",
+    "published": "2026-07-10T02:00:00+00:00",
+    "published_display": "Jul 10, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://s7d2.scene7.com/is/image/TWCNews/GettyImages-2279118631_crop",
+    "real_url": "https://spectrumnews1.com/ca/la/inside-the-issues/2026/07/10/inside-the-issues--newsom-s-nevada-trip--fallout-from-platner-s-exit",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
   },
   {
     "id": "d3df9d080f31",
@@ -1276,6 +1308,22 @@
     "image": "https://media.townhall.com/cdn/hodl/2025/234/04712e8e-f4e1-4315-98f6-455565e0065c.jpg",
     "real_url": "https://pjmedia.com/david-manney/2026/07/09/newsom-the-man-who-wants-to-lead-democrats-claims-he-didnt-know-n4954854",
     "bias": "R",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "b0a626f111b0",
+    "title": "Gov. Newsom (D) Announces Investments in Public Education",
+    "source": "C-SPAN",
+    "source_url": "https://www.c-span.org",
+    "source_domain": "www.c-span.org",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWxtRURmM3ZOQjZBTGJZWTJqd0xpY1VKdmQwcTNkd3o2X3FjWm1hOTdoa003eTNnM1FUb0l2RzVCOEZ5MmJiaW9xSWhOV1RpdnhRbVhLUUIzWXlrNnQ3TFhRaTFvRDlob2pYSTROcUoxd0cwVUxSUmRrLWkyZ3dHV1lORXp1VjUyQXZ2QTdVazZSOVd0M1I0cWUxSlNjOHA4V3d3em8yckJyLVI3VUFPMF9nTmJ3Zw?oc=5",
+    "published": "2026-07-09T17:45:00+00:00",
+    "published_display": "Jul 09, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://ximage.c-spanvideo.org/eyJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJoZWlnaHQiOjYzMCwid2lkdGgiOjEyMDB9fSwiYnVja2V0IjoicGljdHVyZXMuYy1zcGFudmlkZW8ub3JnIiwia2V5IjoiRmlsZXMvYzY0L2NmZW5pYW5wYnJvdmxoNW9ySGk3dS5qcGcifQ==",
+    "real_url": "https://www.c-span.org/event/news-conference/gov-newsom-d-ca-announces-state-investments-in-public-education/444896",
+    "bias": "C",
     "topic": "General",
     "region": "US"
   },
