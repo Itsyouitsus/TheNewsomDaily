@@ -16,6 +16,22 @@
     "region": "US"
   },
   {
+    "id": "b8cdc7f7f51c",
+    "title": "Are the Walls Closing In On Gavin Newsom?",
+    "source": "PJ Media",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://pjmedia.com/matt-margolis/2026/07/11/are-the-walls-closing-in-on-gavin-newsom-n4954918",
+    "published": "2026-07-11T14:45:00-04:00",
+    "published_display": "Jul 11, 2026",
+    "query": "direct_feed",
+    "image": "https://media.townhall.com/cdn/hodl/2026/22/8ac20572-6d78-4fbc-933b-05b65061e06e.jpg",
+    "real_url": "https://pjmedia.com/matt-margolis/2026/07/11/are-the-walls-closing-in-on-gavin-newsom-n4954918",
+    "bias": "R",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "c1c8d1c18c67",
     "title": "News Brief",
     "source": "Lake County Record-Bee",
@@ -365,6 +381,22 @@
     "real_url": "https://www.gov.ca.gov/2026/07/10/governor-newsom-signs-legislation-enacting-long-recommended-changes-to-improve-tk-12-school-governance-in-california/",
     "bias": "?",
     "topic": "Domestic",
+    "region": "US"
+  },
+  {
+    "id": "227373342ad3",
+    "title": "Reactions to Gov. Newsom&#x27;s &#x27;declaration of election independence&#x27;",
+    "source": "FOX40",
+    "source_url": "https://fox40.com",
+    "source_domain": "fox40.com",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ1ZUYnIyRVZkUmFOTkNBZF9KcmxTd3UxZmNUZVgyZWhjRTg3N3JTNUVWaEJWenZKY2Y3cjluY29xeTFVQTRIN1lxM3BBT0x2U1l0TV84MTdadE9zdE9QNHBreHhrLTYwVzBJTzNLRDc3d0d3bllOZWNaaVVBWGE0a1QyblRFaVo1WDFoSldqaXQzMzFhMFlhSVZBV0hwUUFnRndidHJHVm5OTmhxd2pfMGpPaGt6UkE?oc=5",
+    "published": "2026-07-10T14:21:52+00:00",
+    "published_display": "Jul 10, 2026",
+    "query": "Governor Newsom",
+    "image": "",
+    "real_url": "https://fox40.com/video/reactions-to%C2%A0gov-newsoms-declaration%C2%A0of-election%C2%A0independence%C2%A0/11946986/",
+    "bias": "?",
+    "topic": "2028 Race",
     "region": "US"
   },
   {
