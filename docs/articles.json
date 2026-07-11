@@ -1,5 +1,21 @@
 [
   {
+    "id": "c1c8d1c18c67",
+    "title": "News Brief",
+    "source": "Lake County Record-Bee",
+    "source_url": "https://www.record-bee.com",
+    "source_domain": "www.record-bee.com",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDTVdFbVFMNnR2eURxdWJITzRxQ0ZxMkZHSDlHNTFuQWdsWHdHTW9STUxRWU12OERjcTdCUG9jend0dlpSYlJ4LXRLa3F2UnpJelRJRlpsaWx3eXI3X3pRcnV3?oc=5",
+    "published": "2026-07-11T13:26:45+00:00",
+    "published_display": "Jul 11, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://www.record-bee.com/wp-content/uploads/2018/08/LRB-Filler-PhotoCORRECT-SIZE.png",
+    "real_url": "https://www.record-bee.com/2026/07/11/news-brief-39/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "f91528497dc7",
     "title": "Is Gavin Newsom about to ram through one of the \u2018biggest power grabs in California history\u2019?",
     "source": "San Francisco Chronicle",
@@ -23933,6 +23949,22 @@
     "real_url": "https://www.facebook.com/SkyNewsAustralia/videos/hell-do-very-well-donald-trump-backs-jd-vance-as-he-weighs-potential-2028-bid/1566132958285172/",
     "bias": "?",
     "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "b0974a02e1dc",
+    "title": "Newsom says, \u201cAVOID Chevron.\u201d Californians may want to avoid Sacramento\u2019s gas policies",
+    "source": "Pacific Research Institute (PRI)",
+    "source_url": "https://www.pacificresearch.org",
+    "source_domain": "www.pacificresearch.org",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWjZVQ2RxUXZJWTBjSnYyWjlUeWMtWlFGQjVWSUxFV0h1R2NKNWh1M0hxQm1xVFdwZVF3VTBDdUhfQ09VdmROcHVBb1RkMnlwLXVpcHFPeFZfNmlId0tmenJxdkRHU2JlX2VRV2ZRUG9oa2pNSVZBVEx1TDNCNndZa2hXenZFNGlmZ1ZzbFB0bWNlUTFTV3lzcmIxaEExSXlsRkNJcUhucTRrdnB2aWJlY2hDaHA?oc=5",
+    "published": "2026-06-16T07:00:00+00:00",
+    "published_display": "Jun 16, 2026",
+    "query": "Newsom policy",
+    "image": "https://www.pacificresearch.org/wp-content/uploads/2017/10/CarGas.jpg",
+    "real_url": "https://www.pacificresearch.org/newsom-says-avoid-chevron-californians-may-want-to-avoid-sacramentos-gas-policies/",
+    "bias": "?",
+    "topic": "General",
     "region": "US"
   },
   {
