@@ -1,5 +1,37 @@
 [
   {
+    "id": "cae2fe2f5965",
+    "title": "Gavin Newsom Accidentally Cancels His Hollywood Tax Credit",
+    "source": "News.com.au",
+    "source_url": "https://www.news.com.au",
+    "source_domain": "www.news.com.au",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbEgtblRPOElPX296WlY0R1h6cjdsX1NsRWhPdDB6Tm9JNHBiM05XZ3NEYWt6MWFiUC1VQmNSVlVIV25qdThZcm1Jci14WGNTX0lkbG5VWGlaRFBQNnplTHQ0X0ZvUkFfT3N2ZzAzeEJhQ2dvN2gtNXptclAxRnd6LTFJakVDLWliYWR6Y2ozT29PTGNReEM2d2dwTHZHVTFjUzBIOHdaOUxlaE9VbkZ6ajlqSDFUZGpKTXhqQmZvTzhyVVdQNEE?oc=5",
+    "published": "2026-07-15T02:49:37+00:00",
+    "published_display": "Jul 15, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.news.com.au/world/gavin-newsom-accidentally-cancels-his-hollywood-tax-credit/video/ddeed5dd5a22cc0752da5d1562f850de",
+    "bias": "?",
+    "topic": "Economy",
+    "region": "Asia"
+  },
+  {
+    "id": "7d98d0cd2b2e",
+    "title": "Newsom Signs Bill Streamlining Affordable Housing Efforts",
+    "source": "State Affairs",
+    "source_url": "https://pro.stateaffairs.com",
+    "source_domain": "pro.stateaffairs.com",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FMHhBdnE2d1Itb0s1Ynl1bmNrYmJudFNvM2twUEdXY25FV21lSmw3SGNDNU91b055WDRQajByQlpaMXZiYXZicjR1eURCUFgzNzM4VjBFSjhtTWlScm5nM1FzUHJ6WE5Gc1RZODNNaTVSWGdOWmhhY3dR?oc=5",
+    "published": "2026-07-15T02:32:47+00:00",
+    "published_display": "Jul 15, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://cms.stateaffairs.com/wp-content/uploads/2026/07/Newsom_AB179.jpg?w=1024",
+    "real_url": "https://pro.stateaffairs.com/ca/housing/affordable-housing-law-reforms",
+    "bias": "?",
+    "topic": "Domestic",
+    "region": "US"
+  },
+  {
     "id": "574412e80ca3",
     "title": "Newsom\u2019s Hollywood tax credit blunder just the latest mistake",
     "source": "New York Post",
@@ -112,6 +144,22 @@
     "region": "US"
   },
   {
+    "id": "dfa44c23fd66",
+    "title": "The Morning Briefing: Gavin Newsom Really Doesn&#x27;t Want to Be President",
+    "source": "PJ Media",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://pjmedia.com/stephen-kruiser/2026/07/14/the-morning-briefing-gavin-newsom-really-doesnt-want-to-be-president-n4955034",
+    "published": "2026-07-14T23:16:00-04:00",
+    "published_display": "Jul 14, 2026",
+    "query": "direct_feed",
+    "image": "https://media.townhall.com/cdn/hodl/2026/171/deb8a81a-3625-4b53-aa84-d750d3010a03.png",
+    "real_url": "https://pjmedia.com/stephen-kruiser/2026/07/14/the-morning-briefing-gavin-newsom-really-doesnt-want-to-be-president-n4955034",
+    "bias": "R",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "77826ea96cef",
     "title": "Gavin Newsom says Democrats nationally need to \u2018wake up\u2019 on income inequality",
     "source": "Sacramento Bee",
@@ -189,6 +237,22 @@
     "real_url": "https://www.reviewjournal.com/opinion/commentary-government-is-crowding-us-out-3850505/?utm_campaign=widget&utm_medium=section_row&utm_source=homepage&utm_term=COMMENTARY%3A%20Government%20is%20crowding%20us%20out",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "33a7588c6e14",
+    "title": "As GOP cries fraud, Newsom backs Medicaid spending on housing and food",
+    "source": "Capradio.org",
+    "source_url": "https://www.capradio.org",
+    "source_domain": "www.capradio.org",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXNoNV82LVltN2xWUDRuYk9ZN2JnTXl6VTUtLU1wb2lFaGRLRlRaVzk5REM2SXNvNnREams2Ri1PWG5SYVUyT3RfRm5sdG95MTdzQnE3aWZIa3pYbG1BOXhvUnRwRzQ2MjZ1bXBndHBJZ3lYOWdtaFFGYVJZOUxDWFRRLWlxamw1Vlg1bTFQY2s0cHd4b0xieHlUZmpidW1DeGZnc1V6SDdaMHplOFZnRkRWSkNUZw?oc=5",
+    "published": "2026-07-14T22:49:50+00:00",
+    "published_display": "Jul 14, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://www.capradio.org/media/12282606/071426_medi-cal_p.jpg",
+    "real_url": "https://www.capradio.org/articles/2026/07/14/as-gop-cries-fraud-newsom-backs-medicaid-spending-on-housing-and-food/",
+    "bias": "C",
+    "topic": "Healthcare",
     "region": "US"
   },
   {
@@ -386,6 +450,22 @@
   {
     "id": "0a8199110b8e",
     "title": "California Gov. Newsom says West Bank annexation, Netanyahu could lead Israel into apertheid state",
+    "source": "The Jerusalem Post",
+    "source_url": "https://www.jpost.com",
+    "source_domain": "www.jpost.com",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DNjNLaDBncGNiV0cyanpCTVdPemw5blRSQ3ZZd0Fld3RxUWV1RDl4QUQ3UFdmTExBMkVqaFNLbm5Jc2t5bHNKb3hvZEVmMlNRSXNkZnZxb3VkX1lMQXVBbF82Wko?oc=5",
+    "published": "2026-07-14T19:51:48+00:00",
+    "published_display": "Jul 14, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/708141",
+    "real_url": "https://www.jpost.com/american-politics/article-902526",
+    "bias": "LR",
+    "topic": "Foreign Policy",
+    "region": "International"
+  },
+  {
+    "id": "62d631991be5",
+    "title": "California Gov. Newsom says West Bank annexation, Netanyahu could lead Israel into apartheid state",
     "source": "The Jerusalem Post",
     "source_url": "https://www.jpost.com",
     "source_domain": "www.jpost.com",
