@@ -2576,6 +2576,22 @@
     "region": "US"
   },
   {
+    "id": "a5ec0c3532ef",
+    "title": "Emily Compagno: Harris\u2019 speeches lack substance in both \u2018policy and actual ignition\u2019",
+    "source": "Fox News",
+    "source_url": "https://www.foxnews.com",
+    "source_domain": "www.foxnews.com",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44cFNwMjF3NmlXMHNQMnJOb0ItZ1NwQ085b3Zja0lSVWNmZHZ1TDFxYkR4dUNycHF0U01yTkV6cEJHTnU5NThaX0M5aWxXSXh2eVlrZVZB?oc=5",
+    "published": "2026-07-13T21:52:47+00:00",
+    "published_display": "Jul 13, 2026",
+    "query": "Gavin Newsom speech",
+    "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c68a7088-60d2-4f4d-b9ab-2aabdc6c0b9f/54eb2c51-147d-4abc-87a9-534413ff2cfe/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+    "real_url": "https://www.foxnews.com/video/6401063466112",
+    "bias": "R",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "2d5bd179dec5",
     "title": "Millions more Californians could soon carry digital driver\u2019s licenses on their phones",
     "source": "KRCR",
@@ -3917,6 +3933,22 @@
     "real_url": "https://www.foxnews.com/video/6400841516112",
     "bias": "R",
     "topic": "Military",
+    "region": "US"
+  },
+  {
+    "id": "fb6ab61eef19",
+    "title": "Gov. Newsom set to campaign around the country ahead of midterms",
+    "source": "Spectrum News",
+    "source_url": "https://spectrumlocalnews.com",
+    "source_domain": "spectrumlocalnews.com",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV0s3eDJPWjN4NFZCazdoT0tkZHptZ0QxV09jYzBrSUF2ZVYxLTlkNDVkR2QzVWJaLUNrYXQwOWdVdHNTQm5aZ3o4aXdTYlp0dlMwM2JJdjh2TkZKbGxjZnE1WkVCM1NlRG9IclRNN0JyU1ZERTY0SjdlZjlYd04tWkg2R3RqOEJNT0ZWZDgzUUExQm94T01OQzE2M1dUNUpEbUdXeTdrUnJTX1h2Snc?oc=5",
+    "published": "2026-07-10T23:09:00+00:00",
+    "published_display": "Jul 10, 2026",
+    "query": "Governor Newsom",
+    "image": "https://s7d2.scene7.com/is/image/TWCNews/AP26014792050660_crop",
+    "real_url": "https://spectrumlocalnews.com/ca/california/politics/2026/07/10/governor-gavin-newsom-campaign-tour-midterms-",
+    "bias": "?",
+    "topic": "2028 Race",
     "region": "US"
   },
   {
