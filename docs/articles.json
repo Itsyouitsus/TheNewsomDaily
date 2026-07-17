@@ -1,5 +1,37 @@
 [
   {
+    "id": "f0d8538b3012",
+    "title": "Newsom&#x27;s Silicon Valley dilemma comes to a head: Friend or foe?",
+    "source": "Politico",
+    "source_url": "https://www.politico.com",
+    "source_domain": "www.politico.com",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVEp4OERCVkhmOTlWb21xMzZLaVNablYtbFF2N01VdnB6TWVJRndELTE4QWkwaXhQMk14UUc4QktKM2FIUFl5aGU3ZzNva3Zudkx5TDFDUkxUd2ZpSGU1MHBkNWowZ1lSakVQT2RZU19UNlNPZTVtUl9HdTdIT1RBc1JNN1c2R0Vsek5xemswblBYLThBcXFIUmgxOVVXQUhIdGFqTVUtTjVmbktWUFFF?oc=5",
+    "published": "2026-07-17T09:00:00+00:00",
+    "published_display": "Jul 17, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Faf%2Fbc%2Ffc586f6149cca08333a13ecc9c2d%2Fcalifornia-newsom-5456.jpg",
+    "real_url": "https://www.politico.com/news/2026/07/17/newsoms-silicon-valley-dilemma-comes-to-a-head-friend-or-foe-01002515",
+    "bias": "LL",
+    "topic": "Tech & AI",
+    "region": "US"
+  },
+  {
+    "id": "e0f562558521",
+    "title": "\u2018No more excuses\u2019: California sues Half Moon Bay over housing",
+    "source": "Coastside News",
+    "source_url": "https://www.coastsidenews.com",
+    "source_domain": "www.coastsidenews.com",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdTNzRWJqWC1yWWJnMEtVQUVnbUVHRzNRMThsTmp2SGhteVRXNzlFRkJiRmtibmhWX3ZLSjFUY3ZyRURlOTVjWTR5VzZOcUhpQWZ5MDZkQW5FUVVnU1JuQmQxOWNyUWVpeUNzVzJwc1lxN0FiZWI2VjBiRDVhUWRwb2s4N3VQTVB0NlVNakVCcmstcHM4RGU3Q3g0OTJlY3hEN0l0Q05sbFQtU0VOdWpfUkJnSklQQ0VRZFRwd0FES1J0cENPSXlJc0FtRWo0YlB3WDFZMlk4SGNjams?oc=5",
+    "published": "2026-07-17T08:02:44+00:00",
+    "published_display": "Jul 17, 2026",
+    "query": "Newsom California",
+    "image": "https://bloximages.chicago2.vip.townnews.com/coastsidenews.com/content/tncms/assets/v3/editorial/b/af/baf91eaa-f123-43b0-8140-b5e20184f195/660e6bd76a6d6.image.png?crop=798%2C420%2C0%2C89",
+    "real_url": "https://www.coastsidenews.com/news/no-more-excuses-california-sues-half-moon-bay-over-housing/article_6140a755-ebb8-465b-89f6-d2b477f05560.html",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "7ffbe847763c",
     "title": "Govenor Newsom signs Assemblyman Jeff Gonzalez\u2019s youth caregiver bill into law",
     "source": "KESQ",
@@ -108,6 +140,22 @@
     "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4af27fa4-723c-4f03-8a0a-3e6f8ba4916a/adbab4d5-22a5-438d-a232-bb5f94e3bf80/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
     "real_url": "https://www.foxnews.com/video/6401345568112",
     "bias": "R",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "dae41efaa336",
+    "title": "Gavin Newsom Escalates Feud With Trump Ahead Of High-Stakes Midterms",
+    "source": "Yahoo News UK",
+    "source_url": "https://uk.news.yahoo.com",
+    "source_domain": "uk.news.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zaFJJWFdSSFlMdmhCOXZ5eXI3Y3NUanU5emlPNjJ6RER6TWNXb3hRUExSSWdieWtqM1RXd1d4VlZqdzIwNjBaN1BkNTBoWmxkOVNxMlVDaWQzeEZ3VllVRWtWRDk1Szc3RHhfZUFnLUVuUjR1c1B5Mkt4RHRXUDQ?oc=5",
+    "published": "2026-07-17T01:10:00+00:00",
+    "published_display": "Jul 17, 2026",
+    "query": "Newsom Democrat",
+    "image": "https://s.yimg.com/lo/mysterio/api/f06470a507ff4cd72bb546a18153d29a1faad3edae5d165b10b0fae22e3aae2f/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Ffcd02cfe401c2f5061a928b3fb25b1b7",
+    "real_url": "https://uk.news.yahoo.com/gavin-newsom-escalates-feud-trump-011000629.html",
+    "bias": "C",
     "topic": "General",
     "region": "US"
   },
@@ -926,6 +974,22 @@
     "bias": "C",
     "topic": "General",
     "region": "Asia"
+  },
+  {
+    "id": "16e92660a0bf",
+    "title": "Sky News Australia. . Newsweek Senior Editor-At-Large Josh Hammer says California Governor Gavin Newsom is the clear favourite for the Democratic presidential nominee in 2028.",
+    "source": "Facebook",
+    "source_url": "https://www.facebook.com",
+    "source_domain": "www.facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWlBwbmxDZXdPbWQ0bk9IdzlCWVE2QmNIU1FFa1RoclZoSVhVYUhKUkhnMnFMU0I4aW8zcFd6U1hORS1zVkl5M1NyUU1WelMzTFNCa1QtVC1uSkdPd2VYMVMzUjhjNm52aE1GMGJycndmLTB3N2pZbzVnTUk5YnJtemF5THpRWUJKYmNnQzFnZU5MSHJZclVadGZhc2dCdU43S1k4S0dSRzJfaHV6RXUyNzdUOERZT2hKQkxYNnFyLTJCZjh1M1A0Vg?oc=5",
+    "published": "2026-07-16T05:39:37+00:00",
+    "published_display": "Jul 16, 2026",
+    "query": "Newsom president 2028",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/v/t15.5256-10/746742870_1051375930739995_1188704717863786779_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a27664&_nc_ohc=AtTRo-ctJAQQ7kNvwF_Wf3t&_nc_oc=AdppCR15n5tigvV8siWp4aWSuSj9gaWCTWTeTqxFEQ7G1PTGDbvO6Yn7qhos9boL4nY&_nc_zt=23&_nc_ht=scontent-sea1-1.xx&_nc_gid=Sca0JVxSa9qtUu3p6UThTw&_nc_ss=7020f&oh=00_AQCHEPwaIVqCfeUsgCE4csnhJe8OJ5HuqmHaHqj0-ILXMg&oe=6A5FCE06",
+    "real_url": "https://www.facebook.com/SkyNewsAustralia/videos/who-else-could-it-be-newsom-a-clear-favourite-for-dems-in-2028/1025926743503612/",
+    "bias": "?",
+    "topic": "2028 Race",
+    "region": "US"
   },
   {
     "id": "ec1462777136",
