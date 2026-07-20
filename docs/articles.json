@@ -14672,6 +14672,22 @@
     "region": "US"
   },
   {
+    "id": "1329dd0a6716",
+    "title": "JD Vance says AOC has &#x27;got to be&#x27; Dem candidate in 2028, she fires back with &#x27;I hope he is&#x27; GOP pick",
+    "source": "New York Post",
+    "source_url": "https://nypost.com",
+    "source_domain": "nypost.com",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdEFkZDI0VU1iZ3BJOTY4NjFsaUNiX1FQNXdlQjR1bTZOWWRfU1JZYklLRDlwaWt6WnJiVTRGeDVPXzVMU2pjWDdpWFY1UVFsTVd3aE1FcHdxdklLUmZRaFMzSzFXWVBadERKaHFFLVpjMHBLUWIwcjdRaDdKZ2k2eEVxc3p4WkVNVjd3QW42Y1R6cVJYSW02MTN0NE9reDloTlVLS0xUSV9NTnBTMUpaRWs3ZmdybzhTVk9RS0hROXRBck9rMjYzN2VrSjMtNlE?oc=5",
+    "published": "2026-07-01T07:00:00+00:00",
+    "published_display": "Jul 01, 2026",
+    "query": "Newsom president 2028",
+    "image": "",
+    "real_url": "https://nypost.com/2026/07/01/us-news/jd-vance-says-aoc-has-got-to-be-dem-candidate-in-2028-she-fires-back-with-i-hope-he-is-gop-pick/",
+    "bias": "LR",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "a86b38eb442c",
     "title": "Gov. Gavin Newsom signs state budget, granting UC $350 million funding increase",
     "source": "Daily Bruin",
@@ -20347,6 +20363,22 @@
     "query": "Gavin Newsom",
     "image": "",
     "real_url": "https://www.politico.com/news/2026/06/26/gavin-newsom-populist-pivot-wealth-tax-00978821",
+    "bias": "LL",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
+    "id": "d71a4b1c8d08",
+    "title": "What if the economy gets better and it doesn\u2019t help the GOP?: From the Politics Desk",
+    "source": "NBC News",
+    "source_url": "https://www.nbcnews.com",
+    "source_domain": "www.nbcnews.com",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0tibzFwQVA5ZDRoQUxxX0VNSlF0QXQyT1l0dFdfQTVlcmhCTkFvUUltSjNnQ0Q1Q2tzVzFWSEQ3bi03UkRxUklPM0U2Znh3TlF5aWlVZm9mWmw2VUlGbFk3cks2cV9fWW9RekVPbVMzWUZ2bTBOQ21ENEE1Y1pJZnpXOVY5TERaNkZqVkdSMGdlQ25RYzB4OC1ROHdSVF9yZGlPeXJpTkNUWnc?oc=5",
+    "published": "2026-06-26T07:00:00+00:00",
+    "published_display": "Jun 26, 2026",
+    "query": "Newsom economy",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260626-trump-ch-1530-28bc8a.jpg",
+    "real_url": "https://www.nbcnews.com/politics/politics-news/economy-gets-better-doesnt-help-gop-politics-desk-rcna351979",
     "bias": "LL",
     "topic": "Economy",
     "region": "US"
