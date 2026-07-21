@@ -1,5 +1,37 @@
 [
   {
+    "id": "95283903b76c",
+    "title": "On Reddit, California state employees organize, advise and craft conspiracies",
+    "source": "Sacramento Bee",
+    "source_url": "https://www.sacbee.com",
+    "source_domain": "www.sacbee.com",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLVYwbFE2UUNXbVRVaHB6MUliRldvdmlobGVKaS1yODhteU1FdnFOQ0V6TUtyYjk2aURZLS1MbzF6NGpBS3RBcFZfd19VTkhSSUk2T3VESm9MUE81VHFYWVJXczJVeVhKbnlJVmJjWUpQUlphcDdfeEhCQ3Z4U011RXZjSUlVdGx2cWloY2dsZ9IBjwFBVV95cUxNYUlzcFlpeWVkd0pfSlVJdUxtSk5CcEdDYVV4VGJpbGJackhVbFhId0wtNXJNUEhsbTZRSklXLTh5N1NFaGhJMExvdjN5cVJWY0EzQTVIUjYyUGJCWnlrbGhsb21fSFUxbUJoZmtjR3c0RWNDNGxWZ215LThST21KcEctQnJwTVhWdkFwdW00Zw?oc=5",
+    "published": "2026-07-21T20:30:00+00:00",
+    "published_display": "Jul 21, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.sacbee.com/news/politics-government/the-state-worker/article316583066.html",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "68387750956e",
+    "title": "Downer for Newsom as 2 stunning names best him on 2028 prez betting market",
+    "source": "PennLive.com",
+    "source_url": "https://www.pennlive.com",
+    "source_domain": "www.pennlive.com",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOGJWbm5wSzlrSTJ6d0NOc1ZjdGl3LUh5a0Q3S1BGajlfalljR1pqS1dIRklxSnI2OFhkckZXQmMwd0pXS2JLT0plY2Y0MWNjY0hhcFQwZVJxRDZ4LWlxdHVqSWlhSjlOR1Y2UlFULWF3R2s4MTVyUFhWQ2FjQmZadi1mYVZYRFBpZ1l3LWNVdFFiMmQ4THJZVzJ1SnlSSmFiSnI1N3ZhbllaelVGQlVhZWIzYmRVQXBIRlBYam1B?oc=5",
+    "published": "2026-07-21T19:42:00+00:00",
+    "published_display": "Jul 21, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.pennlive.com/politics/2026/07/downer-for-newsom-as-2-stunning-names-best-him-on-2028-prez-betting-market.html",
+    "bias": "?",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "3640cb356af5",
     "title": "Trump admin defers more than $1 billion in Medicaid payments to California and Minnesota",
     "source": "KFOX",
@@ -365,6 +397,22 @@
     "real_url": "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/80018-governor-gavin-newsom-announces-continued-growth-in-california-zero-emission-vehicles-zevs-sales-as-trump-s-reckless-iran-war-raises-prices-on-americans-nationwide-3-500-instant-rebate-for-new-electric-vehicles",
     "bias": "LL",
     "topic": "Iran",
+    "region": "US"
+  },
+  {
+    "id": "2bc1dc9a86ca",
+    "title": "How labor unions are tackling AI and midterm elections",
+    "source": "Marketplace.org",
+    "source_url": "https://www.marketplace.org",
+    "source_domain": "www.marketplace.org",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNTV6eXoyV00yM1p5RjdRNVRTYzJoZExpR2ZtS2dXdkMzSnpmbzlqckJjcWM2OHhIMFFzamlQZHZKQWdlcDdnQ2ZaY3pYY2RHZWpYOGEyb29yamN6WlhtdXdtV2JIVW9wNTRRR0hnVlNydzVOeVNMU1ZlZXhoUzlaRmV1ZlJicl9VejhYSVQtVkUtT0tyWFVkZ0JyZTRwelE?oc=5",
+    "published": "2026-07-21T11:45:00+00:00",
+    "published_display": "Jul 21, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://img.apmcdn.org/e2e94aa66f5be1858463c482e73dae0a19796c28/widescreen/f4335a-2016-03-gettyimages-72418374-1780.jpg",
+    "real_url": "https://www.marketplace.org/story/2026/07/21/the-aflcios-strategy-for-ai-and-the-midterm-elections",
+    "bias": "?",
+    "topic": "Tech & AI",
     "region": "US"
   },
   {
