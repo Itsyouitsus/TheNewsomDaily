@@ -1,5 +1,21 @@
 [
   {
+    "id": "3cff3156b13d",
+    "title": "Kamala Harris and Gavin Newsom crushed as shock poll puts them behind AOC for potential 2028 run",
+    "source": "Sky News Australia",
+    "source_url": "https://www.skynews.com.au",
+    "source_domain": "www.skynews.com.au",
+    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPWGpKOEl6WGdOTEpxZmxnTVc3cnAxaFFtM1NqOUNkbzhvX0RGU1RJdzFpbUY1UUstLXJkMmRRLWotVTZiYmVQVlRJd1l2V28tU0NyMlQ4UjdWVzJyVGxlSVFmYmRTMVFxN0xDTVNja0xKNW1PbEE0OEJWeVppZnRyZjZ5NkUxZVByaW9OVFBnYXZobE9xcHU0U2xzU3p3TzdLOW5jMmpFU3BXc2VmZGpLNFIzc2xhQWlvRnFDMlZLa293R2V2c3B1eUpteS1ZZUN2TTJqN3ZHZ0hMUEYxWXNtSlhxRXVySjVtNG9BOFM4UV9uX19Ycld0RkEtS2R5YUxKQzZkeFV1bldpTThXaHFiaDlrSGpUQdIBmwJBVV95cUxNSmZ2ZlN5YWUxeEYyNHNnZTBYSkhFd1Q3S0dXQjc4S0t0WDZKSmJOYXFmMm01YjZndFJQUk5YUzFZR0pxUV8yazN1Zm54c3cwM2hVMC05WkdtQUZxclpFWThuM1dXN3czd3RyYW5RM1FDUkdIVFdSSjJyX21rbjVfb3YyYWV4cGU1NDk5eFVva29ZVXhRRUVzY1FsUklIWGN4TDQzaE9nS2stVFpzalJBX01qSzVCRkl2dTJta2Z6aFBmbDhFbFVSc1lpOFRVdVozMzUxcUtoSlhGZW9tU216dURwV1hFeGpSXzBWeWE3OU1JWWdYNUk5UTJ2ZjlHVzlOZzlwQ1J6VVJQdU8xcG5DZTlsTnBvZDNGdlFZ?oc=5",
+    "published": "2026-07-24T05:02:45+00:00",
+    "published_display": "Jul 24, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://www.skynews.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-skynews-169.svg",
+    "real_url": "https://www.skynews.com.au/world-news/united-states/kamala-harris-and-gavin-newsom-crushed-as-shock-poll-puts-them-behind-aoc-for-potential-2028-run/video/799e2227aa1972657f7d8e8d3ace694e",
+    "bias": "C",
+    "topic": "2028 Race",
+    "region": "Asia"
+  },
+  {
     "id": "79c9f7a900cc",
     "title": "Pentagon confirms suspension of official who blasted Trump on hidden camera",
     "source": "Just The News",
@@ -445,6 +461,22 @@
     "real_url": "https://www.gov.ca.gov/2026/07/23/governor-newsom-delivers-109-6-million-in-voter-approved-prop-1-funding-for-278-supportive-homes-including-housing-for-veterans/",
     "bias": "?",
     "topic": "Military",
+    "region": "US"
+  },
+  {
+    "id": "4ea71ac99c29",
+    "title": "Ossoff third in Democratic primary choice, new poll shows",
+    "source": "WSAV-TV",
+    "source_url": "https://www.wsav.com",
+    "source_domain": "www.wsav.com",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcXhSbkJlN0w3cnhLNG9rZFlvb1Q5TE0xOXdQRzVjNVc1SGZ5aEd4eXhyMklVVXVfUGZIUHNXbkFWTnhIeWtZQjRCMGxTcmlRWno2V3BzYWVCaG5mR0tmQ2FSek1YbEFBX05vX2EtUzVtbDJCMGRXSDN5Sk5zZWM5OUJYVjBRaHM2SFVoQVR3elllWkNoVGdNOURONXBiM2pMSTdHaFBwWE9sZ9IBrwFBVV95cUxPN3BzNjdlMTJkNG1pdU81N2xYNzRRSXlEYXJBaFI1NWl1UUVtUWNQSkZNb0FjaW1EUXh6V0wxQkx0WGx3YkY5Tnc5TWJyVmtfQ0VhY1pWaF9EOTV3cEhVaGRVQ2g2cDViakRpcmgtbFliVFJUcUxZWFVHZlpSU1ljR01TSUF1bVFwT0hTZVJtellodUZjVG8xd3pacWdjMnB4cVpCXzFNV2VEMDJsUmpv?oc=5",
+    "published": "2026-07-23T15:35:22+00:00",
+    "published_display": "Jul 23, 2026",
+    "query": "Newsom Democrat",
+    "image": "",
+    "real_url": "https://www.wsav.com/news/your-local-election-hq/ossoff-third-in-democratic-primary-choice-new-poll-shows/",
+    "bias": "?",
+    "topic": "Immigration",
     "region": "US"
   },
   {
@@ -21131,6 +21163,22 @@
     "query": "Governor Newsom",
     "image": "https://www.cdcr.ca.gov/bph/wp-content/uploads/sites/161/2025/10/BPHLogo-1.png",
     "real_url": "https://www.cdcr.ca.gov/bph/commissioners/commissioner-clifford-kusaj/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "f206fdf684df",
+    "title": "Why did California&#x27;s spending grow 40% under Gov. Gavin Newsom?",
+    "source": "KCRA",
+    "source_url": "https://www.kcra.com",
+    "source_domain": "www.kcra.com",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd3VOX3JqdHI0dUZzelNzM05nbklHYW05UnBEc0E1cFFqWlkyS2RINnJkUklJaE1GcEd6RUVOeDlxVGJHV3pNYjg1VzlRQndhdGdqSTd1WElfdnpTQ3BIV1ltQVJWb0V1UDlwbFNpbHVCYUxtU0hqQzVlSXNKMTdYbzRQSjZ4U29zVFV4RHRR?oc=5",
+    "published": "2026-06-29T07:00:00+00:00",
+    "published_display": "Jun 29, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/newsom-sots-2025-68c06e3b2143e.png?resize=1200%3A*&crop=1.00xw%3A0.961xh%3B0%2C0",
+    "real_url": "https://www.kcra.com/article/california-budget-growth-under-gov-gavin-newsom/71774960",
     "bias": "?",
     "topic": "General",
     "region": "US"
