@@ -1,5 +1,21 @@
 [
   {
+    "id": "ffd2ff677193",
+    "title": "2 Dems battle at top of new 2028 poll. And shockingly neither is named Harris or Newsom",
+    "source": "PennLive.com",
+    "source_url": "https://www.pennlive.com",
+    "source_domain": "www.pennlive.com",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTThKSUZhU3VVd2N6NDhFYlZlNlZwWUdVTUJZRWJzRGJtOXB1VDRyMGoxN0VHM0RWVTBBbmV3bExNMXZtelk2SE1MSXo2U3Vva2NicXdPOHlaMlhxQ1FVUlZVZ2NBQUFtOFpxbi05enUzTl9wMkNxdzdDTmtyVXl5NTF4NXItTUFMSnRTOEpvSkNLZ2lYSk1uTWxCbWl1LTMyV1A5OC1JM2VzT0xOb0JCODhYa3RiVlRfSTFLcTJXaWtRbFRNbFZiaWllakE1QQ?oc=5",
+    "published": "2026-07-24T11:00:00+00:00",
+    "published_display": "Jul 24, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.pennlive.com/politics/2026/07/2-dems-battle-at-top-of-new-2028-poll-and-shockingly-neither-is-named-harris-or-newsom.html",
+    "bias": "?",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "3cff3156b13d",
     "title": "Kamala Harris and Gavin Newsom crushed as shock poll puts them behind AOC for potential 2028 run",
     "source": "Sky News Australia",
@@ -2587,6 +2603,22 @@
     "query": "Gavin Newsom",
     "image": "https://i0.wp.com/calmatters.org/wp-content/uploads/2026/07/071526_RTO-State-Workers_MG_CM_08.jpg?fit=2000%2C1333&ssl=1",
     "real_url": "https://calmatters.org/newsletter/newsom-remote-work-texas/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "e04bbc9a057c",
+    "title": "Newsom\u2019s Diaper Deal Stinks",
+    "source": "California Globe",
+    "source_url": "https://californiaglobe.com",
+    "source_domain": "californiaglobe.com",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RbHUtUGF0RjRNbjJIajVSTk1FTWpoR1Z4eERmSDFZemJYMi0xWWQ3b2M4dU4yQjBsOU5ELWNYV1cyOWZSamRxSndiUnktcWNXVm9MMUR2Q0hHUE5RT0Mtd2RPLTd0OENCYVE?oc=5",
+    "published": "2026-07-21T12:57:05+00:00",
+    "published_display": "Jul 21, 2026",
+    "query": "Newsom California",
+    "image": "",
+    "real_url": "https://californiaglobe.com/fr/newsoms-diaper-deal-stinks/",
     "bias": "?",
     "topic": "General",
     "region": "US"
@@ -11949,6 +11981,22 @@
     "real_url": "http://www.sacobserver.com/california/political-playback-new-housing-chief-ballot-fights-ahead-d7f812b5",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "31de350d11e2",
+    "title": "CA Democrats Back Taxes on the Middle Class",
+    "source": "Reform California",
+    "source_url": "https://www.reformcalifornia.org",
+    "source_domain": "www.reformcalifornia.org",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVFdIaTVCb2wzMUtKX1RvdWxMSzNNX2JTaEprRzdtNEtLT1pVVjNwaVdvUVFDaDhTb0JFSlBCRjh6b05Fa1hfOVdWM0R3OU5DOGl6bU5IRjcyY0NpSEVYR0c4V2FUMWw2RnNEbTQyc0ZqNjRra3E4ZUZxSHhnbXNOOEdwUFRISU5QbVRJWnU3MXcwQ3R4T01hVjRjckxQMFFNUW1vaXdhOC1kQVB2cERmSnZLRQ?oc=5",
+    "published": "2026-07-09T07:00:00+00:00",
+    "published_display": "Jul 09, 2026",
+    "query": "Newsom Democrat",
+    "image": "https://cdn.prod.website-files.com/63864824086755866f775f88/6a50323e4986f28628e5bf94_Screenshot%202026-07-09%20at%204.43.33%E2%80%AFPM.png",
+    "real_url": "https://www.reformcalifornia.org/news/ca-democrats-back-taxes-on-the-middle-class----but-protect-the-billionaires",
+    "bias": "?",
+    "topic": "Economy",
     "region": "US"
   },
   {
