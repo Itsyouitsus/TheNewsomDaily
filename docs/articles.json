@@ -1392,6 +1392,22 @@
     "region": "US"
   },
   {
+    "id": "018470f902bf",
+    "title": "New poll reveals possible 2028 presidential frontrunners",
+    "source": "Eyewitness News (WEHT/WTVW)",
+    "source_url": "https://www.tristatehomepage.com",
+    "source_domain": "www.tristatehomepage.com",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeWhwMGdNMGp5bHU3SkdhMWZvRTRhRVhaTEotTG1qRk1hMzFFUEV2Ql9XOXZjeWZ2VlQxNHZ4Q2NDUVFtY3doS3FMb2c5Uk1DczZoR2pSelR1dkdUR0JIdHcxRTBRMEVXbnprNUVZSngyNmllYzRXR3NDdmFmVDk4X1NGUWFwTkFJY0NMSDFuMmRIMERZcHU4SW5tbW1Cc0RzeG9vNjdkclU2SlJhRXE40gG0AUFVX3lxTE16d0g3U1NrekRZc09KM2lkNE5SUk1LWGlBZWpZLWlYekhqSmlQMGtLM3JuckFMckhtT05CdGtyUHZxNzA0RXM5a3FZejhnLUR6QjlnMzAxbDBiQTEzTXR0eW9pclhGWVlzTS1qV0ZLYnYtelZYY2Nqay1ickZBTUhLNE1LMFhxQWlkMzlQWWRrVWktT3ZCaS1aVW1XX2NpVUU0ZGVwZElCV2NJTVB2b05BN2FERA?oc=5",
+    "published": "2026-07-23T10:00:00+00:00",
+    "published_display": "Jul 23, 2026",
+    "query": "Newsom president 2028",
+    "image": "",
+    "real_url": "https://www.tristatehomepage.com/news/national-world/new-poll-reveals-possible-2028-presidential-frontrunners/",
+    "bias": "?",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "98c5914cee58",
     "title": "Newsom signs McNerney bill expanding schools\u2019 access to quality food",
     "source": "Manteca Bulletin",
@@ -2317,6 +2333,22 @@
     "real_url": "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/80045-as-trump-cuts-federal-wildfire-programs-across-the-nation-governor-newsom-says-california-is-building-a-world-class-firefighting-fleet",
     "bias": "LL",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "f026f72e8a4f",
+    "title": "What the sale of 2 ICE detention centers reveals about Trump\u2019s new immigration strategy",
+    "source": "CalMatters",
+    "source_url": "https://calmatters.org",
+    "source_domain": "calmatters.org",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVamFaM1RhZVZuaDlESVVHODJ2WXp3aEJlSHlELUFIVzgzTTFGMHhzNThRMkxIZ2tuV0RQal9TdXgyUFc4X2c3VWswT3g0WnBhZjN1LXNMNEJMT0ZBSlF3YjlIaTVlREFucVd2eXM5NWIzMXBBY0lhSnZB?oc=5",
+    "published": "2026-07-22T12:00:00+00:00",
+    "published_display": "Jul 22, 2026",
+    "query": "Newsom immigration",
+    "image": "https://calmatters.org/wp-content/uploads/2026/07/092225-CalCity-Detention-MV-CM-09.jpg",
+    "real_url": "https://calmatters.org/justice/2026/07/ice-detention-center-sales-why/",
+    "bias": "?",
+    "topic": "Immigration",
     "region": "US"
   },
   {
