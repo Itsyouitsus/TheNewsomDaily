@@ -16,6 +16,22 @@
     "region": "US"
   },
   {
+    "id": "f968e6254dd1",
+    "title": "California secures federal assistance to support response to Dove Fire in Tuolumne County",
+    "source": "California State Portal",
+    "source_url": "https://www.gov.ca.gov",
+    "source_domain": "www.gov.ca.gov",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmpheHpHWTJ4VkMycDdDV1U4NVJOMGtESXFfY0Y0bkJ4VjQwN0dERkJWREFVSXRtNThoTG45NDJqWmVLS1dtV3p4LVBTMkZCZU04dWpreXRfRHZoSVdZR2Z0eTNiX1IyNVlHSDg4REdkRlhRckdiajVzaWpxZ0d5WFFtUlViakMwXy1VU1lBR2FtNW92YkRnbmpYYUZaNmtnNkZTSndna2F4UmttT3RHdzg3TndpVFZyd3k4RjdQVGlNZw?oc=5",
+    "published": "2026-07-27T04:45:44+00:00",
+    "published_display": "Jul 27, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://www.gov.ca.gov/wp-content/uploads/2026/07/FMAG-Dove-Fire.png",
+    "real_url": "https://www.gov.ca.gov/2026/07/26/california-secures-federal-assistance-to-support-response-to-dove-fire-in-tuolumne-county/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "7b41030e1ebd",
     "title": "Matt Fleming: Newsom discovers the working class on his way out the door",
     "source": "Daily Democrat",
@@ -61,6 +77,22 @@
     "real_url": "https://nypost.com/2026/07/26/us-news/poll-shows-californians-loathe-gavin-newsom-climate-policy/",
     "bias": "LR",
     "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "49c5985e91bd",
+    "title": "California leaders split over war in Iran",
+    "source": "KCRA",
+    "source_url": "https://www.kcra.com",
+    "source_domain": "www.kcra.com",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmhLZktJb3ZCQWVkaWFHM2g1d2UxVnRXNUJtVUlPUy1XaHZ3Tzk0RC1rUmpDS2s1eFRXclkzWXNxMHVUbHlzX3V6d2ZVbjVseVFzZ1k3U2RjUUNEUmhndVBlYjhXWHhyWGp4akFjNDUzNXVrdEJqY0dvcFlFQjFWOFo0NENBRnJIdl9qOUVNdkc2Rm9MRzZRWVJYbw?oc=5",
+    "published": "2026-07-26T15:25:00+00:00",
+    "published_display": "Jul 26, 2026",
+    "query": "Newsom California",
+    "image": "https://kubrick.htvapps.com/vidthumb/880eadbd-ec91-4075-b38e-e13371335388/ab29fb76-5e56-46d6-bbb5-1b04dbc79734.jpg?resize=1200%3A*&crop=1xw%3A1.0xh%3Bcenter%2Ctop",
+    "real_url": "https://www.kcra.com/article/california-leaders-split-over-war-in-iran-ca-politics-360/73257997",
+    "bias": "?",
+    "topic": "Iran",
     "region": "US"
   },
   {
