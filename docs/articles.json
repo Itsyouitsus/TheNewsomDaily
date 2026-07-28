@@ -1,5 +1,21 @@
 [
   {
+    "id": "a6f3bfbfad38",
+    "title": "Gavin Newsom Pulls the Receipts on Donald Trump\u2019s 9-Year Old Healthcare Pitch",
+    "source": "Yahoo",
+    "source_url": "https://www.yahoo.com",
+    "source_domain": "www.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejZwbEs5OW0tYUtlSHFWZUFDV2JWZ2ZLeHF6TmRYZW5ZMHhXcE1nUmxNV0ltMUJ6QUI4d2Z4Qk9SU200MEtfX05QeWZDVW5yOGRRR014WWNOc1diRW81UW9QVUJoSUVXbVc2RWJrVkt5UTNjQ05pM3FJeEI3UER5bHVCSXNPZzVJdVRqTGJ1QnNhSU5uTEVCZEZR?oc=5",
+    "published": "2026-07-28T06:41:00+00:00",
+    "published_display": "Jul 28, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://s.yimg.com/lo/mysterio/api/d84b03bfd04e742ba99d2b0f435c24a7feee56f555d930648d0fe09a6b372957/lightyear_networkapi/resizefill_w640_h360;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2F46ca8e9625cd7fa7879e3fa97edf4a30",
+    "real_url": "https://www.yahoo.com/news/politics/articles/gavin-newsom-pulls-receipts-donald-064145812.html",
+    "bias": "C",
+    "topic": "Healthcare",
+    "region": "US"
+  },
+  {
     "id": "3f4eb2d77906",
     "title": "Gavin Newsom Slams Trump Over Rising Gas Prices, Accuses GM of Helping \u2018Gut\u2019 California\u2019s Emissions Standards",
     "source": "Benzinga",
@@ -28,6 +44,22 @@
     "image": "",
     "real_url": "https://nypost.com/2026/07/27/us-news/gavin-newsoms-homekey-program-put-homeless-housing-in-nice-la-neighborhoods/",
     "bias": "LR",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "ee2624eaf7aa",
+    "title": "Dark truth about Gavin Newsom\u2019s $2.6B flagship housing splurge",
+    "source": "Yahoo",
+    "source_url": "https://www.yahoo.com",
+    "source_domain": "www.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNUl4aUduaU1UWFlOVkc1VTk2R0hGNC0tSlBveWhVbk1nWlc0U01Md2RGd0tBaHdpSVFIU0w1clJUbEhoYVVuMm1hNE8tZ2xyY1MzTFhjdVFmQ2NqQm9zTFFIUVdtd19pdlVxdWRVQzkyQmFkak93cHk2eUhqamdfa2NCYXl5QQ?oc=5",
+    "published": "2026-07-28T03:00:00+00:00",
+    "published_display": "Jul 28, 2026",
+    "query": "Newsom California",
+    "image": "https://s.yimg.com/lo/mysterio/api/93e7a4b9ed86106c6e6e8ae9100f4a77990ed752f4905fbe831a17e15e1f0adb/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fny_post_metro_articles_178%2F370a3e7ed32a46f601ec71395486cda2",
+    "real_url": "https://www.yahoo.com/news/us/articles/dark-truth-gavin-newsom-2-030000289.html",
+    "bias": "C",
     "topic": "General",
     "region": "US"
   },
@@ -443,6 +475,22 @@
     "query": "Newsom California",
     "image": "https://public-assets-prod.pubgen.ai/brand_46e09328-46a6-4a3a-8db2-f7c42eecfcbc/asset_269e1507-f417-4ff8-8361-6b4ac200a8ad.jpeg?w=1200",
     "real_url": "https://www.theobserver.media/california/department-of-homeland-security-demands-california-secretary-of-state-shirley-n-weber-scrub-voter-rolls-748f7822",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "bfcae3919238",
+    "title": "California to offer a novel $3,500 rebate for first-time EV buyers",
+    "source": "Canary Media",
+    "source_url": "https://www.canarymedia.com",
+    "source_domain": "www.canarymedia.com",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYmJUQUh0bFl1UVE3T21ieDl5WDB4aTE5N09QbU1QSk1YVWJIUHgzVF9nRlhFT3dNMngxQjJ3MjJaQk5CNUV0MnhpM0pRNnNJOVg4Zm1VWC1SbE95MVRDRnNOWTBTa1ZQREJEdUdMRFkxZUZmNEJmNjVQVmNQN3dvT19vN1JlenhTbXc?oc=5",
+    "published": "2026-07-27T07:30:00+00:00",
+    "published_display": "Jul 27, 2026",
+    "query": "Newsom California",
+    "image": "https://img.canarymedia.com/content/uploads/Plyug-in-Auto-Supercenter-California_GettyImages-2269134483.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=8aac6672d7c38218a93506c29e388999",
+    "real_url": "https://www.canarymedia.com/articles/electric-vehicles/california-rebate-ev-buyers",
     "bias": "?",
     "topic": "General",
     "region": "US"
