@@ -1,5 +1,21 @@
 [
   {
+    "id": "3f4eb2d77906",
+    "title": "Gavin Newsom Slams Trump Over Rising Gas Prices, Accuses GM of Helping \u2018Gut\u2019 California\u2019s Emissions Standards",
+    "source": "Benzinga",
+    "source_url": "https://www.benzinga.com",
+    "source_domain": "www.benzinga.com",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNODExRVRmbWVfLVFYSkZNa3NWald1MUwxOE90V1BYajV1cFBXV1FDeG9PdzUtcnRhU0l3NnpxdTBvZkpxZkkzZ044UDFPRE8waklaSUFMM1hlUHdRZmxLYW1QTzNDS3N1UDBrRHZYQTZUdDVzRU1KTzMzeVpDZFpHenU5dFJPUFlRQWFYbHJBYk42WkVhWGk0b0Q5RFNtVUE0OFYxOUZmWEp5djVCQXJPSjJXeDBsRTdBYXByR2dUUnc4MHFyaGxtUEN3?oc=5",
+    "published": "2026-07-28T05:36:33+00:00",
+    "published_display": "Jul 28, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/28/President-Donald-Trump-pauses-as-he-spea.jpg",
+    "real_url": "https://www.benzinga.com/news/politics/26/07/60714909/gavin-newsom-trump-rising-gas-prices-gm-helping-to-gut-californias-emissions",
+    "bias": "?",
+    "topic": "Immigration",
+    "region": "US"
+  },
+  {
     "id": "e1c370339098",
     "title": "Exclusive | Dark truth about Gavin Newsom\u2019s $2.6B flagship housing splurge",
     "source": "New York Post",
@@ -29,6 +45,22 @@
     "real_url": "https://www.thedailybeast.com/newsom-trolls-trump-with-his-own-healthcare-promise-from-9-years-ago/",
     "bias": "L",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "002600544687",
+    "title": "Newsom Revives Trump\u2019s 9-Year-Old Healthcare Promise",
+    "source": "Yahoo",
+    "source_url": "https://www.yahoo.com",
+    "source_domain": "www.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU2UyWUp0ZFpIS2laMHRoSDdNWlhWd1pjNEpITXcyRjg1OUFscXFTQ25wSFF2RUNJMFhXblJhMEZRTXdWc3NXQ296Nm5FS0hnTEJrMXpEazRJa1pEcGw5Y2NTR0lvZ3BGT3djekl3YjQwU2hONTlVcDVacTRJdW1oSnBsZ2lQSE5hZkZtQzFYaw?oc=5",
+    "published": "2026-07-28T02:09:00+00:00",
+    "published_display": "Jul 28, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://s.yimg.com/lo/mysterio/api/573f96537aae2827cd3644497bee2e1b61eb61b09d6be4ec23d49a91fadf8e52/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthedailybeast.com%2F63b807f62ce8a206e3a6171bc2c34a9b",
+    "real_url": "https://www.yahoo.com/news/politics/articles/newsom-revives-trump-9-old-020904173.html",
+    "bias": "C",
+    "topic": "Healthcare",
     "region": "US"
   },
   {
