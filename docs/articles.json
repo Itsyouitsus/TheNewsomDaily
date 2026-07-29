@@ -1,5 +1,21 @@
 [
   {
+    "id": "c200056f15d5",
+    "title": "Ticketing bills look for their big break",
+    "source": "Politico",
+    "source_url": "https://www.politico.com",
+    "source_domain": "www.politico.com",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWlZsTW8tSjBUcEZmQ2E5VEhBNXhwZWFrZ1hOMzhyMXVfOFhRZnRWSmlxWE1uY0hCNDBaR1MtME5pRk9takk3MWcyaUJlQ0dYMnBPZWNLaTUwTU5GMVp6WnJfU3h2bUdyV2NPV04wbFVCbkNJalFKNGN2bFFrTTZuQjZYcWdXWTF1ZEw5cjZmb3pHRzc2aGFRMFMwRWRlZmJvT1VEaW5pZjBOQQ?oc=5",
+    "published": "2026-07-29T20:44:13+00:00",
+    "published_display": "Jul 29, 2026",
+    "query": "Newsom Democrat",
+    "image": "",
+    "real_url": "https://www.politico.com/newsletters/california-playbook-pm/2026/07/29/california-ticketing-bills-01015569",
+    "bias": "LL",
+    "topic": "Domestic",
+    "region": "US"
+  },
+  {
     "id": "42bebb4303bf",
     "title": "DHS testimony confirms raid of Newsom press conference was \u2018political,\u2019 \u2018a stunt\u2019",
     "source": "MS NOW",
@@ -109,6 +125,22 @@
     "real_url": "https://www.mercurynews.com/2026/07/29/former-gavin-newsom-aide-says-his-memoir-minimizes-their-monthslong-affair/",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "fb8b39cbc66c",
+    "title": "Newsom\u2019s Affair, Revisited: New Details, Conflicting Accounts, and 2028 Fallout",
+    "source": "RedState",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://redstate.com/jenvanlaar/2026/07/29/ruby-rippey-gavin-newsom-affair-2028-fallout-n2204871",
+    "published": "2026-07-29T15:32:00-04:00",
+    "published_display": "Jul 29, 2026",
+    "query": "direct_feed",
+    "image": "https://media.townhall.com/cdn/hodl/rs/images/up/2026/210/314c7315-8319-451f-beb5-1d9195eff839-650x0.jpg",
+    "real_url": "https://redstate.com/jenvanlaar/2026/07/29/ruby-rippey-gavin-newsom-affair-2028-fallout-n2204871",
+    "bias": "R",
+    "topic": "2028 Race",
     "region": "US"
   },
   {
@@ -16445,6 +16477,22 @@
     "real_url": "https://redstate.com/ben-smith/2026/07/08/newsoms-california-has-a-welfare-fraud-problem-n2204101",
     "bias": "R",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "c96cd7236338",
+    "title": "Lights, camera, action! First year of California\u2019s expanded Film &amp; TV Tax Credit projected to bring $6.6 billion in economic impact - California Governor\u2019s Office of Business and Economic Development (.gov)",
+    "source": "California Governor\u2019s Office of Business and Economic Development (.gov)",
+    "source_url": "https://business.ca.gov",
+    "source_domain": "business.ca.gov",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSi0xSFZYeXhuazgzOUZJU3hKdmFGUVk3RExfWEc4bTJ2a0R5TXVHbTFIM2pNakk4WWxkTEprVlRHNkNpaUl0NWw2djZJZ2ZpXzJJWmdpOUxTUV9XQzNCRm12eHdNcF8yXzRYNkY2eUwxSmxBUGJNZnNHUVVpOGVTbEJFb2RmVklOVzRXNjNRUDJCVElMYk1WLUh0SEdlTXhPcEE2UjV1M1ppUDV1STZiOGNDVDVCeW9UcmZCY2x1N3pHRGlQNXJkM0FfR2VfTTFlRHpzOXI4NDVWQ1F2MUxKSS1zZw?oc=5",
+    "published": "2026-07-08T07:00:00+00:00",
+    "published_display": "Jul 08, 2026",
+    "query": "Newsom economy",
+    "image": "",
+    "real_url": "https://business.ca.gov/lights-camera-action-first-year-of-californias-expanded-film-tv-tax-credit-projected-to-bring-6-6-billion-in-economic-impact/",
+    "bias": "?",
+    "topic": "Economy",
     "region": "US"
   },
   {
