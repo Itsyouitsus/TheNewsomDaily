@@ -1,5 +1,21 @@
 [
   {
+    "id": "16547b160f71",
+    "title": "DHS agent admits Border Patrol at Newsom event was a political stunt, texts reveal",
+    "source": "The Independent",
+    "source_url": "https://www.independent.co.uk",
+    "source_domain": "www.independent.co.uk",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSlpiVmVRUlFjSGpDZG9PNVhmVXRKaXdTYzNjaWRSMHFDaTFIdGhiX1lxTlFqUHBwaWJMSFl6VzVudDJzYWFJVFNmb0VTRTBHWHZXeG1pMTNHTmlSbURKUXBZdXBPaHFTS0phdjd3NGZFNGRMTFJyTy1kMEg4dWFock50Uy0yVEkwQzdzTThVenlYTmxPcEw3Skd4TGR2UDlwZ1BmWGVfeDktUVYy?oc=5",
+    "published": "2026-07-30T16:26:00+00:00",
+    "published_display": "Jul 30, 2026",
+    "query": "Newsom immigration",
+    "image": "https://static.independent.co.uk/2025/08/14/20/26/GettyImages-2230164591.jpg?trim=108,0,108,0&width=1200&height=800&crop=1200:800",
+    "real_url": "https://www.independent.co.uk/news/world/americas/us-politics/gavin-newsom-border-patrol-stunt-b3024758.html",
+    "bias": "LL",
+    "topic": "Immigration",
+    "region": "Europe"
+  },
+  {
     "id": "b29db1959d19",
     "title": "Controversial show of force by ICE agents a &#x27;targeted stunt&#x27;: Newsom",
     "source": "KTVU",
@@ -154002,6 +154018,22 @@
     "query": "Newsom policy",
     "image": "",
     "real_url": "https://www.ppic.org/blog/video-gavin-newsoms-priorities/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "fc33ad1c060b",
+    "title": "Newsom&#x27;s girlfriend apologizes for remarks / She commented online about S.F. mayor&#x27;s affair with aide",
+    "source": "SFGATE",
+    "source_url": "https://www.sfgate.com",
+    "source_domain": "www.sfgate.com",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTmUxMGZFRy1DbHlkTGtVTzRKTXpiSmlMZms3TlpqYkkyemhnZlpnQmRvT085eXowR2Q1MmhyaU9pdzI3eDBWU0I4amZ6SkxvRE5MN1BIeGt2bW90c0o0WE41MVRjYzVyelhXcWtfaFZFVGdnQ05fbURvQTJpU3pKa045MGxkaVN5VHljT1ROQkhBRFYxd0plYUNR?oc=5",
+    "published": "2007-03-13T07:00:00+00:00",
+    "published_display": "Mar 13, 2007",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.sfgate.com/news/article/Newsom-s-girlfriend-apologizes-for-remarks-She-2610911.php",
     "bias": "?",
     "topic": "General",
     "region": "US"
