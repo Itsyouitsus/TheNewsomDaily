@@ -1,5 +1,21 @@
 [
   {
+    "id": "5216f39ff9a1",
+    "title": "Gavin Newsom has been earning up to $2 million per year since 2022, records show",
+    "source": "Fortune",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://fortune.com/2026/08/01/newsom-tax-returns-doj-investigation-2028/",
+    "published": "2026-08-01T12:31:16+00:00",
+    "published_display": "Aug 01, 2026",
+    "query": "direct_feed",
+    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26195721282666-e1785587421142.jpg?resize=1200,600",
+    "real_url": "https://fortune.com/2026/08/01/newsom-tax-returns-doj-investigation-2028/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "bf5869e643a8",
     "title": "Newsom boasts of California\u2019s upcoming minimum wage increase, criticizes Trump for ignoring workers",
     "source": "Los Angeles Times",
@@ -172,6 +188,22 @@
     "image": "",
     "real_url": "https://www.sacbee.com/news/local/article316731524.html",
     "bias": "?",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
+    "id": "26755936e24d",
+    "title": "Newsom reveals four years\u2019 worth of taxes as he moves closer to possible run in 2028",
+    "source": "AOL News",
+    "source_url": "https://www.aol.com",
+    "source_domain": "www.aol.com",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTUJzaWw5aFg0TTFxejRFc3lHTGFyQXNKZHczNHpFclJXam83NDJUeklkemc5M3FFX2ZMUzBLQXgwenFSXzVaYmFVa0Q5TEtEaHFncDV4WVdXY2ZzREpKcVhBNnZ6Ym43Z1BzRndkeml6TUROdk9XNHM2V3ZpbVNlcg?oc=5",
+    "published": "2026-07-31T23:50:02+00:00",
+    "published_display": "Jul 31, 2026",
+    "query": "Newsom Democrat",
+    "image": "https://hermes.media.static.aol.com/media/2026/08/01/2c5856b0-65b0-34f1-84a3-8480a0c18b1c/7425a367-8d64-4c15-b28c-3d7615b79d13.jpg",
+    "real_url": "https://www.aol.com/articles/gavin-newsom-reveals-four-years-222434000.html",
+    "bias": "C",
     "topic": "Economy",
     "region": "US"
   },
