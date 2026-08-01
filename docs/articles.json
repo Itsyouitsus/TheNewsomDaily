@@ -1,5 +1,37 @@
 [
   {
+    "id": "1a34c568a89e",
+    "title": "Newsom and his wife release four years of tax returns",
+    "source": "World Magazine",
+    "source_url": "https://wng.org",
+    "source_domain": "wng.org",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUFZTQXlySEdpUFRDSzRULS1mTHpxaDZVWlY2dThCMWx2U0VuYjdDdmFVM0c4Sk9ieUEwckZNVmRONGtWTktkTHp6ejlBd3psWGRUWW9YSUxUNG9haGNQb3NjNTJUZG1wYkp1Ty1Sb0NNYWdqRllEdS1PT0NtdFUwWWtsUkpPbmZYR1B2NE90bm5Wb2xvSjF4ZTJYM2xqLVZ3Ukc3UEdn?oc=5",
+    "published": "2026-07-31T23:20:00+00:00",
+    "published_display": "Jul 31, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://wng.org/sift/newsom-familys-tax-returns-show-written-off-armani-multi-million-income-1785534566",
+    "bias": "R",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
+    "id": "00dce05e8bf6",
+    "title": "Gavin Newsom reveals four years\u2019 worth of taxes as he moves closer to possible run in 2028",
+    "source": "The Independent",
+    "source_url": "https://www.independent.co.uk",
+    "source_domain": "www.independent.co.uk",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmNfYnJXaEQ4RUp3S2JTM3p3Q3N4by14M0dic2xocnNlZE5Gb0RZWGVOejNlcm9KdWI0WkhLb2dPOXh5MU1rQUZrcXZ0QnNjQVFjNUtDLUpGLWxIeTI0SDdRTE5oaFh3QjJwZ1NUenlMYm1pblZ0enBtb1E2SWV3MnRTWVA2d2hIZWlXaTRVa2tObXBNeHdveHJjdXoxYUw0eHZEeHBNdzZQbjV0aDlsT3hUOV9HdTA?oc=5",
+    "published": "2026-07-31T22:24:00+00:00",
+    "published_display": "Jul 31, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://static.independent.co.uk/2026/07/31/20/2245090461..?trim=98,0,98,0&width=1200&height=800&crop=1200:800",
+    "real_url": "https://www.independent.co.uk/news/world/americas/us-politics/gavin-newsom-release-taxes-run-president-b3025624.html",
+    "bias": "LL",
+    "topic": "Economy",
+    "region": "Europe"
+  },
+  {
     "id": "f55b98448fb3",
     "title": "Gavin Newsom releases four years of tax returns amid federal probe",
     "source": "Diya TV",
@@ -13,6 +45,22 @@
     "real_url": "https://diyatvusa.com/gavin-newsom-releases-four-years-of-tax-returns-amid-federal-probe/",
     "bias": "?",
     "topic": "Economy",
+    "region": "US"
+  },
+  {
+    "id": "f6127fc7c90f",
+    "title": "California\u2019s automatic minimum wage hikes hurt \u2018affordability\u2019",
+    "source": "New York Post",
+    "source_url": "https://nypost.com",
+    "source_domain": "nypost.com",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN0x5Z3YyM2lGTjRubkw0VE1uREc4dGZpOGFyUHJXVnB3WG5qR0JreGNEdlEzTnN5SmxSc2QtcFppdzVMSzRqZ3pRMldCQlBSU08zRjNueG5iSkphdEJqRU9XdTFib3l0UjZhenAwbnFRcUp5LUFXZVljazJUd1BZeVA5V3NOQTVOWmVJaVktMU9nZF9JVDBBaDNVd3JTRk0?oc=5",
+    "published": "2026-07-31T21:40:00+00:00",
+    "published_display": "Jul 31, 2026",
+    "query": "Newsom California",
+    "image": "",
+    "real_url": "https://nypost.com/2026/07/31/opinion/californias-automatic-minimum-wage-hikes-hurt-affordability/",
+    "bias": "LR",
+    "topic": "General",
     "region": "US"
   },
   {
