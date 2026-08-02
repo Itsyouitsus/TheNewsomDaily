@@ -1,5 +1,21 @@
 [
   {
+    "id": "98f15c050032",
+    "title": "Report: California High Speed Train Debacle Not Caused by Trump but by State Missing Grant Deadlines",
+    "source": "Breitbart News",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.breitbart.com/economy/2026/08/02/report-ca-high-speed-train-debacle-and-funding-cut-not-caused-by-trump-but-by-state-missing-grant-deadlines/",
+    "published": "2026-08-02T18:33:20+00:00",
+    "published_display": "Aug 02, 2026",
+    "query": "direct_feed",
+    "image": "https://media.breitbart.com/media/2026/08/AP26195825505456-640x335.jpg",
+    "real_url": "https://www.breitbart.com/economy/2026/08/02/report-ca-high-speed-train-debacle-and-funding-cut-not-caused-by-trump-but-by-state-missing-grant-deadlines/",
+    "bias": "R",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "d1e23fc2fce6",
     "title": "Newsom reportedly pushes for settlement in Paramount-Warner Bros. merger suit",
     "source": "Northeast Times",
@@ -32,6 +48,22 @@
     "region": "US"
   },
   {
+    "id": "e6e362a3cb07",
+    "title": "Pete Buttigieg, AOC and Jon Ossoff poll ahead of Gavin Newsom and Kamala Harris for White House run",
+    "source": "New York Post",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://nypost.com/2026/08/02/us-news/pete-buttigieg-aoc-jon-ossoff-poll-ahead-of-california-dems-for-white-house-run/",
+    "published": "2026-08-02T15:59:56-04:00",
+    "published_display": "Aug 02, 2026",
+    "query": "direct_feed",
+    "image": "",
+    "real_url": "https://nypost.com/2026/08/02/us-news/pete-buttigieg-aoc-jon-ossoff-poll-ahead-of-california-dems-for-white-house-run/",
+    "bias": "LR",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "c08149f2c0ef",
     "title": "Why Congressman Vince Fong is urging the Trump administration to reject a health tax in California",
     "source": "KCRA",
@@ -60,6 +92,22 @@
     "image": "https://kubrick.htvapps.com/vidthumb/ed734176-f000-4f7d-9857-97853c09d28e/f3bc654a-33f7-41ee-bbff-300162e45d70.jpg?crop=1xw%3A1.0xh%3Bcenter%2Ctop&resize=1200%3A*",
     "real_url": "https://www.kcra.com/article/experts-say-newsoms-tax-returns-dont-show-full-picture-of-his-wealth-ca-politics-360/73322358",
     "bias": "?",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
+    "id": "e3edf1c6fbb6",
+    "title": "California Democrats defy Gavin Newsom and Xavier Becerra as they vote to back billionaires tax",
+    "source": "New York Post",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://nypost.com/2026/08/02/us-news/california-dems-defy-gavin-newsom-xavier-becerra-on-billionaires-tax/",
+    "published": "2026-08-02T14:54:54-04:00",
+    "published_display": "Aug 02, 2026",
+    "query": "direct_feed",
+    "image": "",
+    "real_url": "https://nypost.com/2026/08/02/us-news/california-dems-defy-gavin-newsom-xavier-becerra-on-billionaires-tax/",
+    "bias": "LR",
     "topic": "Economy",
     "region": "US"
   },
