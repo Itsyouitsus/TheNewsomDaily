@@ -1,5 +1,37 @@
 [
   {
+    "id": "6941e6bcf3c4",
+    "title": "New California law expands DNA tools for missing persons investigations",
+    "source": "Fox News",
+    "source_url": "https://www.foxnews.com",
+    "source_domain": "www.foxnews.com",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VU21NQllBTkhNdEQzSUFGVnF3ZksxajR4RzFiWmlMT2tROW1zUlNLQXJvMVBKUlRjVk9USk9mN290bVlmS000Ui11WHFkRFQ1d2RJMTdtTEhIX25obHhicGpjbkd4Qld1OGQ4bTBYTWRPVlVqcGfSAXtBVV95cUxPZVBDclAwbjhmN3JwTDEyQkpCYk41Y0w1eUwtUktzeXdoMEFhQmpiaFlkalBqWHF2ejZ6S3hIam1fenBLajg5VWZSRExGOEdSMUs1ZFk3ZFlXdEpOWHFuam5qRVpUUlZLZjlyQXFyX0FwWkotdHlIWXdTT1E?oc=5",
+    "published": "2026-08-03T07:48:10+00:00",
+    "published_display": "Aug 03, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/newsom-tarriff-event-gettyimages-2210604711.jpg",
+    "real_url": "https://www.foxnews.com/politics/california-missing-persons-dna-law",
+    "bias": "R",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "f6f28a061e25",
+    "title": "Hunter Biden Says Trump Is Making &#x27;Big Oil&#x27; Great Again",
+    "source": "Benzinga",
+    "source_url": "https://www.benzinga.com",
+    "source_domain": "www.benzinga.com",
+    "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxORzc1YjhwY0g3bm1MbHhuMlZxR0pkZldvY3k0Sm5QSmpCYlQ4bnpKeFJGS1FlbjZ1c2lDWEdNTDVIRkpaRVB4bm13S1RGQzJzSkttN01ObmQ3aEdsNHNJUTRvU21aaC0wVW5DLWprTXpuRFhHMGR0bW94ZGNLTkZ3S1F0c2NEeTBod20yekdlcDNjSmhudFdqdDV4Q1JsWElXSEk3R0J6QnBBdnEzSEpfdHhvVjU2UmI1aWRtbXhlMUZ5eldJd2h5M2Fhc3JzQVNhRExGUGpzUkxBMzdFYnFCc2RsUHpjdEkzRHZ4dEJqdXN4dTVyajdsWTJoWjA4NmNFam9VRkpmcHZoZDdtZHllZ25IRVVpU3JYYUE?oc=5",
+    "published": "2026-08-03T04:39:00+00:00",
+    "published_display": "Aug 03, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/03/President-Donald-Trump-waits-outside-of-.jpg",
+    "real_url": "https://www.benzinga.com/news/politics/26/08/60863124/hunter-biden-says-trump-is-making-big-oil-great-again-as-chevron-exxon-mobil-profits-soar-gavin-newsom-says-cvx-is-fleecing-californians",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "ca77e4898096",
     "title": "California Democratic Party Breaks With Newsom, Endorses Billionaire Tax",
     "source": "AOL News",
@@ -126685,6 +126717,22 @@
     "real_url": "https://www.silive.com/politics/2026/03/newsom-roasted-for-blaming-trumps-iran-war-for-this-chronic-california-problem.html",
     "bias": "?",
     "topic": "Iran",
+    "region": "US"
+  },
+  {
+    "id": "912a80eecd0f",
+    "title": "Discussing his dyslexia, Newsom steps into K\u201312 spotlight",
+    "source": "Times of San Diego",
+    "source_url": "https://timesofsandiego.com",
+    "source_domain": "timesofsandiego.com",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlVSSll4bE5idzIzdUhTcktXNTNpTFJYdnB1aEJod1B2bDdqYll0aWZzUHpVTDJkX0pkS2x5LW1xWXpwN1NKX3REQWZ3ZVU3VlhIZGRmVG9vbWhURHlVT21Oc2Y0WGdSZDVMbjdiekNnaU9hSTlRUUZBR2hOd3hKVTRtWnMwa1o0QXJqOUxLX2tOVEM5cWpINVJVY2VUNG12LUVMcGc2M3RCdw?oc=5",
+    "published": "2026-03-12T07:00:00+00:00",
+    "published_display": "Mar 12, 2026",
+    "query": "Gavin Newsom speech",
+    "image": "https://i0.wp.com/timesofsandiego.com/wp-content/uploads/2025/09/Newsom-4-1200x800-1.jpg?fit=1200%2C800&ssl=1",
+    "real_url": "https://timesofsandiego.com/education/2026/03/12/discussing-his-dyslexia-newsom-steps-into-k-12-spotlight/",
+    "bias": "LL",
+    "topic": "General",
     "region": "US"
   },
   {
