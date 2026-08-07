@@ -32,6 +32,22 @@
     "region": "US"
   },
   {
+    "id": "ac380a4b5b9d",
+    "title": "A closer look: Gov. Gavin Newsom as a progressive candidate",
+    "source": "NBC Bay Area",
+    "source_url": "https://www.nbcbayarea.com",
+    "source_domain": "www.nbcbayarea.com",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0UnVhR3JNUmJCNmtjR3ZDcDVvNVVfbnEtSjd0ZFJ4Y0V3WGF0WUxKVXlCelMwVUo0SEU0NHRPcUhEWlk3c3lyZDVCUzRUekNsVEZPQjAtQnNCeVYzeGp6clBVeEhPemJfcVRZNEY1b1lCR1MzYTZVMdIBgAFBVV95cUxOdDktN2JkNE1MczhnMTFNaGVsTWNfWlNmZ3laTXlEV1QwZm9hQWpodjV5VjB2dU9SNXlMeDNrYUF6MVBVS1luUmZNTFlBUENZeGNLNzVTeEhJaDZZdHdYZ0t1UUFPWFdEeDZ0dVNUZzZjam1aU2tHYk11eVEta054TA?oc=5",
+    "published": "2026-08-07T04:08:46+00:00",
+    "published_display": "Aug 07, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.nbcbayarea.com/video/news/local/political-expect/4125001/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "6ed6bc54b8ec",
     "title": "Newsom signs bill to force Fresno Co. transportation tax on 2026 ballot, teeing up legal fight with County Supervisors",
     "source": "The San Joaquin Valley Sun",
@@ -427,6 +443,22 @@
     "query": "Newsom California",
     "image": "https://static.politico.com/dims4/default/55a1666/2147483647/resize/1200/quality/100/?url=https://static.politico.com/c5/2d/709294f04c0d8050091e60db385c/unlimitedusage-calilegislatures-assembly-040.jpg",
     "real_url": "https://www.eenews.net/articles/california-assembly-dems-form-working-group-on-wildfire-liability/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "6e718f49c5f4",
+    "title": "United Automobile, Aerospace and Agricultural Implement Workers of America",
+    "source": "UAW",
+    "source_url": "https://uaw.org",
+    "source_domain": "uaw.org",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOamcyLXRKRzlJMU8tSXdfVWNJbjVHbFcxV254dXFrQlFMVGpwejJrTmcyajhBS0Y4VW9GWC1LT212V0VYaWkxNFVnYUVBdUlScE5KcUR4TzYzVzdCb2k0TTFkZ2V1eDJRTTFEc1FYOXhYeWcxZHp1c3dHVUJnemg3R013enViZ1Q0aTV3a2hMNHczRkE?oc=5",
+    "published": "2026-08-06T16:46:22+00:00",
+    "published_display": "Aug 06, 2026",
+    "query": "Newsom California",
+    "image": "https://uaw.org/wp-content/uploads/2024/08/uaw-people-1.jpg",
+    "real_url": "https://uaw.org/california-state-scientists-picket-for-raises-end-to-newsoms-rto-mandate/",
     "bias": "?",
     "topic": "General",
     "region": "US"
