@@ -1,5 +1,37 @@
 [
   {
+    "id": "c0b8abd569d9",
+    "title": "GM takes its EVs to Sacramento",
+    "source": "Politico",
+    "source_url": "https://www.politico.com",
+    "source_domain": "www.politico.com",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRnBvSlhFNDJORmhnSEZRRXFyUW1JdlNIaEd3cjd3MWRKSG9EbDVBMkRfVVJjNzR3LU03LTczMFdFYWZ2WVpBREIxbHFnX2s1cV95VTBrblFCeGo5bFVLUUdWUjhhLXM2cFBoRkVFTmxfM2pNZ0loUTJhWldhaU1fWkR5cmk4YXRvWHJlMUd3UEg3Smk2dWJNV0lrOWdTUzhiX2xsYkE4VzRMRUE?oc=5",
+    "published": "2026-08-07T23:31:08+00:00",
+    "published_display": "Aug 07, 2026",
+    "query": "Newsom California",
+    "image": "",
+    "real_url": "https://www.politico.com/newsletters/california-currents/2026/08/07/gm-takes-its-evs-to-sacramento-01029932",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "801e1171ca0d",
+    "title": "What Abdul El-Sayed\u2019s Michigan Primary Win Means for California Democrats",
+    "source": "KQED",
+    "source_url": "https://www.kqed.org",
+    "source_domain": "www.kqed.org",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTDlzdGNkbTUwZjIwUVFwOVFPLUlhUnM5RGpZMmpIRkVrT3ZWY19vdkljdFhXbDZIa0dFdjlmT1h6c3VZcTNleFdNWTR6aThOeU1FNHI2aFRaQ293WXNuZGZBWGw2NlZLMjNaVU9qUUxFU2s0bkJqZFh5LVJYV0lVM3IydTl5cVFBUlNqSTFpNVlhbUo3TnZOcDZvWV9YN3gtSGxpbEFQSmVMcWM?oc=5",
+    "published": "2026-08-07T23:05:00+00:00",
+    "published_display": "Aug 07, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/08/GettyImages-2288364439-2000x1334.jpg",
+    "real_url": "https://www.kqed.org/news/12094274/what-abdul-el-sayeds-michigan-primary-win-means-for-california-democrats",
+    "bias": "?",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "8c77a210c92b",
     "title": "California Gov. Newsom unveils EV rebates, doubling down on clean energy push (Video)",
     "source": "Sacramento Bee",
@@ -125,6 +157,22 @@
     "real_url": "https://www.abc10.com/article/news/local/wildfire/gann-fire-emergency-triggers-california-price-gouging-protections-attorney-general-warns/103-5593e1ba-413b-430e-9b4b-2766f2771d91",
     "bias": "?",
     "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "caeac78a1803",
+    "title": "California surpasses 21 GW of energy storage connected to grid",
+    "source": "Solar Power World",
+    "source_url": "https://www.solarpowerworldonline.com",
+    "source_domain": "www.solarpowerworldonline.com",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM1hxMVZwX3BranhvdlJXNFh2em0wdFNDQWZtcUtWUWxDS0RXbU9sNXdTNGNtWUNoMlVoN3dqQWgtMlJlbWh2NVhXUEpQdDdKTVcyWC1rMWVuc3hIQTB4dUNTcWpXVkI3cHRpVUJoLTI1TmJHYzlsOGJfVFJIaTZQbXR5eWRCb3RhZmw3cFpMSDN5eFNaOW9IOEhZd2R0NmE3TmJmRHJiVUVEYWxJUGc?oc=5",
+    "published": "2026-08-07T20:04:22+00:00",
+    "published_display": "Aug 07, 2026",
+    "query": "Newsom California",
+    "image": "https://www.solarpowerworldonline.com/wp-content/uploads/2026/04/Monterey-County-SolarStorage-Installation-tesla-battery.jpg",
+    "real_url": "https://www.solarpowerworldonline.com/2026/08/california-surpasses-21-gw-of-energy-storage-connected-to-grid/",
+    "bias": "?",
+    "topic": "General",
     "region": "US"
   },
   {
