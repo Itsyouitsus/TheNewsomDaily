@@ -1,5 +1,21 @@
 [
   {
+    "id": "26f36e52e0ef",
+    "title": "Gov. Newsom declares state of emergency due to Gann Fire",
+    "source": "Ca.news.yahoo.com",
+    "source_url": "https://ca.news.yahoo.com",
+    "source_domain": "ca.news.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWVVGZ2xnWTZMRVJnSWY1RVZPMDJqcHRXRE5LdFo3TEdvUkpGYXZuVjFfZFVkSFdTcDlKaFNod3VmRl9HZFZoU3puQldWMjY4QWFmd0doQ3NUdEdmX2lJSlNIVTY1eEloZVA3MC1wQ0MtTGI0R1FHUzVLRjhOX2FGSWFn?oc=5",
+    "published": "2026-08-07T04:18:00+00:00",
+    "published_display": "Aug 07, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://s.yimg.com/lo/mysterio/api/38116671c4e365835dd897d611cc0852b024ede1ad20311dbafc1e8744d025cf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.kcra.hearstnews.com%2F89f440978b6fdb0be9d36396541f1915",
+    "real_url": "https://ca.news.yahoo.com/gov-newsom-declares-state-emergency-041812191.html",
+    "bias": "C",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "6ed6bc54b8ec",
     "title": "Newsom signs bill to force Fresno Co. transportation tax on 2026 ballot, teeing up legal fight with County Supervisors",
     "source": "The San Joaquin Valley Sun",
@@ -45,6 +61,22 @@
     "real_url": "https://www.abc10.com/article/news/local/wildfire/newsom-declares-state-of-emergency-as-gann-fire-burns-more-than-10300-acres/103-d0a9579b-669e-4594-81af-71dd2a05043a",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "c9eb3aacc8f7",
+    "title": "Fresno-only tax measure won\u2019t be on ballot after Gavin Newsom saves county version",
+    "source": "Fresno Bee",
+    "source_url": "https://www.fresnobee.com",
+    "source_domain": "www.fresnobee.com",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWo3enRiY1lpajEzNmdxYkZBYmQ1UEVVZTB4emVNa29DcGRHWTdQS09XTGJSSkhPa2FHcjEyX1RheUtBamRnUXJ1cEhHMjFXd2N0X19idGQxemZ4S2ZQTENRVk96S3pGczV2ZGs5TFdtdjg0d0htQnJBX05HQms4M2RxQW5VQ3RnaVgzUlFDQWUzOFJ2bEtVYlgzc0jSAZwBQVVfeXFMT3ZFZ1hmeDZjMVRGSWFVZ1pvY0RKeVpxdTZ6RmVRZ3ROQmFaTGNvdFE1bUxpbk8zU2dTQURZUWswbURfMlRjTk5VaExJWWxLcllmLXVUVW9COUVpZHRWbFI3M0FtTUM2a0NRclBZSjl0a1p4VkNSUTZERW0zTG8yQnRMUmM4dWhDdFJMRlo4SHY0dkZjYU83NmVZY1RP?oc=5",
+    "published": "2026-08-07T01:06:18+00:00",
+    "published_display": "Aug 07, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.fresnobee.com/news/politics-government/election/local-election/article316794979.html",
+    "bias": "?",
+    "topic": "Economy",
     "region": "US"
   },
   {
