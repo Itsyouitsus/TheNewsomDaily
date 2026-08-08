@@ -16,6 +16,22 @@
     "region": "US"
   },
   {
+    "id": "0c8d0fa3b86c",
+    "title": "California launches $3,500 instant EV rebate for first-time buyers",
+    "source": "CBS News",
+    "source_url": "https://www.cbsnews.com",
+    "source_domain": "www.cbsnews.com",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXVad1BGSTBlM0gyLXJVTkhGUWFkNkI0ZlhxVjktdVM2R3QwLXBESlVKVXdsT2J1cUFyV1preVFFbjRobzlNQW9IYXU1QW9qaUk3VlZZM01RWTBCR3BJTGVQb3dMc0tpWVo0UFRlRzl3alhQR2JFR0xPQzBJMEl3OTRLcDlGUTI0QmpGV0NzeGtVekRkZjNEUzZvNFlkTmJYM2pvMEtrOHpsQQ?oc=5",
+    "published": "2026-08-08T01:26:00+00:00",
+    "published_display": "Aug 08, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/08/6b0868f0-dad2-49a7-a904-f6128019b48d/thumbnail/1200x630/3ba5be98d35030a5432eb89a26909bab/7d1fd32e2c7a29012a89d6749091f956.jpg",
+    "real_url": "https://www.cbsnews.com/sacramento/video/california-launches-3500-instant-ev-rebate-for-first-time-buyers/",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "6a1b5f393368",
     "title": "Gov. Newsom to campaign for Democrats in Michigan",
     "source": "KCRA",
@@ -61,6 +77,22 @@
     "real_url": "https://thebusinessjournal.com/fresno-files-backup-transportation-tax-measure-november-ballot/",
     "bias": "?",
     "topic": "Economy",
+    "region": "US"
+  },
+  {
+    "id": "35bd8546485f",
+    "title": "Newsom declares emergency for Gann Fire. Top Sacramento stories you need to know",
+    "source": "Sacramento Bee",
+    "source_url": "https://www.sacbee.com",
+    "source_domain": "www.sacbee.com",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80d1JyVWQ4Z2M4U0g4U0M0cGhLdlVlZmlDa0J1d3RUYktQamU2NGp3SHZXZGhXQ1Njd0NHejJodnZ6aDMzRldaelE2Y09qUEJwQ3QxUHlrRHJWbDhxUlo5dUdlNWMxdw?oc=5",
+    "published": "2026-08-08T00:20:05+00:00",
+    "published_display": "Aug 08, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.sacbee.com/news/local/article316808852.html",
+    "bias": "?",
+    "topic": "General",
     "region": "US"
   },
   {
@@ -1307,6 +1339,22 @@
     "query": "Gavin Newsom",
     "image": "https://fresnoland.org/wp-content/uploads/2024/11/DSC9841-scaled.jpg",
     "real_url": "https://fresnoland.org/2026/08/06/better-roads/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "0878f0af23eb",
+    "title": "Coalition Calls on CA Governor to Commute State\u2019s Remaining 578 Death Sentences",
+    "source": "Truthout",
+    "source_url": "https://truthout.org",
+    "source_domain": "truthout.org",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOHU0aHlzRzBJRGN4eXlrTTc0NndNbnlOS1BMeE50cGVNMXdjaG5mR084Si1SUkJzV20zN1NRNlFRQXQzVHJBa3RHel9TVlozbDF6WTB6Sm53U1FsTWhENnR0Z0xkUUtaSFlyVnEwMUJZUjBDa0JNd3Vndm1iWUlLWE5Zc2tnM2ZQTHlRUWxVMEZITkxXOUttaWswZm1yemFxZzRfd0ZYRDBoTk5HSVE?oc=5",
+    "published": "2026-08-06T18:19:58+00:00",
+    "published_display": "Aug 06, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://truthout.org/app/uploads/2026/08/GettyImages-2285913644-1536x1025.jpg",
+    "real_url": "https://truthout.org/articles/coalition-calls-on-ca-governor-to-commute-states-remaining-578-death-sentences/",
     "bias": "?",
     "topic": "General",
     "region": "US"
