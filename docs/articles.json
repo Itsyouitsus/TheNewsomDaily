@@ -368,6 +368,22 @@
     "region": "US"
   },
   {
+    "id": "0d201fa47c68",
+    "title": "Calmatters: California Democrats Defy Newsom, Back Billionaire Tax",
+    "source": "SFGATE",
+    "source_url": "https://www.sfgate.com",
+    "source_domain": "www.sfgate.com",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS1RLMTJaU2w5MGwwSks0Vk5mMVF3T3l5bmladURwam5OdGtlWXhhNlBsSkhVaUxVYXdwdXFPNG0xaVpQdEtiLWctUThYclJsbjNlQ1NZTUY2bDJHR0NuVS01aHdPYU9LYUFLLWR5UzFPaTc2blByaGI3UVJXdE11dGl6TW1tUjB2bGdpd0F5VHdxUTc5MHAzVlhRQldjcElvVmc?oc=5",
+    "published": "2026-08-07T22:36:55+00:00",
+    "published_display": "Aug 07, 2026",
+    "query": "Newsom California",
+    "image": "",
+    "real_url": "https://www.sfgate.com/news/bayarea/article/calmatters-california-democrats-defy-newsom-22379629.php",
+    "bias": "?",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
     "id": "8c77a210c92b",
     "title": "California Gov. Newsom unveils EV rebates, doubling down on clean energy push (Video)",
     "source": "Sacramento Bee",
@@ -1211,6 +1227,22 @@
     "query": "Gavin Newsom",
     "image": "https://s7d2.scene7.com/is/image/TWCNews/GettyImages-2279118631_crop",
     "real_url": "https://spectrumnews1.com/ca/la/inside-the-issues/2026/08/07/gov--newsom-heads-to-michigan-weekend-box-office-inside-the-issues",
+    "bias": "?",
+    "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "373a72142e25",
+    "title": "Inside the Issues: Newsom heads to Michigan to campaign for Democrats; weekend box office",
+    "source": "Spectrum News",
+    "source_url": "https://spectrumlocalnews.com",
+    "source_domain": "spectrumlocalnews.com",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTUpJNEZCODNyRm1VdGd1SElhQlVsNXRVaWxnVnFYcm11LXA1MUtuNDZRRWlmVVdValZkaUtROFVUWnV6WC11aVhxUmI1Qzl6RkNpUS1vcm1zT18wWlJ1bGZqMUViZjhoYWQ4V2REUW9Fc0NBWTR0Nl9BVVp1UG9xR0loN2FSR2o3N2cxcDdEcjNCM1FvRXVPdlZLWFFXb2pFR0U1eGZPQzJQRjNYUEQyR0hNczhNdEhBWDZfTHVXOEluN2F3bzJsdUZnbTRlaGtISFYtUlFn?oc=5",
+    "published": "2026-08-07T03:00:00+00:00",
+    "published_display": "Aug 07, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://s7d2.scene7.com/is/image/TWCNews/GettyImages-2279118631_crop",
+    "real_url": "https://spectrumlocalnews.com/ca/california/inside-the-issues/2026/08/07/gov--newsom-heads-to-michigan-weekend-box-office-inside-the-issues",
     "bias": "?",
     "topic": "Immigration",
     "region": "US"
@@ -8237,6 +8269,22 @@
     "real_url": "https://www.decaturdaily.com/opinion/columnists/tom-philp-the-billionaires-backing-california-forever-want-newsom-s-help-will-he/article_812b5b08-cdd0-58ac-ae78-c5825b35f710.html",
     "bias": "?",
     "topic": "Domestic",
+    "region": "US"
+  },
+  {
+    "id": "c940b21b5fff",
+    "title": "Voter guide to Proposition 40: Billionaire tax",
+    "source": "CalMatters",
+    "source_url": "https://calmatters.org",
+    "source_domain": "calmatters.org",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPczg1M3pQa2hRMkJuV2c3RUdGVndsbGNJbnAzNjRDVHpTbzYzNmEzcVUzanRQSDRTdk16b2pUTTdVcHR6T3hQekEzM1Y5anR5S2ozZ3daSmRlNWRvclBQYXlxd2liUlZnWFlYc05JQjN1WnI0YU9EUG5DcVNMVEo2dFU0NW5UekNzRnc?oc=5",
+    "published": "2026-07-29T03:06:00+00:00",
+    "published_display": "Jul 29, 2026",
+    "query": "Newsom California",
+    "image": "https://calmatters.org/wp-content/uploads/2026/06/props_featured_proposition_40-scaled.png",
+    "real_url": "https://calmatters.org/california-voter-guide-2026/proposition-40-billionaire-tax/",
+    "bias": "?",
+    "topic": "Economy",
     "region": "US"
   },
   {
