@@ -1,5 +1,21 @@
 [
   {
+    "id": "8820ef2d717e",
+    "title": "Newsom says he\u2019s always had \u2018insurgent\u2019 mindset",
+    "source": "The Hill",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://thehill.com/homenews/campaign/6020434-newsom-democrats-progressive-candidates-insurgent-mindset/",
+    "published": "2026-08-10T16:42:35+00:00",
+    "published_display": "Aug 10, 2026",
+    "query": "direct_feed",
+    "image": "",
+    "real_url": "https://thehill.com/homenews/campaign/6020434-newsom-democrats-progressive-candidates-insurgent-mindset/",
+    "bias": "C",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "d9edf7a46e0f",
     "title": "Governor Newsom announces new AI cyber defense program to protect California\u2019s critical infrastructure",
     "source": "California State Portal",
@@ -93,6 +109,22 @@
     "real_url": "https://www.aol.com/articles/kristi-noem-trolled-she-unveils-123200000.html",
     "bias": "C",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "f0c137e93a34",
+    "title": "Gavin Newsom&#x27;s &#x27;hidden climate tax&#x27; hitting Americans nationwide, lawmaker warns",
+    "source": "Fox News",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.foxnews.com/politics/gavin-newsom-hidden-climate-tax-hitting-americans-nationwide-lawmaker-warns",
+    "published": "2026-08-10T12:01:49-04:00",
+    "published_display": "Aug 10, 2026",
+    "query": "direct_feed",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/gavin-newsom-california-affair-fox-news-2.jpg",
+    "real_url": "https://www.foxnews.com/politics/gavin-newsom-hidden-climate-tax-hitting-americans-nationwide-lawmaker-warns",
+    "bias": "R",
+    "topic": "Economy",
     "region": "US"
   },
   {
