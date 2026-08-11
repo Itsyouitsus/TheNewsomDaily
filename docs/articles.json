@@ -1,5 +1,21 @@
 [
   {
+    "id": "ffaac97eb466",
+    "title": "Nine California television productions through state&#x27;s film and TV tax credit program",
+    "source": "CBS News",
+    "source_url": "https://www.cbsnews.com",
+    "source_domain": "www.cbsnews.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWhNeTU4MXVuNlZhSkhDaTFhb0g2SDBZUGlaVlFJTFZOclRtcVFXdDBjV1FQdk9UOXUweEk4UlBmODFGSGkzZlRKZXQzR05ZM3RXVzVtTGl3S2xuNm1INHZGZWZxbVVxS2FJWlZ0ZmtfYkpXQ2xpQlVpYlJVUHJKejRLYkRlemxORUFFenVZVndIX1NjOUNnRUxVaExCRFdEeU5DRGQtNUdzTWdSSTdGY2tB?oc=5",
+    "published": "2026-08-11T04:44:53+00:00",
+    "published_display": "Aug 11, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/14/378a9188-41a6-4f16-a6bd-bc717758918f/thumbnail/1200x630/faf86cb1eb619b26ae666edd88d31b2f/gettyimages-2258768242.jpg",
+    "real_url": "https://www.cbsnews.com/losangeles/news/california-film-and-television-tax-credit-program-governor-gavin-newsom/",
+    "bias": "LL",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
     "id": "a752ddace20d",
     "title": "California Governor Newsom announces rebate of $3,500 for new EV purchasers",
     "source": "Just The News",
@@ -267,6 +283,22 @@
     "query": "Gavin Newsom",
     "image": "https://calmatters.org/wp-content/uploads/2026/08/012924_EVFILE-KSM-26_KQED_CM_01.jpg",
     "real_url": "https://calmatters.org/economy/2026/08/california-ev-rebate-how-to-get/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "895ec72d55a4",
+    "title": "California Forever, Climate Among 5 Deals To Watch Amid Lawmaker Countdown Negotiations",
+    "source": "Patch",
+    "source_url": "https://patch.com",
+    "source_domain": "patch.com",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOWFiMDZPM0pxQ0hPa2hzRkdmSnpqU2pOUnI0aHViYldac25Gc19PTl9tLWdLM2J2RVZLdWJDai0ta0FlM1ZBemt5SWdPUTRHRGhZVTRFMlhBdUU2V0x6cTFxM1l6cDd3SmFaMHNXRXk5ZjNsZGNMNEdQcVFUamxiSEZVMTY4M2VMVlZsUGNlSlQwYUNjaktBM2VxckVTQW9JZ1d3a3FKY0hIN3JRaXdJ0gHWAUFVX3lxTE1fZE1LdlY0cXVxbHYyUUE5NmJQNE93OW1SakVYQVc2SzYtMVFxdlNCREpIY2hSUUJjS1FUandfeGx4ZWlwQkh6MDlkZ3F1Sl92eVo5UXFQeUlpTjI1eWttSUlvVW0xS2NJSnNfeWVSTzFrbWc4WmtMamczNEhxTTVtaFpBWENSR1RndWJXTEM3UkNFaEg0U1lVV0lEM0cxdldvdFM2MmNQSFBDVk4wcm1uYWRscnk4eUpVdnVCT2tZRmNZZWZlME9nWVl3aVIwMzU3V1dsd3c?oc=5",
+    "published": "2026-08-10T22:09:55+00:00",
+    "published_display": "Aug 10, 2026",
+    "query": "Newsom California",
+    "image": "https://patch.com/img/cdn20/users/23735253/20260810/060953/styles/patch_image/public/california-drought___10180844711.jpg",
+    "real_url": "https://patch.com/california/concord-ca/california-forever-climate-among-5-deals-watch-amid-lawmaker-countdown",
     "bias": "?",
     "topic": "General",
     "region": "US"
