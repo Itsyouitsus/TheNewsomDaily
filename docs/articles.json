@@ -1,5 +1,21 @@
 [
   {
+    "id": "ae9522f19657",
+    "title": "California\u2019s energy triumvirate takes the stage",
+    "source": "Politico",
+    "source_url": "https://www.politico.com",
+    "source_domain": "www.politico.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM2FtRk9EWlN3OU1zVC04TzhiMmFOSDctSGVIVENMT3dvdTA4WEthNGxVREZGWjV2V2Y2RUFrUE9CVkxTdjhDbUpQQkZTTmNfT1pYdUdJUWtOdjNKNm9MUlgwbk5BWW1qN21hOXE0RnA2UE51T3RkQy1zd0xjZDRBT0tQSE1rSmZnNlJPaVRQbVdkc1Q3dVo4cC00cW9id2x1czRIUVM4b1JPWWoySHc1UFFfeFJoZWhWcGt1THBZX1E?oc=5",
+    "published": "2026-08-11T23:30:00+00:00",
+    "published_display": "Aug 11, 2026",
+    "query": "Newsom California",
+    "image": "",
+    "real_url": "https://www.politico.com/newsletters/california-currents/2026/08/11/californias-energy-triumvirate-takes-the-stage-01034328",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "f2feb4613c6f",
     "title": "Nancy Pelosi talks 2026 midterms, potential Gavin Newsom 2028 presidential run",
     "source": "Sacramento Bee",
@@ -66,6 +82,22 @@
   {
     "id": "5c100519d47a",
     "title": "Big tent or three-ring circus? Here why AOC, Pete, Gavin and the others should think twice about 2028",
+    "source": "The Independent",
+    "source_url": "https://www.independent.co.uk",
+    "source_domain": "www.independent.co.uk",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVml6RVJ5ZHIyakxHWjlra0Zid2tOYk8zUkRBam1NUk5DSFJvTFVqSVNmNk5IMG1vdVBQWE5JWkdicGg2WUJhUXdPajhISV8zRGZNa1EzeXJqZXAzMkZjUjZHWHNjbTFSc0ExY2RsV0NEdFoya0NJS2ROWEluaWt4eGNfV2YyajA3ei11WC1iV0oyaFpwM0EwX05RUU9meFQzdzNpME5ZS0NCLWpReUc3M1JRUWwwOXFfRlVJTlFSbGxtRE0?oc=5",
+    "published": "2026-08-11T21:40:00+00:00",
+    "published_display": "Aug 11, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://static.independent.co.uk/2026/08/11/17/20/demscomp.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+    "real_url": "https://www.independent.co.uk/news/world/americas/us-politics/2028-democratic-presidential-aoc-newsom-buttigieg-b3031305.html",
+    "bias": "LL",
+    "topic": "Immigration",
+    "region": "Europe"
+  },
+  {
+    "id": "072a7946e146",
+    "title": "Big tent or three-ring circus? Here why AOC, Buttigieg, Newsom and the others should think twice about 2028",
     "source": "The Independent",
     "source_url": "https://www.independent.co.uk",
     "source_domain": "www.independent.co.uk",
