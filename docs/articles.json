@@ -1,5 +1,21 @@
 [
   {
+    "id": "c782bb161bb6",
+    "title": "Ocasio-Cortez surpasses Newsom as 2028 Dem presidential favorite on Polymarket",
+    "source": "The Hill",
+    "source_url": "https://thehill.com",
+    "source_domain": "thehill.com",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYnBHWUZOS0U4dkhpQzUxUlF0R09VZm9yT28wM2g0OEt1aXZLa2xwcEVWOWs0TlNpUzZoZ1dDRF9nVlBKLXoxc1VxbXpnOWRQNWxoR0JRQk5oMHN4d2h2MUZaRE9Ma214RU8xalF0a0w5djJ2b3Y1UlhGWTdaaDFWbkVWaFJGUV9ETS1CaU5Fc3BLaTBQUHc3ZVU2d3g3UEV2NUZiT2s1bkI4bjZFNXFnWEljZ1dCYVU5UmNVUXRZVXpBZEZiRWdjOUczU0R6c2fSAdQBQVVfeXFMTVJ5R3ZPRW5wbjQzQ1JlNmZvZm9IZHRvOW96dVJzemVBRFdycUZkaW9oSXJfVzludEtoMzFpd2xYWDg1c1dpT3pManFkWEFiampDUS16WEp4bmJkTzlEVk5pVjVZY3Rua2tLUUVTaUtIU3ZwcG5YUWY3VWFBOFNDQ3daRlhhZEZTMWdHN09JaEU3bVFQR1JidmxKTnlNWG1ZWWNuVGJnYzBnajdkTW5nXy1FM2FDaHFoTGhTYlUzeF9fMl9iOUoxczdJV3F5eFFEeVdkeXg?oc=5",
+    "published": "2026-08-12T19:29:00+00:00",
+    "published_display": "Aug 12, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://thehill.com/homenews/campaign/6025577-ocasio-cortez-newsom-ossoff-2028-democratic-presidential-nominee-polymarket-predictions/",
+    "bias": "C",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "8b3d3fe27d45",
     "title": "AOC surpasses Newsom as 2028 Dem presidential favorite on Polymarket",
     "source": "NewsNation",
@@ -64,6 +80,22 @@
     "region": "US"
   },
   {
+    "id": "8e1c44baf6ce",
+    "title": "Nolte: Democrat CA Gov. Nominee Xavier Becerra Blinks, Calls for Paramount-Warner Settlement",
+    "source": "Breitbart News",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.breitbart.com/entertainment/2026/08/12/nolte-democrat-ca-gov-nominee-xavier-becerra-blinks-calls-for-paramount-warner-settlement/",
+    "published": "2026-08-12T15:52:16+00:00",
+    "published_display": "Aug 12, 2026",
+    "query": "direct_feed",
+    "image": "https://media.breitbart.com/media/2026/08/AP26154200256338-640x335.png",
+    "real_url": "https://www.breitbart.com/entertainment/2026/08/12/nolte-democrat-ca-gov-nominee-xavier-becerra-blinks-calls-for-paramount-warner-settlement/",
+    "bias": "R",
+    "topic": "Military",
+    "region": "US"
+  },
+  {
     "id": "3ad1b2773c9e",
     "title": "What Is Gavin Newsom Hiding?",
     "source": "City Journal",
@@ -76,6 +108,22 @@
     "image": "https://media4.manhattan-institute.org/wp-content/uploads/sites/5/Newsom-California-transparency-public-records-GettyImages-2242675738.jpg",
     "real_url": "https://www.city-journal.org/article/newsom-california-transparency-public-records",
     "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "ad5cf11cb0ab",
+    "title": "Gavin Newsom Gets Rude Awakening During Swing-State Visit",
+    "source": "The Daily Wire",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.dailywire.com/news/gavin-newsom-gets-rude-awakening-during-swing-state-visit",
+    "published": "2026-08-12T14:24:33+00:00",
+    "published_display": "Aug 12, 2026",
+    "query": "direct_feed",
+    "image": "https://dw-wp-production.imgix.net/2026/08/GettyImages-2288652604.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+    "real_url": "https://www.dailywire.com/news/gavin-newsom-gets-rude-awakening-during-swing-state-visit",
+    "bias": "R",
     "topic": "General",
     "region": "US"
   },
@@ -461,6 +509,22 @@
     "real_url": "https://www.sacbee.com/news/politics-government/capitol-alert/article316844609.html",
     "bias": "?",
     "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "ecf5f551197e",
+    "title": "California high-speed rail could run out of money by December 2027, inspector general warns \u2014 as authority cuts train order in half",
+    "source": "CBS News",
+    "source_url": "https://www.cbsnews.com",
+    "source_domain": "www.cbsnews.com",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQckkzT3Vua3NVaGdTQ2ExcUhRNUZtc3dTeFp0OG1SNk10dzRiTThGMkwzUjh2Y3VsOHM2VldPbnduV2FpMmVjMDQzeVpEbWw1WTJ5VkhVVEo3RFF1eXNoNVc3WGcwekZBdWVPVTBGbEZhTHFwRFg1aXc5SHRwMGFzQkUyRURBd1BrbU5sR2RXbm5lN1NhM3dBcXRQc0c?oc=5",
+    "published": "2026-08-11T22:08:00+00:00",
+    "published_display": "Aug 11, 2026",
+    "query": "Newsom California",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/06/04/56fcbbc0-49fd-4459-8c8c-b5422f69ec46/thumbnail/1200x630/d1ae61978b849570a4ed1eb6f2b53fc2/california-high-speed-rail-train-rendering.jpg",
+    "real_url": "https://www.cbsnews.com/news/california-high-speed-rail-run-out-of-money-2027-inspector-general/",
+    "bias": "LL",
+    "topic": "Military",
     "region": "US"
   },
   {
