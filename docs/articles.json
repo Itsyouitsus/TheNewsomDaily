@@ -1,5 +1,21 @@
 [
   {
+    "id": "0c149979dfee",
+    "title": "California Dems gaze into the unknown",
+    "source": "Politico",
+    "source_url": "https://www.politico.com",
+    "source_domain": "www.politico.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdGtWcWNSS3VBN0IyWndGbUJ5VFRWbDRxQVhZY2ZUWFotTEhJSkhXWk9hNkdJM3AzV2ZicmJUZmRGaXl2NXYwMjJtNEh1bTdzYXltZE1NTTRWYldPOWNSTV9KcXZmb0pFYUVlY3hBMUhJdHgxUGhLdGdWem5PSEc5eVBOaDRYNDlXRV8waVd1ZHh2MGk0blRxUTVZVVozWlJZbVR4M18zM3U3RUVuRjh1Y2dPUTM?oc=5",
+    "published": "2026-08-12T13:00:00+00:00",
+    "published_display": "Aug 12, 2026",
+    "query": "Newsom California",
+    "image": "",
+    "real_url": "https://www.politico.com/newsletters/california-playbook/2026/08/12/california-dems-gaze-into-the-unknown-01035041",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "6d81e69b0c59",
     "title": "Governor Gavin Newsom Says, \u201cCalifornia Mourns Jackie, The Big Bear Bald Eagle Who Reminded Us Of The Beauty And Wonder Of California\u2019s Wildlife\u201d",
     "source": "Sierra Sun Times",
@@ -32,6 +48,22 @@
     "region": "US"
   },
   {
+    "id": "34c458ae2d6d",
+    "title": "AOC, Buttigieg, Newsom all appear to be running for president. But should they be?",
+    "source": "The Independent",
+    "source_url": "https://www.independent.co.uk",
+    "source_domain": "www.independent.co.uk",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVml6RVJ5ZHIyakxHWjlra0Zid2tOYk8zUkRBam1NUk5DSFJvTFVqSVNmNk5IMG1vdVBQWE5JWkdicGg2WUJhUXdPajhISV8zRGZNa1EzeXJqZXAzMkZjUjZHWHNjbTFSc0ExY2RsV0NEdFoya0NJS2ROWEluaWt4eGNfV2YyajA3ei11WC1iV0oyaFpwM0EwX05RUU9meFQzdzNpME5ZS0NCLWpReUc3M1JRUWwwOXFfRlVJTlFSbGxtRE0?oc=5",
+    "published": "2026-08-12T12:03:00+00:00",
+    "published_display": "Aug 12, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://static.independent.co.uk/2026/08/11/17/20/demscomp.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+    "real_url": "https://www.independent.co.uk/news/world/americas/us-politics/2028-democratic-presidential-aoc-newsom-buttigieg-b3031305.html",
+    "bias": "LL",
+    "topic": "General",
+    "region": "Europe"
+  },
+  {
     "id": "e38a69af26be",
     "title": "Newsom makes last-minute push for California utilities to pay less for wildfires",
     "source": "CalMatters",
@@ -61,6 +93,22 @@
     "real_url": "https://www.sacbee.com/news/politics-government/capitol-alert/article316832195.html",
     "bias": "?",
     "topic": "Military",
+    "region": "US"
+  },
+  {
+    "id": "905743f3af5a",
+    "title": "Newsom makes last-minute push to help California utilities facing wildfire bills",
+    "source": "CalMatters",
+    "source_url": "https://calmatters.org",
+    "source_domain": "calmatters.org",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON1dMbEt6Q0FHYnRCMkpOckd3SXVpTGpLakRwdjNiV0RSX3VweS0tUjBMQldZa3NEZHlzbU5DcTF5MjdGdG1zUjFsQUQtbEsxa3I3S2VUYnNoRk41Q2ExUXdJSnZrVUhtSTE2LTIza2Q5MHF6ak1lTGhWNXQxeUN5R3F6T3YzOW54Z0E?oc=5",
+    "published": "2026-08-12T12:00:00+00:00",
+    "published_display": "Aug 12, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/011725_Eaton-Fire_AP_CM_01.jpg?fit=2000%2C1333&ssl=1",
+    "real_url": "https://calmatters.org/politics/2026/08/newsom-wildfire-utility-liability-package/",
+    "bias": "?",
+    "topic": "Domestic",
     "region": "US"
   },
   {
