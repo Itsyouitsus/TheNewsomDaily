@@ -1,5 +1,21 @@
 [
   {
+    "id": "177c7104684c",
+    "title": "Newsom touts new A.I. cyber defense program to protect state\u2019s infrastructure",
+    "source": "Thepress.net",
+    "source_url": "https://www.thepress.net",
+    "source_domain": "www.thepress.net",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOGg5T2R0eXFoMUFKRE1Ic2hCTG1TbTEwVWF5UzROUVVjSjNVVi1Yb2s0S05oUU9oMDFnS1RqSzczQmplQVdDWjVSWnB3Y3ZzS01uZElJV3JSN1pLTkZXVFlnSmZ2ZUZ2SzN2VVppMG1pRnJ4Y0tQeTA3VnB6Y2FMcG1oWmQxZEw0T1c2WEthQXc1SFdZZ1I5OGdBcjhhckFDUmFCTnA3RFREQXBsdXZIZ295UHpfRzEyM080ZDdUd05kV2NyRk1HUzg4TlllZlRoUXFCcHdsdEpaN0NDZENYTFdwSUlOc2ZKdVhTcg?oc=5",
+    "published": "2026-08-13T22:46:05+00:00",
+    "published_display": "Aug 13, 2026",
+    "query": "Governor Newsom",
+    "image": "https://bloximages.newyork1.vip.townnews.com/thepress.net/content/tncms/assets/v3/editorial/1/27/1273d8a1-ede9-4b89-9116-105ed5925493/6a7e311f365f6.image.png?crop=750%2C394%2C0%2C53",
+    "real_url": "https://www.thepress.net/news/newsom-touts-new-a-i-cyber-defense-program-to-protect-state-s-infrastructure/article_86e41e5d-74a9-41a9-8f24-b340a45866c1.html",
+    "bias": "?",
+    "topic": "Military",
+    "region": "US"
+  },
+  {
     "id": "5938778de3c2",
     "title": "\u2018Established Insurgent\u2019: Newsom Tests New Political Identity Ahead of 2028",
     "source": "AL.com",
@@ -29,6 +45,22 @@
     "real_url": "https://www.desertsun.com/story/news/nation/california/2026/08/13/california-offers-free-state-park-pass-to-fourth-graders/91293201007/",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "84d01578cbcb",
+    "title": "Exclusive | California Forever\u2019s billionaire backers scramble for lifeline after botching key plan",
+    "source": "New York Post",
+    "source_url": "https://nypost.com",
+    "source_domain": "nypost.com",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVExzanA4dDZhcFdwMFB5QThsemdzcTFRTkRvM1E2VGVXXzVuSVJSY1Y1MmdoSERPcHBQQ05ka1F0NGNlbm9URjF2N0VwR1Z4RGJ3aWQtVzF4QVVIQk1WUmE3MnpNelI1bUtYUWY4RDJfTzB1ZWNEMEVuNWJRdHllQU9UcG5zWU54VUVyNUxyem5qckpYcEdvdVRIcGxBZmRDYUpFSTk3U2VxYzV2akU4Ui1PTWJyMEJDYVk0M1UxOTNLbkk4M09JbQ?oc=5",
+    "published": "2026-08-13T21:17:00+00:00",
+    "published_display": "Aug 13, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://nypost.com/2026/08/13/us-news/california-forevers-billionaire-backers-scramble-for-lifeline-after-botching-key-deadlines/",
+    "bias": "LR",
+    "topic": "Domestic",
     "region": "US"
   },
   {
@@ -205,6 +237,22 @@
     "real_url": "https://news.kalshi.com/p/2028-election-odds-aoc-emerges-frontrunner-dem-nominee",
     "bias": "?",
     "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "6e4b21926e29",
+    "title": "Shaheen defends Newsom endorsement",
+    "source": "C-SPAN",
+    "source_url": "https://www.c-span.org",
+    "source_domain": "www.c-span.org",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQm5UY1k5b1Z6X1dCZzgzVjV6Wng1bXhFeFpFejQ2b3RMV0Jlc2hoYkNMdE5EN2lqeHJvOVBxMWpTbHdURFVVR05VR2tIbEEtSmplY2VxQTltamVBV0VuUUNZRGprU3pHdWlldjRjVVpEZnhBNUFFZ2lzRk0ycHdFNHBDLUd2RE5wUXVnaA?oc=5",
+    "published": "2026-08-13T18:01:15+00:00",
+    "published_display": "Aug 13, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://ximage.c-spanvideo.org/eyJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJoZWlnaHQiOjYzMCwid2lkdGgiOjEyMDB9fSwiYnVja2V0IjoicGljdHVyZXMuYy1zcGFudmlkZW8ub3JnIiwia2V5IjoiRmlsZXMvOGRiLzEwMzk4NTIwLkpQRyJ9",
+    "real_url": "https://www.c-span.org/clip/campaign-2026/shaheen-defends-newsom-endorsement/5204378",
+    "bias": "C",
+    "topic": "General",
     "region": "US"
   },
   {
