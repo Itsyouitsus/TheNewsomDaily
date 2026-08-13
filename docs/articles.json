@@ -1,5 +1,37 @@
 [
   {
+    "id": "5938778de3c2",
+    "title": "\u2018Established Insurgent\u2019: Newsom Tests New Political Identity Ahead of 2028",
+    "source": "AL.com",
+    "source_url": "https://www.dailysignal.com",
+    "source_domain": "www.dailysignal.com",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORVFPdWN0aU9vRWM1SWpHNGpwempNU0JKU3lSWnJNMDdWcEphR0R3dW9mTklmLUZYWHVRTVJ6aVpGc0dGNzl6REdJdTlVMElzdFd4cWZSQmlSSzBxNmZuWUpfeFpBSFV5SUxFamhkbTlvQWRrdWVOd2F2WUQ2MVNwN2g2b1ltZzVMNFdNTFp1aDdkeWVsYlkxcHlxQ29UZw?oc=5",
+    "published": "2026-08-13T22:00:00+00:00",
+    "published_display": "Aug 13, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://static.dailysignalmedia.org/GettyImages-2288657126.gif",
+    "real_url": "https://www.dailysignal.com/2026/08/13/established-insurgent-newsom-tests-new-political-identity/",
+    "bias": "?",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "24e9c5d416b0",
+    "title": "California expands free state park pass for fourth graders. How to get one",
+    "source": "The Desert Sun",
+    "source_url": "https://www.desertsun.com",
+    "source_domain": "www.desertsun.com",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTlVJTWczWThNQTlZcHdxZURFcXJOQXdGcDZqZXVXc21QcVgzQnRuZW1GY2tNU3BrOTVCRVhOZVotRUZ4OXBKNXhsZVJ6WXBBRm9kZWVzQnRWay1rOUZzRUNJOF9EYUNudXVub1pVWEhFTjVjVzA5RGZFZlVuMnQtSlhVREdVc3JSOExsU3lzUElZcmdfZHVHNnJjb3NDdFVmNmNYb0RnOVZwSTV4ZjNUYW5Oa1pkeG5JUEIxdmdXSS14VXByd3hrb0hZclg1b0dT?oc=5",
+    "published": "2026-08-13T21:54:00+00:00",
+    "published_display": "Aug 13, 2026",
+    "query": "Newsom California",
+    "image": "",
+    "real_url": "https://www.desertsun.com/story/news/nation/california/2026/08/13/california-offers-free-state-park-pass-to-fourth-graders/91293201007/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "cfadcf8382ae",
     "title": "Dems turn on Gavin Newsom in Michigan as his visit is brutally panned",
     "source": "New York Post",
@@ -240,6 +272,22 @@
     "region": "US"
   },
   {
+    "id": "ca3b3478adbd",
+    "title": "UPDATE: School health education bill awaits Gov. Newsom\u2019s signature",
+    "source": "EdSource",
+    "source_url": "https://edsource.org",
+    "source_domain": "edsource.org",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU1NmdEVyT0lISXZXX3VMNUtGWHl0WkI4U0NyVXlEZEV2ZzZfNDhCOGJMUEd1Ny05ZWJnYjFwZ3Zpb1pqRklzY0dUM0xyQ0xfZ19yQmRCWERraGdULU9wYWxhdUthakItOFlDRGluanpMSkc2OGlFd3Z6d0FmM2s2WDhaRWg3UQ?oc=5",
+    "published": "2026-08-13T16:45:30+00:00",
+    "published_display": "Aug 13, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://edsource.org/updates/health-education-bill-awaits-gov-newsoms-signature",
+    "bias": "?",
+    "topic": "Domestic",
+    "region": "US"
+  },
+  {
     "id": "d35727646b5c",
     "title": "DOJ threatens California with lawsuit over \u2018unbroken pattern\u2019 of sexual abuse in women\u2019s prisons",
     "source": "Washington Examiner",
@@ -317,6 +365,22 @@
     "real_url": "https://www.gov.ca.gov/2026/08/13/as-trumps-epa-silences-youth-voices-california-launches-new-environmental-youth-council-to-shape-our-climate-future/",
     "bias": "?",
     "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "6e2e15b05f4f",
+    "title": "California Forever\u2019s billionaire backers scramble for lifeline after botching key plan",
+    "source": "New York Post",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://nypost.com/2026/08/13/us-news/california-forevers-billionaire-backers-scramble-for-lifeline-after-botching-key-deadlines/",
+    "published": "2026-08-13T14:17:26-07:00",
+    "published_display": "Aug 13, 2026",
+    "query": "direct_feed",
+    "image": "",
+    "real_url": "https://nypost.com/2026/08/13/us-news/california-forevers-billionaire-backers-scramble-for-lifeline-after-botching-key-deadlines/",
+    "bias": "LR",
+    "topic": "Domestic",
     "region": "US"
   },
   {
