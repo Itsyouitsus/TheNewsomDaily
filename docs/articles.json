@@ -176,6 +176,22 @@
     "region": "US"
   },
   {
+    "id": "f6f770e6072f",
+    "title": "ICYMI: California takes historic action against data brokers",
+    "source": "California State Portal",
+    "source_url": "https://www.gov.ca.gov",
+    "source_domain": "www.gov.ca.gov",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYk1JdkRmYmZEemZNNkp2eDZISVNTbC1rQ0wtV1hfeDFkYXFJMHFTMkx4RVh0a2V5WjZydnVJd2YtTnRIcHVVVWF0Qkxnd3ZjbEpIcUpubmVYbUpjeEZVWG9keC0xRHprOV9ZdWNaT0tNalVhUjVwUGlVNWJyVHNqM1AwNkdBdjFEWGdqeXcyUUxIanVpRjN2T2Vn?oc=5",
+    "published": "2026-08-13T17:59:26+00:00",
+    "published_display": "Aug 13, 2026",
+    "query": "Newsom California",
+    "image": "https://www.gov.ca.gov/wp-content/uploads/2026/08/ICYMI-California-takes-historic-action-against-data-brokers-SEO-GFX.png",
+    "real_url": "https://www.gov.ca.gov/2026/08/13/icymi-california-takes-historic-action-against-data-brokers/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "a75c9e3eb35d",
     "title": "Trump\u2019s border czar rips Newsom after newly released illegal migrant allegedly butchered California man",
     "source": "New York Post",
@@ -189,6 +205,22 @@
     "real_url": "https://nypost.com/2026/08/13/us-news/tom-homan-rips-gavin-newsom-over-illegal-migrants-alleged-killing-of-elderly-bay-area-man/",
     "bias": "LR",
     "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "a7897a6d4527",
+    "title": "California Forever\u2019s billionaire backers scramble for lifeline after botching key deadlines",
+    "source": "New York Post",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://nypost.com/2026/08/13/us-news/california-forevers-billionaire-backers-scramble-for-lifeline-after-botching-key-deadlines/",
+    "published": "2026-08-13T17:17:26-04:00",
+    "published_display": "Aug 13, 2026",
+    "query": "direct_feed",
+    "image": "",
+    "real_url": "https://nypost.com/2026/08/13/us-news/california-forevers-billionaire-backers-scramble-for-lifeline-after-botching-key-deadlines/",
+    "bias": "LR",
+    "topic": "Domestic",
     "region": "US"
   },
   {
@@ -539,6 +571,22 @@
     "query": "Gavin Newsom",
     "image": "https://bloximages.newyork1.vip.townnews.com/actionnewsnow.com/content/tncms/assets/v3/editorial/b/f8/bf822e74-ff51-587c-aa44-5cc555037307/6a7d1f6423040.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
     "real_url": "https://www.actionnewsnow.com/video/california-wildfire-victims-could-get-less-under-newsoms-new-plan/video_bf822e74-ff51-587c-aa44-5cc555037307.html",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "b6438a0166dc",
+    "title": "&#x27;Suspense Day&#x27; is here. What it means for proposed California laws",
+    "source": "KCRA",
+    "source_url": "https://www.kcra.com",
+    "source_domain": "www.kcra.com",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TZ3RtT0twOWtKLUx1Q2Z5YVh0U3BnWXlNNTdnTE1CZHUyRTFHclNQLVNiNU10MjVRUHZES0ZENHc4WUp0NDJaQVZrNnV5UG00RDJUX0QxdHF5SkU1Q3p5ZU42VWtOUnVNN2RhSktLczJiRUFU?oc=5",
+    "published": "2026-08-12T23:46:00+00:00",
+    "published_display": "Aug 12, 2026",
+    "query": "Newsom California",
+    "image": "https://kubrick.htvapps.com/vidthumb/4e7d3da0-cc0d-4ae8-a284-faddd59aa339/7ff5d591-cf79-4727-8b0d-27d324bfca9e.jpg?crop=0.808xw%3A0.809xh%3B0.0993xw%2C0&resize=1200%3A*",
+    "real_url": "https://www.kcra.com/article/california-suspense-day-laws/73418395",
     "bias": "?",
     "topic": "General",
     "region": "US"
