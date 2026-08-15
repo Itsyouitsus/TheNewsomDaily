@@ -1,5 +1,21 @@
 [
   {
+    "id": "08de29dd6a30",
+    "title": "California Uber and Lyft drivers\u2019 union could be certified in less than 30 days",
+    "source": "Los Angeles Times",
+    "source_url": "https://www.latimes.com",
+    "source_domain": "www.latimes.com",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTGQ3bkg0Z3ZTbV8tZ0pfVzc2Vmk4TFVDNm1ETkJtUGVuZVN6dWswX2VPZEhRcWhkTnFwZVkxdENSeDZLbDhWLXR1a2JTeEM2d2xadFJqb2VHUTdhME1rY1lTMm1QVkNOQ3F2N0VJSUh6NDZveWNMSXVEaTFBZzFFbzhBTHVjZEJ1T2doQVhQeEdpdUNGZEhCREJEVHJKU1BHVWpUbnJ3d0FCaVZ3cGlvY19IWU4wZ3IxdmRWTWw4YXlfZw?oc=5",
+    "published": "2026-08-15T10:00:00+00:00",
+    "published_display": "Aug 15, 2026",
+    "query": "Newsom California",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/bfa1d3e/2147483647/strip/true/crop/4880x2562+0+374/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F85%2Ffe%2Fab2137274989a6ab22327ff09bbd%2Fapphoto-california-gig-economy.JPG",
+    "real_url": "https://www.latimes.com/business/story/2026-08-15/california-uber-lyft-drivers-union-could-be-certified-in-less-than-30-days",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "d6d5b4018156",
     "title": "Michigan Gov. Gretchen Whitmer credits Trump for delivering project that Biden couldn&#x27;t get over finish line",
     "source": "New York Post",
@@ -125,6 +141,22 @@
     "real_url": "https://www.sacbee.com/news/politics-government/capitol-alert/article316884649.html",
     "bias": "?",
     "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "84af475462de",
+    "title": "California launches AI cybersecurity initiative amid growing threats",
+    "source": "SC Media",
+    "source_url": "https://www.scworld.com",
+    "source_domain": "www.scworld.com",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0sySW9qMEFrR1dvTkhoZTFiTHMwX1VsMjlDU095cGdXWWlVYU9Nb2hWM3VPVGNyQ3JDMFZ5NENmSTNTelNVSTBLelpVZXFxbDFZekd6U0drUU5SM0lwX1drYWJrd0JVZTVPcG1kc0NkQ2FBTDgwZGhtY2VESVdGSjRlMU9hUFZLX2V6TWRTa29sd1NEWWpOTUhINkpnaHM?oc=5",
+    "published": "2026-08-14T21:35:13+00:00",
+    "published_display": "Aug 14, 2026",
+    "query": "Newsom California",
+    "image": "https://files.cyberriskalliance.com/wp-content/uploads/2025/09/AdobeStock_1683915671-scaled.jpeg",
+    "real_url": "https://www.scworld.com/brief/california-launches-ai-cybersecurity-initiative-amid-growing-threats",
+    "bias": "?",
+    "topic": "Tech & AI",
     "region": "US"
   },
   {
