@@ -64,6 +64,22 @@
     "region": "US"
   },
   {
+    "id": "451dcb66d87b",
+    "title": "Homelessness Rises 20% in San Diego: Newsom&#x27;s Treatment Plan",
+    "source": "Daily Signal",
+    "source_url": "https://www.dailysignal.com",
+    "source_domain": "www.dailysignal.com",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOanVfcjRrcW50bURMM1dMaWdFVnhxWTRMNWF3YTRBY2FrTU1JQ0ttR1BYdmtzM3R5c1hYdkZzd0NrTGpoQTdic0tMdnUtb0Z3bXdqQ29sbFJiS1VjM01aYkxOYjBzUi16SkM5VmZTSmUydkpqYTM5QjJoLXJQdUkwa0dXalNWNThwREZIem82SQ?oc=5",
+    "published": "2026-08-16T16:38:38+00:00",
+    "published_display": "Aug 16, 2026",
+    "query": "Newsom California",
+    "image": "https://static.dailysignalmedia.org/260916-LA_Homeless.jpg",
+    "real_url": "https://www.dailysignal.com/2026/08/16/trump-treatment-first-alternative-homelessness/",
+    "bias": "R",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "49052da23e59",
     "title": "Gov. Newsom reignites debate over how much electric companies should pay for causing a wildfire",
     "source": "KCRA",
@@ -140029,6 +140045,22 @@
     "real_url": "https://www.latimes.com/california/story/2026-02-25/california-governors-race-wealth-tax-congress-ppic-poll",
     "bias": "LL",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "a3080dfc3b72",
+    "title": "AI and Insurance Policy Interpretation After Snell v. United Specialty: What Policyholders Need to Know",
+    "source": "Jdsupra.com",
+    "source_url": "https://www.jdsupra.com",
+    "source_domain": "www.jdsupra.com",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFZWSm5LSXo3U29FeER3V1UzeVY1TGs0RDlDaDBqdk1JMWtiUXZWVVhENVItZmpBZHFHR2pIbVMxY1hYU1E1ODJERC1QTGczNnZXNEF5bjBsRGd2MFhLVWtNbGRjSWp0aDRzeldQQnQ3WFhZM0dPVFEwdUVnMVpqS3FPb1JhS2wz?oc=5",
+    "published": "2026-02-26T08:00:00+00:00",
+    "published_display": "Feb 26, 2026",
+    "query": "Newsom policy",
+    "image": "",
+    "real_url": "https://www.jdsupra.com/legalnews/ai-and-insurance-policy-interpretation-2096698/",
+    "bias": "?",
+    "topic": "Healthcare",
     "region": "US"
   },
   {
