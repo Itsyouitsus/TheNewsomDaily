@@ -1,5 +1,37 @@
 [
   {
+    "id": "8d079f1b99e4",
+    "title": "Gavin Newsom is not the man for this job: Katie Zacharia",
+    "source": "Fox News",
+    "source_url": "https://www.foxnews.com",
+    "source_domain": "www.foxnews.com",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wcG1mazhGaFI1Q0RUQ1RmYWdtV3E0T29rdG5VY0p0QVJUcFhIZklGVEV5aGVUNnBQc1RpcUpSTEhtN21oYXcweWVHNlUzc1NoSVVDSDlB?oc=5",
+    "published": "2026-08-17T18:35:49+00:00",
+    "published_display": "Aug 17, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15812419-ca29-46cc-afba-87f9706e6886/3521e552-b3e0-4514-98a6-baf7c4cbdc7b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+    "real_url": "https://www.foxnews.com/video/6403602315112",
+    "bias": "R",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "0dfb5a1a1a95",
+    "title": "California Dem Calls Out &#x27;Collapse&#x27; of Hollywood on Newsom\u2019s Watch: &#x27;Industry Beaten Down Watching the Exit of Productions to Other States and Overseas&#x27;",
+    "source": "Breitbart News",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.breitbart.com/entertainment/2026/08/17/california-dem-calls-out-collapse-of-hollywood-on-newsoms-watch-industry-beaten-down-watching-the-exit-of-productions-to-other-states-and-overseas/",
+    "published": "2026-08-17T17:19:12+00:00",
+    "published_display": "Aug 17, 2026",
+    "query": "direct_feed",
+    "image": "https://media.breitbart.com/media/2026/08/newsomhollywoodexodus-640x335.jpg",
+    "real_url": "https://www.breitbart.com/entertainment/2026/08/17/california-dem-calls-out-collapse-of-hollywood-on-newsoms-watch-industry-beaten-down-watching-the-exit-of-productions-to-other-states-and-overseas/",
+    "bias": "R",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "3f763afa8c12",
     "title": "\u201cSickle Cell Warriors\u201d Urge Gov. Newsom to Sustain Critical Patient-Care Funding",
     "source": "The San Diego Voice & Viewpoint",
@@ -1725,6 +1757,22 @@
     "real_url": "https://www.foxbusiness.com/video/6403345501112",
     "bias": "LR",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "22261074902a",
+    "title": "Steve Hilton\u2019s Chances of Beating Becerra to Flip California for GOP\u2014Poll",
+    "source": "Newsweek",
+    "source_url": "https://www.newsweek.com",
+    "source_domain": "www.newsweek.com",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdVdta01ISDB1bTNfd3JVOWhLN2RMeXBSNUp1LU81TWlIcXloWm9IS01RYjNjUXZZZ0lsU1dZYkhIMUxQWU5aemF0Q1FGcnB4bGE1UVhwQ0kwZmkwYU85d09uT2VWUVBOZ01LdjFnbWkyTXlpOHc0dll6bDdzUTBJZmhEaC1QdmVSZTc0NzExa1ctN3ZhdF9qMVVoNnVBZUhrcXJuQ0VhMjRudw?oc=5",
+    "published": "2026-08-13T18:09:00+00:00",
+    "published_display": "Aug 13, 2026",
+    "query": "Newsom Democrat",
+    "image": "https://assets.newsweek.com/wp-content/uploads/2026/08/Copy-of-32-Split-Screen-53-1.png?w=1200&crop=1",
+    "real_url": "https://www.newsweek.com/steve-hiltons-chances-of-beating-becerra-to-flip-california-for-gop-poll-12319793",
+    "bias": "LL",
+    "topic": "2028 Race",
     "region": "US"
   },
   {
