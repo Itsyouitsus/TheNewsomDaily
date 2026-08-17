@@ -1,5 +1,21 @@
 [
   {
+    "id": "5d3bde5fc00a",
+    "title": "This new list of possible Democrat presidential candidates for 2028 is a TOTAL JOKE",
+    "source": "The Blaze",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.theblaze.com/shows/the-glenn-beck-program/this-new-list-of-possible-democrat-presidential-candidates-for-2028-is-a-total-joke",
+    "published": "2026-08-17T21:00:00+00:00",
+    "published_display": "Aug 17, 2026",
+    "query": "direct_feed",
+    "image": "",
+    "real_url": "https://www.theblaze.com/shows/the-glenn-beck-program/this-new-list-of-possible-democrat-presidential-candidates-for-2028-is-a-total-joke",
+    "bias": "R",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "8d079f1b99e4",
     "title": "Gavin Newsom is not the man for this job: Katie Zacharia",
     "source": "Fox News",
@@ -315,6 +331,22 @@
     "query": "Newsom California",
     "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
     "real_url": "https://www.tradingview.com/news/benzinga:f3909e61b094b:0-sean-duffy-touts-5-billion-rail-investment-slams-gavin-newsom-s-high-speed-rail-project-wasting-billions-of-dollars/",
+    "bias": "?",
+    "topic": "Domestic",
+    "region": "US"
+  },
+  {
+    "id": "b432f903e159",
+    "title": "Sean Duffy Touts $5 Billion Rail Investment, Slams Gavin Newsom\u2019s High-Speed Rail Project: \u2018Wasting Billi",
+    "source": "Benzinga",
+    "source_url": "https://www.benzinga.com",
+    "source_domain": "www.benzinga.com",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPLVUyOHJOdEZHWWdmd01Ea01aQTVSWlg3WWExcTI4cU1aS0cxM2REUDg2R09RY3FtUDNtRVlCS2JIZXJMN211V3hmYnVEUGJhYnlXUW54TmdXMVVyc0lfMXZuMlFPN3U3Sm9uU1VkRmIzLVJoNkJVRWRLYlpHOURSNDdMQ2pUM1NyTWJyZ05wQkZ2QlFVRDZEaWhnNU1Ra2M0dUtULVVNV3RYZkRCYjdVTXlidm5UcEZoZENNSHdDY09NOGl1dzZJU1o3QVJBRTNham0yUFRBTHNDOVFLT0dINGdwU0NZN3VycTVvLUdCeXltODRaSmJfaFJB?oc=5",
+    "published": "2026-08-17T08:35:50+00:00",
+    "published_display": "Aug 17, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.benzinga.com/news/travel/26/08/61239456/sean-duffy-touts-5-billion-rail-investment-slams-gavin-newsoms-high-speed-rail-project-wasting-billions-of-dollars",
     "bias": "?",
     "topic": "Domestic",
     "region": "US"
