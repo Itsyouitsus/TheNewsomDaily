@@ -1,5 +1,21 @@
 [
   {
+    "id": "39367080d101",
+    "title": "California Recovers $1.05 Million in Stolen Goods in 9\u2011Day National Retail Crime Blitz",
+    "source": "Forth.News",
+    "source_url": "https://www.forth.news",
+    "source_domain": "www.forth.news",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OYzNBZllUU21qUWNKd294ZEF1c0FQWG02REJ4TjdVRHlqbmNRY2N3MkVYOFBNeWVxNmFJeEV6am9YT213amZFcTFtTm05Tmd5bm5WWlZpQjVneERwSDVCSWdn?oc=5",
+    "published": "2026-08-18T17:37:30+00:00",
+    "published_display": "Aug 18, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://cdn.newsapps.net/imgs/79f6625841ab91913403004f50f598da/d125b9b7-df6a-49e7-bdef-c816f650f9ab.png",
+    "real_url": "https://www.forth.news/stories/CeAcXjErHKqbSkMYrMYpn",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "4f6a54760f8f",
     "title": "California to pay over $95 million to build new EV charging and hydrogen fueling stations",
     "source": "KRCR",
@@ -461,6 +477,22 @@
     "real_url": "https://www.foxnews.com/video/6403602315112",
     "bias": "R",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "34752d6e6561",
+    "title": "California Prop. 40, the \u2018Billionaire Tax,\u2019 holds lead in new UC Berkeley IGS Poll",
+    "source": "University of California, Berkeley",
+    "source_url": "https://news.berkeley.edu",
+    "source_domain": "news.berkeley.edu",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbDVsa3psZHBWV0VCT1RIMUs4LVp4QnZOT3B4azhUNTRTZjBiZGo4WElTYW1DTGx5S0RDbXRuVXZDTmhCN0JEMENqREZTbEN5T2pfeGR1S2RwSGdqcllKbGNwTFpjRDlqTEtybVpUamlHLXNxSXk2R2NhZ3VuY2FNZkYzNXNKTG9tNnBSQnVIM2tzaUhmY3h1ZGVDVkF6MFhjeTlNWmRLa3o0RF9vM29zQlJMR05rZw?oc=5",
+    "published": "2026-08-17T18:19:55+00:00",
+    "published_display": "Aug 17, 2026",
+    "query": "Newsom California",
+    "image": "https://news.berkeley.edu/wp-content/uploads/2025/08/California_Sacramento_capitol_dome_sunny.jpg",
+    "real_url": "https://news.berkeley.edu/2026/08/17/california-prop-40-the-billionaire-tax-holds-lead-in-new-uc-berkeley-igs-poll/",
+    "bias": "?",
+    "topic": "Economy",
     "region": "US"
   },
   {
