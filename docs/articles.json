@@ -1,5 +1,37 @@
 [
   {
+    "id": "a4efec8d7a90",
+    "title": "Diablo Canyon is emissions-free, reliable \u2014 and can lower energy costs if we do it right",
+    "source": "Capitol Weekly",
+    "source_url": "http://capitolweekly.net",
+    "source_domain": "capitolweekly.net",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRVg2Mk51ZHhVcXl3WkFYZkNOeFIyOGxIUDFQUWtod1lfQnJHQnJ4OXFLUmk0SmlwNlFqdFNINEJBd3RabDhySWx0M2NCcDZrUFZDZ3ZBTnlmNnM0QndaNVFLWUVZZjBMd3oya2g5TzJsRzc2ZDFxaWJBUjEtYWlUcDFkT2NZR1NEWTdZbnBWb255aUFtTlpkcjJfUFNNZGp0VHZ0Sml3WnVZUDNYVHBTRQ?oc=5",
+    "published": "2026-08-19T15:08:25+00:00",
+    "published_display": "Aug 19, 2026",
+    "query": "Newsom California",
+    "image": "https://capitolweekly.net/wp-content/uploads/2026/08/iStock-2220917152_Ployker.jpg",
+    "real_url": "http://capitolweekly.net/diablo-canyon-is-emissions-free-reliable-and-can-lower-energy-costs-if-we-do-it-right/",
+    "bias": "C",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "f9b956d54246",
+    "title": "California investing $95 million for more EV and hydrogen fueling stations",
+    "source": "East Bay Times",
+    "source_url": "https://www.eastbaytimes.com",
+    "source_domain": "www.eastbaytimes.com",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOHhyU285TGtoRG54aWZEZmNzZ3BkWXZhSC13M2VCaXlodnlWb21vSWZGOUN1WmdaRlFnN1BQWFlGVzJ1WFAtQzNEVDVpS1Nsc1BPSVpTUTVOdW9IbE5kY1c2MmJTOXB5aE5jeDJpckpPVHRFbnZPRnBWWkg1NDBsVDhBVFowWTd1REVvdUJWZ2czV0FHbExUbWxQSl9rWXVtRGpqYmo0WHhiTFXSAbABQVVfeXFMTWU1TjMxSTE1WFhLZ1R1MUJfbmJjUHFFdWp0NExGRDNIa18wM1I1alVXSS1UckNtYnp2azc2Qnd5UzRpcXdjUUZKc1BEMHdIaWM0MTJraHhEU0ZWWWNrMGJEWjZQMHNGYl9NbEZReE9BT0YzRnQ3YzNPTlRNaVdTTnE0MGNMUHA4emJ5T09HbnFILVRWdUJZT21MbFpwOXpoYzJLek5nVWdHbmJkaFNCTlg?oc=5",
+    "published": "2026-08-19T14:35:29+00:00",
+    "published_display": "Aug 19, 2026",
+    "query": "Newsom California",
+    "image": "https://www.eastbaytimes.com/wp-content/uploads/2026/08/SUT-L-NEWSOM-REBATESFOREVS-0711-01.jpg?w=2000&h=1334",
+    "real_url": "https://www.eastbaytimes.com/2026/08/19/california-investing-95m-for-more-ev-and-hydrogen-fueling-stations/",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "fcc65eb160dc",
     "title": "Inside California Forever\u2019s High-Pressure Push to Fast-Track a Shipyard",
     "source": "Lost Coast Outpost",
@@ -269,6 +301,22 @@
     "real_url": "https://nypost.com/2026/08/18/us-news/feds-redirect-billions-from-gavin-newsoms-rail-project/",
     "bias": "LR",
     "topic": "Domestic",
+    "region": "US"
+  },
+  {
+    "id": "d3ceb07c6dd6",
+    "title": "California\u2019s new rules on tires spark widespread backlash over massive regulatory overreach",
+    "source": "New York Post",
+    "source_url": "https://nypost.com",
+    "source_domain": "nypost.com",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0dEaFBvOFdIUHpxRGYtWGV0UDNnbmVVRzd6a1luWDRvbmRwZy1TejVtRDR0NmJUc1B6XzJmNmlKZFFTYkl0XzZsUVFscnpVeFg4UkNFbVdNSVE3Q2FzM0lLdnYwUTlHSjQ1RzdWeGhNTkpScTFvOUNIYmNMOWxxa3p1aGFNUzZRY2pDOXJFRC1MdkRQOEZ2c21KUkVfQVhDTktFdzRpRXo?oc=5",
+    "published": "2026-08-18T20:48:00+00:00",
+    "published_display": "Aug 18, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://nypost.com/2026/08/18/science/californias-new-tire-rules-spark-outrage-over-regulatory-overreach/",
+    "bias": "LR",
+    "topic": "General",
     "region": "US"
   },
   {
