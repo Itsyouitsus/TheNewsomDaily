@@ -1,5 +1,21 @@
 [
   {
+    "id": "4302fa48ca9d",
+    "title": "Not today, Diablo",
+    "source": "Politico",
+    "source_url": "https://www.politico.com",
+    "source_domain": "www.politico.com",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZnpRQUhsVEFJNUhkeUVBbzV1MUxfbk53anlBcFJ5Uk1sYVc3ajlRZGdpSlRmTWFOZWdaTzloZmQ3ZC1ZNE1rc2lKOUQ1dmVaaFFzdVZzbFJFeEZsQzZoLWUwSVM4ck93NVlTd0RGVDNScGJhbjBESHdIUnZLdE5aWjRpT3U0R2U3THpwZEJ6M2xYY1lBMC1iag?oc=5",
+    "published": "2026-08-18T23:30:00+00:00",
+    "published_display": "Aug 18, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.politico.com/newsletters/california-currents/2026/08/18/not-today-diablo-01041210",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "962d4ad39afb",
     "title": "Newsom promotes affordable insulin, but California&#x27;s generic label off to a slow start",
     "source": "Medical Xpress",
@@ -1917,6 +1933,22 @@
     "real_url": "https://benitolink.com/supervisors-opt-not-to-ask-governor-to-fill-vacant-seat/",
     "bias": "?",
     "topic": "Healthcare",
+    "region": "US"
+  },
+  {
+    "id": "eac83fe3b4eb",
+    "title": "Newsom-appointed judge who freed migrant before fatal stabbing said justice \u2018sometimes means a dismissal\u2019",
+    "source": "WFIN",
+    "source_url": "https://wfin.com",
+    "source_domain": "wfin.com",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObUZWRFBrOURIVE90YWtVcTBiTDUtWVVfQVI4cGo3cWQwMzN2MEtZNmhCUklfdkZSYlNDbi1BTEpCWUN0ZnVWMUM1ZXRzaG1GYU56dndrVV81Wk15TGV1aUJwSXZzalRycTZjTjJtcGdBWmM0V1p5UjRLdjNCMDlOZWF2MkZySHF1MEpLd2p1ZTVZWElMWFpoRTVMd0pibkJsQUZnMVMyT3VFMWQzNGQzSE83QXhlMGhyMUY3TkpCVTZBS2tBT0tpTm5na3hBR3dGQThYVGJ1Zw?oc=5",
+    "published": "2026-08-14T11:10:41+00:00",
+    "published_display": "Aug 14, 2026",
+    "query": "Newsom immigration",
+    "image": "",
+    "real_url": "https://wfin.com/fox-political-news/newsom-appointed-judge-who-freed-migrant-before-fatal-stabbing-said-justice-sometimes-means-a-dismissal/",
+    "bias": "?",
+    "topic": "Immigration",
     "region": "US"
   },
   {
