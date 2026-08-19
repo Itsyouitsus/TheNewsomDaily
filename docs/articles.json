@@ -1,5 +1,37 @@
 [
   {
+    "id": "be6119dc56cd",
+    "title": "California special interest groups follow Newsom into early 2028 primary states",
+    "source": "Washington Examiner",
+    "source_url": "https://www.washingtonexaminer.com",
+    "source_domain": "www.washingtonexaminer.com",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMXNCYU5LVG03a2hYUWVKWHc1Z2VJcnZZWkJ5WkloTEdJbnZDdVd3a1F0R2cyMVJOd293MTBFSkJ5ZWJjWTJjM0tuNW4zQ3RQUG5qSUNMRGJZS1Q5dy0tbjJHN1A5S0ZqaWw4THNnSy1NRjh4cjhYRE0tVHRkc0Z0V1RINHBpQnpNbjlGZ1h2TmtIWUZmSmhUZHc4cDR3MDJNWEs5Yl95M1o3dnhrbGVRck9hZDdRMGhyRVVPTUZhZjQtOFpwMHlpQVk4bw?oc=5",
+    "published": "2026-08-19T11:00:00+00:00",
+    "published_display": "Aug 19, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/AP26195825482907.jpg?resize=1200,683",
+    "real_url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4691654/california-special-interest-groups-newsom-early-2028-states/",
+    "bias": "LR",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "efe82398c7c9",
+    "title": "Farsnews",
+    "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0641\u0627\u0631\u0633",
+    "source_url": "https://farsnews.ir",
+    "source_domain": "farsnews.ir",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeHN2cUtoc2VHQjRVS1hUanBPMGVNMEs2Y2VMY3EwdVFhajZZUFhNTXdUR2JVSnpNYUJVdUpnLVZsUHkwTjNVYU5fZkJEcll1ZFpCSGhzNHRoTEdjeWt5aUFhWW1kRFB4bWZ3SHFOTEtHU3JhSzZLbEJJaERGSkktWWtKOHFNT3EtZGVFQnEtX0FfQ0EyWWhpRHFiQXJaQQ?oc=5",
+    "published": "2026-08-19T10:39:29+00:00",
+    "published_display": "Aug 19, 2026",
+    "query": "Newsom immigration",
+    "image": "https://c.next-portal.com/guest/bd22d6bc21c04456bc804f47cf5a8712?centerCrop=true&width=300",
+    "real_url": "https://farsnews.ir/Mousavi_82/1787133316366677648/Poll-Trumps-Advantage-on-Immigration-Collapsed",
+    "bias": "?",
+    "topic": "Immigration",
+    "region": "Middle East"
+  },
+  {
     "id": "d96aabfd40b6",
     "title": "Ossoff tests Democrats&#x27; appetite for going low",
     "source": "Axios",
