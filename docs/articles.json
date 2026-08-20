@@ -1,5 +1,37 @@
 [
   {
+    "id": "15b8d37a5f58",
+    "title": "Paradise, California, leader says utility group \u2018duped\u2019 him to appear in wildfire ad",
+    "source": "E&E News by POLITICO",
+    "source_url": "https://www.eenews.net",
+    "source_domain": "www.eenews.net",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUkZDZ2o1WjliSkNRLTZscC1Lc2Q1cmhyYVhnUFpWQTk5dHZFaWZQVzVQb0NxQ2Y1RldKQUFDZ2c4YWFHVGtxbFVHLTFOejMxejNMbF9uWHA1Y2ZEUGczVkJzVjlwSWxSekk2T1l1V1VLYjRXQzlzYWtCc2NTRnNVQmNDZ2YzOGNBZkZOLXhzN01iMjVVeEVHY3Y0S1hQeVZRMUFkVXN6VE5uczlJaDFNQWVnYw?oc=5",
+    "published": "2026-08-20T10:12:00+00:00",
+    "published_display": "Aug 20, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://static.politico.com/dims4/default/55a1666/2147483647/resize/1200/quality/100/?url=https://static.politico.com/2f/b1/4f575ba7412da4f153586465823b/190531-paradise-ruins-gty-773.jpg",
+    "real_url": "https://www.eenews.net/articles/paradise-california-leader-says-utility-group-duped-him-to-appear-in-wildfire-ad/",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "298897cd7205",
+    "title": "How Trump Is Trying to Crush California\u2019s Climate Policies",
+    "source": "The New York Times",
+    "source_url": "https://www.nytimes.com",
+    "source_domain": "www.nytimes.com",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjdkc4cnMtdlVyUW9Ja3Z3V0JNenFuRUlsd2s2ZlA1YXRERHB4QzdhOWNTRjRlYWpHdEJwaFVWM2pRRVYtVEtFNWh3V291Y2xGT2lpampJbURTZExtd0JKbVdtdTNpV2JncTYxN2VFV2JBa2hCMm1VaVN1LVA?oc=5",
+    "published": "2026-08-20T09:03:46+00:00",
+    "published_display": "Aug 20, 2026",
+    "query": "Newsom California",
+    "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20CLI-CALIFORNIA-01-lbfm/20CLI-CALIFORNIA-01-lbfm-facebookJumbo.jpg",
+    "real_url": "https://www.nytimes.com/2026/08/20/climate/trump-california-climate.html",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "1681dc559ffa",
     "title": "Trump Reaffirms &#x27;Drill, Baby, Drill,&#x27; but Gavin Newsom Points to &#x27;$86 Billion&#x27; in Excess Gas Costs, \u2018Big",
     "source": "Benzinga",
@@ -541,6 +573,22 @@
     "real_url": "https://santamariatimes.com/news/calmatters/commentary/dan-walters/california-s-midterm-election-could-shape-national-political-conflicts-dan-walters/article_75cba54f-2a53-45c9-a5cf-0e1865a06842.html",
     "bias": "LL",
     "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "0672b7a27017",
+    "title": "California Approves $95M ZEV Infrastructure Plan",
+    "source": "Fuel Cells Works",
+    "source_url": "https://fuelcellsworks.com",
+    "source_domain": "fuelcellsworks.com",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWFEzMzlwQkloUkQwdHVvSi13SDNLWTViUlFvZFhLcWdfSzRsQ3hrNGZBbXlJWDU1ZWUwOEw3dFY4eWh3NE05WWpDVnVMNlBYTHJCbGpuSkwwdnhtSjlYa3NHZ3k0YUR6WkFSbUYwUmY1RW1oQzJQOTNva2dxWEptQjRQbGV3c0tBU2h3anFDbEpwZTJ2amNMeUg2eVlRUHlDVW1IdXJBR2s0OHFsemlVTmNyVTVYaV9PMEdmWkEwal9idk1rbzFrSQ?oc=5",
+    "published": "2026-08-19T13:19:00+00:00",
+    "published_display": "Aug 19, 2026",
+    "query": "Newsom California",
+    "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/california-energy-commission-approves-95-million-plan-to-expand-zev-infrastructure-2026-08-19T09%3A16%3A40-04%3A00-image.webp",
+    "real_url": "https://fuelcellsworks.com/2026/08/19/electric/california-energy-commission-approves-95-million-plan-to-expand-zev-infrastructure",
+    "bias": "?",
+    "topic": "General",
     "region": "US"
   },
   {
