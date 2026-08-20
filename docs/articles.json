@@ -1,5 +1,21 @@
 [
   {
+    "id": "667a923f1e22",
+    "title": "Gov. Newsom Nominates 3 Black Women Judges to Serve on State Courts of Appeal",
+    "source": "BlackPressUSA",
+    "source_url": "https://blackpressusa.com",
+    "source_domain": "blackpressusa.com",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNampfaXd4aTY3bE5sTEF4Vy1jWGFGWnFXalhYcmo1WUhtYTVsMzV6b1lUVkhLY2d2b2tfZnM2U2lLbVBxaTJtdnBaaEFzQ3RUcTRRdWpaT3dQaVF5M2JkTFhzNk9vYVZQUlQ2NU9mNlBlenZEQzMya3JDT3lrNUN4bXp1MlYyYWNIVDk4NVpWbUFhblBGSnpVZ2otZ05zTklmSlU4NHl3?oc=5",
+    "published": "2026-08-20T03:07:22+00:00",
+    "published_display": "Aug 20, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://blackpressusa.com/gov-newsom-nominates-3-black-women-judges-to-serve-on-state-courts-of-appeal/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "1aa2fdd6105b",
     "title": "Californians are tire-ing of rising costs and regulations",
     "source": "New York Post",
@@ -272,6 +288,22 @@
     "region": "US"
   },
   {
+    "id": "c833fc59f0a4",
+    "title": "California expands its K-12 system with free transitional kindergarten",
+    "source": "FOX40",
+    "source_url": "https://fox40.com",
+    "source_domain": "fox40.com",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBibXA3UVJUenVaNkRKcHF5T3A3anBaUkRFM1Z4WmlOQUF0NmdpZVlYN1B3bFVYeXc4dEFhNjU5dW9HRmFvc3BIZGNhUFI0ZmVyMm9taW5wLWJzVW9QR3fSAWNBVV95cUxONmhVWXpxck9vYTVrdUZkRklWR2VObkJFenZCR2RjU3B3NGRPVEFYOWVoR1BYcUVBR0JSR2JCVDFmbGthZzdQVGhpWFM3clgzTHpfaWpSTzNCZ0RuWm94T1padFU?oc=5",
+    "published": "2026-08-19T18:00:24+00:00",
+    "published_display": "Aug 19, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://fox40.com/news/california-adds-new-grade/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "d29c71f98e0d",
     "title": "Dan Walters: Interested in How California Pays for State Government? Here\u2019s Where to Find the Data",
     "source": "Noozhawk",
@@ -492,6 +524,22 @@
     "image": "https://i0.wp.com/calmatters.org/wp-content/uploads/2026/08/021624_California-Forever_LE_CM_30.jpg?fit=2000%2C1334&ssl=1",
     "real_url": "https://calmatters.org/politics/2026/08/california-forever-shipyard-pressure-campaign/",
     "bias": "?",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
+    "id": "27aef137a527",
+    "title": "California\u2019s billionaire tax proposition holds narrow lead as voters split along partisan lines",
+    "source": "Daily Cal",
+    "source_url": "https://www.dailycal.org",
+    "source_domain": "www.dailycal.org",
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOM3VpQllUY19ORlBEQUVCeWJfR0RaZnhjWVJJQ18yb3hJdHh4Yk9DZ0hxdTdQTzNncUYyVXZ5N2JTM2xQb3dhc2NmVDJSZGpVTnA2NC12ZFRja2JPT2p3Qm9pWW1qNGFFSkJkVDR5YTlQdWtTRUZLRlNIZGRFWDE2VHRyQ3Bab3JqSDNCRGtXZ0FhWnZZWkt5SnJ4NFI3TlBIeDVsRmk2MU5lR1I2TWh0WW9PNTZqQThBemYzRFdiSUpKSzN4blRhVW5hV0tqYV9kSlNMb3cyWVVmQS1BeERQMXR1Z3J5WWhqa2VOMllYZm1ZcFV5MXFGWVVZZ2plTWxyR3M0Q0lVa1BXSC1NSVE?oc=5",
+    "published": "2026-08-19T12:00:00+00:00",
+    "published_display": "Aug 19, 2026",
+    "query": "Newsom California",
+    "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/a/06/a06f3599-e26b-426b-b156-f78247df06bf/6a85179d6cefa.image.jpg?crop=1793%2C941%2C0%2C106&resize=1200%2C630&order=crop%2Cresize",
+    "real_url": "https://www.dailycal.org/news/state/california-s-billionaire-tax-proposition-holds-narrow-lead-as-voters-split-along-partisan-lines/article_45d93648-1c54-4bab-8fd4-6e3a221c6e03.html",
+    "bias": "R",
     "topic": "Economy",
     "region": "US"
   },
