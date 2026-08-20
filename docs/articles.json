@@ -1,5 +1,37 @@
 [
   {
+    "id": "e0d18d14afbd",
+    "title": "New Bill Ending Child Marriage In California Moves Closer to Approval",
+    "source": "SFist",
+    "source_url": "https://sfist.com",
+    "source_domain": "sfist.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSDlzMWo5OEJNbEluNl9Yd00xRjA2UHRnU3hBTUlSd0h0UEVOaVpWT2kzREtjNi1MUHhMLW5hQllCMWpUYm1QWnRsbDB5SkktcWM2aWFVSVY5Q2RMcF83RWV3OGlMbEM2aG1PM0VMQnhWMjE4dUUwTkRFTUNMWDlFV2l6ejA4aDBmdlBrMENsNld6b2cxQlROSkZnZm9qQTkx?oc=5",
+    "published": "2026-08-20T22:16:15+00:00",
+    "published_display": "Aug 20, 2026",
+    "query": "Newsom California",
+    "image": "https://img.sfist.com/2026/08/Assemblymember-Gail-Pellerin.jpg",
+    "real_url": "https://sfist.com/2026/08/20/new-bill-ending-child-marriage-in-california-moves-closer-to-approval/",
+    "bias": "?",
+    "topic": "Domestic",
+    "region": "US"
+  },
+  {
+    "id": "c52e7c3ad0ab",
+    "title": "How much should utilities pay for wildfires?",
+    "source": "KALW",
+    "source_url": "https://www.kalw.org",
+    "source_domain": "www.kalw.org",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaDNfV0hSZ3JseFRxTk05b04tYUxoU0RpcW56dG9JX0dvTmt4MVlBRWJnbDMzX3FJMFA1SFRXTjhmNXZEd0JMZE1qUXhZV2tFX3psd2VSdjZiaUlmaVhfeVhJakVEUl9GYzB4M0hOV00wSWhaMnZ0NWtlWWc5UE9BMUJMU1k1MGwyRzRvMWt0OE54c0U?oc=5",
+    "published": "2026-08-20T22:15:00+00:00",
+    "published_display": "Aug 20, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://npr.brightspotcdn.com/dims4/default/d37b8ba/2147483647/strip/true/crop/799x419+0+23/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2F1e%2Ffbbca98a447db974a58de31cd668%2Fwildfire-bob-dass.jpg",
+    "real_url": "https://www.kalw.org/bay-area-news/2026-08-20/how-much-should-utilities-pay-for-wildfires",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "be8e7ec97f3c",
     "title": "Republicans set to drive a new leader off the lot",
     "source": "Politico",
@@ -109,6 +141,22 @@
     "real_url": "https://www.ms.now/morning-joe/watch/dr-gupta-discusses-new-life-saving-healthcare-initiative-in-california-with-gov-gavin-newsom-2511635011725",
     "bias": "?",
     "topic": "Healthcare",
+    "region": "US"
+  },
+  {
+    "id": "9f4c4e6dc980",
+    "title": "Ossoff says he won&#x27;t run in 2028. Poll shows he could win if he did",
+    "source": "USA Today",
+    "source_url": "https://www.usatoday.com",
+    "source_domain": "www.usatoday.com",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY29LZUZMV2JuMzQ0TFViaG1IWV8yQkpiRXlOS3R5OVZydmgweTBrUV90WTR2bGRaS0tObkRneG5HVlVoUlhncVc2aHFIeFFwdUdrempkUDJaWlg0SVdlX3JZeTFUY3JwME9seEtrQXFEc1RKY1pqNzJkcVdnOHBtcE5BY05va1FfaE1zOWYtNm1ySlVCd3lTc25Va2Y0aG81bHNnZjN4b3l2LVlSRXdEa3FmMnVrckw1TXZJdXZta2JKOVVEZXBDUk9LZE51YUUxc0Fvc3FuQmRVTmM?oc=5",
+    "published": "2026-08-20T18:23:09+00:00",
+    "published_display": "Aug 20, 2026",
+    "query": "Newsom president 2028",
+    "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/20/USAT/91390037007-20260820-t-141503-z-1456778793-mt-1-usatoday-29624958-rtrmadp-3-ussenjonossoffspeaksduringhisrallyforourrepublic.JPG?crop=4255,2394,x0,y191&width=3200&height=1801&format=pjpg&auto=webp",
+    "real_url": "https://www.usatoday.com/story/news/state/georgia/2026/08/20/could-ossoff-win-the-2028-election-if-he-chose-to-run-poll-shows-hope/91383636007/",
+    "bias": "C",
+    "topic": "2028 Race",
     "region": "US"
   },
   {
