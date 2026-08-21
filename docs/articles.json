@@ -48,6 +48,22 @@
     "region": "US"
   },
   {
+    "id": "b49cfd0ffefc",
+    "title": "Governor Newsom signs legislation 8.20.2026",
+    "source": "EIN News",
+    "source_url": "https://www.einnews.com",
+    "source_domain": "www.einnews.com",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEpaTlhrNzBwQmNqZVk4ZG9BUHJVc3ZCZmtWWTJtOU9ZbW5kTXM0Umd5V0taM3ZBOE9kbm1hQTI2TUFqM3VsSUh5R3c3N2x2eHNGMWNsZTg2QTRMelpCWFBHTHZBemtVWU1XeTV1Nl8xZlJYXzdyUng3VEtzZGVtZXVBX3hZbnpiaDlJck13?oc=5",
+    "published": "2026-08-21T02:20:00+00:00",
+    "published_display": "Aug 21, 2026",
+    "query": "Governor Newsom",
+    "image": "",
+    "real_url": "https://www.einnews.com/pr_news/935861529/governor-newsom-signs-legislation-8-20-2026",
+    "bias": "?",
+    "topic": "Domestic",
+    "region": "US"
+  },
+  {
     "id": "4cd9310a2bad",
     "title": "Gavin Newsom is obsessed with President Trump, Republican strategist says",
     "source": "Fox News",
@@ -187,6 +203,22 @@
     "query": "Gavin Newsom",
     "image": "https://krcrtv.com/resources/media2/16x9/5542/1320/0x290/90/4e584148-6d18-41c9-9f6c-f65155ba36a9-GettyImages22859138191.jpg",
     "real_url": "https://krcrtv.com/news/local/trinity-county-selected-for-share-of-113-million-in-state-housing-funds",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "76dfe144a4b9",
+    "title": "Gallagher announces Representation Act in response to CA redistricting",
+    "source": "KRCR",
+    "source_url": "https://krcrtv.com",
+    "source_domain": "krcrtv.com",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcTVqS3g1UVdpd1RFZm1TRHM2ZC04cmlERW1QYnpyaEM1SWNtVWtfLTE3UnI1S0MxbDg3Z3VHQ0xxeFVHY1JWVFV0QXl6aUZ4YTVMMEE0NXIzeXFtQ2N2bWp4Uk9qZXR1dzAxNk56ZjR3alZIR0dmR2EtaG5Jd3k4dG9WeW1zS3NsNkJvWnlJc21fMHA5c2R2QnBTQlNZLVBiYjRuMERJbVF5V2Rt?oc=5",
+    "published": "2026-08-20T23:31:52+00:00",
+    "published_display": "Aug 20, 2026",
+    "query": "Newsom California",
+    "image": "https://krcrtv.com/resources/media2/16x9/814/1320/2x0/90/7576c5db-8e6c-4f1e-a804-9ac9b8ec6463-GALLAGHERREDISTRICT.png",
+    "real_url": "https://krcrtv.com/news/local/gallagher-announces-representation-act-in-response-to-california-redistricting",
     "bias": "?",
     "topic": "General",
     "region": "US"
@@ -859,6 +891,22 @@
     "query": "Gavin Newsom",
     "image": "https://static.politico.com/dims4/default/55a1666/2147483647/resize/1200/quality/100/?url=https://static.politico.com/2f/b1/4f575ba7412da4f153586465823b/190531-paradise-ruins-gty-773.jpg",
     "real_url": "https://www.eenews.net/articles/paradise-california-leader-says-utility-group-duped-him-to-appear-in-wildfire-ad/",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "eee1e5431d6a",
+    "title": "Key takeaways from investigation into Edison\u2019s role in the deadly Eaton fire",
+    "source": "Los Angeles Times",
+    "source_url": "https://www.latimes.com",
+    "source_domain": "www.latimes.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSDByX0xhWmRmN1RDU1BkbTFXVVU0bm1CbWJLbXpoQXdUSjRtRGdza1FoQzJxamVIZFBKdFU4UUxXWXZ2MUdCT2pCMkNsTHNvQWl4Y2JkdTV0VzZ3TUFDNzlHWEJ6SUMxR0pDUzdidElkN3Zta0I2MV9ONHZZSGRINmxuT1FfeVRCMFMzQmtBMVRwY3E0UFltcFNFX0ViNDR4czVyZ3JRVE9IMDB2dXpMTDJQZWE?oc=5",
+    "published": "2026-08-20T10:00:00+00:00",
+    "published_display": "Aug 20, 2026",
+    "query": "Newsom California",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/08e00bc/2147483647/strip/true/crop/5679x2981+0+449/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F48%2F30%2F88d852504ba6a92162b3eb663e93%2F1505313-me-electrical-tower-eaton-fire-15-mjc.jpg",
+    "real_url": "https://www.latimes.com/business/story/2026-08-20/key-takeaways-from-investigation-into-edisons-role-in-eaton-fire",
     "bias": "LL",
     "topic": "General",
     "region": "US"
