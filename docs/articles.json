@@ -1,5 +1,21 @@
 [
   {
+    "id": "0783b71f3231",
+    "title": "Gavin Newsom\u2019s unfinished wildfire business",
+    "source": "Politico",
+    "source_url": "https://www.politico.com",
+    "source_domain": "www.politico.com",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdVRxRm15Ujl3V25mQl9wa3NOQ0U0M2tMcmpOTHlVU01wanZZeEtscGNrM1hmeXdGSHZjN3pGNHNsbjA1Um1BZkY2d0w3VDJ2Vk1QOVhZaXhaQlBNYzZlTHNLREEtYmRrVmJib1J6QXlMQU81YTJ5TERQeVJ1LTZJZzJWTnNxalpUVGtiQTR3RGh4bXBsR2Fz?oc=5",
+    "published": "2026-08-21T12:55:00+00:00",
+    "published_display": "Aug 21, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.politico.com/news/2026/08/21/gavin-newsoms-unfinished-wildfire-business-01045208",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "14a4d83b15c4",
     "title": "California progressive Democrat wins US House seat despite AIPAC\u2019s spending",
     "source": "The Arab Weekly",
@@ -1069,6 +1085,22 @@
     "real_url": "https://www.latimes.com/business/story/2026-08-20/key-takeaways-from-investigation-into-edisons-role-in-eaton-fire",
     "bias": "LL",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "a8e3ff5ad34c",
+    "title": "Rubio outperforms Vance in hypothetical 2028 match-ups: Poll",
+    "source": "The Hill",
+    "source_url": "https://thehill.com",
+    "source_domain": "thehill.com",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaHp1OFg2czJpSC1uY3V4WHNLZnVab3BHMUVyLWNmVVNqd012YXpxWHdHaEN5eWotZUlHMzhXMVhLV0FmU0YzQkMwa0R3RGdPZ2RXbmJJNmFCWXFnMzBhd3F6eGtMaGlLY1FQUm1CR0prZW51VFlZS1VQTlFQaW9Ba9IBhgFBVV95cUxQbFZrWVBmc3B3cklqX0RyOGQ2Q1ozYmNBZmNwT2twTlpwcDFLYVQtYXpfM2J6RTdWZlJwS3YwTW8tZDgxLTZqV1ZENDVLRzlHcW9QOHEyVXdYZTJWdGh6dE1hNGpub0ZseGZncFF2dm92MVVYOW11bHdnR0hDSDd1dHRhSFlCZw?oc=5",
+    "published": "2026-08-20T10:00:00+00:00",
+    "published_display": "Aug 20, 2026",
+    "query": "Newsom president 2028",
+    "image": "",
+    "real_url": "https://thehill.com/homenews/campaign/6039336-rubio-outperforms-vance-poll/",
+    "bias": "C",
+    "topic": "2028 Race",
     "region": "US"
   },
   {
@@ -20061,6 +20093,22 @@
     "real_url": "https://www.pennlive.com/politics/2026/07/2-dems-battle-at-top-of-new-2028-poll-and-shockingly-neither-is-named-harris-or-newsom.html",
     "bias": "?",
     "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "1b82d35767a7",
+    "title": "President Trump lobs insults at political opponents, press during rescheduled White House correspondents&#x27; dinner",
+    "source": "ABC7 New York",
+    "source_url": "https://abc7ny.com",
+    "source_domain": "abc7ny.com",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS2luRnMxTzM2YTRwLV9LdUtyUVNjdjFkQlZuQ2FQalJQQ2RWNVBlbDlXNUpZb2lJWm5GdURHVkFLZnpkdnM2U0dCS21sOWhkZTNqN01CUkpsSnRreVRDVDllVXVmeTJtZHpOdzEtWk1IaW1XNmtkUXNEVW4tSkpDZ3h2djBrZHNreVM2bXIyeGxnZGU3NGpNVWRqSUlUekpwTk4yNXhaUWR6MEhfLXc?oc=5",
+    "published": "2026-07-24T07:00:00+00:00",
+    "published_display": "Jul 24, 2026",
+    "query": "Newsom president 2028",
+    "image": "https://cdn.abcotvs.com/dip/images/19571799_072426-cc-ap-trump-speaking-whcad-img.jpg?w=1600",
+    "real_url": "https://abc7ny.com/post/president-trump-attend-rescheduled-white-house-correspondents-dinner-friday/19567518/",
+    "bias": "?",
+    "topic": "Domestic",
     "region": "US"
   },
   {
