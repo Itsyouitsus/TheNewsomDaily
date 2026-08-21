@@ -80,6 +80,22 @@
     "region": "US"
   },
   {
+    "id": "bdd61d1cafe1",
+    "title": "Democratic California state legislator Wahab wins US House of Representatives seat",
+    "source": "Internazionale",
+    "source_url": "https://www.internazionale.it",
+    "source_domain": "www.internazionale.it",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMFk0RURLc2JtcEMxVnozTURRazVyQ01ORVducENqLWFXV3JUSUdzc216RUpHYlRzcm9xY25teXhOajRUOVdQZy15NzVDU2hjWnRqZWhVdHlxREZseU1kWHBHbGViTndnZmtzNXRiUHBYZVRJdlFsQnhZaXpMcTgtZ0pPaEduZklWR19waHN2bUlxVm5JLU5KX2NPaUZweGY0cldfSkdPZ0JCT0RFMjB6dUw0dWhsdDA0T1dNRnJLeDNibHJFZ3hTM2hQeThoZ3dRWlduc3I5SGRldw?oc=5",
+    "published": "2026-08-21T00:49:36+00:00",
+    "published_display": "Aug 21, 2026",
+    "query": "Newsom Democrat",
+    "image": "https://static.internazionale.it/assets/img/home-summary-img-substitute.png",
+    "real_url": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/21/democratic-california-state-legislator-wahab-wins-us-house-seat-media-projects",
+    "bias": "?",
+    "topic": "Domestic",
+    "region": "Europe"
+  },
+  {
     "id": "8117004d023c",
     "title": "Jesse Watters: The Democratic machine is so weak",
     "source": "Fox News",
@@ -173,6 +189,22 @@
     "real_url": "https://www.facebook.com/nytimes/posts/aisha-wahab-a-democratic-state-senator-in-california-defeated-melissa-hernandez-/1463219005660558/",
     "bias": "?",
     "topic": "Foreign Policy",
+    "region": "US"
+  },
+  {
+    "id": "f24bbebe2915",
+    "title": "Indio Among 13 Communities Sharing $11.3 Million In State Housing Funds",
+    "source": "Patch",
+    "source_url": "https://patch.com",
+    "source_domain": "patch.com",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWZxaHR0MENXZDVtTjJHQnI2ME5JOTNKamgybV9ZeVNMMm1iYncyTjgtWlNjM3o1ekFueXh6TWdFVEk1UnVHaHdUMl9iMDNWWHJjeUo3VXh4MHdUNERMOFhzcVJBZ1BfZ0Q4bUtzdzNPT1RTUlhjNTZRWjR0ZGk1emxGUzlzY2haSy1ZY3pYU29adUhYQkc2SFRZVW5BTVppREJfVUNNUmgzTnPSAcABQVVfeXFMTU1kVWJYeG1ZLThQalI4RENacW1xR2pRTll0UEc2cFFZWVo0NGgxS0hBcEJoY0xobDFzUGtBRjA2UWt2UktnNWYzLUVTM0NwUXc3Y2NDd3F2anZrWF9Ha21udEFNbWZTb0lhSzJuZGt6aWxFRjFDN3h1aC1iTkxvMldwWEpsNURfamN3aHRsal9CaUdBZlpBZXhBTkp0Tkg1anYwaHN2TUY3ZFRLRVk1U3EzNmVHYnFVSnRkelFKdlls?oc=5",
+    "published": "2026-08-20T23:48:53+00:00",
+    "published_display": "Aug 20, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://patch.com/img/cdn20/shutterstock/26363680/20260820/074851/styles/patch_image/public/shutterstock-1458415100___20194656139.jpg",
+    "real_url": "https://patch.com/california/palmdesert/indio-among-13-communities-sharing-11-3-million-state-housing-funds",
+    "bias": "?",
+    "topic": "General",
     "region": "US"
   },
   {
