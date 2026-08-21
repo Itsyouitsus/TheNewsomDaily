@@ -1,5 +1,21 @@
 [
   {
+    "id": "b4649e9e8190",
+    "title": "Dan Walters: Interested in how California pays for state government? Here\u2019s where to find the data",
+    "source": "Daily Democrat",
+    "source_url": "https://www.dailydemocrat.com",
+    "source_domain": "www.dailydemocrat.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQem1iMmlPMzhKOVU4UnRXQ3FGRXpvM3lMc0pqZWZVdUNkQ216ZXY2Zkdhb2thdzhGQXhlY2ZTak9SdHlpaXdiaG1sdDlLeW9lMmxOdXJBZmVJQjdfSGxSc2R5OWJvdk9SVVhaZ28zTGN6NkJsVnBGMV95UmRmUFBDMFQxOVNRaGJobW5FOTNwTjRadm9uMEI2dTI1ekczREoxMjdDLUZva3hkQlZBUW1odEFSXzJmRGtwekZGSms5dk1acFU?oc=5",
+    "published": "2026-08-21T16:54:30+00:00",
+    "published_display": "Aug 21, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://www.dailydemocrat.com/wp-content/uploads/2026/08/AP24163635876581_03b1ab.jpg?w=2000&h=1333",
+    "real_url": "https://www.dailydemocrat.com/2026/08/21/interested-in-how-california-pays-for-state-government-heres-where-to-find-the-data/",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "d4cd7ddaf880",
     "title": "California voters are divided on billionaire tax and voter ID",
     "source": "Yahoo",
@@ -12,6 +28,22 @@
     "image": "https://s.yimg.com/lo/mysterio/api/b4d90c1547b6ed287a8a2e434f9bf8906e430d181f3dfd73c6fa33ae51be75e0/lightyear_networkapi/resizefill_w800_h452%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeseret_news_992%2F486ef1f2f4e327cd11ba4c5b94cc6366.jpg",
     "real_url": "https://www.yahoo.com/news/politics/articles/california-voters-divided-billionaire-tax-160224579.html",
     "bias": "C",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
+    "id": "26a69ea6f7b2",
+    "title": "California voters are divided on voter ID and billionaire tax",
+    "source": "Deseret News",
+    "source_url": "https://www.deseret.com",
+    "source_domain": "www.deseret.com",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMjcyNndnOG1MNFVaMFhZS0kzZEIzeXJHV0pZSXNRdXRmUS1JX09uYTVIZ1BGQ3N1Y0VKSm1Tc0hXZFJjWHp2ZkFBc0hXMlI2LWVYYXhoZnpEanlXbUtYeHQ3b0lBV0IzOWpjdU9sc1FKcTJYdHh5alZLWVR0RDBWVFJfMkFYNG1ZSzE5ajVncWJsX0k?oc=5",
+    "published": "2026-08-21T16:02:24+00:00",
+    "published_display": "Aug 21, 2026",
+    "query": "Newsom California",
+    "image": "https://www.deseret.com/resizer/v2/J45JBUJB6VD2HIKQDHMHN2YJ5U.jpg?focal=0%2C0&auth=e0e9b3566eb01125105d2731f1cb6ac4f44cecc478e5418a1644f1345a88789b&width=630&height=331",
+    "real_url": "https://www.deseret.com/politics/2026/08/21/mark-cuban-wades-into-billionaire-tax-debate/",
+    "bias": "?",
     "topic": "Economy",
     "region": "US"
   },
