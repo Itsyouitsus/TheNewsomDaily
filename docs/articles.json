@@ -1,5 +1,21 @@
 [
   {
+    "id": "46c58bdfd012",
+    "title": "Rubio holds advantage over Vance in matchups against Democratic presidential candidates",
+    "source": "The Jerusalem Post",
+    "source_url": "https://www.jpost.com",
+    "source_domain": "www.jpost.com",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RaWROQ2xwLUhxaTlPZjZMYWlpSGw1NThFUzhBNjJJZFpTVUFpTWNYejEzTEpIY2hUTDBUSzZCU3RuNF80WWpTckVVdnV3TGFmcTlmZ1B0dnRLQkc4TGJYNmw3OWg?oc=5",
+    "published": "2026-08-23T07:49:37+00:00",
+    "published_display": "Aug 23, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/734886",
+    "real_url": "https://www.jpost.com/american-politics/article-906291",
+    "bias": "LR",
+    "topic": "2028 Race",
+    "region": "International"
+  },
+  {
     "id": "802dd7c1f1b3",
     "title": "Schumer, Buttigieg, Newsom and Others Blast Trump\u2019s 50% Canada Tariffs: \u2018Trade Wars Are Bleeding the Amer",
     "source": "Benzinga",
@@ -1548,6 +1564,22 @@
     "image": "https://kubrick.htvapps.com/vidthumb/090d0802-83e7-4536-be18-8358518b702f/03a41f4b-4cb4-4eae-88c2-ccfe9144e1c2.jpg?crop=0.793xw%3A0.792xh%3B0.0977xw%2C0&resize=1200%3A*",
     "real_url": "https://www.kcra.com/article/california-energy-commission-tire-efficiency-rules-newsom/73490194",
     "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "525eb77b8923",
+    "title": "Gov. Newsom reacts to California regulators approval of new replacement tire rules",
+    "source": "Yahoo",
+    "source_url": "https://www.yahoo.com",
+    "source_domain": "www.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV2JITVRUbVRaZDBrSmgyU2hXNnpzUFNNV0dMRDZFM3VpMndrQkltTm42RmFIa3hjRVI0SGF3dWN4LXpnaTYyLVNabmp1VGdYSlJTZFdyUUplN1FVRW8yMThocnpXMW81c3UxZjc4Vk5lci1xOXY1eEZXOWNlQ1A1NjZLVGhkMXMwcUhxbnAxSnJ4Zw?oc=5",
+    "published": "2026-08-21T02:59:00+00:00",
+    "published_display": "Aug 21, 2026",
+    "query": "Newsom California",
+    "image": "https://s.yimg.com/lo/mysterio/api/9db572fa6d5389c0ae0e6b27c904bf38db79dcb0a0df47dedb13165a9043a571/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.kcra.hearstnews.com%2Fc13a4106ef405c87d0897119cdc06d6a.jpg",
+    "real_url": "https://www.yahoo.com/news/videos/gov-newsom-reacts-california-regulators-025912512.html",
+    "bias": "C",
     "topic": "General",
     "region": "US"
   },
