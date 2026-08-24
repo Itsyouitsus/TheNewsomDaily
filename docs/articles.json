@@ -1,5 +1,21 @@
 [
   {
+    "id": "62f142fedc95",
+    "title": "California Cancels Talks With Paramount Over Warner Bros. Merger",
+    "source": "The New York Times",
+    "source_url": "https://www.nytimes.com",
+    "source_domain": "www.nytimes.com",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXZCTm9aanNzY1V4MkxVOHlPWXBxY1VZSU0wMUZpUlJEMGFTUnlJaU9uYkJGX1lVeG9MbGVRczc0WkdycUd1U19POElheWhaZjdBSUFDS2M4NkU1Y0FjakdBVzJaWGJ5VUMtU3Z0WlFnMkRsSkFENk1ZWEtrRW9TX3NzLXRGaS1hSUlPWXg3eEVIb1ZwMVE5cA?oc=5",
+    "published": "2026-08-24T07:16:56+00:00",
+    "published_display": "Aug 24, 2026",
+    "query": "Newsom California",
+    "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24nat-paramount-kpqf/24nat-paramount-kpqf-facebookJumbo.jpg",
+    "real_url": "https://www.nytimes.com/2026/08/24/us/california-bonta-paramount-warner-settlement-talks.html",
+    "bias": "LL",
+    "topic": "Military",
+    "region": "US"
+  },
+  {
     "id": "9c9fcd3e9b35",
     "title": "Twisted killer took my best friend and mentor. Now Gavin Newsom\u2019s parole disgrace may set him free",
     "source": "Yahoo",
@@ -302,6 +318,22 @@
     "bias": "?",
     "topic": "General",
     "region": "Europe"
+  },
+  {
+    "id": "d6997ef89df1",
+    "title": "OpenAI wants California to strengthen its newly passed AI safety law",
+    "source": "Yahoo",
+    "source_url": "https://www.yahoo.com",
+    "source_domain": "www.yahoo.com",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUpaYWFKYm1jUHUtX1ZzRXZzXzV5cWdSSXgwbWtzUUN4dWtiUF8xdXNXTzVwbjBjaFZCdUpmc0JCUlJuV1JoYnR2cTVyVkJGa1ZTZi05Q3JwNHNGVG9kSlF3ZHMwbzdSUWI1cmNJRXNGaGxNMnFRalMxYmxabFVxQkRpaUtXLUlNR0MxMi1md21CbFZMTHQtUUNxd19CME5OeXc?oc=5",
+    "published": "2026-08-23T15:39:16+00:00",
+    "published_display": "Aug 23, 2026",
+    "query": "Newsom California",
+    "image": "https://s.yimg.com/lo/mysterio/api/2990461825b81f9b6d7d806523b7f5f42d35ba25b64e5a3e649c8ec373239fff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmashable_articles_863%2F074750040b46d78288951ed71744c92b.jpg",
+    "real_url": "https://www.yahoo.com/news/politics/articles/openai-wants-california-strengthen-newly-153916488.html",
+    "bias": "C",
+    "topic": "Tech & AI",
+    "region": "US"
   },
   {
     "id": "307024891489",
