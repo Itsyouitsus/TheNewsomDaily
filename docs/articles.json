@@ -170967,6 +170967,22 @@
     "region": "Europe"
   },
   {
+    "id": "ea8bb98d800a",
+    "title": "California\u2019s economy surpasses Japan\u2019s as it becomes fourth largest in world",
+    "source": "The Guardian",
+    "source_url": "https://www.theguardian.com",
+    "source_domain": "www.theguardian.com",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPalpkb0RDVE5rcEtTdG1HckkzUi16VWEtOHY5NXRNaXBESDBpS21IX1pJUnd0RDV1TTRjTEt3RnFtOVNKNnBmQ1drM0d0ZnZNOGkzUm9WRGJyX1UzYWpkenBhYUk4ZGxJVmJQY1RQOFpZR1BhZXk5b2pVMUtzRTNyWkg3d3BvQmhSMVBlNEhn?oc=5",
+    "published": "2025-04-24T07:00:00+00:00",
+    "published_display": "Apr 24, 2025",
+    "query": "Newsom economy",
+    "image": "https://i.guim.co.uk/img/media/938f0112d71adef10ac1e9e9b33960fe42957355/0_92_2774_1665/master/2774.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a849802a84cc479819da60e814d9277b",
+    "real_url": "https://www.theguardian.com/us-news/2025/apr/24/california-economy-japan-gavin-newsom",
+    "bias": "LL",
+    "topic": "Economy",
+    "region": "Europe"
+  },
+  {
     "id": "ef435c9ce850",
     "title": "California is now the 4th largest economy in the world",
     "source": "California State Portal",
@@ -172903,6 +172919,22 @@
     "region": "US"
   },
   {
+    "id": "e38198848d1c",
+    "title": "ICYMI: California Poised to Become World\u2019s 4th Biggest Economy",
+    "source": "California State Portal",
+    "source_url": "https://www.gov.ca.gov",
+    "source_domain": "www.gov.ca.gov",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMjFzcnd0M0M5QW5oLWxJRkFkc1FoRzlIVDQzOWZDR2htU3VNMk5iLXVtaUJ2MXBEV0tINzEzeHQzQmJPT3ZIdHVTMnNZWDI0YTRtTEhXejFNdzFNblJ2QjEzUVZySXg3UEZwZVRQWnd5dmp6SVptclFjVGFOUnhIUFVaVDRVQ0lrbUhSWUNvdExIdkkyUnZEMkdFbw?oc=5",
+    "published": "2022-10-24T07:00:00+00:00",
+    "published_display": "Oct 24, 2022",
+    "query": "Newsom economy",
+    "image": "https://www.gov.ca.gov/wp-content/uploads/2022/10/bloomberg-graph1.png",
+    "real_url": "https://www.gov.ca.gov/2022/10/24/icymi-california-poised-to-become-worlds-4th-biggest-economy/",
+    "bias": "?",
+    "topic": "Economy",
+    "region": "US"
+  },
+  {
     "id": "41848d209b18",
     "title": "Newsom signs bill allowing California IDs for immigrants in the country illegally",
     "source": "Los Angeles Times",
@@ -173268,6 +173300,22 @@
     "real_url": "https://www.gov.ca.gov/2020/09/25/on-native-american-day-governor-newsom-takes-action-to-restore-land-promote-equity-for-california-native-communities/",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "2e61ba7ea30b",
+    "title": "Governor Newsom Unveils Blueprint for a Safer Economy, a Statewide, Stringent and Slow Plan for Living with COVID-19",
+    "source": "Cal OES News (.gov)",
+    "source_url": "https://www.news.caloes.ca.gov",
+    "source_domain": "www.news.caloes.ca.gov",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaDc2eFNXNXc0X202dkc5STB4SDhWMTVuTUpvZmg3ME95WXJleHh2R3RMZ09wRGt2dng0OGhGbkhuM3lrNG9wMG1hVmVxN2NjMkhfa3ktOWFISnNaMlV1Wll6R3hZY1picFJtV21vZm5MQjJoT0lBbDZaN2M2V0tyZmhOWVJiQXFsWnY5RG53R05TZnNFaEZXRFdsUUtCcE5kV0w1Q2VfWVpIYWd5VGdSejhod0JTdE9VZDA2Y3FDZkp2OTV0Z3BsVDBGTzdUVXdoN0hfWmZURTNRN1ZDaGdj?oc=5",
+    "published": "2020-08-28T07:00:00+00:00",
+    "published_display": "Aug 28, 2020",
+    "query": "Newsom economy",
+    "image": "",
+    "real_url": "https://www.news.caloes.ca.gov/governor-newsom-unveils-blueprint-for-a-safer-economy-a-statewide-stringent-and-slow-plan-for-living-with-covid-19/",
+    "bias": "?",
+    "topic": "Economy",
     "region": "US"
   },
   {
