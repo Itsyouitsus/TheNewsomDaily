@@ -1,5 +1,21 @@
 [
   {
+    "id": "7d5e098be777",
+    "title": "&#x27;What the actual f--- are we doing?&#x27; Gavin Newsom slams $20B of tariffs on Canadian goods, calls Canada &#x27;our closest ally&#x27;",
+    "source": "Moneywise.com",
+    "source_url": "https://moneywise.com",
+    "source_domain": "moneywise.com",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX1E3VmlJcUs0QlVyeHA0VmEtVTFKMGJPcnQyb2xCbTZEZ05PaE83RTRLRzdCT2QyNDdYTmZJdFpJZFFMbWFJZDNpTThESFlPNnBQS0NrR3R3UWppS3BxUFNlYm9uU2RzTC1QSENic0UyVWl4eHpvODZjOWZsbmVBdzNBRlB1VktiTWc?oc=5",
+    "published": "2026-08-25T14:44:38+00:00",
+    "published_display": "Aug 25, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://media1.moneywise.com/production/articles/212446/social-media-thumbnail_gettyimages-2288657146_20260825_103916.jpg",
+    "real_url": "https://moneywise.com/news/top-stories/gavin-newsom-canada-tariffs-trump-trade-war",
+    "bias": "?",
+    "topic": "Foreign Policy",
+    "region": "US"
+  },
+  {
     "id": "def6ebd8b56a",
     "title": "Wildfire Survivors to Press Lawmakers at Capitol Tuesday Against Newsom Utility Liability Plan",
     "source": "Pasadena Now",
@@ -1132,6 +1148,22 @@
     "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/AP26195825501603_36239e.jpg?resize=1200,683",
     "real_url": "https://www.washingtonexaminer.com/news/investigations/4697956/california-immigration-services-nick-shirley-ice-riots/",
     "bias": "LR",
+    "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "ef99ddc14951",
+    "title": "Newsom signs &#x27;Stop Nick Shirley Act,&#x27; protecting immigration nonprofits and fueling controversy over investigative journalism",
+    "source": "Voz.us",
+    "source_url": "https://voz.us",
+    "source_domain": "voz.us",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRlRpSEZtTWFycDV6X3piVWE1aTFBbnRBaFgxNTVGVjJpQmozS3lKajl0TEhCM1VJMjlFNVROUUdGT19wVG50M0pua3c3SjdmQ2YtbVctdGY0SHVzYjl6UVNhZ3pRSUVqaXJRd013dklZN3dmSEhYY2llRGZ4RFBFX1J1UThabzZkcUZPajk4NXFyVTlOem5GZXpnd3gySUhTLUJlVjZBNHlFVWxCTW8tUHE2bW5TdjJ2cUlKNmlqWnFiR3h2QzlabDdCWmp3VlFBbllwQTlJWW83bGxBZXlUSnI5Nzh1anFVeUEtc1kyYi1aQzA?oc=5",
+    "published": "2026-08-24T16:40:43+00:00",
+    "published_display": "Aug 24, 2026",
+    "query": "Newsom Democrat",
+    "image": "https://imagenes.voz.us/files/og_thumbnail/uploads/2026/04/15/69df5d785861e.jpeg",
+    "real_url": "https://voz.us/en/politics/260824/38544/newsom-signs-the-stop-nick-shirley-act-protects-immigration-ngos-and-fuels-controversy-over-investigative-journalism.html",
+    "bias": "?",
     "topic": "Immigration",
     "region": "US"
   },
