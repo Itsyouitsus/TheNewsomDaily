@@ -1,5 +1,37 @@
 [
   {
+    "id": "76d858eed815",
+    "title": "Inside the backlash over the Jeffries-Kushner meeting",
+    "source": "Axios",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.axios.com/2026/08/26/jeffries-kushner-meeting-reaction-democrats-left",
+    "published": "2026-08-26T09:00:06+00:00",
+    "published_display": "Aug 26, 2026",
+    "query": "direct_feed",
+    "image": "",
+    "real_url": "https://www.axios.com/2026/08/26/jeffries-kushner-meeting-reaction-democrats-left",
+    "bias": "C",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "ad484b77ecb8",
+    "title": "Two bills by Flora to enhance health services, bump pay for state firefighters go to Newsom",
+    "source": "Manteca Bulletin",
+    "source_url": "https://www.mantecabulletin.com",
+    "source_domain": "www.mantecabulletin.com",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaGNKaFdlc2IxSnJQMzZQS04xeTBDUzdOY3dkQzdTU3VrVWViT21SZkUwYTRyRlhTQ2REX0h1ckFRWEJzS2p0UGx0cDlhNllqMTlhRDJ0dDhSZTJLck5YRk1GZ09yZjc1YlZ6RFpfSWZFazFTM0FJdXQwZFBDRjlUci1Za0JUS2cwXzl4RldacmdsSkdZdEI2UVo4VHhJWFVaWmNhN01FV25KcHg0dlk2cE5nSktyU0kxckQtbHJ5TTlqRzdDdXlJajlXUEVBTTlWZzVOalp3?oc=5",
+    "published": "2026-08-26T08:38:27+00:00",
+    "published_display": "Aug 26, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://centralca.cdn-anvilcms.net/media/images/2026/02/13/images/Flora.Heath__NZGVbxd.max-640x480.png",
+    "real_url": "https://www.mantecabulletin.com/news/local-news/two-bills-by-flora-to-enhance-health-services-bump-pay-for-state-firefighters-go-to-newsom/",
+    "bias": "?",
+    "topic": "Immigration",
+    "region": "US"
+  },
+  {
     "id": "3c55743b092a",
     "title": "With clock ticking, California lawmakers reject key parts of Newsom\u2019s wildfire plan",
     "source": "Lake County News,California",
@@ -13,6 +45,22 @@
     "real_url": "https://www.lakeconews.com/85259-with-clock-ticking-california-lawmakers-reject-key-parts-of-newsoms-wildfire-plan",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "bcecb4f7188a",
+    "title": "California virtual power plant bills clear key legislative hurdle",
+    "source": "Canary Media",
+    "source_url": "https://www.canarymedia.com",
+    "source_domain": "www.canarymedia.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOEVJSWRZVHFtMm8tYk9vTVZLYnRDVlF5NUlTc3R6MDFrcEZqN2xhTG5xNlRJRm5aNXA5OWNmTjF1cGMtcVRHbTNfeEJpV1F1NjlyV0hWRi1vR1FuRTcxOVkxdUhFRjAxNktKS0hOcXJ3dVZrT285R3UwcGF0dzF1VkFpQUZqcThrVk0zMi1nRHFEX0hHUl9Hb0tENkNXU2RqTXFXT0FCLUNCQ0NQc2VTOGRzbzJhcDNlLWtjcVlUTW0?oc=5",
+    "published": "2026-08-26T07:30:00+00:00",
+    "published_display": "Aug 26, 2026",
+    "query": "Newsom California",
+    "image": "https://img.canarymedia.com/content/uploads/San-Ramon-SunPower-development_GettyImages-81191174.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=f3f79aaa517412514b004e7ca3fa7f83",
+    "real_url": "https://www.canarymedia.com/articles/virtual-power-plants/california-virtual-power-plant-bills-clear-key-legislative-hurdle",
+    "bias": "?",
+    "topic": "Domestic",
     "region": "US"
   },
   {
