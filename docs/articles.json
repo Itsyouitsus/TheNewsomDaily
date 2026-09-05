@@ -16,6 +16,22 @@
     "region": "US"
   },
   {
+    "id": "b90ca39088ea",
+    "title": "RAW: NC: GOV. NEWSOM VISITS NC FOR DEMOCRATIC RALLY",
+    "source": "Local 3 News",
+    "source_url": "https://www.local3news.com",
+    "source_domain": "www.local3news.com",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORloyd1lTUV9qbUowb0UyeE9jYXVXaUVpS1VndXFsWXIwbC1CZGF2VzM5UjQ1OFlLMFpDZ0VYSUYzcGt1Q2JfN3Z1VDVJZ2N1MlNsa2w3bXYtZDdIdTJULWk2R2RPSEUxd04yaUNFQTBScGpWTmlPV2dKczNxYm1nSncxT01aVjBoVkdZbUhKN01semlXemJWRUJQZF8zbTEtQy0tR1ZkYmlzMzJDQWVXdDJXckFxQ3RaWnB1R2wzZUZfTmdIdkpQbm1WTDE2ZzJfdU9YQ2dxbFE?oc=5",
+    "published": "2026-09-05T20:02:40+00:00",
+    "published_display": "Sep 05, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://bloximages.newyork1.vip.townnews.com/local3news.com/content/tncms/assets/v3/editorial/c/45/c45e492f-8231-53ea-9391-aefb43d113b6/6a9c768a04342.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+    "real_url": "https://www.local3news.com/regional-national/raw-nc-gov-newsom-visits-nc-for-democratic-rally/video_c45e492f-8231-53ea-9391-aefb43d113b6.html",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "c7d88fb69b16",
     "title": "California undocumented students may soon qualify for college campus jobs",
     "source": "Spectrum News",
@@ -814,6 +830,22 @@
     "bias": "C",
     "topic": "General",
     "region": "International"
+  },
+  {
+    "id": "a83ba94f6cf2",
+    "title": "California Governor Gavin Newson (D) Holds Meet and Greet in Lexington, SC",
+    "source": "C-SPAN",
+    "source_url": "https://www.c-span.org",
+    "source_domain": "www.c-span.org",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcXFvcGZJZ29ZRjRFU2xxNDNhemxpTjh6NXhKZHY3UndROVNHZ05iR1RPOWdnbU5CbHJlY1cwSTBXT1l4dWRtMVdNeldfOWlxalh3U0piMVpaaXhjc2JwMzByWnRMSUNnRk5xeFhKSm5mdWRKSEpPbUZyNjB5MlFrZGpmVG1JR0dYSFRGdWhjQUJmQjhObDJTSjdXSEJ5cXBGUmE1Y0NKdVE0dXExN0QxM3RmYTVWOU53clVjTjV3NTE?oc=5",
+    "published": "2026-09-04T16:55:02+00:00",
+    "published_display": "Sep 04, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://ximage.c-spanvideo.org/eyJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJoZWlnaHQiOjYzMCwid2lkdGgiOjEyMDB9fSwiYnVja2V0IjoicGljdHVyZXMuYy1zcGFudmlkZW8ub3JnIiwia2V5IjoiRmlsZXMvYzdjLzAwMS8xNzg4NTQxMDIyXzAwMS5qcGcifQ==",
+    "real_url": "https://www.c-span.org/program/campaign-2028/california-governor-gavin-newson-d-holds-meet-and-greet-in-lexington-sc/684838",
+    "bias": "C",
+    "topic": "General",
+    "region": "US"
   },
   {
     "id": "a9735fe57eb1",
