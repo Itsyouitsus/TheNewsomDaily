@@ -64,6 +64,22 @@
     "region": "US"
   },
   {
+    "id": "63221d349090",
+    "title": "Newsom\u2019s defamation lawsuit against  Fox News is set for March 2028 trial",
+    "source": "Politics",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.washingtonpost.com/politics/2026/09/09/newsoms-defamation-lawsuit-against-fox-news-is-set-march-2028-trial/",
+    "published": "2026-09-09T18:00:00+00:00",
+    "published_display": "Sep 09, 2026",
+    "query": "direct_feed",
+    "image": "",
+    "real_url": "https://www.washingtonpost.com/politics/2026/09/09/newsoms-defamation-lawsuit-against-fox-news-is-set-march-2028-trial/",
+    "bias": "C",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "05169ee0fa82",
     "title": "Newsom urged to sign bills targeting industrial operators after Boyle Heights fire",
     "source": "KTLA",
@@ -92,6 +108,22 @@
     "image": "https://obrag.org/wp-content/uploads/2026/09/gavin-newsom3.jpg",
     "real_url": "https://obrag.org/2026/09/donna-frye-public-gets-kicked-in-the-gut-part-2/comment-page-1/",
     "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "150414b0d745",
+    "title": "Politico, WaPo Push Trump-Harp Rumors, Ignore Newsom&#x27;s Blonde Strategist and Her $213K Bonus",
+    "source": "RedState",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://redstate.com/jenvanlaar/2026/09/09/politico-trump-harp-ignore-newsom-213k-bonus-n2206689",
+    "published": "2026-09-09T16:00:01-04:00",
+    "published_display": "Sep 09, 2026",
+    "query": "direct_feed",
+    "image": "https://media.townhall.com/cdn/hodl/2026/252/3adee872-be76-41e7-a888-3f0e57f73191-1200x630.jpg",
+    "real_url": "https://redstate.com/jenvanlaar/2026/09/09/politico-trump-harp-ignore-newsom-213k-bonus-n2206689",
+    "bias": "R",
     "topic": "General",
     "region": "US"
   },
