@@ -1,5 +1,21 @@
 [
   {
+    "id": "7b1983c74b0e",
+    "title": "Will Gavin Newsom Restore California Farmworker Wages?",
+    "source": "LA Progressive",
+    "source_url": "https://www.laprogressive.com",
+    "source_domain": "www.laprogressive.com",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX0NUU1JrZVd3c0NqRTF6MnZ0akF6dHV6YnhwNmRHOWlrdnFFc2txQWVSN29iZm5NVTg0Y1NkRXR5bktRTG9peHpZdC16ZmtaeXBzOTlyUTBYbVplb0dDQ1FwcFprOE1henRxR1o0bG5yZnp4OWpnT0lJOGlBdVBBZ3VkNHZpczVFMDc3TEQzTQ?oc=5",
+    "published": "2026-09-13T02:16:50+00:00",
+    "published_display": "Sep 13, 2026",
+    "query": "Gavin Newsom",
+    "image": "",
+    "real_url": "https://www.laprogressive.com/labor-social-justice/restore-california-farmworker-wages",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "f96e11b078d3",
     "title": "Nine bills authored by Assemblymember Gregg Hart pass through chambers, heading to the Governor&#x27;s desk",
     "source": "Santa Barbara News-Press",
@@ -13,6 +29,22 @@
     "real_url": "https://www.newspress.com/2026/09/12/nine-bills-authored-by-assemblymember-gregg-hart-pass-through-chambers-heading-to-the-governors-desk/",
     "bias": "?",
     "topic": "Domestic",
+    "region": "US"
+  },
+  {
+    "id": "f27b56c62635",
+    "title": "\u2018Oh My!\u2019 LA Mayor Karen Bass Demurs When Asked If She\u2019ll Endorse Gavin Newsom For President\u2026 Months After He Backed Her Campaign",
+    "source": "Mediaite",
+    "source_url": "https://www.mediaite.com",
+    "source_domain": "www.mediaite.com",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ3pzYWMtYmV6VGU0eW1vdFliMmNxS2dlOGJoZUpQTFplUjBGTWNSd21BREk2ZVRrQnJtejVwU0g1M0d4b29YRDdwYWFRVWJNeThBd0FGZFdPcE9oeDBPa19zeS1GdWU5TnVjMkVNVnZWSWVMRGl2ZXdtWGNLOVBobnk2TjNmRHFJRm1zZ0h6OFpTT05HYk51cjlEbmJBem1VT3pNNDMtSm5RcUJmTk9fb0JuUF8wanVZcXhTdU5veUJ6SUhkckFBYmxhNnYzWnJod0o5UEhRc2xWbGF2QXduejE1WXllM1REYm53UmNvQU1MUQ?oc=5",
+    "published": "2026-09-12T23:11:00+00:00",
+    "published_display": "Sep 12, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://www.mediaite.com/wp-content/uploads/2026/09/bass.jpeg",
+    "real_url": "https://www.mediaite.com/media/news/oh-my-la-mayor-karen-bass-demurs-when-asked-if-shell-endorse-gavin-newsom-for-president-months-after-he-backed-her-campaign/",
+    "bias": "?",
+    "topic": "2028 Race",
     "region": "US"
   },
   {
@@ -96,6 +128,22 @@
     "region": "US"
   },
   {
+    "id": "1b6e483c7003",
+    "title": "\u2018Badge of honor\u2019: How a DOJ probe could help Newsom\u2019s 2028 prospects",
+    "source": "The San Francisco Standard",
+    "source_url": "https://sfstandard.com",
+    "source_domain": "sfstandard.com",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORFpuWV8tWVpHUjU2NmZOd0MwWXVwOHZtZzJMblc1RFA3MUQ4Y096Uy1vWTItdVB2WkE2VEZBVEY2Z0RvMHFDM01ZY3RNbW04QTJOelJtSF9tM2d2ZHlHMmpfVWhEOHVtbEVFRjJyMGU5WmF1VTZwUEFZWTlHRHloZEtPX1h3RDZROU9ucW4zUGd5QndwSmZnd0RBYXYtakZPTEg5WHV3?oc=5",
+    "published": "2026-09-12T19:30:28+00:00",
+    "published_display": "Sep 12, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://assets.sfstandard.com/image/994911177489/image_mirhfjrjs508pfin9r3bmb3k0n/-C100.00%25x67.73%25%2C0.00%25%2C3.81%25-S1200x630-FPNG",
+    "real_url": "https://sfstandard.com/2026/09/12/2028-gavin-newsom-donald-trump-investigation-federal-probe-president/",
+    "bias": "?",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
     "id": "d3dc7bd37104",
     "title": "Newsom signs California bill targeting addictive social media features for kids",
     "source": "Yahoo",
@@ -157,6 +205,22 @@
     "real_url": "https://abcnews.com/US/video/gov-newsom-signs-landmark-online-child-safety-laws-136391678",
     "bias": "LL",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "caaf3aa7e71e",
+    "title": "California social media and chatbot laws get major updates",
+    "source": "State Affairs Pro",
+    "source_url": "https://pro.stateaffairs.com",
+    "source_domain": "pro.stateaffairs.com",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWW9hZHVuVFl5aVNzc1o5VU52S0RaWExIRDVJdF96SU9leVZ4NGF4WFRHMzhQVXRLeWVWOTl0V2pJam9NSVA4MWF1QWducV9CVEtUeGdSSFczWVM0NTBJd25aNEp5T1lFLXhIVFczTjZhRW5vNEMzU2E0QnFNNW1XMXlxSHlYVWVyV1UwYUl4N1dXYXctUkJV?oc=5",
+    "published": "2026-09-12T16:54:35+00:00",
+    "published_display": "Sep 12, 2026",
+    "query": "Newsom California",
+    "image": "https://cms.stateaffairs.com/wp-content/uploads/2026/07/iPhone-laptop-keyboard-Credit-Kyle-Jaeger.png?w=1340",
+    "real_url": "https://pro.stateaffairs.com/ca/brief/week-in-review-newsom-signs-social-media-chatbot-bills",
+    "bias": "?",
+    "topic": "Tech & AI",
     "region": "US"
   },
   {
