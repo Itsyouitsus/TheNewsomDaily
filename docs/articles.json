@@ -1,5 +1,37 @@
 [
   {
+    "id": "1da88c98a7c1",
+    "title": "Gavin Newsom dismissed as obvious 2028 Democrat frontrunner",
+    "source": "News24.com.au",
+    "source_url": "https://www.news24.com.au",
+    "source_domain": "www.news24.com.au",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPd09pNk05aFRTMV9pUW1CRXpaWlpuanl5QjQxdk5lNmx4R3pnVW1YckswNWphSzJYS0xLNC1LcldyWllQcVhkRFhfX1B1WWRqOEJJOGFDbVVjd3VjVl9ZQVpCNk56X0VRb0pTT0VxRnVZeEcyRnhGcjhOTVZCWklZODBmTGdIaVVhYV9ZcEdBOUxtcW1SR0RfYnlnTUdFY0t5VEpCVmpUR1ppSTdERHN0cW1BY1pGQWtOb3g1SXV6TFhCNUNVRUhxc2x0clhfZXpPR0ZmdUZUTExPSWly0gHiAUFVX3lxTE1ROGJrR2FIWE11dHpsc0doSUx1bWI1dHBoUFJheWVSRUVCdkpZdF9UaEQ4cXJ2X0VYRGNPZ19JRk1xbUlzYXZiUm0xTXpBeGgxY0RSMFdSOTNvWEVxeGZIdUlsZ2JBZDVyNzloMHdodFRuQmFKS05Ocm9aVXctWmd5d2NrRHlqbm9qNGI1WUwwVmZHcTBIdXlVVzc2Unk3dVR2V2d6azVvVVRwZkYwRzU4YzYwQnRjOEZtc05IZmtfUzZ6dUhzR0w0ajJJREVGTWx0dFZUMVhjQkpfM0FqU21FZnc?oc=5",
+    "published": "2026-09-13T23:53:29+00:00",
+    "published_display": "Sep 13, 2026",
+    "query": "Newsom Democrat",
+    "image": "",
+    "real_url": "https://www.news24.com.au/world/united-states/gavin-newsom-dismissed-as-obvious-2028-democrat-frontrunner/video/181689e5cedc79ef5d7e208ee5a00392",
+    "bias": "?",
+    "topic": "2028 Race",
+    "region": "Asia"
+  },
+  {
+    "id": "f5dd82a704cf",
+    "title": "Newsom brushes aside escalating federal probe into travel expenses as Trump retribution",
+    "source": "Los Angeles Times",
+    "source_url": "https://www.latimes.com",
+    "source_domain": "www.latimes.com",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd3h5WXU1UkxseUJ0WXdMaDV5Q1MydlhFQnpncnhtdDk1bk9TX2lnUDJqYW9RdWtHZmVyNlhUZnFfUWgzckJRZ0hNTGV1b0VsRDMzb0xpZzJMQ2JaZVQyaVdEVW9DQUR5bUJMd2JzRlVhMzkyN3NCS2tpSGQyVmpwQlV5VnFWY3Zjbk8yb1R0RFZvTmVQWjliVVpSSXNVN25VS2s0OEUzcHctTW4wX3ExZDZPLTlqdkdvSnVhQw?oc=5",
+    "published": "2026-09-13T22:22:00+00:00",
+    "published_display": "Sep 13, 2026",
+    "query": "Gavin Newsom",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/a8a0478/2147483647/strip/true/crop/7925x4161+0+561/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fcf%2F3c%2F844930584ef1958e8178c762c7a5%2Fchina-us-newsom-98056.jpg",
+    "real_url": "https://www.latimes.com/california/story/2026-09-13/newsom-brushes-aside-escalating-doj-probe-into-travel-as-retribution",
+    "bias": "LL",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "94b03da76ac7",
     "title": "The states up next for kids\u2019 chatbots bills",
     "source": "Punchbowl News",
@@ -45,6 +77,22 @@
     "real_url": "https://www.kron4.com/news/technology-ai/california-sen-scott-weiner-weighs-in-on-fears-surrounding-ai-race/",
     "bias": "?",
     "topic": "Tech & AI",
+    "region": "US"
+  },
+  {
+    "id": "8c961e4da77b",
+    "title": "Report: DOJ Criminal Probe of Gavin Newsom Looking at Benefactors Who Pay for His Travel",
+    "source": "Breitbart News",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.breitbart.com/politics/2026/09/13/report-doj-criminal-probe-of-gavin-newsom-looking-at-benefactors-who-pay-for-his-travel/",
+    "published": "2026-09-13T17:53:30+00:00",
+    "published_display": "Sep 13, 2026",
+    "query": "direct_feed",
+    "image": "https://media.breitbart.com/media/2026/09/AP26248754695969-640x335.jpg",
+    "real_url": "https://www.breitbart.com/politics/2026/09/13/report-doj-criminal-probe-of-gavin-newsom-looking-at-benefactors-who-pay-for-his-travel/",
+    "bias": "R",
+    "topic": "Domestic",
     "region": "US"
   },
   {
@@ -109,6 +157,22 @@
     "real_url": "https://www.kcra.com/article/assemblyman-rick-zbur-explains-possible-data-center-regulations-he-helped-write-ca-politics-360/73694729",
     "bias": "?",
     "topic": "General",
+    "region": "US"
+  },
+  {
+    "id": "d398a4811703",
+    "title": "On the 25th Anniversary of 9/11, California Governor Gavin Newsom Welcomed 39 Newly Graduated CAL FIRE Company Officers",
+    "source": "Sierra Sun Times",
+    "source_url": "https://goldrushcam.com",
+    "source_domain": "goldrushcam.com",
+    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPRllpeGZUUnBjMm9pYTA0dlgxbEVvMXVFekZXa1lhSjB5emdxdTgwS05waExfdEVFcmJpVUVoS0pRN21uWGRZalI0N0U5SG5rOFliV0JwMmktY1RYOW45dnRRRmpnRGVqQ2p3RHVmRXZvcGdHdlliU3BGQ29oNmVpSW8zd1ZjZXo4RzNJbUl3Zm0xUVBHaUZOT2FQc0M4Y01GMEp0NEptQVFNQkZEX1k3RkRKMEZLWVVpS2tjZkF1SDlsSFh0VkZELXRtcjB2QWhyMWQ3QUN2NGdSYU5ta1pCTktpYjJibWJjblBJSGFkYkdNYUpWamZMaEdJZWpUWGxrcXhOVzR1bVlaU05yR1kydDNESC1JTlZo?oc=5",
+    "published": "2026-09-13T12:05:01+00:00",
+    "published_display": "Sep 13, 2026",
+    "query": "Newsom California",
+    "image": "",
+    "real_url": "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/81595-on-the-25th-anniversary-of-9-11-california-governor-gavin-newsom-welcomed-39-newly-graduated-cal-fire-company-officers",
+    "bias": "LL",
+    "topic": "Immigration",
     "region": "US"
   },
   {
